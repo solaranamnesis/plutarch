@@ -69,83 +69,27 @@
 σπίλων καὶ μελασμῶν ἀναπιμπλάντας, ὁμοῦ μὲν Ἄρτε-
 μιν καὶ Ἀθηνὰν ἀνακαλοῦντας, ὁμοῦ δὲ σύμμιγμα καὶ
 
-que atum erit de refractione. Si tamen eam admittimus,
-queremus, cur in ſola una maris imago fciei ſpecie appa-
-reat, νt in ſpeculo, in nullο aliο aſtνο. Atuu ratιο hοc exi-
-geat, νt viſus ſic vel ab omnibus, el a nullο, affceretur.
-ad Lucium reſiciens dicebam : e-
-Sed
-nniſcere eorum, quae primο ſunt a nοhis dicta lυcο. Et
-1ucius: Verum, inquit, ne nimis videamur contumeliofi in
-Pharnacem, Stυicorum opinionem, nulla adhihita retutatio-
-e, praetereuntes, die aliquid aduerſus eum, qui νniuerſi
-aéris et mollis ignis mixturam ponit eſſe Lunam : deinde,
-veluti in tranquillitate obοrto hort0 horrοre, dicit, aere nigredine
-perſuſο, ſieri viſum formae ſimileκ Probe, in-
-quam egο, Luci, honeſis verbis res abſurdas velas. Non
-autem ſic ſocius noſter, ſed, quοd verum eſt, dixit, ſuggil-
-lare illοs Luna, quam naeuis et nigris maculis opplent,
-modo Dianam et Mineruam appellantes, modo mixturam et
-confu-
-27. Prο ἐφ ᾽ ῶν (νt vide- letiο pertineat) dant εiπον
-tur : non enim accurate indi- Turu. et Vulc.
-catur, ad qua vocem haec 28. παντὸς Ald. et Baſ.
-29 σύμμεγα Ald. et Baf.
-Ss 4
-30. δυ-
+φύραμα ποιοῦντας ἀέρος ζοφεροῦ καὶ πυρὸς ἀνθρακώδους,
+ουκ ἔχουσαν ἔξαψιν, οὐδ ᾽ αὐγὴν οἰκείαν, ἀλλὰ δυσκρινές
+τι σῶμα τυφόμενον ἀεὶ καὶ πυρίκαυστον · ὥσπερ τῶν κε-
+ραυνῶν τοὺς ἀλαμπεῖς καὶ ψολόεντας ὑπὸ τῶν ποιητῶν
+προσαγορευομένους. ὅτι μέντοι πῦρ ἀνθρακῶδες, οἷον οὗ-
+τοι τὸ τῆς σελήνης ποιοῦιν, οὐκ ἔχει διαμονὴν, οὐδὲ σύ-
+στασιν, ὅλως, ἐὰν μὴ στερεᾶς ὕλης καὶ στεγούσης ἅμα καὶ
+τρεφούσης ἐπιλάβηται, βέλτιον οἶμαι συνορᾷν ἐνίων φι-
+λοσόφων τοὺς ἐν παιδιᾶ λέγοντας, τὸν Ἥφαιστον εἰρῆσθαι
+χωλὸν, ὅτι τὸ πῦρ ξύλων χωρὶς, ὥσπερ οἱ χωλοὶ βακ-
+τηρίας, οὐ πρόεισιν. εἰ οὖν ἡ σελήνη πῦρ ἐστι, πόθεν αὐ-
+τῇ τοσοῦτος ἐγγέγονεν ἀήρ · ὁ γὰρ ἄνω καὶ κύκλῳ φερό-
+μενος οὑτοσὶ τόπος, οὐκ ἀέρος, ἀλλὰ κρείττονος οὐσίας,
+καὶ πάντα λεπτύνειν καὶ συνεξάπτειν φύσιν ἐχούσης ἐστίν.
+εἰ δὲ γέγονε, πῶς οὐκ οἴχεται μεταβάλλων εἰς ἕτερον εἶ-
+δος, ὑπὸ τοῦ πυρὸς ἐξαιθερωθεὶς, ἀλλὰ σώζεται, καὶ
+συνοικεῖ πυρὶ τοσοῦτον χρόνον, ὥσπερ ἧλος ἀραρὼς τοῖς
+αὐτοῖς ἀεὶ μέρεσι καὶ συγγεγομφωμένος. ἀραιῷ μὲν
+γὰρ ὄντι καὶ συγκεχυμένῳ μὴ μένειν, ἀλλὰ σφάλλεσθαι,
+προσήκει. συμπεπηγέναι δ ᾽ οὐ δυνατὸν ἀναμεμιγμένον
 
-
-### 0011
-
-PLVTARCHI
-648
-922. 2.
-φύραμα ποιῦντας ἀέρος ζοφερῦ καὶ πυρὸς ἀνθρακώδες,
-8κ ἔχεσαν ἔξαψν, ἐδ ᾽ αὐγην οῖκείαν, ἀλλὰ δυσκρνές
-τι σῶμα τυφόμενον ἄεὶ καὶ πυρίκαυτον · ῶσπερ τῶν κε-
-ραυνῶν τὰς ἀλαμπεῖς καὶ ψολόεντας ὑπὸ τῶν ποιητῶν
-προσαγορευομένςς. ὅτι μέντοι πὐρ ἀνθρακῶδες, οον ε-
-τοι τὸ τῆς σελήνης ποισιν, ὐκ ἔχει διαμονὴν, ἐδὲ σύ-
-σασιν, ὁλως, ἐὰν μὴ σερεας υλης καὶ τεγόσης ἄμα καὶ
-τρεφέσης ἐπιλάβηται, βέλτιον οἶμαι συνορὰν ἐνίων φι-
-λοσόφων τὰς ἐν παιδιὰ λέγοντας, τὸν Hφαιςτον είρῆσθαι
-χωλὸν, ὅτι τὸ πῦρ Fύλων χςὶς, ῶσπερ οὶ χωλοὶ βακ-
-τηρίας, ὐ πρόεισιν. εὶ ἐν ἡ σελήνη πῦρ ἐσι, πόθεν αὐ-
-τῆ τοσξτος ἐγγέγονεν ἀήρ; ὁ γαρ ἄνω καὶ κύκλῳ φερό-
-μενος ἐτοσὶ τόπος, ἀκ ἄέρος, ἀλλὰ κρείττονος ἀσίας,
-καὶ πάντα λεπτύνειν καὶ συνεξάπτειν φύσιν ἐχάσης ἐσίν.
-εὶ δὲ γέγονε, πῶς ἀκ ἄχεται μεταβάλλων ες ἔτερον ε-
-δος, ὑπὸ τῦ πυρὰς ἐξαιθερωθεὶς, ἀλὰ σώζεται, καὶ
-συνοικεῖ πυρὶ τοσῦτον χρόνον, ὡσπερ ἡλος ἀραρως τοῖς
-αὐτοῖς ἀεὶ μέρεσι και συγγεγομφωμένος. ἀραιῷ μὲν
-γὰρ ὄντι καὶ συγκεχυμένω μ μένειν, ἀλλὰ σφάλλεσθα.
-προσήκει. συμπεπηγέναι δ ἀ δυνατὸν ἀναμεμιγμένον
-confuſionem aeris caliginoſi et ignis (vt ſic dicam) carbonoſi:
-et quae non ex ſeſe accendatur, propriamue haheat lucem,
-ſed obſcurum quoddam ſit corpus, ſemper fumigans et igne
-vſtum : qualia ſunt fulmina, quae ſplendoris expertia er fuli-
-ginoſa potae dicunt. Iam quod ignis carbonarius, quale
-illi adſcribunt Lunae, neque conſtare, neque perdurare νllo
-mοdο poſſit, niſi materiam ſolidam, ipſumque ſuſtinentem
-ſimul et nutrientem corripiat : arhitror, rectius, quam a non-
-nullis eſt factum philoſophis, eοs animaduertiſſe, qui iocan-
-tes, Mulciberum dicunt claudum ideo cognominatum fuiſſe,
-quod ignis ſine ligno non magis progreditur, quam claudus
-fine ſcipione. Pοrrο ſi Luna ignis eſt, vnde ei tantum aeris
-fuhiit ? Nam fupremus quidem hie, et in orbem aſſiduo agi-
-tatus motu locus, non aéris eſt, ſed praeſtantioris alicuius na-
-turae, quae omnia tenuia redigere et accendere νi ſua ſoleat.
-Aut ſi natus ibi aὲr eſt, quomodο non mutatur ab igne in
-aetherem, priſtina exutus forma, ſed tanto tempare cum igni
-manet ineolumis, claui inſtar eodem in lοcο infiii? Cum
-enim rarus ſit, et confuſus, non permanſio ei, ſed mutatiο,
-congruit. Neque verο concretus dici aër iſte poteſt, igni ad-
-mixtus,
-
-
-### 0012
-
-922.21. DEFACIE INORBELVNAE. 649
 πυρὶ, καὶ μήτε ὑγρῦ μετέχοντα, μήτε γῆς, οἶς μόνοις
 ἀηρ συμπήγνυσθαι πέφυκεν. ἡ δὲ ρύμη.καὶ τὸν ἐν λίθοις
 ἀέρα, και τὸν ἐν ψυχρῶ μολίβδω, συνεκκάει μήτι γε
