@@ -25,111 +25,26 @@
 
 οὐδὲ γὰρ τὴν σκιὰν αὐτῆς ὑπερβάλλει πολλάκις ἐπὶ μικρὸν αἰρομένη, τῷ παμμέγεθες εἶναι τὸ φωτίζον · ἀλλ ᾽ οὕτως ἔοικεν ἐν χρῷ καὶ σχεδὸν ἐν ἀγκάλαις τῆς γῆς περιπολεῖν, ὥστ ᾽ ἀντιφράττεσθαι πρὸς τὸν ἥλιον ὑπ ᾽ αὐτῆς, μὴ ὑπεραίρουσα τὸν σκιερὸν καὶ χθόνιον καὶ νυκτερινὸν τοῦτον τόπον, ὃς γῆς κλῆρός ἐστι. διὸ λεκτέον οἶμαι θαῤῥοῦντας, ἐν τοῖς τῆς γῆς ὅροις εἶναι σελήνην ὑπὸ τῶν ἄκρων αὐτῆς ἐπιπροσθουμένην. σκόπει δὲ τοὺς ἄλλους ἀφεὶς ἀπλανεῖς καὶ πλανήτας, ἃ δείκνυσιν Ἀρίσταρχος ἐν τῷ περὶ μεγεθῶν καὶ ἀποστημάτων, ὅτιτὸτοῦ ἡλίου ἀπόστημα τοῦ ἀποστήματος τῆς σελήνης, ὃ ἀφέστηκεν ἡμῶν πλέον
 
-μὲν, ἡ ὀκτωκαιδεκαπλάσιον, ἔλαττον δε, η εἰκοσαπλά-
-σιον, ἐτί. καίτοι ὁ τὴν σελήνην ἐπιμήκιτον αίρων, ἀπέ-
-χει (φησὶ t) ημῶν ὲξκαὶ πεντηκονταπλάσιον τῆς ἐκ τυ
-κέντρς τῆς γῆς. αὕτη δ ᾽ ἐςὶ τεσσάρων μυριάδων. καὶ
-κατὰ τὐς μέσως ἀναμετρῦντας, καὶ ἀπὸ ταύτης συλλο-
-γιᾀομένυς, ἀπέχει ὁ ήλιος τῆς σελήνης πλέον, ἡ τετρα-
-c
-κισχιλίας τριάκοντα μυριάδας. ὐτως ἀπώκιται τσ η-
-λίε διὰ βάρος, αὶ τοσῦτο τῇ γῆ προσκεχώρηκεν. ωσ-
-τε, ἐἰ τότε τόποις τὰς ἀσίας διαιρετέον, ἡ γῆς μορα
-καὶ ΰρα θ προσκαλεῖται σελήνην, καὶ τος περὶγῆν πράγ-
-μασι καὶ σώμασιν ἐπίδικός ἐστι κατ ἀγχισείαν καὶ γειτ-
-νίασιν. καὶ ἀθὲν (οἶμα) πλημμελῦμεν, ὁτι τοῖς ἄνω
-προσαγορευομένοις βάθος τοσῦτον καὶ διάστημα διδόντες
-ἀπολείπωμέν τινα καὶ τῷ κάτω περιὸρομὴν καὶπλάτος,
-οσον ἐςὶν ἀπὸ γῆς ἐπὶ σελήνην. ἔτε γὰρ ὁ τὴν ἄκραν ἐπι-
-φάνειαν τῦ ἀρανῦ μόνην ἄνω, τλλα δὲ κάτω προσαγο-
-ρεύων ἄπαντα, μέτριές ἐσιν · ὄτε ὁ τῇ γῆ, μᾶλον δὲ
-ὸ τῶ κέντρω τὸ κάτω περι γράφων ἀνεκτὸς, ἀλλὰ και
-a nohis ea aheſt, maiorem eſſe rationem οtodecupla, minο-
-rem vigecupla : et tamen, qui Lunae minimam altitudinem
-tribuunt, eam faciunt tantam, vt Lunae a nohis diſtantia ter-
-rae ſemidiametrum quinquagies ſexies contineat. Eſt autem
-linea a centrο ad ſuperficiem terrae X1 millium, ſi eοs ſequi-
-mur, qui medium tenuerunt in adſignandis menſuris. Vn-
-de ratiocinari licet, Solem a Luna amplius, quam quadragies
-millena ſtadia, et trecenta millia abeſſe ſtadiorum. Tam lon-
-ge eſt a Sole renota Luna oh grauitatem, et tam prope ad
-terram collocata. Quare ſi lυcis diuidendae ſunt naturae,
-profecto terrae portio et regio Lunam ſibi vindicat, hancque
-ea ſihi et res terrenae iure cognationis et vicinitatis petunt
-propriam. Neque vero arbitror, nos peccare quiequam, ſi
-iis, quae ſuperiora vocantur, corporihus tantum interuallum
-tribuentes, inſerioribus quoque ſpatium aliquod ſuae conuer-
-ſionis concedimus, quod eſt a terra ad Lunam vſque. Nam
-et is modum egreditur, qui ſolam coeli ſuperficiem extremam
-ſupra, reliqua omnin infra eſſe dicit : neque tolerari poteſt,
-qui terra, atque adeο centro eius, inferiorem locum circum-
-ſcribit.
-54. ἀπέχειν φηαὶν Turn. 56. χώρα iidem.
-55. eι ποτε Turn. et Vulc. 57. μετρῳ Ald. et Baſ.
-58. τῖ-
-Tt 2
+μὲν, ἢ ὀκτωκαιδεκαπλάσιον, ἔλαττον δὲ, ἢ εἰκοσαπλά-
+σιον, ἐστί. καίτοι ὁ τὴν σελήνην ἐπιμήκιστον αἴρων, ἀπέ-
+χει (φησὶ*) ἡμῶν ἓξ καὶ πεντηκονταπλάσιον τῆς ἐκ τοῦ
+κέντρου τῆς γῆς. αὕτη δ ᾽ ἐστὶ τεσσάρων μυριάδων. καὶ
+κατὰ τοὺς μέσως ἀναμετροῦντας, καὶ ἀπὸ ταύτης συλλο-
+γιζομένους, ἀπέχει ὁ ἥλιος τῆς σελήνης πλέον, ἢ τετρα-
+κισχιλίας τριάκοντα μυριάδας. οὕτως ἀπώκισται τοῦ ἡ-
+λίου διὰ βάρος, καὶ τοσοῦτο τῇ γῇ προσκεχώρηκεν. ὥσ-
+τε, εἰ τότε* τόποις τὰς οὐσίας διαιρετέον, ἡ γῆς μοῖρα
+καὶ ὥρα* προσκαλεῖται σελήνην, καὶ τοῖς περὶ γῆν πράγ-
+μασι καὶ σώμασιν ἐπίδικός ἐστι κατ ᾽ ἀγχιστείαν καὶ γειτ -
+νίασιν. καὶ οὐθὲν (οἶμαι) πλημμελοῦμεν, ὅτι τοῖς ἄνω
+προσαγορευομένοις βάθος τοσοῦτον καὶ διάστημα διδόντες
+ἀπολείπωμέν τινα καὶ τῷ κάτω περιδρομὴν καὶ πλάτος,
+ὅσον ἐστὶν ἀπὸ γῆς ἐπὶ σελήνην. οὔτε γὰρ ὁ τὴν ἄκραν ἐπι-
+φάνειαν τοῦ οὐρανοῦ μόνην ἄνω, τἄλλα δὲ κάτω προσαγο-
+ρεύων ἅπαντα, μέτριός ἐστιν · οὔτε ὁ τῇ γῇ, μᾶλλον δὲ
+ὁ τῷ κέντρῳ* τὸ κάτω περι γράφων ἀνεκτὸς, ἀλλὰ καὶ
 
-
-### 0023
-
-PLVTARCI
-658
-κάτ χύρας ἀφέστηκεν, ἄτρον δὲ φήσομεν, ἐρῶντες
-σμεν της ἄνω περιφορῦς μυριάσι ταδίων τοσαύταις
-περ σεν τια καταδεδικυιαν. τν μέν γ ἄτρω
-τωινω τοσᾶτό ἐτιν, στον ἀκ ἄν τις εἶποι μέτρον,
-ἐπι. πυσιν ὴμᾶς τοὐς μαθιματικοὐς ἐκλογιομέν
-ἀρικςί. τῆς δὲ γῆς τρόπον τιιὰ ψαύει και περι
-μέν πλησίον, ἀρματος ἄσπερ ἴχος, ἀνελίσσετα
-σὶν μπεδεκλῆς, ἡ τε περὶ ἄκραν 3.
-ἀδὲ γὰρ τὴν σκιὰν αὐτής ὑπερβάλλει πολάη
-μικι αίρομένη, τῶ παμμέγεθες εἶναι τὸ φωτίζον·
-ύτο εοικεν ἐν χρῦ καὶ σχεδὰν ἐν ἀγκάλαις τῆς γη
-ριτειν, ώστ αντιφράττεσθα πρὸς τὰν λιον ὑπ
-τη. μὴ ὑπεραίρεσα τὸν σκιερὸν καὶ χθενιον καὶ νυ
-νεντυτον τοπον, ὁς γῆς κλῆρός ἐτι. διὸ λεκτέςν
-θεν ίεῖς τῆς γης οροις εἴναι σελήνηνὑπο τωνι
-αυς ἐπιπροσθυμένην. σκόπει δὲ τὐς ἄλλυς ἀφε
-πλιιεῖς καὶ πλανήτας, ὰ δείκνυσιν λρίταρχος
-πι μεγεθῶν καὶ αποτημάταν, ὁτιτὸτῦ ὴλιυ ἀπ
-τάποτήματος τῆς σελήνης, ὁ ἀφέτηκεν ῆμῶν
-ſt.ab inſeriori regione : et dicere, ſtellam eam eſe, cι
-ſt. orum millihus a ſuperiore coelo depreſa, et quaii i
-d quendam demerſa ſit ? ? lantο quidem inſerior atr
-vt enſura interualli non poſlit exprimi, et vοs mathen
-in a ratiocinanda nuneri deficiant, terra quoda ni
-tirit, ac pone eam circumuecla, veluti orbitam currus
-dτ replicat: vt ait Empedοcles:
-Οuae cirιιιι ſuιιαηι
-N enim mbram eius ſuperat ſaepenumerο, paulatim
-gεs οb Solis illuminantis magnitudinem : ſed ita vidett
-xi e, et fere in vlnis terrae circumagi, vt terra lumen L
-oruat, quandο non attollit ſeſe ſupra vmbroſam han
-rerem et nocturnam regionem, quae eſt terrae ſ
-ſa Itaque arbitrοr, nobis audacter dicendu
-mis eſſe Lunam, ideoque ab huius ·
-οri. Conſidera pοrrο, omiſſis ·
-qe demonſtrat Ariſtarchus librο
-teallis. Solis ſcilicet a Luna dif
-9
-3. παρ ᾽ ἄκραν Turn.
-
-
-### 0024
-
-59
-reu
-u
-arhb-ν nos peccare quicquam i
-
-
-### 0025
-
-PLVTARCHI
-66ο
-925. 42.
-ταύτη διάτημα τὸ δέον ἐπιχω-
-κινητικο
+κινητικο ταύτη διάτημα τὸ δέον ἐπιχω-
 ρῦντος τῦ κόσμς διὰ μέγεθος. πρὸς δὲ τὸναξιῦντα, πν
 εύθὐς ἄνω καὶ μετέωρον εἶνα το ἀπὸ τῆς γῆς, ἔτερος αν-
 τηχεῖ πάλιν, εὐθὐς εἶναι κάτω τῆς απλανῦςπε-
