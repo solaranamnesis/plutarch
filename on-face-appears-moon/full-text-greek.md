@@ -84,107 +84,44 @@
 ἐν οὐρανῷ τοῖς γεώδεσι τὰς κινήσεις ὑπάρχειν, ἀτρέμα,
 μὴ τραγικῶς, ἀλλὰ πρᾴως, σκοπῶμεν, ὅτι τοῦτο τὴν σε-
 
-λήνην ὐ δείκνυσι γην μη θσαν, ἀλλὰ γην, ὅπυ μὴ πέφυ-
-κεν, εσαν. ἐπεὶ καὶ τὸ πῦρ τὸ ἰτναῖον ὑπὸ γῆν παρα
-φύσιν ἐτὶν, ἀλὰ πῦρ ἐτι καὶ τὸ πνεῖμα τοῖς ἀσκος
-περιληφθἐν, ἔτι μὲν ἀνωφερὲς φύσει καὶ κῦφον, ήκειδὲ,
-e)
-οπς μὴ πέφυκεν, ὑπ ἀνάγκης. αύτὴ δὲ ἡ ψυχὴ πρὸς
-Λιὸς (εἶπεν) ὐ παρὰ φύσιν τῷ σώματι συνεῖρκτα βρα-
-ρ
-οε ταχεῖα, καὶ ψυχρῶ πυρώδης, σπερ ὑμεῖς φατὲ,
-6
-καὶ ἀορατος αὶσθητῷ. διὰ τῦτο ἑν σώματι ψυχὴν μὴ
-λέγομεν εἶναι μηδὲν, ἀ é χρῆμα θεον ὑπὸ βρίθες, η
-πχες, ἀρανόν τε πάντα καὶ γῆν καὶ θάλασσαν ἐν ταυ-
-τῶ περιπολῦντα, καὶ διίτάμενον είς σάρκας κειν καὶ νευ-
-ρα καὶ μυελὐς, καὶ παθέων μυρίων μετὰ ὑγρότητος. ο
-δὲ Zεὐς ἡμιν ὁτος, ἐ τῆ μὲν αὐτῦ φύσει χρώμενος ἔνε-
-ςι μέγα πῦρ καὶ συνεχἐς, νυνὶ δὲ ὑφεῖται καὶ κέκαμ-
-πται, καὶ διεσχημάτιται, πὰν χρῆμα γεγονὰς καὶ
-γιόμενος ἐν ταῖς μεταβολαἶς ; ὡστε ὄρα καὶ σκόπει,
-δαιμόνιε, μὴ μεθιτὰς καὶ ἀπάγων ἔκασον, ὁπο πέφυκεν
-εἶναι, διάλυσίν τινα κόσμυ φιλοσοφΰς, καὶ τὸ νεῖκος ἐπά-
-demonſtrari, Lunam non eſſe terram, ſed terram alienο a ſua
-natura lοcο ſitam : quandoquidem ignis etiam Aetnaeus contra
-naturam infra terram eſt, iguis tamen eſt : et vtribus conten-
-tus aër natura leuis eſt, ſurſumque eſfertur, neceſſario tamen
-eο cogitur, quo vltrο non ferretur. Ipſa autem, dii boni,
-anima an non contra ſuam naturam ineluſa tenetur corpori
-tardο et frigidο, ignea ipſa, vοbis auctoribus, et ſenſu nullο
-videnda. Neque tamen idcirco dicimus, animam corpore a-
-oleri, aut eſſe nihil, non rem diuinam, ob corporis grauita-
-tem et molem : ſed quae, toto cοelο, omni terra marique
-peruagatis, in carnes, oſſa medullaſque ſubeat, et cum hu-
-more infinitis perpeſſionibus fiat obnoxia. Iam ille veſter
-Iupiter nonne ſua natura ineſt magnus et continuus ignis,
-et tamen nunc ſe demiſit atque inflexit, omniumque colorum
-formam accipit in ſe per omnigenas mutationes. Proinde i-
-de tu, homo belle, ne, transferens et abducens vnumquod-
-que eο, vbi natura illi locum videtur adſignaſſe, quandam
-diſſolutionem mundi commenteris, et Litem Empedocleam
-rebus
-6ο. Prο μηδὲν, ἐ dant μη- 61. Prο ἔνεςι cοdex Turn.
-δενὶ, nο vοcab. Turn. et dat ἐν ἐςι, duobus vοcabulis.
-62. χρῶμα Ald. et Baſ.
-Vulc.
-63. ποι-
 
+λήνην οὐ δείκνυσι γῆν μὴ οὖσαν, ἀλλὰ γῆν, ὅπου μὴ πέφυ-
+κεν, οὖσαν. ἐπεὶ καὶ τὸ πῦρ τὸ Λἰτναῖον ὑπὸ γῆν παρὰ
+φύσιν ἐστὶν, ἀλλὰ πῦρ ἐστι · καὶ τὸ πνεῦμα τοῖς ἀσκοῖς
+περιληφθὲν, ἔστι μὲν ἀνωφερὲς φύσει καὶ κοῦφον, ἥκειδὲ,
+ὅπου μὴ πέφυκεν, ὑπ ᾽ ἀνάγκης. αὐτὴ δὲ ἡ ψυχὴ πρὸς
+Διὸς (εἶπεν) οὐ παρὰ φύσιν τῷ σώματι συνεῖρκται βρα-
+δεῖ ταχεῖα, καὶ ψυχρῷ πυρώδης, ὥσπερ ὑμεῖς φατὲ,
+καὶ ἀόρατος αἰσθητῷ. διὰ τοῦτο οὖν σώματι ψυχὴν μὴ
+λέγομεν εἶναι μηδὲν, οὐ* χρῆμα θεῖον ὑπὸ βρίθους, ἢ
+πάχους, οὐρανόν τε πάντα καὶ γῆν καὶ θάλασσαν ἐν ταυ-
+τῷ περιπολοῦντα, καὶ διϊστάμενον εἰς σάρκας ἥκειν καὶ νεῦ-
+ρα καὶ μυελοὺς, καὶ παθέων μυρίων μετὰ ὑγρότητος. ὁ
+δὲ Ζεὺς ἡμῖν οὗτος, οὐ τῇ μὲν αὐτοῦ φύσει χρώμενος ἔνε-
+στι* μέγα πῦρ καὶ συνεχὲς, νυνὶ δὲ ὑφεῖται καὶ κέκαμ-
+πται, καὶ διεσχημάτισται, πᾶν χρῆμα* γεγονὼς καὶ
+γινόμενος ἐν ταῖς μεταβολαῖς · ὥστε ὅρα καὶ σκόπει,
+δαιμόνιε, μὴ μεθιστὰς καὶ ἀπάγων ἕκαστον, ὅπου πέφυκεν
+εἶναι, διάλυσίν τινα κόσμου φιλοσοφῇς, καὶ τὸ νεῖκος ἐπά-
 
-### 0028
+γῃς τὸ Ἐμπεδοκλέους τοῖς πράγμασι · μᾶλλον δὲ τοὺς πα-
+λαιοὺς κινῇς τιτᾶνας ἐπὶ τὴν φύσιν, καὶ γίγαντας καὶ τὴν
+μυθικὴν ἐκείνην καὶ φοβερὰν ἀκοσμίαν καὶ πλημμέλειαν
+ἐπιδεῖν πονῇς,* χωρὶς τὸ βαρὺ πᾶν, καὶ χωρὶς*
+τὸ κοῦφον,
+Ἔνθ ᾽ οὔτ ᾽ ἠελίοιο δεδίττεται ἀγλαὸν εἶδος,
+Οὐ δέμεν οὐδ ᾽ αἴης λάσιον γένος, οὐδὲ θάλασσα,
+ὥς φησιν Ἐμπεδοκλῆς, οὐ γῆ θερμότητος μετεῖχεν, οὐχ
+ὕδωρ πνεύματος, οὐκ ἄνω τὶ τῶν βαρέων, οὐ κάτω τὶτῶν
+κούφων, ἀλλ ᾽ ἄκρατοι καὶ ἄστοργοι καὶ μονάδες αἱ τῶν ὅ-
+λων ἀρχαὶ, μὴ προσιέμεναι σύγκρισιν ἑτέρου πρὸς ἕτερον,
+μηδὲ κοινωνίαν, ἀλλὰ φεύγουσαι καὶ ἀποστρεφόμεναι, καὶ
+φερόμεναι φορὰς ἰδίας καὶ αὐθάδεις, οὕτως εἶχον, ὡς ἔ-
+χει πᾶν, οὗ θεὲς ἄπεστι κατὰ Πλάτωνα, τουτέστιν, ὡς ἔ-
+χει τὰ σώματα, νοῦ καὶ ψυχῆς ἀπολιπούσης · ἄχρις οὗ
+τὸ ἱμερτὸν ἧκεν ἐπὶ τὴν φύσιν ἐκ* προνοίας, φιλότητος
+ἐγγενομένης, καὶ Ἀφροδίτης, καὶ Ἔρωτος, ὡς Ἐμπεδο-
 
-926. 40. DE PACIEIN ORBELVNAE. 663
-γης τὸ μπεδοκλέες τοῖς πράγμασι μλον δὲ τὰς πα-
-λαιeς κινῇς τιτᾶνας ἐπὶ τὴν φύσιν, καχίγαντας καὶ τὴν
-μιθικὴν ἐκενην καὶ φοὀδεράν ἀκοσμίαν καὶ πλημμέλειαν
-ἐπιεῖν πονῇς θ, χωρὶς τὸ βαρὐ πᾶν, κὶ χωρὶς *
-τὸ κῦφον,
-νS ἔτ ᾽ ἡελίοιο δεδίττεται αγλαὸν εἶδος,
-Oὐ δέμεν ἐδ ᾽ αίς λάσιον γένος, ἀδὶ θάλασσα,
-ώς φησιν μπεδοκλς, ὐ γῆ θερμότητος μετεχεν, ἀ
-0γ
-ὑδωρ πνεύματος, ἀκ ἄνω τὶ τῶν βαρέων, ἐ κάτω τὶτῶν
-κύφων, ἀλλ ἄκρατοι καὶ ἄτοργοι καὶ μονάδες αὶ των ο-
-λων ἀρχὶ, μὴ προσιέμεναι σύγκρισιν ἐτέρυ πρὸς ἐτερον,
-μηδὲ κοινωνίαν, ἀλλὰ φεύγυσαι καὶ ἀποτρεφομεναι, κὶ
-φερόμειαι φορας ἰδίας καὶ αὐθάδσις, τως εἶχον, ὡς ἔ-
-χει παν, e θεες ἀπετι κατὰ Πλάτωνα, τυτέςιν, ὐς ε-
-ει τὰ σώματα, νῦ καὶ ψυχῆς ἀπολιπύσης ἄχρις σ
-το ἶμερτὸν κεν ἐπὶ τὴν φύσιν ἐκ L5 προνοίας, φιλότητος
-ἐγγενομένης, αὶ φροδίτης, κα ρωτος, ὡς Eμπεδο-
-rebus immittas : aut potius priſcos illos excites contra naturam
-itanes et Gigantes, fabuloſamque illam et terribilem confu-
-lionem atque errores introducas, ſeorſim omne graue, omne
-leue pυnens.
-Nοι fοlis pecies ς rοſ rmetur,
-Nοn eτιις iίιιιι χκι, auι ſἰſι mνiς υηd :
-non terra caloris erat particeps, non aqua ſpiritus : nihil gra-
-vium ſurſum, leuium deorſum mouehitur. Sed mixtionem
-lngintes, et a omni coniunctione abhorrentes res, ſolitariae-
-ue eae, quae principia rerum cenſentur, non admittentes
-llam contemperationem altera alterius, omnem communica-
-rinem auerſantes, ſuiſque peculiarihus et contumacibus con-
-tentue motibus, eο modo lubebant, quo Vniuerſum, a quο
-Dcus abeſt, νt Platο dixit : hoc eſt, ſicut ſe habent corpora,
-animis deſtituta et mente ; donec deſiderabilis facultas Proui-
-dentiae venit in naturam, amicitiamque iis, Venerem et a-
-morem
-63. ποινῆς Turn.
-iteratum ſit, quοd accuratius
-64. Ex eοdem Turn. affer- indicari dehebat.
-tur πᾶν τὸ κξφον, vnde in-
-certum eſt, abſintne haec duο 65. ἐκ abeſt a Bal. ex Ald
-vοcab. κ χρὶς, a hοc cο- autem citatur vox corrupta,
-dice. an verυ πἄν poſt illa ἀπρονοιας.
-66. με-
-t 4
-
-
-### 0029
-
-664
-PLVTARCHI
-927. 1.
 κλῆς λέγει, καὶ Παρμενίδης, καὶ Ησίοδος, ἱνα καὶ τό-
 πες ἀμείψαντα, καὶ δυνάμεις ἀπ ἀλλήλων μεταλα-
 βόντα, καὶ τὰ μὸν κινήσεως, τὰ δὲ μονῆς ἀνάγκαις ἐνδε-
