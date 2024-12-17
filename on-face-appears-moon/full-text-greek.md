@@ -162,100 +162,44 @@
 ἐπὶ γῆν ἀφίησι κατὰ γραμμὴν ὑπὸ τὴν κεκλιμένην ὑπο-
 ταθείσης.* σκευωρεῖσθαι δὲ ἅμα λέγοντι* διά-
 
-γραμμα καὶ ταῦτα πρὸς πολλοὐς οὐκ ἐνῆν. τὸ δ ᾽ ὅλον
-(ἔφη) θαυμάζω. πῶς τὴν διχότομον ἐφ ἡμᾶς κισιν,
-ἐμπίπτυσαν μετὰ τῆς ἀμφικύρτου καὶ τῆς μηνοειδοῦς.
-εί γὰρ αὶθέριον ὄγκον, ἡ πύρινον ὄντα, τὸν τῆς σελήνης
-ἐφώτιζεν ὁ ἡλιος, ύκ ἄν ἀπέλιπεν αὐτῆ σκιερὸν ἀεὶ καὶ
-ἀλαμπὲς ἡμισφαίριον πρὸς αίσθησιν, ἀλλ εί καὶ κατὰ
-μικρὸν ἔψαυε, περιών λην ἀναπίμπλασθαι, καὶ δι
-ὅλης τρέφεσθαι τῷ φωτὶ πανταχόσε χωρῦντι δι ᾽ εύ-
-πετείας ἡν προσῆκον. ὅπου γὰρ οἶνος, ὑδατος θίγων
-κατὰ πέρας, καὶ ταγών αίματος εἰς ὑγρον ἐμπεσόντος,
-ἀνέχρωσε πᾶν αἶμα
-φοινιχθέν· αὐτὸν δὲ τὸν ἀέρα λέγυσιν, ὐκ ἀπορροίαις
-τισὶν, ὐ ᾽ ἀκτῖσιμεμιγμέναις, ἀλλὰ τροπῆ καὶ μεταβο-
-λῇ κατάνυξν ἀπὸ τῦ φωτὸς ἐξαλλοιῦσθα, πῶς ἄτρον
-ἄςρς καὶ φῶς φωτὸς ἀάμενον οἴονται μὴ κερόννυσθαι,
-μηδὲ σύγχυσιν ποιεῖν δ ᾽ ὅλυ καὶ μεταβολὴν, ἀλλ ᾽ ἐκεῖ-
-να φωτίειν μόνον, ων ᾀπτεται κατὰ τὴν ἐπιφάνειαν ·
-que apud multοs, non licebat. Omninο autem, dicebat,
-miror, cur contra nos allegent dimidiatum orbem Lunae,
-cum eius eadem ſit cum vtrinque gibboſa et cum falcata ratiο.
-Nam ſi aetheream molem, aut igneam Lunae (ſiquidem talis
-eſſet) Sοl illuminaret, nunquam prοfecto relinqueret ſemper
-apparens ſenſui vmbroſum et luminis expers hemiſphaerium
-eius. Sed ſi vel paululum attigiſſet ſuperficiem, impleri eam
-lumine, totamque mutari νſquequaque ο agilitatem pro-
-deunte conueniebat. Si enim vinum aquae extremitatem at-
-tingens, aut gutta ſanguinis in humorem incidens, totum in-
-ficit, aut rubore tingit : ipſum verο aerem aiunt non deflu-
-xionibus quibuſdam radiisue permixtis, ſed totum itu luminis
-mutari et alterari : quonam pactο ſtella ſtellam, et lux lucem
-i attingat, arbitrantur, nullam confuſionem, nullamilper
-tota mixtionem feri, aut mutationem, ſed ea duntaxat a Sοle
-illuſtrari, quorum attingit ſuperficiem. Quippe is circulus,
-quem
-1. Prο περιὼν dant περὶ tur ἀμα τι, (ſe: ſine dubiο
-ὡν Ald. et Baſ.
-voluerunt αiμυατι) vel ἀμα.
-2. τρέπεσθαι Turn.
-4. κατὰ νύξιν, duοbus vο-
-3. Ex Turn. et Vulc. cita- cab. dant Turn. et Vulcοb.
-Vν 3
-5. ἐκεi-
+γραμμα καὶ ταῦτα πρὸς πολλοὺς οὐκ ἐνῆν. τὸ δ ᾽ ὅλον
+(ἔφη) θαυμάζω, πῶς τὴν διχότομον ἐφ ᾽ ἡμᾶς κινοῦσιν,
+ἐμπίπτουσαν μετὰ τῆς ἀμφικύρτου καὶ τῆς μηνοειδοῦς.
+εἰ γὰρ αἰθέριον ὄγκον, ἢ πύρινον ὄντα, τὸν τῆς σελήνης
+ἐφώτιζεν ὁ ἥλιος, οὐκ ἂν ἀπέλιπεν αὐτῇ σκιερὸν ἀεὶ καὶ
+ἀλαμπὲς ἡμισφαίριον πρὸς αἴσθησιν, ἀλλ ᾽ εἰ καὶ κατὰ
+μικρὸν ἔψαυε, περιὼν* ὅλην ἀναπίμπλασθαι, καὶ δι ᾽
+ὅλης τρέφεσθαι* τῷ φωτὶ πανταχόσε χωροῦντι δι ᾽ εὐ-
+πετείας ἦν προσῆκον. ὅπου γὰρ οἶνος, ὕδατος θίγων
+κατὰ πέρας, καὶ σταγὼν αἵματος εἰς ὑγρὸν ἐμπεσόντος,
+ἀνέχρωσε πᾶν αἷμα*
+φοινιχθέν · αὐτὸν δὲ τὸν ἀέρα λέγουσιν, οὐκ ἀποῤῥοίαις
+τισὶν, οὐδ ᾽ ἀκτῖσι μεμιγμέναις, ἀλλὰ τροπῇ καὶ μεταβο-
+λῇ κατάνυξιν* ἀπὸ τοῦ φωτὸς ἐξαλλοιοῦσθαι, πῶς ἄστρον
+ἄστρου καὶ φῶς φωτὸς ἁψάμενον οἴονται μὴ κεράννυσθαι,
+μηδὲ σύγχυσιν ποιεῖν δι ᾽ ὅλου καὶ μεταβολὴν, ἀλλ ᾽ ἐκεῖ-
+να φωτίζειν μόνον, ὧν ἅπτεται κατὰ τὴν ἐπιφάνειαν ·
 
-
-### 0045
-
-678
-PLVTARCII
-931. 2.
-δν γὰρ ο ηλιος περιῖών κύκλον ἄγει καὶ περιτρέφει πρὸς
-τὴν σελήνην, νὑν μἐν ἐμπίπτοντα τῳ δορί(οντι το
-ὁρατὸν αὐτῆς καὶ τὸ ἀόρατον, νῦν δ ᾽ ἀνιτάμενον πρὸς
-ὀρθὰς, ὡσε τέμνειν ἐκῖια ὑπ ᾽ ἐκείνης τε5 τὸ τέμνεσθαι
-ἄλλαις κλίσεσι καὶ σχέσεσι τῦ λαμπρῦ πρὸς τὸ σκιερὸν,
-ἀμφικύρτυς καὶ μηνοειοεις ὑποδιδόντα μορφὰς ἐν αὐτὴ,
-παντὸς μᾶλλον ἐπιδεικνύυσιν ὐ σύγκρασιν, ἀλλ ᾽ ἐπαφην,
-ὐδὲ σύλλαμψιν, ἀλλὰ περίλαμψιν αὐτῆς ὄντα τὸν φω-
-τισμόν. ἐπεὶ δ ᾽ ὐκ αὐτὴ φωτίεται μόνον, ἀλλὰ καὶ
-οεῦρο τῆς αὐγῆς ἀναπέμπει τὸ εδωλον, ἔτι καὶ μᾶλλον
-ἴσχυρίσασθαι τῶ λόγῳ περὶ τῆς ἀσίας δίδωσιν. αὶ γὰρ
-ἀνακλάσεις γίνονται πρὸς ἀδὲν ἀραιὸν, ἀδὲ λεπτομερές
-ἀδέ ἐςι φῶς ἀπὸ φωτὸς, ἡ πῦρ ἀπὸ πυρὸς ἀφαλλόμε-
-νον, ἡ νοῆσαι ράδιον, ἀλλὰ δεῖ τὸ ποιῆσον ἀντιτυπίαν
-τνὰ καὶ κλάσιν ἐμβριθἐς cναι καὶ πυκνὸν, ἱνα πρὸς
-αὐτὸ πληγὴ καὶ ἀπ ᾽ αὐτῦ φορὰ γένηται. τὸν γῦν αύ-
-τὸν ἡλιον ὁ μὲν ἀὴρ διίησιν, ἐ παρέχων ἀνακοπὰς, ἀδ
-ἀντερείδων, ἀπὸ δὲ ξύλων καὶ λίθων καὶ ἱματίων εἀς
+ὃν γὰρ ὁ ἥλιος περιϊὼν κύκλον ἄγει καὶ περιστρέφει πρὸς
+τὴν σελήνην, νῦν μὲν ἐμπίπτοντα τῷ διορίζοντι τὸ
+ὁρατὸν αὐτῆς καὶ τὸ ἀόρατον, νῦν δ ᾽ ἀνιστάμενον πρὸς
+ὀρθὰς, ὥστε τέμνειν ἐκεῖνα ὑπ ᾽ ἐκείνης τε* τὸ τέμνεσθαι
+ἄλλαις κλίσεσι καὶ σχέσεσι τοῦ λαμπροῦ πρὸς τὸ σκιερὸν,
+ἀμφικύρτους καὶ μηνοειδεῖς ὑποδιδόντα μορφὰς ἐν αὐτῇ,
+παντὸς μᾶλλον ἐπιδεικνύουσιν οὐ σύγκρασιν, ἀλλ ᾽ ἐπαφὴν,
+οὐδὲ σύλλαμψιν, ἀλλὰ περίλαμψιν αὐτῆς ὄντα τὸν φω-
+τισμόν. ἐπεὶ δ ᾽ οὐκ αὐτὴ φωτίζεται μόνον, ἀλλὰ καὶ
+δεῦρο τῆς αὐγῆς ἀναπέμπει τὸ εἴδωλον, ἔτι καὶ μᾶλλον
+ἰσχυρίσασθαι τῷ λόγῳ περὶ τῆς οὐσίας δίδωσιν. αἱ γὰρ
+ἀνακλάσεις γίνονται πρὸς οὐδὲν ἀραιὸν, οὐδὲ λεπτομερές ·
+οὐδέ ἐστι φῶς ἀπὸ φωτὸς, ἢ πῦρ ἀπὸ πυρὸς ἀφαλλόμε-
+νον, ἢ νοῆσαι ῥᾴδιον, ἀλλὰ δεῖ τὸ ποιῆσον ἀντιτυπίαν
+τινὰ καὶ κλάσιν ἐμβριθὲς εἶναι καὶ πυκνὸν, ἵνα πρὸς
+αὐτὸ πληγὴ καὶ ἀπ ᾽ αὐτοῦ φορὰ γένηται. τὸν γοῦν αὐ-
+τὸν ἥλιον ὁ μὲν ἀὴρ διΐησιν, οὐ παρέχων ἀνακοπὰς, οὐδ ᾽
+ἀντερείδων, ἀπὸ δὲ ξύλων καὶ λίθων καὶ ἱματίων εἰς
 φῶς τιθεμένων πολλὰς ἀντιλάμψεις καὶ περιλάμψεις
-quem ſuo circuitu Sol in Luna deſcribit, qui modο incidat in
-Iineam, qua Lunae viſbilis pars ah inuiſbili diſtinguitur, a-
-lias ad rectοs inſiſtat angulοs, et diuidat mediam, mοx aliis
-atque aliis inclinationibus proportiones varias ſplendidae par-
-tis ad vmbroſam efficiat, Lunaeque formas νtrinque curuas,
-aut falcatas, exhibeat : planiſſime omnium demonſtrat, eam,
-quae dicitur, Lunae illuminationem, non contemperationen,
-ſed contactum, neque luminis confluxum, ſed circumfuſionem,
-eſſe. Quando autem non illuminatur tantum ipſa, ſed hue et-
-am luminis ſimulacrum mittit : fit etiam, acrius vt contenda-
-mus de ratione, quae de eius ſuhſtantia fuit allata. Reflexiο-
-nes enim fiunt non ad vllam rem raram et tenuibus partihus
-conſtantem : neque facile imagineris ignem ab igne renlien-
-tem, aut lumen a lumine. Sed oportet ſolidum idenſumque
-eſſe id, a quo recelli et reflecti aliud debeat : vt in id ictus
-incumbat, indeque referatur. Ipfum adeο Solem aér tranſ-
-mittit, non impediens, aut relidens radios eius : a lignis, la-
-pidibus et veſtibus in Sole poſitis multae reſplendentiae et cir-
--
-. ἐκείνας τε ὑπ ᾽ ἐκείνου Turn. Vulc. et Bοng.
-6. αὐ-
 
-
-### 0046
-
-931.2ο. DE FACILIΟRBELVNAE. 679
 ἀποδίδωσν. ἔτω δὲ καὶ τὴν γῆν όρῶμεν ὑπ ᾽ αὐτῦ φω-
 τιζομένην. ἐ γἀρ είς βάθος, ὅσπερ ὕδωρ, ἐδὲ δ λης,
 ῶσπες ἀὴρ, διίησι τὴν αὐγὴν, ἀλλ οἶος τὴν σελήνην πε-
