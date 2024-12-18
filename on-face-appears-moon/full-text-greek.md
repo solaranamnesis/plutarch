@@ -82,241 +82,108 @@
 τῷ ὕδατι μεθ ᾽ ἡμέραν, ὅταν ἀνάκλασις ὑπ ᾽ αὐτὸν*
 γένηται. μὴ φαινομένου δὲ τούτου, κατ ᾽ ἄλλον οἴονται τρό-
 
-πον, ἐκ ἀνακλάσει, γίνεσθαι τὸν φωτισμόν. εἰ δὲ μὴ
-τῦτο, μηδὲ γῆν εἶναι τὴν σελήνην. Tί ἐν, ἔφη, πρὸς
-αὐτὰς λεκτέον, ὁ Ἀπολλωνίδης ; κοινὰ γὰρ ἔοικε καὶ πρὸς
-ἡμὰς εἶναι τὰ τῆς ἀνακλάσεως. Ἀμέλει τρόπον τινὰ
-(ἔφην ἐγὰ) κοινὰ, τρόπον δ ᾽ ἄλλον ἀδὲ κοινά πρῶτονδὲ
-ὅρα τὰ τῆς εἰκόνος, ὡς ἄνω ποταμῶν καὶ τραπὸν πάλιν
-λαμβάνυσιν. ἐπὶ γῆς πάρεστι καὶ κάτω τὸ ὑδωρ ὑπὲρ
-γῆς δὲ σελήνη καὶ μετέωρος. ὅθεν ἀντίσροφον αὶ κεκλα-
-σμέναι τὸ σχῆμα τῆς γωνίας ποιῦσι, τῆς μὲν ἄνω, πρὸς
-τῆ σελήνη, τῆς δὲ κάτω, πρὸς τ γὴ κορυφὴν ἐχέσης.
-μὴ ἄπασαν ἔν ἰδέαν κάτοπτρον, μηδ ἐκ πάσης ἀποτά-
-σεως ὁμοίαν ἀνάκλασιν ποιεῖν ἀξιύτωσαν, ἐπεὶ μάχον-
+πον, οὐκ ἀνακλάσει, γίνεσθαι τὸν φωτισμόν. εἰ δὲ μὴ
+τοῦτο, μηδὲ γῆν εἶναι τὴν σελήνην. Τί οὖν, ἔφη, πρὸς
+αὐτοὺς λεκτέον, ὁ Ἀπολλωνίδης ; κοινὰ γὰρ ἔοικε καὶ πρὸς
+ἡμᾶς εἶναι τὰ τῆς ἀνακλάσεως. Ἀμέλει τρόπον τινὰ
+(ἔφην ἐγὼ) κοινὰ, τρόπον δ ᾽ ἄλλον οὐδὲ κοινά · πρῶτον δὲ
+ὅρα τὰ τῆς εἰκόνος, ὡς ἄνω ποταμῶν καὶ τραπὲν πάλιν
+λαμβάνουσιν. ἐπὶ γῆς πάρεστι καὶ κάτω τὸ ὕδωρ · ὑπὲρ
+γῆς δὲ σελήνη καὶ μετέωρος. ὅθεν ἀντίστροφον αἱ κεκλα-
+σμέναι τὸ σχῆμα τῆς γωνίας ποιοῦσι, τῆς μὲν ἄνω, πρὸς
+τῇ σελήνῃ, τῆς δὲ κάτω, πρὸς τῇ γῇ κορυφὴν ἐχούσης.
+μὴ ἅπασαν οὖν ἰδέαν κάτοπτρον, μηδ ᾽ ἐκ πάσης ἀποστά-
+σεως ὁμοίαν ἀνάκλασιν ποιεῖν ἀξιούτωσαν, ἐπεὶ μάχον-
 ται πρὸς τὴν ἐνάργειαν. οἱ δὲ σῶμα μὴ λεπτὸν, μηδὲ
-λεῖον, ὅσπερ ἐςὶ τὸ ὑδωρ, ἀποφαίνοντες τὴν σελήνην,
-ἀλ ᾽ ἐμβριθὲς καὶ γεῶδες, ἐκ οδα, ὅπως ἀπαιτῦνται
-τῦ ἡλίυ τὴν ἔμφασιν ἐν αὐτῆ πρὸς τὴν ὄιν. ὐδὲ γαρ
-τὸ γάλα τὸς τοιύάτας ἐσοπτρισμὰς ἀποδίδωσιν, ἀδὲ ποιεῖ
-τῆς ὄψεως ἀνακλάσεις διὰ τὴν ἀνωμαλίαν κα τραχύ-
-τητα τῶν μορίων πόθεν γε t τὴν σελήνην δυνατόν ἐςιν
-xiοne, illuminari cenſent : ac prinde Lunam quoque terram
-non eſſe. Quid ergο aduerſum eos dicendum eſt ? aiebat A-
-pollonides : nam iſthaec de refexione ratio etiam ad nos per-
-tinet. Sane, inquam egο, quodam modο communis ea eſt
-ratiο, quodam modο non communis. Primum autem vide,
-quale ſit id, quod de imagine dicitur, quam ſit peruerſum,
-et (quod aiunt) ſurſum verſum flumina. Aqua enim in ter-
-ra eſt et infra, ſupra terram Luna et in ſublimi. Itaque etiam
-anguli reflexionum diuerſe fiunt, cum alia ſurſum ad Lunam,
-alia deorſum ad terram vertice ſuo tendat. Non ergο poſtu-
-lent, quamuis ſpeciem eſſe ſpeculum, et quouis interuallο
-aequalem fieri reflexionem. Nam euidentiae hοc repugnat.
-Qui vero dicunt, Lunam non eſſe corpus tenue et laeue, vt
-eſt aqua, ſed ſolidum et terrenum : neſciο, quomodο Solis in
-ea imaginem a viſu volunt cerni. Nam neque lac huiuſmodi
-ſpeculares reddit imagines, neque viſum reflectit : οb inaequa-
-litatem et aſperitatem partium : nedum Luna poſſit emittere
-a ſe
-45. πόθιν γὰρ Turn. et Vulc.
-a ſe
-46. ὁρ-
+λεῖον, ὥσπερ ἐστὶ τὸ ὕδωρ, ἀποφαίνοντες τὴν σελήνην,
+ἀλλ ᾽ ἐμβριθὲς καὶ γεῶδες, οὐκ οἶδα, ὅπως ἀπαιτοῦνται
+τοῦ ἡλίου τὴν ἔμφασιν ἐν αὐτῇ πρὸς τὴν ὄψιν. οὐδὲ γὰρ
+τὸ γάλα τοὺς τοιούτους ἐσοπτρισμοὺς ἀποδίδωσιν, οὐδὲ ποιεῖ
+τῆς ὄψεως ἀνακλάσεις διὰ τὴν ἀνωμαλίαν καὶ τραχύ-
+τητα τῶν μορίων · πόθεν γε* τὴν σελήνην δυνατόν ἐστιν
 
+ἀναπέμπειν ἀφ ᾽ ἑαυτῆς τὴν ὄψιν, ὥσπερ ἀναπέμπει τὰ
+λειότερα τῶν ἐσόπτρων ; καίτοι καὶ ταῦτα δήπουθεν ἐὰν
+ἀμυχή τις, ἢ ῥύπος, ἢ ταραχή τις, καταλάβῃ, τὸ ση-
+μεῖον ἂν, ἀφ ᾽ οὗ πέφυκεν ἡ ὄψις, ἀνακλασθὲν τυποῦται ·
+καὶ βλέπεται μὲν αὐτὰ, τὴν δ ᾽ ἀνταύγειαν οὐκ ἀποδί-
+δωσιν. ὁ δ ᾽ ἀξιῶν, ἢ καὶ τὴν ὄψιν ἡμῶν ἐπὶ τὸν ἥλιον
+ἀξιῶν εἶναι, φῶς δὲ τὴν ὄψιν, οὐρανὸν δὲ τὸν ἄνθρωπον.
+τοῦ μὲν γὰρ ἡλίου δι ᾽ εὐτονίαν καὶ λαμπρότητα πρὸς τῇ
+σελήνῃ γινομένην μετὰ πληγῆς τὴν ἀνάκλασιν φέρεσθαι
+πρὸς ἡμὰς εἰκός ἐστιν · ἡ δ ᾽ ὄψις, ἀσθενὴς οὖσα καὶ ὀλι-
+γοστὴ, τί θαυμαστὸν, εἰ μήτε πληγὴν ἀνακρουστικὴν ποιεῖ,
+μήτ ᾽ ἀφαλλομένης τηρεῖ τὴν συνέχειαν, ἀλλὰ θρύπτεται
+καὶ ἀπολείπει, πλῆθος οὐκ ἔχουσα φωτὸς, ὥστε μὴ πα-
+ρασπᾶσθαι περὶ τὰς ἀνωμαλίας καὶ τραχύτητας. ἀπὸ
+μὲν γὰρ ὕδατος καὶ τῶν ἄλλων ἐσόπτρων ἰσχύουσαν ἔτι
+τῆς ἀρχῆς ἐγγὺς οὖσαν ἐπὶ τὸν ὀφθαλμὸν ἅλλεσθαι τὴν
+ἀνάκλασιν, οὐκ ἀδύνατόν ἐστιν · ἀπὸ δὲ τῆς σελήνης, κᾂν
+γίνωνταὶ τινες ὀλισθήσεις αὐτῆς, ἀσθενεῖς ἔσονται καὶ
+ἀμυδραὶ, καὶ προαπολείπουσαι διὰ τὸ μῆκος τῆς ἀποστά-
+σεως · καὶ γὰρ ἄλλως τὰ μὲν κοῖλα τῶν ἐσόπτρων εὐτο-
+νωτέραν ποιεῖ τῆς προηγουμένης αὐγῆς τὴν ἀνακλωμένην,
+ὥστε καὶ φλόγας ἀναπέμπειν πολλάκις · τὰ δὲ κυρτὰ
 
-### 0064
-
-936. 45. DEFACIE IN ORBELVNAE. 697
-ἀναπέμπειν ἀφ ἑαυτῆς τὴν ὄψν, ᾴσπερ ἀναπέμπει τὰ
-λειότερα τῶν ἐσόπτρων; καίτοι καὶ ταῦτα δήπεθεν ἐὰν
-ἀμυχή τις, ἡ ρύπος, ἡ ταραχή τις, καταλάβη, τὸση-
-μεῖον ἀν, ἀφ ᾽ ὁ πέφυκεν ἡ ὄψις, ἀνακλασθὲν τυπῦται ·
-καὶ βλέπεται μὲν αὐτὰ, τὴν δ ᾽ ἀνταύγειαν ἀκ ἀποδί-
-δωσιν. ὁ δ ᾽ ἀξιῶν, ἡ καὶ τὴν ὄψν ἡμῶν ἐπὶ τὸν ἡλιον
-ἀξιῶν εἶναι, φῶς δὲ την ὄψιν, ἀρανὸν δὲ τὸν ἄνθρωπον.
-τῦ μὲν γὰρ ἡλίς δι ᾽ εὐτονίαν καὶ λαμπρότητα πρὸς τῇ
-σελήνῃ γινομένην μετὰ πληγῆς τὴν ἀνακλασιν φέρεσθαι
-πρὸς ἡμὰς εἰκός ἐτιν · ἡ δ ᾽ ψψς, ἀσθενὴς ἐσα καὶ όλι-
-γοτὴ, τί θαυμασὸν, εὶ μήτε πληγὴν ἀνακρςστικὴν ποιει,
-μήτ ἀφαλλομένης τηρεῖ τὴν συνέχειαν, ἀλὰ θρύπτεται
-καὶ ἀπολείπει, πλῆθος ύκ ἐχυσα φωτὸς, ώστε μὴ πα-
-ραστπὰσθαι περὶ τὰς ανωμαλίας καὶ τραχύτητας. ἀπὸ
-μὲν γὰρ ὑδατος κ τῶν λλων ἐσόπτρων ἰσχύεσαν ἔτι
-τῆς αρχῆς ἐγγὐς ἐσαν ἐπὶ τὸν δφθαλμὸν ἄλλεσθαι τὴν
-ἀνάκλασιν, ἀκ ἀδύνατόν ἐτιν · ἀπὸ δὲ τῆς σελήνης, κὰν
-γίνωνταὶ τινες δλισθήσεις αὐτῆς, ἀσθενεῖς ἔσονται καὶ
-ἀμυδραὶ, καὶ προαπολείπυσαι διὰ τὸ μῆκος τῆς ἀποτά-
-σεως καὶ γὰρ ἄλλως τὰ μὲν κοῖλα τῶν ἐσόπτρων εὐτο-
-νωτέραν ποιεῖ τῆς προηγεμένης αὐγῆς τὴν ἀνακλωμένην,
-ἄστε καὶ φλόγας ἀναπέμπειν πολλάκις τὰ δὲ κυρτὰ
-a ſe viſa talia, ſicut ſpecula laeuiora faciunt. Sed in his, ſi
-qua rima, aut ſordes, aut turbatio incidat, punctum, a qua
-ſolet viſus, reflexum efſormatur : atque iſta videntur quidem,
-ſed reſplendentiam non exhibent. Qui autem contendit *
-aut etiam viſum noſtrum ad Solem contendens eſſe : lumen
-autem viſum, coelum hominem. Eſt enim veriſimile, Solis
-ob vehementiam et ſplendorem cum ictu factam reflexionem
-ad nos ferri. At viſus imhecillis cum ſit et minima particula,
-quid mirum, ſi neque ictum repellentem infert, neque reſi-
-liens continuitatem ſeruat, ſed frangitur ac deficit, cum tanta ei
-non ſit copia luminis, vt non diuellatur inaequalitatibus et
-aſperitatibus occurrens. Non eſt enim impoſſibile, ab aqua
-et aliis ſpeculis reflexionem, cuius in propinquo adhuc tene-
-tur principium, validam reſilire. Sed a Luna etiamſi aliquae
-delabantur, infirmae erunt ac languidae, et quae ob inter-
-valli magnitudinem prius deficiant, quam ad nos perueniant.
-Alioquin etiam caua ſpeculorum validius reflectunt Solis ra-
-diοs, ita quidem, vt flammas quoque ſaepenumerο edant:
-XX5
-cur3
-curua
-
-
-### 0065
-
-698
-PLVTARCHI
-937. 9.
-καὶ σφαιροειοη, τῳ μὴ πανταχόθεν ἀντερείδειν, ἀσθε-
-ὁρᾶτα tθ δήπυθεν, ὁταν ἰρι-
-νῆ κα ἀμαυράν.
-δες δυο φανῶσι, νέφους νέφος ἐμπεριέχοντος, ἀμαυρὰν
+καὶ σφαιροειδῆ, τῷ μὴ πανταχόθεν ἀντερείδειν, ἀσθε-
+νῆ καὶ ἀμαυράν. ... ὁρᾶται* δήπουθεν, ὅταν ἴρι-
+δες δύο φανῶσι, νέφους νέφος ἐμπεριέχοντος, ἀμαυρὰν
 ποιοῦσαν καὶ ἀσαφῆ τὰ χρώματα τὴν περιτρέχουσαν.
-τὸ γὰρ ἐκτὸς νέφος, ἀπωτέρω τῆς ὄψεως κείμενον, ἀκ
-εὕτονον, eδ ᾽ ἰσχυρὰν τὴν ἀνάκλασιν ἀποδίδωσι. καὶ τί
-δεῖ πλείονα λέγειν; ὁπε γὰρ τὸ τῦ ἡλίς φῶς, ἀνακλώ-
-μενον ἀπὸ τῆς σελήνης, την μὲν θερμότητα πὰσαν ἀπο-
+τὸ γὰρ ἐκτὸς νέφος, ἀπωτέρω τῆς ὄψεως κείμενον, οὐκ
+εὔτονον, οὐδ ᾽ ἰσχυρὰν τὴν ἀνάκλασιν ἀποδίδωσι. καὶ τί
+δεῖ πλείονα λέγειν · ὅπου γὰρ τὸ τοῦ ἡλίου φῶς, ἀνακλώ-
+μενον ἀπὸ τῆς σελήνης, τὴν μὲν θερμότητα πᾶσαν ἀπο-
 βάλλει, τῆς δὲ λαμπρότητος αὐτῷ λεπτὸν ἀφικνεῖται
-μόλις πρὸς ἡμᾶς καὶ ἀδρανὲς λείψανον, ᾀ πυ τῆς ψεως
-τὸν ἶσον φερομένοις δίαυλον, ἐνδέχεται μοριον ὁτιῦν λεί-
-ψανον ἐξικέσθαι πρὸς τὸν ἡλιον ὑπὸ τῆς σελήνης. ἐγὰ
-μὲν ἀκ οἶμαι. σκοπεῖτε δὲ (εἶπον) καὶ ὑμεῖς, εἰ τὰ αύ-
-τὰ πρὸς τὸ ὕδωρ κα τὴν σελήνην ἔπασχεν ὴὄψις · δ δὴ 7
-καὶ γης καὶ φυτῶν καὶ ἀνθρώπων καὶ ἄτρων ἐμφάσεις
-ποιεῖν τὴν πανσέληνον, οἶας τὰ λοιπὰ ποιεῖται τῶν ἐσό-
-πτρων. εὶ δ ᾽ ὐ γίνονται πρὸς ταῦτα τῆς ὄψεως ἀνα-
-κλάσεις, δ ᾽ ἀσθένειαν αὐτῆς, ἡ τραχύτητα τῆς σελή-
-νης, μηδὲ πρὸς τὸν ήλιον ἀπαιτῶμεν. ἡμεῖς μὲν ξν, (ἔ-
-curua et globoſa, quia vndique renituntur, imbecillemet obſcu-
-ram videtur ſcilicet, quando duae irides apparent, nubem nu-
-be continente, eius colores eſſe obſcuros et incertοs, quae eſt
-in continente. Nam exterior nubes longius a νiſu diſtans refle-
-xionem reddit inualidam. Et quid attinet plura dicere? Quandο
-enim Solis lumen a Luna refexum omnem amittit calorem, et
-ſplendoris eius aegre ad nos perferuntur tenues atque languidae
-reliquiae : poteritne viſus noſter, eodem tam longo permeatο
-ſpatiο, Solaris qualemcunque portiunculam imaginis de Luna
-reportare! Egο quidem non putο. Conſiderate verο, aiebam,
-etiam vοs, an idem accidat viſui noſtrο a Luna et ab aqua :
-an terrae, plantarum, et hominum ſiderumque imagines Lu-
-na plena repraeſentet, ſicut faciunt alia ſpecula. Quod ſi vi-
-ſus acies ad haec non reflectitur tum οb imbecillitatem, aut
-aſperitatem ipſius Lunae : ne aduerſus Solem hοc requiramus.
-Ac
-46. ὁρᾶτε Turn.
-47. Prοδ δ Turn. et Vulc.
-dant ἐδει
-dant ἐδει.
-48. τρο-
+μόλις πρὸς ἡμᾶς καὶ ἀδρανὲς λείψανον, ἦ που τῆς ὄψεως
+τὸν ἶσον φερομένοις δίαυλον, ἐνδέχεται μόριον ὁτιοῦν λεί-
+ψανον ἐξικέσθαι πρὸς τὸν ἥλιον ὑπὸ τῆς σελήνης. ἐγὼ
+μὲν οὐκ οἶμαι. σκοπεῖτε δὲ (εἶπον) καὶ ὑμεῖς, εἰ τὰ αὐ-
+τὰ πρὸς τὸ ὕδωρ καὶ τὴν σελήνην ἔπασχεν ἡ ὄψις · ὃ δὴ*
+καὶ γῆς καὶ φυτῶν καὶ ἀνθρώπων καὶ ἄστρων ἐμφάσεις
+ποιεῖν τὴν πανσέληνον, οἵας τὰ λοιπὰ ποιεῖται τῶν ἐσό-
+πτρων. εὶ δ ᾽ οὐ γίνονται πρὸς ταῦτα τῆς ὄψεως ἀνα-
+κλάσεις, δι ᾽ ἀσθένειαν αὐτῆς, ἢ τραχύτητα τῆς σελή-
+νης, μηδὲ πρὸς τὸν ἥλιον ἀπαιτῶμεν. ἡμεῖς μὲν οὖν, (ἔ-
 
-
-### 0066
-
-937. 27. DEFACIE IN ORBE LVNAE. 699
-φην) ὅσα μὴ διαπέφευγε τὴν μνήμην τῶν ἐκεῖ λεχθίν-
-των, ἀπηγγέλκαμεν ὡρα δὲ καὶ Σύλαν παρακαλεν,
-μᾶλλον δ ἀπαιτεῖν τὴν διήγησιν, οἶον ἐπὶ ὁητοις ἀκροα-
-τὴν γεγενημένον. ὡστε (εὶ δοκεῖ) καταπαύσαντες τὸν
-περίπατον, καὶ καθίσαντες ἐπὶ τῶν βάθρων, ἐδραῖον αύ-
+φην) ὅσα μὴ διαπέφευγε τὴν μνήμην τῶν ἐκεῖ λεχθέν-
+των, ἀπηγγέλκαμεν · ὥρα δὲ καὶ Σύλλαν παρακαλεῖν,
+μᾶλλον δ ᾽ ἀπαιτεῖν τὴν διήγησιν, οἷον ἐπὶ ῥητοῖς ἀκροα-
+τὴν γεγενημένον. ὥστε (εἰ δοκεῖ) καταπαύσαντες τὸν
+περίπατον, καὶ καθίσαντες ἐπὶ τῶν βάθρων, ἑδραῖον αὐ-
 τῷ παράσχωμεν ἀκροατήριον. ἔδοξε δὴ ταῦτα · καὶ
-καθισάντων ἡμῶν, ὁ Oέων · Eγώ τοι, ὡ Λαμπρία, (ει-
-πεν) ἐπιθυμῶ μὲν ἀδενὸς ἡττον ὑμῶν ἀκῦσαι τὰ λεχθη-
-σόμενα, πρότερον δ ᾽ ὰν ἡδέως ἀκάσαιμι περὶ τῶν οἰκεῖν
-λεγομένων ἐπὶ τῆς σελήνης, ἀκ εἰ κατοικῦσί τινες, άλ
-εὶ δυνατὸν ἐκεῖ κατοικεῖν. εἰ γὰρ ὐ δυνατὸν, ἄλογον, καὶ
-τὸ γῆν εἶναι τὴν σελήνην. δόξει γὰρ πρὸς ἀθἐν, ἀλὰ
-μάτην γεγονέναι, μήτε καρπὸς ἐκφέρεσα, μήτ ἀνθρώ-
-ποις τισὶν ἔδραν παρέχεσα καὶ γένεσιν καὶ δίαιταν · ων
-ἔνεκα καὶ ταύτην γεγονέναι φαμèν, κατὰ Πλάτωνα,
-τροφὸν τ8 ἡμετέραν, ἡμέρας τε καὶ νυκτὸς ἀτρεκῆ φύ-
-λακα καὶ δημιεργόν. ὁρᾶς δὲ, ὅτι πολλὰ λέγεται, καὶ
-σὐν γέλωτι, καὶ μετὰ σπεδῆς, περὶ τύτων. τοῖς μὲν
-γὰρ ὑπὸ τὴν σελήνην οἰκῦσιν, ώσπερ Tαντάλοις, ὑπἐρ
-Ae nos quidem, dicebam, quae ibi dicta ſunt, niſi ſi quid me-
-moriam ſefellit, retulimus. Tempus autem eſt, vt Syllam
-quoque exhortemur, adeoque poſcamus ab eο narrationem,
-vt qui certa conditione auditor interfuerit. Proinde, ſi ita
-vobis videtur, ambulandi finem ſaciemus, et conſidentes in
-ſedilibus, fixum ei praebebimus auditorium. Placuit hoc : et
-cum conſediſſemus, Theο: Ipſe quidem, inquit, non minο-
-re, quam vllus veſtrum, audiendi, quae dicentur, deſideriο
-teneor. Ante tamen, Lampria, de iis, qui Lunam dicuntur
-inhabitare, peruellem aliquid audire : non vtrum habitent
-aliqui, ſed an habitari poſſit. Hοc enim ſi nequit, a ratiο-
-ne alienum erit, eam eſſe terram. Nam videbitur ad nullum
-vſum et fruſtra exſtitiſſe, cum neque fructus edat, ne-
-que hominibus quibuſdam ſedem, ortum et vitae degendae
-locum praebeat : quarum rerum cauſa hanc noſtram terram
-οxſtitiſſe de Platonis ſententia dicimus, nutricem noſtram,
-dieique et noctis fidelem cuſtodem atque opificem. Vides
-autem, de hoc argumento multa et ſeriο et iοcο diſputari.
-Lunam enim aiunt eorum, qui infra degunt, tanquam Tan-
-talorum
-48. τροφὴν Ald. et Baſ.
-49. Prο
+καθισάντων ἡμῶν, ὁ Θέων · Ἐγώ τοι, ὦ Λαμπρία, (εἶ-
+πεν) ἐπιθυμῶ μὲν οὐδενὸς ἧττον ὑμῶν ἀκοῦσαι τὰ λεχθη-
+σόμενα, πρότερον δ ᾽ ἂν ἡδέως ἀκούσαιμι περὶ τῶν οἰκεῖν
+λεγομένων ἐπὶ τῆς σελήνης, οὐκ εἰ κατοικοῦσί τινες, ἀλλ ᾽
+εἰ δυνατὸν ἐκεῖ κατοικεῖν. εἰ γὰρ οὐ δυνατὸν, ἄλογον, καὶ
+τὸ γῆν εἶναι τὴν σελήνην. δόξει γὰρ πρὸς οὐθὲν, ἀλλὰ
+μάτην γεγονέναι, μήτε καρποὺς ἐκφέρουσα, μήτ ᾽ ἀνθρώ-
+ποις τισὶν ἕδραν παρέχουσα καὶ γένεσιν καὶ δίαιταν · ὧν
+ἕνεκα καὶ ταύτην γεγονέναι φαμὲν, κατὰ Πλάτωνα,
+τροφὸν* ἡμετέραν, ἡμέρας τε καὶ νυκτὸς ἀτρεκῆ φύ-
+λακα καὶ δημιουργόν. ὁρᾷς δὲ, ὅτι πολλὰ λέγεται, καὶ
+σὺν γέλωτι, καὶ μετὰ σπουδῆς, περὶ τούτων. τοῖς μὲν
+γὰρ ὑπὸ τὴν σελήνην οἰκοῦσιν, ὥσπερ Ταντάλοις, ὑπὲρ
 
+κεφαλῆς ἐκκρέμασθαί φασι, τοὺς δ ᾽ οἰκοῦντας αὖ πάλιν
+ἐπ ᾽ αὐτῆς, ὥσπερ Ἰξίονας ἐνδεδεμένους ῥύμῃ τόσῃ.
+... καίτοι μίαν οὐ κινεῖται κίνησιν, ἀλλ ᾽ ὥς που καὶ
+λέγεται τριοδῖτις, ἐστὶν, ἅμα μῆκος ἐπὶ τοῦ ζωδιακοῦ καὶ
+πλάτος ἐπιφερομένη καὶ βάθος · ὧν τὴν μὲν περιδρομὴν,
+τὴν δὲ ἕλικα, τὴν δ ᾽ οὐκ οἶδα πῶς ἀνωμαλίαν ὀνομάζου-
+σιν οἱ μαθηματικοὶ, καίπερ οὐδεμίαν ὁμαλὴν, οὐδὲ τετα-
+γμένην ταῖς ἀποκαταστάσεσιν ὁρῶντες ἔχουσαν. οὐκοῦν*
+εἰ λέων τις ἔπεσεν ὑπὸ ῥύμης εἰς Πελοπόννησον, ἄξιόν ἐστι
+θαυμάζειν · ἀλλ ᾽ ὅμως* οὐ μυρία ὁρῶμεν ἀεὶ πεσήματα
+ἀνδρῶν καὶ ἀπολακτισμοὺς βίων ἐκεῖθεν οἷον ἐκκυβιστών-
+των καὶ περιτρεπόντων. καὶ γὰρ γελοῖον, περὶ μονῆς
+τῶν ἐκεῖ διαπορεῖν, εἰ μὴ γένεσιν, μηδὲ σύστασιν, ἔχειν
+δύναται. ὅπου γὰρ Αἰγύπτιοι καὶ Τρωγλοδύται, οἷς ἡ-
+μέρας μιᾶς ἀκανὲς* ἵσταται κατὰ κορυφὴν ὁ ἥλιος ἐν
+τροπαῖς, εἶτ ᾽ ἄπεισιν, ὀλίγον ἀπέχουσι τοῦ κατακεκαῦ-
+σθαι ξηρότητι τοῦ περιέχοντος · ἦπου τοὺς ἐπὶ τῆς σελήνης
+εἰκός ἐστι δώδεκα θερείας ὑπομένειν ἔτους ἑκάστου, κατὰ
 
-### 0067
-
-P LVTARCHI
-7οο
-937. 45.
-κεφαλῆς ἐκκρέμασθαί φασι, τὰς δ ᾽ οἰκῦντας αὐ πάλιν
-ἐπ αὐτῆς, ὅσπερ Iξίονας ἐνδεδεμένες ρύμη τόση.
-καίτοι μίαν ἀ κινεῖται κίνησιν, ἀλλ ῶς πσ καὶ
-λέγεται τριοδιτις, ἐσὶν, ἄμα μῆκος ἐπὶ τῦ ωδιακῦ καὶ
-πλάτος ἐπιφερομένη καὶ βάθος · ὡν τὴν μὲν περιδρομην,
-τὴν δὲ ἔλικα, τὴν δ ᾽ ἀκ οἶδα πῶς ἀνωμαλίαν ὀνομάου-
-σιν οὶ μαηματικοὶ, καίπερ ύδεμίαν ἀμαλὴν, ἀδὲ τετα-
-γμένην ταῖς ἀποκατατάσεσιν ὁρῶντες ἔχεσαν. ἐκῦν τ9
-εὶ λέων τις ἔπεσεν ὑπὸ ρύμης εἰς Πελοπόννησον, ἄξιόνἐςι
-θαυμάζειν ἀλλ όμως θ ὐ μυρία ὁρῶμεν ἀεὶ πεσήματα
-ἀνδρῶν καὶ ἀπολακτισμὸς βίων ἐκεῖθεν οἶον ἐκκυβισών-
-των καὶ περιτρεπόντων. καὶ γαρ γελοῖον, περὶ μονῆς
-τῶν ἐκεῖ διαπορεν, εὶ μὴ γένεσιν, μηδὲ σύσασιν, ἔχειν
-δύναται. όπυ γὰρ Aγύπτιοι καὶ ρωγλοδύται, οἶς ἡ-
-μέρας μιὰς ἀκανὰς ἴςαται κατὰ κορυφὴν ὁ ἡλιος ἐν
-τροπας, εἶτ ἄπεισιν, ὀλίγον ἀπέχεσι τῦ κατακεκαυ-
-σδαι ξηρότητι τῦ περιέχοντος · ἡπυ τὸς ἐπὶ τῆς σελήνης
-εῖκός ἐςτι οωδεκα θερείας ὑπομένειν ἔτυς ἐκάστυ, κατὰ
-talorum imminere capitibus : rurſumque eos, qui ipſam incο-
-lunt, Ixionum inſtar illigatos tanto impetu volui ac reuolui.
-Et quidem non νnicο motu Luna verſatur, ſed eſt, vt ſolent
-appellare, triuia : in Lοdiaeο ſimul in longum, et latum, et
-profundum circummeans. Primum motum circuitionem, ſe-
-cundum volutationem, tertium neſciο qui inaequalitatem vο-
-cant Mathematici : cum nullam earum motionum conſtitutis
-certisque finibus includi videamus. * Mirum non eſt, ἱi impetu
-agitationis leο in Peloponneſum decidit : ſed tamen nonne in-
-numeros quotidie videmus hominum caſus, et vitas quaſi
-calcitrando proiectas, iſthine in caput hac deuolutorum.
-Etenim ridiculum eſt, dubitare, an ibi manſiο ſit, ſi ortui
-locus nullus datur. Nam cum Aegγptii et Trοglodytae, quo-
-rum vnο dic quotannis Sol per momentum temporis in ſοlſti-
-tio capitibus imminet, mοx diſcedens, tantum non comhu-
-rantur ob aéris ſiccitatem : an credihile eſt, eοs, qui in Luna
-ſunt, quotannis duodecim perferre poſſe ſolſtitia, ſingulis men-
-ſibus
-49. Prο ἐκᾶν dant ἐκ Ald. Turn. et Vulc. e quorum priο-
-et aſ.
-re, Turn. affertur etiam ὅτι.
-50. Prο ὅμως dant ὅπως 51. ἀκαρὰς Turn.
-52. μήτ
-
-
-### 0068
-
-938.7. DE FACIE IN ORBELVNAE. 7ο1
 μῆνα τῦ ἡλίς πρὸς κάθετον αὐτοῖς ἐφιταμένσ καὶ τηρί-
 (οντος, όταν ῇ πανσέληνος. πνεύματά γε μὴν καὶ νέ-
 φη καὶ ὄμβρους, ὡν χωρὶς ἔτε γένεσις φυτῶν ἐσιν, ἔτε
