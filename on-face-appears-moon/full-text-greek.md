@@ -169,150 +169,62 @@
 πέλαγος ὀνομάζουσι, παρακάτω κεῖσθαι. τὴν δὲ με-
 γάλην ἤπειρον, ὑφ ᾽ ἧς ἡ μεγάλη περιέχεται κύκλῳ θά-
 
-λαττα τῶν μὲν ἄλλων ἔλαττον ὰἀπέχειν, τῆς δ ᾽ γυγίας
-περὶ πεντακισχιλίες σαδίυς, κωπήρει πλοίοις κομιζο-
-μένῳ. βραδύπορον γὰρ εἶναι καὶ πυλῶδες ὑπὸ πλήθες
-ρευμάτων τὸ πέλαγος. τὰ δὲ ρεύματα τὴν μεγάλην
+λαττα τῶν μὲν ἄλλων ἔλαττον ἀπέχειν, τῆς δ ᾽ Ὠγυγίας
+περὶ πεντακισχιλίους σταδίους, κωπήρεσι πλοίοις κομιζο-
+μένῳ. βραδύπορον γὰρ εἶναι καὶ πυλῶδες ὑπὸ πλήθους
+ῥευμάτων τὸ πέλαγος. τὰ δὲ ῥεύματα τὴν μεγάλην
 ἐξιέναι γῆν, καὶ γίνεσθαι προχώσεις ἀπ ᾽ αὐτῶν, καὶ
-βαρεῖαν ἶναι καὶ γεώδη τὴν θάλατταν, ἡ καὶ πεπη-
-γέναι δόξαν ἔσχε. τῆς δ ᾽ ὴπείρυ τὰ πρὸς τῇ θαλάτ-
-τη κατοικεῖν ᾽Eλληνας περὶ κόλπον οὐκ ἐλάττονα τῆς
-Mαιώτιδος, ὁ τὸ τόμα τῶ σόματι τῦ Κασπίυ πελάγυς
-μάλιτα κατ ᾽ εὐθεῖαν κῖσθα l. καλεῖν δὲ καὶ νομί-
-gειν ἐκείνυς, ῆπειρώτας μὲν αὐτὐς, νησιώτας δὲ ταύ-
-την τὴν γῆν κατοικοῦντας, ὡς καὶ κύκλῳ περίρρυτον
-ξσαν ὑπὸ τῆς θαλάσσης. οἴεσθαι δὲ τοῖς Κρόνυ λαοῖς
-ἀναμιχθέντας ὕτερον τὰς μετ ᾽ Hρακλέες παραγενομέ-
-νες καὶ ὑπολειφθέντας, ἤδη σβεννύμενον τὸ Eλληνίκὸν
-ἐκεῖ καὶ κρατύμενον, γλώττη τε βαρβαρικῇ καὶ νόμοις
-καὶ διαίταις, οἶον ἀναζωπυρεῖσθαι πάλιν ἰσχυρὸν καὶ
-πολὐ γενόμενον. διὸ καὶ ἔχειν πρώτας τὸν Hρακλέα,
-δευτέρας δὲ τὸν Kρόνον · ὅταν δὲ ὁ τῦ Κρόνα ἀςὴρ, ὅν
-gnum mare in orbem cingitur, a reliquis minus diſtare, ab
-Oygia autem ad ſtadia 12ρ, cum quidem remigio aptis na-
-vibus eο ſit eundum. Eſſe enim lentum traiectum maris et
-coenoſum ο fluminum multitudinem, quae per magnam ter-
-ram efniuant, terramque aggerent, ac mare craſſum et terre-
-num efficiant: vnde etiam opinio inſinuauerit, eſſeipſum con-
-cretum. Continentis porro partes ad mare habitari a Graecis
-circa ſinum Moeoticο haud minorem, cuius fauces ori Caſpii
-maris e regione maxime iaceant et ad rectam lineam. Hos in
-ea eſſe opinione, ipſos continentem incolere, hanc autem
-noſtram terram eſſe inlulam, vt quae in orbem a mari circum
-alluatur. Exiſtimare autem eos, Saturnio populo poſterioribus
-temporibus Herculis comites ſe admiſcuiſſe, ibique relictοs, iam
-exſtinctum ferme, et lingua, legibus, victuque barbaricis οp-
-preſſum Graecum morem quaſi reſuſcitaſſe atque auxiſſe : ideο
-etiam primos honores Herculi apud eοs, proximos Saturnο
-haberi. Et cum Saturni ſtella, quam Graeci Phaenontem,
-quaſi
-71. κινέῖσθαι Ald.
-Υγ 4
-72.
+βαρεῖαν εἶναι καὶ γεώδη τὴν θάλατταν, ἢ καὶ πεπη-
+γέναι δόξαν ἔσχε. τῆς δ ᾽ ἠπείρου τὰ πρὸς τῇ θαλάτ -
+τῃ κατοικεῖν Ἕλληνας περὶ κόλπον οὐκ ἐλάττονα τῆς
+Μαιώτιδος, οὗ τὸ στόμα τῷ στόματι τοῦ Κασπίου πελάγους
+μάλιστα κατ ᾽ εὐθεῖαν κεῖσθαι.* καλεῖν δὲ καὶ νομί-
+ζειν ἐκείνους, ἠπειρώτας μὲν αὐτοὺς, νησιώτας δὲ ταύ-
+την τὴν γῆν κατοικοῦντας, ὡς καὶ κύκλῳ περίῤῥυτον
+οὖσαν ὑπὸ τῆς θαλάσσης. οἴεσθαι δὲ τοῖς Κρόνου λαοῖς
+ἀναμιχθέντας ὕστερον τοὺς μετ ᾽ Ἡρακλέους παραγενομέ-
+νους καὶ ὑπολειφθέντας, ἤδη σβεννύμενον τὸ Ἑλληνικὸν
+ἐκεῖ καὶ κρατούμενον, γλώττῃ τε βαρβαρικῇ καὶ νόμοις
+καὶ διαίταις, οἷον ἀναζωπυρεῖσθαι πάλιν ἰσχυρὸν καὶ
+πολὺ γενόμενον. διὸ καὶ ἔχειν πρώτας τὸν Ἡρακλέα,
+δευτέρας δὲ τὸν Κρόνον · ὅταν δὲ ὁ τοῦ Κρόνου ἀστὴρ, ὃν
 
-
-### 0081
-
-PLVTARCHI
-941. 27.
-712
-φαίνοντα μὲν ἡμεῖς, ἐκείνες δὲ Nυκτῦρον ἔφη καλῖν,
-εiς ταὑρον παραγένηται δι ἐτῶν τριάκοντα παρασκευα-
-σαμένυς ἐν χρόνῳ πολλῷ τὰ περὶ τὴν θυσίαν καὶ τὸν ἄ7*
+Φαίνοντα μὲν ἡμεῖς, ἐκείνους δὲ Νυκτοῦρον ἔφη καλεῖν,
+εἰς ταῦρον παραγένηται δι ᾽ ἐτῶν τριάκοντα παρασκευα-
+σαμένους ἐν χρόνῳ πολλῷ τὰ περὶ τὴν θυσίαν καὶ τὸν ἄ* ...
 ἐκπέμπειν κλήρῳ λαχόντας πέλα-
-γος τοσοῦτον είρεσία, ὶ χρόνον ἐπὶ ξένης βιοτεύειν
-πολὐν ἐμβάλλομεν. οὑς ἀναχθέντας, οὐ χρὴ 3 τύ-
-αις, ὁς εἰκὸς, ἄλους ἄλαις, τὰς δὲ διασωθέντας
+γος τοσοῦτον εἰρεσίᾳ, καὶ χρόνον ἐπὶ ξένης βιοτεύειν
+πολὺν ἐμβάλλομεν. οὓς ἀναχθέντας, οὐ χρὴ* τύ-
+χαις, ὡς εἰκὸς, ἄλλους ἄλλαις, τοὺς δὲ διασωθέντας
 ἐκ τῆς θαλάττης, πρῶτον μὲν ἐπὶ τὰς προκειμένας νή-
-σες, οἰκεμένας δὲ ὑφ Eλήνων κατέχειν, καὶ τὸν ἡλιον
-δρᾶν κρυπτόμενον ΰρας μιᾶς ἔλαττον ἐφ ᾽ ἡμέρας τριά-
-κοντα καὶ νύκτα τῦτο εἶναι, σκότος ἔχεσαν ἐλαφρὸν
-καὶ λυκαυγἐς ἀπὸ δυσμῶν περιπόμενον t. ἐκεῖ δὲ διατρί-
+σους, οἰκουμένας δὲ ὑφ ᾽ Ἑλλήνων κατέχειν, καὶ τὸν ἡλιον
+ὁρᾷν κρυπτόμενον ὥρας μιᾶς ἔλαττον ἐφ ᾽ ἡμέρας τριά-
+κοντα · καὶ νύκτα τοῦτο εἶναι, σκότος ἔχουσαν ἐλαφρὸν
+καὶ λυκαυγὲς ἀπὸ δυσμῶν περιπόμενον.* ἐκεῖ δὲ διατρί-
 ψαντας ἡμέρας ἐνενήκοντα, καὶ μετὰ τιμῆς καὶ φιλο-
-φροσύνης ἱερὰς νομιζομένυς κὶ προσαγορευομένες, ὑπὸ
-πνευμάτων ἤδη περαιῦσθαι· μηδ ᾽ ἄλλυς τινὰς ἐνοικεῖν,
-ἡ σφᾶς τ αὐτὸς, καὶ τὐς πρὸ αὐτῶν ἀποπεμφθέντας ·
-quaſ lucidam, ipſi Nγcturum, (vt aiebat) ceu noctis cuſtο-
-dem, appellant, in taurum ingreditur, quod trigeſimο quο-
-que fit annο, tum eos iamdudum a multo tempore ad hοc pa-
-ratοs, facram rem facere, et nauibus auehi * emittere e-
-nim ſorte ad hοc lectοs, qui tantum pelagus remigio confi-
-ciant, ac longum tempus peregre degant. Auectοs porro non
-eadem omnes vti fortuna. Qui verο incolumes mare ſupera-
-verunt, primum ad praepoſitas appellere inſulas, quas Graeci
-inhabitant: ac videre Solem per triginta dies vnica tantum
-hora οccidere : noctemque hanc tenebras habere tenues, et
-lucem crepuſculinam ab ortu. Ibi cum fuerint commorati dies
-X, honorifice comiterque tractati, et ſari crediti atque ap-
-pellati : porrο a ventis traiici eos deinceps. Caeterum ne-
-minem iſtas incolere inſulas, niſi ipſos, et quos in coloniam
-mittant.
-72. κ τὸν ΰ Fοrte ἀ- περισσάμενον? Aeque nempe
-πόπλκν. Xγlander.
-corruptum hoc eſt atque πε-
-73. Prο ὐ χρὴ lεg χρθα. ριπόμενον. ] Caeterum in li-
-bello de oraculurum defectu
-γlaνder.
-74. Prο περιπόμενον leg. harum quoque inſularum et
-περισσάμενον. Sic eſt nem- non diſſimilis fabulae breuiο-
-pe in edit. Francf. quod ſine rem fecit Plutarchus mentio-
-dubiο ſphalma eſt tγpographi- nem. γlander.
-cum. Quid enim verbi eſt
-75. τρισ-
+φροσύνης ἱεροὺς νομιζομένους καὶ προσαγορευομένους, ὑπὸ
+πνευμάτων ἤδη περαιοῦσθαι · μηδ ᾽ ἄλλους τινὰς ἐνοικεῖν,
+ἢ σφᾶς τ ᾽ αὐτοὺς, καὶ τοὺς πρὸ αὐτῶν ἀποπεμφθέντας ·
 
-
-### 0082
-
-941. 41. DE FACIE INORBELVNAE. 713
-ἐξεῖναι μὲν γὰρ ἀποπλεῖν οἴκαδε τὰς τῷ θεῷ τρισκαίδε-
-κα ἔτη, ἡ τριάκοντα , συλατρεύσανιας, αὶρεῖσθα
-δὲ τὰς πλείτυς ἐπιεικῶς αὐτόθι κατοικεῖν, τὐς μὲν ὑπὸ
-συνηθείας, τὸς δὲ, ὅτι πόνς 76 δίχα καὶ πραγμάτων
-ἄφθονα πάρεστι πάντα προς θυσίαις καὶ χορηγίαις,
-ο 77 περὶ λόγυς τινάς ἀεὶ καὶ φιλοσοφίαν διατρίβεσι.
-θαυματὸν γὰρ εἶναι, τῆς τε νήσυ τὴν φύσιν, καὶ τὴν
-πραότητα τῦ περιέχοντος ἀέρος, ἐνίοις δὲ κα τὸ θεον
-ἐμποδών γίνεσθαι διανοηθῖσιν ἀποπλεῖν, ῶσπερ συνή-
-θεσι καὶ φίλοις ἐπιδεικνύμενον, ἀκ ὄναρ μόνον, ἀδὲ διὰ
+ἐξεῖναι μὲν γὰρ ἀποπλεῖν οἴκαδε τοὺς τῷ θεῷ τρισκαίδε-
+κα ἔτη, ἢ τριάκοντα,* συλλατρεύσαντας, αἱρεῖσθαι
+δὲ τοὺς πλείστους ἐπιεικῶς αὐτόθι κατοικεῖν, τοὺς μὲν ὑπὸ
+συνηθείας, τοὺς δὲ, ὅτι πόνου* δίχα καὶ πραγμάτων
+ἄφθονα πάρεστι πάντα πρὸς θυσίαις καὶ χορηγίαις,
+οἳ* περὶ λόγους τινὰς ἀεὶ καὶ φιλοσοφίαν διατρίβουσι.
+θαυμαστὸν γὰρ εἶναι, τῆς τε νήσου τὴν φύσιν, καὶ τὴν
+πρᾳότητα τοῦ περιέχοντος ἀέρος, ἐνίοις δὲ καὶ τὸ θεῖον
+ἐμποδὼν γίνεσθαι διανοηθεῖσιν ἀποπλεῖν, ὥσπερ συνή-
+θεσι καὶ φίλοις ἐπιδεικνύμενον, οὐκ ὄναρ μόνον, οὐδὲ διὰ
 συμβόλων, ἀλλὰ καὶ φανερῶς, ἐντυγχάνειν πολλοὺς
-ὄψεσι δαιμόνων κκὶ φωναῖς. αὐτὸν μὲν γὰρ τὸν Κρόνον
+ὄψεσι δαιμόνων καὶ φωναῖς. αὐτὸν μὲν γὰρ τὸν Κρόνον
 ἐν ἄντρῳ βαθεῖ περιέχεσθαι ἐπὶ πέτρας χρυσοειδοῦς
-καθεύδοντα. τὸν γὰρ ὑπνον αὐτῷ μεμηχανῆσθαι δε-
-σμὸν ὑπὸ τοῦ ός. ὄρνιθας δὲ τῆς πέτρας κατὰ κο-
-ρυφὴν, ἐς πετομένυς ἀμβροσίαν ἐπιφέρειν αὐτῷ, καὶ
-τὴν νῆσον εὐωδία κατέχεσθαι πᾶσαν, ΰσπερ ἐκ πηγῆς
-σκιδναμένῃ τῆς πέτρας · τθς δὲ δαίμονας ἐκείνυς περιέ-
-mittant. Licere enim nauigia inde auehi, poſtquam deο de-
-cimum tertium rite ſacra fecerint. Pleroſque tamen malle i-
-bi manere: quoſdam, quia adſueuerint : alios, quia citra la-
-borem et occupationem vllam omnia abunde ſuppeditantur
-ad ſacrificia et chororum intructianem: et philoſophari per-
-petuo conceditur. Mirabilem eſΠe enim inſulae naturam, et
-lenitatem aéris ambientis. Quibuſdam etiam, cum auehi in
-animum induxiſſent, genium loci impedimento eſſe : oſten-
-dentem eis ſe, tanquam familiaribus et amicis, non per ſo-
-mnia modο, aut teſſeras, ſed palam viſui audituiue ſe exhi-
-hentem. Ipſum enim aturnum in profundo antrο dormire,
-ibique contineri inter ſaxa auri formam referentia : nam ſο-
-mnum ei lοcο compedum eſſe a Ioue deſtinatum : et in ver-
-tice ſaxi eſſe aues, quae aduolantes ei ambroſiam adferant.
-Totam inſulam ſuaui fragrantia oppleri, quae e ſaxο illο, tan-
-quam ſonte, difſundatur. Genios autem illοs Saturni famu-
-lοs
-75. τρισ αὶ δεκα ἔτη, ἡ 76. Prο πόνς datπολλ Ald.
-τριάκοντα] Prο his quatuor πολέμκ Turn. ποταμξ Vulc.
-verbis Ald. et Baſ. dant vnum,
-77. Prο οἱ Turn. exhibetἡ.
-τοισκαιδεκατῳ.
-1γ 5
-78. ie
+καθεύδοντα. τὸν γὰρ ὕπνον αὐτῷ μεμηχανῆσθαι δε-
+σμὸν ὑπὸ τοῦ Διός. ὄρνιθας δὲ τῆς πέτρας κατὰ κο-
+ρυφὴν, οὓς πετομένους ἀμβροσίαν ἐπιφέρειν αὐτῷ, καὶ
+τὴν νῆσον εὐωδίᾳ κατέχεσθαι πᾶσαν, ὥσπερ ἐκ πηγῆς
+σκιδναμένῃ τῆς πέτρας · τοὺς δὲ δαίμονας ἐκείνους περιέ-
 
-
-### 0083
-
-PLVTARCHI
-942.1.
-714
 πειν καὶ θεραπεύειν τὸν Κρόνον, ἑταίρες αὐτῷ γενομέ-
 νες, ὅτε δὴ θεῶν καὶ ἀνθρώπων ἐβασίλευσε, καὶ πολ-
 λὰ μὲν ἀφ ᾽ ἐαυτῶν, μαντικὸς ὄντας, προλέγειν, τὰ
