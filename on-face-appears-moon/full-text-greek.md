@@ -225,345 +225,144 @@
 τὴν νῆσον εὐωδίᾳ κατέχεσθαι πᾶσαν, ὥσπερ ἐκ πηγῆς
 σκιδναμένῃ τῆς πέτρας · τοὺς δὲ δαίμονας ἐκείνους περιέ-
 
-πειν καὶ θεραπεύειν τὸν Κρόνον, ἑταίρες αὐτῷ γενομέ-
-νες, ὅτε δὴ θεῶν καὶ ἀνθρώπων ἐβασίλευσε, καὶ πολ-
-λὰ μὲν ἀφ ᾽ ἐαυτῶν, μαντικὸς ὄντας, προλέγειν, τὰ
-οὲ μέγιτα καὶ περὶ τῶν μεγίσων, ς όνείρατα τῦ Κρό-
-νε, κατιόντας ἐξαγγέλιν. ὅσα γὰρ ὁ Zεὐς προσδια-
-νοῖται, ταῦτ ᾽ ὀνειροπολεῖν τὸν Κρόνον. εἶνα δ ᾽ ἀνά-
-σασιν τὰ τιτανικὰ πάθη καὶ κινήματα τῆς ψυχῆς ἐν
-αὐτῷ. παντάπασν ὁ ὕπνος
-καὶ γένηται τὸ
+πειν καὶ θεραπεύειν τὸν Κρόνον, ἑταίρους αὐτῷ γενομέ-
+νους, ὅτε δὴ θεῶν καὶ ἀνθρώπων ἐβασίλευσε, καὶ πολ-
+λὰ μὲν ἀφ ᾽ ἑαυτῶν, μαντικοὺς ὄντας, προλέγειν, τὰ
+δὲ μέγιστα καὶ περὶ τῶν μεγίστων, ὡς ὀνείρατα τοῦ Κρό-
+νου, κατιόντας ἐξαγγέλλειν. ὅσα γὰρ ὁ Ζεὺς προσδια-
+νοεῖται, ταῦτ ᾽ ὀνειροπολεῖν τὸν Κρόνον. εἶνα δ ᾽ ἀνά-
+στασιν τὰ τιτανικὰ πάθη καὶ κινήματα τῆς ψυχῆς ἐν
+αὐτῷ. παντάπασιν ὁ ὕπνος ... καὶ γένηται τὸ
 βασιλικὸν καὶ θεῖον αὐτὸ καθ ᾽ ἑαυτὸ καθαρὸν καὶ ἀκή-
 ρατον. ἐνταῦθα δὴ κομισθεὶς, ὡς ἔλεγεν ὁ ξένος, καὶ
-θεραπεύων τὸν θεὸν ἐπὶ σχολῆς, ἀτρολογίας μὲν ἐφ
-οσον 7δ γεωμετρήσαντι πορρωτάτω προελθᾶν δυνατόν
-ἐτν, ἐμπειρίαν ἔσχε, φιλοσοφίας δὲ τῆς ἄλης τῷ φυ-
+θεραπεύων τὸν θεὸν ἐπὶ σχολῆς, ἀστρολογίας μὲν ἐφ ᾽
+ὅσον* γεωμετρήσαντι ποῤῥωτάτω προελθεῖν δυνατόν
+ἐστιν, ἐμπειρίαν ἔσχε, φιλοσοφίας δὲ τῆς ἄλλης τῷ φυ-
 σικῷ χρώμενος, ἐπιθυμίαν δέ τινα καὶ πόθον ἔχων γε-
-νέσθαι τῆς μεγάλης νήσς θεατής. ἐτω γὰρ, ἀς ἔοι-
-κε, τὴν παρ ἡμῖν οἰκυμένην ὀνομάζεσιν. ἐπεὶ δὲ τὰ
+νέσθαι τῆς μεγάλης νήσου θεατής. οὕτω γὰρ, ὡς ἔοι-
+κε, τὴν παρ ᾽ ἡμῖν οἰκουμένην ὀνομάζουσιν. ἐπεὶ δὲ τὰ
 τριάκοντα ἔτη διῆλθεν, ἀφικομένων τῶν διαδόχων οἴκο-
-lοs eſſe atque adminiſtrοs, qui circa ipſum verſentur adſiduο,
-et tunc eius fuerint ſocii, cum in homines ae deοs regnum
-geſſit. Eοs, vtpote ſuapte natura diuinos, multa vaticinari :
-maxima autem, et de ſummis rebus praedicere, dum ſomnia
-Saturni renunciant : huic enim in ſomnis obuerſari, quicquid
-Iupiter meditetur. Tum illa Titanica, eſſe aſſurrectionem et
-motus animae in ipſο. Omninο ſomnus * et regia illa ac di-
-vina facultas ipſa ſeorſim pura atque incontaminata exſiſtat.
-Huc ergo delatus, vt ipſe narrabat, hoſpes, deumque per ο-
-tium demeritus, aſtrologiae tantam parauerat ſibi peritiam,
-quantam geometria fretus aliquis et longiſſime procedens adi-
-piſceretur : de reliquis partibus philoſophiae naturalem am-
-plexus, cupiditate quadam et deſiderio captus fuit ſpectandae
-magnae inſulae iſtius. Sic enim noſtram illi continentem no-
-minant. Ercο circumactis XX annis, cum ſucceſſores ve-
-niſſent
-78. Hic notam defectus Κγ- attinet. Fοrte οἶα δὴ, aut ἄτε,
-lander in ſuο librο vt habue- exciderat. Sed et pro multis
-rit, neceſſe eſt ; ita enim an- aliis poteramus verba ſupplere,
-notat: Vbi ante γεωμετρή- quibus ſenſus integri fierent :
-σαντι eſt ſtella, nihil credο niſi Plutarchum nos non eſſe
-deeſſe, ſaltem quod ad ſenſum cogitaſſemus.
-79. ἀσπα-
 
-
-### 0084
-
-942. 15. DE FACIE IN ORBELVNAE. 715
-θεν, ἀσπασάμενος 72 τὰς φίλους ἐξέπλευσε, τὰ μὲν
-λλα κατεσκευασμένος εὐταθῶς, ἐφόδιονδὲ συχνὸν χρυ-
-σοῖς ἐκπώμασι κομίζαν. ὰ μὲν ἔν ἔπαθε, καὶ οσους
-ἀνθρώπος διῆλθεν, ἱεροῖς τε γράμμασιν ἐντυνγχάνων,
-ἐν τελεταῖς πάσαις τελύμενος, cυ μιάς ἡμέρας ἔργον
-*
-ἐτὶ δελθῶν, ὡς ἐκεῖνος ὴμῖν ἀπήγγελλεν, εὕ μά-
-λα καὶ καθ ᾽ ἔκασον ἀπομνημονεύων. ὅσα δ ᾽ οἰκῖα τῆς
-ἐνεςώσης διατριβῆς ἐτιν, ἀκούσατε. πλεῖτον γὰρ ἐν
-αρχηδόνι χρόνον δέτρψεν, τε δὴ παρ ᾽ ἡμῖν μεγα-
+θεν, ἀσπασάμενος* τοὺς φίλους ἐξέπλευσε, τὰ μὲν
+ἄλλα κατεσκευασμένος εὐσταθῶς, ἐφόδιον δὲ συχνὸν χρυ-
+σοῖς ἐκπώμασι κομίζων. ἃ μὲν οὖν ἔπαθε, καὶ ὅσους
+ἀνθρώπους διῆλθεν, ἱεροῖς τε γράμμασιν ἐντυνγχάνων,
+ἐν τελεταῖς πάσαις τελούμενος, οὐ μιᾶς ἡμέρας ἔργον
+ἐστὶ διελθεῖν, ὡς ἐκεῖνος ἡμῖν ἀπήγγελλεν, εὖ μά-
+λα καὶ καθ ᾽ ἕκαστον ἀπομνημονεύων. ὅσα δ ᾽ οἰκεῖα τῆς
+ἐνεστώσης διατριβῆς ἐστιν, ἀκούσατε. πλεῖστον γὰρ ἐν
+Καρχηδόνι χρόνον διέτριψεν, ἅτε δὴ παρ ᾽ ἡμῖν μεγά-
 λας ἔχοντος καὶ τιμὰς, ὅτε ἡ προτέρα πόλις ἀπώλλυ-
-το, διφθέρας ίερὰς ὑπεκκομισθείσας κρύφα καὶ διαλα-
-θούσας πολὐν χρόνον ἐν γῇ κειμένας ἐξευρών. τῶν το
+το, διφθέρας ἱερὰς ὑπεκκομισθείσας κρύφα καὶ διαλα-
+θούσας πολὺν χρόνον ἐν γῇ κειμένας ἐξευρών. τῶν του
 φαινομένων θεῶν ἔφη χρῆναι, καὶ μοι παρεκελεύετο τι-
-μᾶν διαφερόντως τὴν σελήνην, ὡς τοῦ βίε κυριωτάτην
-ἐχομένην.
-θσαν.
-θαυμάζοντος δέ μου ταῦτα, καὶ δεομένου σαφέτερον
-άκῦσαι · ολλὰ, (ᾴπεν) ὡ Σύλα, περὶ θεῶν, ἐ παν-
-ρ
-τα δὲ καλῶς λέγεται παρ Eλησιν. οἶον εὐθὐς, ἐρ-
-θῶς Αήμητραν καὶ Κόρην όνομάοντες, ἐκ ὀρθῶς ομυ
-niſſent dοmο, ſalutatis amicis, auectus eſt, modicο alioquin
-appartu, ſed qui ingens viaticum in aureis poculis ſecum
-portaret. Quae ei euenerint, per quos homines iter fecerit,
-vt ſacras in literas inciderit, vt omnis generis ſacris initiatus
-fuerit, recenſere non eſt vnius diei opera : quomodo ille nο-
-bis retulit, ſingula accurate commemorans. Quae verο ad
-praeſentem pertinent diſputationem, audite. Cum Carthagi-
-ne permultum temporis extraxiſſet, quod ea vrbs apud nοs
-poſt deletam veterem in rno eſt hunore : inuenit membra-
-na5 quaſdam ſacras humi abditas, dudum aetatem clam expor-
-tatas et latentes. Ae dixit, de iis, qui in deorum habentur
-nuerο, praecipuam venerationem Lunae deberi, vt quae
-plurimum iuris in vitam noſtram haberet : meque, vt eam ſtu-
-dioſius, quam alia numina, colerem, hortatus eſt. * Haec
-ego cum mirarer, et planius mihi explicari cuperem: Multa,
-inquit, ο Sγlla, de diis apud Graecοs, non omnia tamen re-
-ce dicuntur. Quale initiο ſtatim hoc occurrit, quod Cere-
-rem et Proſerpinam recte nominantes, non recte ſimul, et
-circa
-79. ἀσπασαμένυς vitioſe Ald.
-8ο. Prο
+μᾷν διαφερόντως τὴν σελήνην, ὡς τοῦ βίου κυριωτάτην
+οὖςαν. ... ἐχομένην.
+θαυμάζοντος δέ μου ταῦτα, καὶ δεομένου σαφέστερον
+ἀκοῦσαι · Πολλὰ, (εἶπεν) ὦ Σύλλα, περὶ θεῶν, οὐ πάν-
+τα δὲ καλῶς λέγεται παρ ᾽ Ἕλλησιν. οἷον εὐθὺς, ὀρ -
+θῶς Δήμητραν καὶ Κόρην ὀνομάζοντες, οὐκ ὀρθῶς ὁμοῦ
 
-
-### 0085
-
-PLVTARCI
-716
-942. 32.
-καὶ περὶ τὸν αὐτὸν ἀμφοτέρας ενα τόπον νομίζρσιν. n
-μἐν γὰρ ἐν γῆ καὶ κυρία τῶν περὶ γῆν ἐσιν, ἡ δ ᾽ ἐν σε-
-λήνη καὶ παρὰ τῶν ἐν τῆ σελήνη Κόρη τε καὶ lερσεφό-
-νη κέκληται· τὸ μὲν, ὐς φωσφόρος ξσα · Κόρη δὲ, ὅτι
-καὶ τῦ ὄμματος, ἐν ῷ τὸ εἴδωλον ἀντιλάμπει τῦ βλέ-
-ποντος, ωσπερ τὸ ἡλίς φέγγος ἐνορᾶται τῆ σελήνη, κο-
+καὶ περὶ τὸν αὐτὸν ἀμφοτέρας εἶναι τόπον νομίζουσιν. ἡ
+μὲν γὰρ ἐν γῇ καὶ κυρία τῶν περὶ γῆν ἐστιν, ἡ δ ᾽ ἐν σε-
+λήνῃ καὶ παρὰ τῶν ἐν τῇ σελήνῃ Κόρη τε καὶ Περσεφό-
+νη κέκληται · τὸ μὲν, ὡς φωσφόρος οὖσα · Κόρη δὲ, ὅτι
+καὶ τοῦ ὄμματος, ἐν ᾧ τὸ εἴδωλον ἀντιλάμπει τοῦ βλέ-
+ποντος, ὥσπερ τὸ ἡλίου φέγγος ἐνορᾶται τῇ σελήνῃ, κό-
 ρην προσαγορεύομεν. τοῖς τε περὶ τὴν πλάνην καὶ τὴν
-ήτησιν αὐτῶν λεγομένοις ἔνεςι 80
+ζήτησιν αὐτῶν λεγομένοις ἔνεστι* ...
 τὸ ἀληθές. ἀλλήλων γὰρ
-ἐφίενται χωρὶς ὐσαι, κα συμπλέκονται περὶ τὴν σκιὰν
-πολάκις. τὸ δὲ νῦν μὲν ἐν ἀρανῷ καὶ φωτὶ, νῦν δ ᾽ ἐν
+ἐφίενται χωρὶς οὖσαι, καὶ συμπλέκονται περὶ τὴν σκιὰν
+πολλάκις. τὸ δὲ νῦν μὲν ἐν οὐρανῷ καὶ φωτὶ, νῦν δ ᾽ ἐν
 σκότῳ καὶ νυκτὶ γενέσθαι περὶ τὴν Κόρην, ψεῦδος μὲν
-ἐκ ἔςιν· ὁ δὲ χρόνος · τῷ ἀριθμῷ πλάνην παρέσχηκεν.
-ἐ γὰρ ἔξ μῆνας, ἀλλὰ παρ ἐξ μῆνας, ὁρῶμεν αὐτὴν
-ὑπὸ τῆς γῆς, ὅσπερ ύπὸ τῆς μητρὸς, τῆ σκιᾶ λαμβα-
-νομίνην, ὀλιγάκς δὲ τῦτο ιὰ πέντε μηνῶν σπαρῦσαν ·
-ἐπὶ 8 τόν γε ἄδην ἀπολιπεῖν ἀδύνατόν ἐσιν αὐτὴν, τς
-circa eundem locum verſari ambas cenſent. Ceres enim in
-terra eſt, et terreſtrium effectorum poteſtate praedita : Prο-
-ſerpina in Luna eſt, et rebus praeeſt lunaribus : Perſephο-
-nes verο nomen et Cores, quod eſt puellae, apud eοs, qui
-in Luna ſunt, gerit Proſerpina: illud, quia lucifera ſit : hoc,
-quod etiam pupilla oculi ita Graecis appellatur, quia viſa res
-in ea conſpiciatur, haud ſecus, quam Sοl in Luna. Atque iis
-quoque de erroribus Proſerpinae, vtque fuerit a Cerere quae-
-ſita, fabulis, νeri aliquid ineſt. Nam ſeſe inuicem deſiderant
-diſiunctae : et in vmhra ſe mutuο ſaepe complectuntur. Et
-quοd Proſerpina modο in cοelο et lumine, modo in tenebris
-et nocte, dicitur eſſe: id mendacium non eſt : neque tempus
-errori anſam ſuο praebuit numerο. Non enim ſex menſes,
-ſed fere ſex menſes, videmus eam a terra, tanquam matre,
-ſub vmbra detineri: idque rarο, cum quinto poſt menſe ad-
-veniat. Nam impoſſibile eſt, vt Plutonem relinquat, cuius
-eſt.
-8ο. Prο ἔνεςι * τὸ legο ἔν- derunt Ald. et Baſ. admodum
-enim ſuſpecta eſt edit. Francf.
-εςί τι. γlander.
-81. Prο ὁ δὲ χρόνοςex Ald. fides, cum menda typographica
-et Baſ. in edit. Prancf. citatur haud pauca in ea reperiantur.
-ἀδὲ χρόνυ : verum Κylander 82. Prο ἐπεὶ dant εὶ Turn.
-vertit, ac ſi legiſſet ἀδὲ χρό- et Vulc. Sed ἐπὶ vitiaſe Ald.
-νος : et fortaſſe etiam ita de- et Baſ.
-83. Prο
+οὐκ ἔστιν · ὁ δὲ χρόνος* τῷ ἀριθμῷ πλάνην παρέσχηκεν.
+οὐ γὰρ ἓξ μῆνας, ἀλλὰ παρ ᾽ ἓξ μῆνας, ὁρῶμεν αὐτὴν
+ὑπὸ τῆς γῆς, ὥσπερ ὑπὸ τῆς μητρὸς, τῇ σκιᾷ λαμβα-
+νομένην, ὀλιγάκις δὲ τοῦτο διὰ πέντε μηνῶν σπαροῦσαν ·
+ἐπεὶ* τόν γε ᾅδην ἀπολιπεῖν ἀδύνατόν ἐστιν αὐτὴν, τοῦ
 
+ᾅδου περοῦσαν,* ὥσπερ καὶ Ὅμηρος ἐπικρυψάμενος, οὐ
+φαύλως τοῦτο εἶπεν ·
+Ἀλλ ᾽ ἐς ἠλύσιον πεδίον καὶ πείρατα γαίης.
+ὅπου γὰρ ἡ σκιὰ ἐπινεμομένη παύεται, τοῦτο τέρμα τῆς
+γῆς ἔθετο καὶ πέρας. εἰς δὲ τοῦτο φαῦλος μὲν οὐδεὶς, οὐδ ᾽
+ἀκάθαρτος, ἄνεισιν, οἱ δὲ χρηστοὶ μετὰ τὴν τελευτὴν
+κομισθέντες αὐτόθι, ῥᾷστον μὲν οὕτω βίον, οὐ μὴν μακά-
+ριον, οὐδὲ θεῖον, ἔχοντες, ἄχρι τοῦ δευτέρου θανάτου δια-
+τελοῦσι. τίς δὲ οὗτός ἐστιν · (ὦ Σύλλα) μὴ περὶ τούτων
+ἔρῃ. μέλλω γὰρ αὐτὸς διηγεῖσθαι. τὸν ἄνθρωπον οἱ
+πολλοὶ σύνθετον μὲν ὀρθῶς, ἐκ δυοῖν δὲ μόνον σύνθετον οὐκ
+ὀρθῶς ἡγοῦνται. μόριον γὰρ εἶναί πως ψυχῆς οἴονται τὸν
+νοῦν. νοῦς γὰρ ψυχῆς, ὅσῳ ψυχὴ σώματος, ἄμεινόν ἐστι
+καὶ θειότερον. ποιεῖ δὲ ἡ μὲν ψυχῆς σύνοδος λόγον τῶν
+τὸ μὲν ἡδονῆς ἀρχὴ καὶ πόνου, τὸ δ ᾽ ἀρετῆς καὶ κακίας.
+τριῶν δὲ τούτων συμπαγέντων, τὸ μὲν σῶμα ἡ γῆ, τὴν
+δὲ ψυχὴν ἡ σελήνη, τὸν δὲ νοῦν ὁ ἥλιος παρέσχεν εἰς τὴν
+γένεσιν. ... ὥσπερ οὖν τῇ σελήνῃ
 
-### 0086
-
-942. 47. DEFACIE IN ORBELVNAE. 717
-νλ
-μοε περῦσαν λ, ὅσπερ καὶ Oμηρος ἐπικρυψάμενος, s
-φαύλως τῦτο εἶπεν ·
-Ἀλ ᾽ ἐς ήλύσιον πεδίον καὶ περατα γαίης.
-οπυ γαρ ἡ σκιὰ ἐπινεμομένη παύεται, τῦτο τέρμα τῆς
-νγῆς ἔθετο καὶ πέρας. εἰς δὲ τῦτο φαῦλος μἐν ἀδεὶς, ἀδ
-ακάθαρτος, ἄεισιν, οἱ δὲ χρησοὶ μετὰ τὴν τελευτὴν
-κομισθέντες αὐτόθι, ρἀτον μἐν ὕτω βίον, ἐ μὴν μακά-
-ριον, ἀδὲ θῖον, ἔοντες, ἄχρι τῦ δευτέρα θανάτε δα-
-τελῦσι. τίς δὲὶ ὅτός ἐτιν; (ῶ Σύλα) μὴ περὶ τούτων
-ἔρη. μέλλω γὰρ αύτὸς δηγεῖσθαι. τὸν ἄνθρωπον ο
-πολοὶ σύνθετον μὲν ὁρθῶς, ἐκ δυοῖν δὲ μόνον σύνθετον ἐκ
-όρθῶς ἡγῦνται. μόριον γαρ εἶναί πως ψυχῆς οἴονται τὸν
-ω
-νεν. νοῦς γὰρ ψυχῆς, ὅσῳ ψυχὴ σώματος, ἄμεινόν ἐςι
-καὶ θειότερον. ποιε δὲ ἡ μὲν ψυχῆς σύνοδος λόγον τῶν
-τὸ μὲν ἡδονῆς ἀρχὴ καὶ πόνυ, τὸ δ ᾽ ἀρετῆς καὶ κακίας.
-τριῶν δὲ τύτων συμπαγέντων, τὸ μὲν σῶμα ἡ γῆ, τὴν
-δὲ ψυχὴν ἡ σελήνη, τὸν δὲ νν ὁ ἡλιος παρέσεν εἰς τὴν
-ῶσπερ ἐν τῆ σελήνη
-γένεσιν.
-eſt. Quοd et Homerus occulte quidem, ſed non inepte, ſi-
-gnifcauit :
-Elyβῖu in campιm, ι termiuς eſtat,
-Te ducent ſuperi.
-Vbi enim vmbra deſinit ingruere, eum terminum et finem
-terrae poſuit. In illum verο campum nemο improbus, aut
-impurus, venit : boni poſt mortem eo delati, facillimam qui-
-dem, non tamen heatam, aut diuinam, vitam agunt, vſque
-ad ſecundam mortem. Quae verο, ο Sγlla, haee eſt? aie-
-bam. Tum ille : Noli, inquit, de his quaerere : ſum enim
-ipſe narraturus. Hominem plerique compoſitum ſentiunt,
-recte hoc, non recte, quod e duahus tantu partibus con-
-ſtare putant : ſcil. mentem partem quodammodo animae eſſe
-opinantes. Etenim mens tanto eſt praeſtantior, quam anima,
-ac diuinior, quanto anima praeſtat cοrpori. Facit autem cοi-
-tus animae rationem eorum, quorum alterum voluptatis et
-doloris eſt principium, alterum virtutis et vitii. His trihus
-compactis, terra corpus, animam Luna, mentem Sοl creando
-homini praebuit. ſicut igitur Lunae ſplendorem. Mοrs au-
-ten,
-83. Prο περᾶσαν dant περ Francf. ſed videtur dediſſe πέ-
-κσαν Ald. et Baſ. περας ἀσαι ρας ἀσαν) Turn.
-vti enotatum eſt in edit.
-84. Poſt
-
-
-### 0087
-
-PLVTRCHI
-715
-943. 8.
-τὸ φέγγος. ὅν δ ᾽ ἀποθνήσκομεν θάνατον, ὁ μἐνἐκτριων
-δύο ποιῖ τὸν ἄνθρωπον, ὁ δὲ ἐν ἐκ δυοῖν. καὶ ὁ μέν ἐτιν
-ἐν τῇ τῆς Αήμητρος.
-ἐν αὐτῆ τε-
-λεῖν. καὶ τὐς νεκρὐς Ἀθηναῖοι Aημητρείες νόμαζον.
+τὸ φέγγος. ὃν δ ᾽ ἀποθνήσκομεν θάνατον, ὁ μὲν ἐκ τριῶν
+δύο ποιεῖ τὸν ἄνθρωπον, ὁ δὲ ἓν ἐκ δυοῖν. καὶ ὁ μέν ἐστιν
+ἐν τῇ τῆς Δήμητρος. ... ἐν αὐτῇ τε-
+λεῖν. καὶ τοὺς νεκροὺς Ἀθηναῖοι Δημητρείους ὠνόμαζον.
 τὸ παλαιὸν δ ᾽ ἐν τῇ σελήνῃ τῆς Περσεφόνης καὶ σύνοικός
-ἐτι, τῆς μὲν χθόνος ὁ Eράνιος. λύει δ
-αύτὴ μὲν ταχυ καὶ μετὰ βίας τὴν ψυχὴν ἀπὸ τῦ σω-
-ματος, ἡ δὲ Περσεφόνη πράως καὶ ρόνω πολλῷ τὸν νυν
-ἀπὸ τῆς ψυχῆς. καὶ διὰ τῦτο μονογενὴς κέκληται. μο-
-νον γὰρ γίνεται τὸ βέλτιον τῦ ἀνθρώπς διακρινόμενον ύπ
-αὐτῆς. συντυγχάνει δὲ ΰτως κατὰ φύσιν ἐκάτερον, πα-
-σαν ψυχὴν, ἀνεν τε καὶ σώματος ἐκπεσῦσαν, εἶ-
-μαρμένον ἐσὶ τῷ μεταξὐ γῆς καὶ σελήνης χωρίω πλανη-
-θῆναι χρόνον ἐκ ἴσον. ἀλ αὶ μἐν ἄδικοι καὶ ἀκόλατοι
-δίκας των ἀδικημάτων τίνεσι · τὰς δ ᾽ επιεικεῖς, ὅσον ἀ-
-φαγνεῦσαι καὶ ἀποπνεῦσαι ἀπὸ τῦ σώματος, ὡσπεραὶ-
-τίς πονηρῦ, μιασμὐς, ἐν τῷ πραοτάτω τῦ ἀέρος, ν λει-
-μῶνας ἄδυ καλῦσι, οει γίνεσθαι χρόνον τινὰ τεταγμέ-
-νον. εἶτα οἶον ἐξ ἀποδημίας ἀνακομιζόμεναι φυγαδικης
-εἰς πατρίδα γεύονται χαρᾶς, οἴαν οὶ τελόμενοι μάλιτα
-θορύβω καὶ πτοήσει συγκεκραμένη μετ ᾽ ἐλπίδος ἰδίας ἔ-
-tem, quam obimus, alia ex tribus duο facit hominem, alia
-vnum e duobus. Et alter eſt in Cereris * in ipſa confcere :
-et mortuos Athenienſes Demetreos, hoc eſt Cereales, dixe-
-runt. Antiquitus autem in Luna *Prοſerpinae. et huius
-quidem contubernalis eſt Mercurius terreſtris, illius coeleſtis.
-Soluit autem ipſa celeriter ac vi animam a corpore : mentem
-ab anima leniter et longo temporis decurſu Proſerpina : ideο-
-que vnigenita appellatur : vnica enim fit hominis melior pars,
-ab ea ſecreta. Euenit autem ſic ſecundum naturam vtrum-
-que. Omnis anima, ſiue praedita, ſiue carens mente, νbi
-primum e corpore exiit, fati lege ad tempus vagatur ea in
-regione, quae terram et Lunam interiacet. Verum non idem
-eſt omnibus tempus praeſeriptum. Impiae enim et intempe-.
-rantes poenas flagitiorum luunt, piae certum tempus, quan-
-tum ad luſtrandum, et corporis, vtpote malae cauſae, pollu-
-tiones abolendum ſuffcit, in aèris puriſſima parte degunt,
-quam prata Ditis appellant : deinde veluti ah exſilio in pa-
-triam reductae, gaudium deguſtant, quale maxime percipiunt,
-qui ſacris initiantur, trepidatione ac ſuaui ſpe permixtum.
-Mul-
+ἐστι, τῆς μὲν χθόνιος ὁ Ἑρμῆς, τῆς δ ᾽ οὐράνιος. λύει δ ᾽
+αὐτὴ μὲν ταχὺ καὶ μετὰ βίας τὴν ψυχὴν ἀπὸ τοῦ σώ-
+ματος, ἡ δὲ Περσεφόνη πρᾴως καὶ χρόνῳ πολλῷ τὸν νοῦν
+ἀπὸ τῆς ψυχῆς. καὶ διὰ τοῦτο μονογενὴς κέκληται. μό-
+νον γὰρ γίνεται τὸ βέλτιον τοῦ ἀνθρώπου διακρινόμενον ὑπ ᾽
+αὐτῆς. συντυγχάνει δὲ οὕτως κατὰ φύσιν ἑκάτερον, πᾶ-
+σαν ψυχὴν, ἄνουν τε καὶ σὺν νῷ σώματος ἐκπεσοῦσαν, εἱ-
+μαρμένον ἐστὶ τῷ μεταξὺ γῆς καὶ σελήνης χωρίῳ πλανη-
+θῆναι χρόνον οὐκ ἴσον. ἀλλ ᾽ αἱ μὲν ἄδικοι καὶ ἀκόλαστοι
+δίκας τῶν ἀδικημάτων τίνουσι · τὰς δ ᾽ ἐπιεικεῖς, ὅσον ἀ-
+φαγνεῦσαι καὶ ἀποπνεῦσαι ἀπὸ τοῦ σώματος, ὥσπερ αἰ-
+τίου πονηροῦ, μιασμοὺς, ἐν τῷ πρᾳοτάτῳ τοῦ ἀέρος, ὃν λει-
+μῶνας ᾅδου καλοῦσι, δεῖ γίνεσθαι χρόνον τινὰ τεταγμέ-
+νον. εἶτα οἷον ἐξ ἀποδημίας ἀνακομιζόμεναι φυγαδικῆς
+εἰς πατρίδα γεύονται χαρᾶς, οἵαν οἱ τελούμενοι μάλιστα
+θορύβῳ καὶ πτοήσει συγκεκραμένῃ μετ ᾽ ἐλπίδος ἰδίας ἔ-
 
-
-### 0088
-
-943.27. DE FACIE IN ORBE LVNAE.
-719
-χυσι. πολὰς γὰρ ἐξωθεῖ καὶ ἀποκυματίει γλιχμέ-
+χουσι. πολλὰς γὰρ ἐξωθεῖ καὶ ἀποκυματίζει γλιχομέ-
 νας ἤδη τῆς σελήνης. ἐνίας δὲ καὶ τῶν ἐκεῖ περὶ κάτω
-τρεπομένας, οἶον ες βυθὸν αὐθις ὁρῶσι καταγινομένας.
-αὶ δ ᾽ ἄνω γενόμεναι, καὶ βεβαίως ἱδρύθησαν, πρῶτον
-μὲν, ώσπεροἶ νικηφόροι περιίσὰσιν ἀναδάμενοι τεφάνοις
-πτερῶν εύσταθείας λεγομένας, ὅτι τῆς ψυχῆς τὸ ἄλο-
-γον καὶ τὸ παθητικὸν, εύήνιον ἐπιεικῶς τῶ λόγῳ καὶ κε-
-κοσμημένον ἐν τῷ βῳ παρέσχοντο. δεύτερον **, ἀκτινι
-τὴν ὅψιν ἐοικέναι, περὶ δὲ τὴν ψυχὴν ἄνω κεφιζομένην,
-ῶσπερ ἐνταῦθα τὸ περὶ τὴν σελήνην αἰθέρι, καὶ τόνον
-ἀφ ᾽ αὐτῦ καὶ δύναμιν, οἶν τὰ τομύμενα βαφὴν ἴσχε-
-σι. τὸ γὰρ ἀραιὸν ἔτι καὶ διακεχυμένον ρώννυται, καὶ
-γίνεται ταθερον καὶ διαυγἐς, ώστε ὑπὸ τῆς τυχύσης ἀ-
-ναθυμιάσεως τρέφεσθαι. καὶ καλῶς Hράκλειτος εἶπεν,
-οτι αὶ ψυχαὶ ὀσμῶνται καθ ᾽ ᾀδην · ἐφορῶσι δὲ πρῶτον
-μὲν αύτῆς σελήνης τὸ μέγεθος, καὶ τὸ κάλλος, καὶ τὴν
-φύσν,, χ ππλν, ύδδ ὄμικτον, ἀλ ᾽ οἶον ἄτρο σύγκρα-
-μα καὶ γῆς ξσαν. ἀς γὰρ ἡ γῆ πνεύματι μεμιγμένη
-καὶ ὑγρῳ μαλακὴ γέγονε, καὶ τὸ αἶμα τῇ σαρκὶ παρέ-
-χει τὴν αἴσθησιν ἐγκεκραμένον · ὕτω τῷ αὶθέρι λέγουσι
-Multas enim extrudit, aeſtuandoque proiicit, iamiam Lunam
-ſubire affectantes : nonnullas etiam, quae iam eο peruene-
-rint, ſuhuerſas vident tanquam in profundum deuolui. Quae
-autem ſurſum euaſerunt, ac firmiter ſunt collocatae, primum,
-vt ſolemni certamine victores, coronantur pennis, quae con-
-ſtantiae dicuntur : quia animae vim brutam et motibus vagiς
-obnoxiam in vita rationi obſequentem compoſitamque hbue
-rint. Deinde viſus eοrum radiis eſt ſimilis. Circa animam
-autem ſurſum ſubleuatam, ſicut hic, quod circa Lunam eſt,
-aethere : et a eο vim quandam roburque accipiunt, vt fer-
-rum candens aquae immerſum. Quod enim rarum adhuc eſt
-et diffuſum, roboratur, fitque ſtabile et pellucidum : ita vt a
-quauis exhalatione nutriatur. Et praeclare dixit Heracletus,
-Animas in Orcο οdorari. Conſpiciunt autem primum ipſius
-Lunae magnitudinem et pulchritudinem ac naturam : non ſim-
-plicem, aut ſinceram eam, ſed aliquid e terra et ſtella con-
-temperatum. Sicut enm terra ſpiritu mixta et humore mollis
-eſt 1acta, et ſanguis carni admixtus ſenſum praebet : ita aethe-
-84. Poſt δεύτερον inſerunt δὲ Turn. et Vulc.
-85. Prο
+τρεπομένας, οἷον εἰς βυθὸν αὖθις ὁρῶσι καταγινομένας.
+αἱ δ ᾽ ἄνω γενόμεναι, καὶ βεβαίως ἱδρύθησαν, πρῶτον
+μὲν, ὥσπερ οἱ νικηφόροι περιϊστᾶσιν ἀναδούμενοι στεφάνοις
+πτερῶν εὐσταθείας λεγομένας, ὅτι τῆς ψυχῆς τὸ ἄλο-
+γον καὶ τὸ παθητικὸν, εὐήνιον ἐπιεικῶς τῷ λόγῳ καὶ κε-
+κοσμημένον ἐν τῷ βίῳ παρέσχοντο. δεύτερον,* ἀκτῖνι
+τὴν ὄψιν ἐοικέναι, περὶ δὲ τὴν ψυχὴν ἄνω κουφιζομένην,
+ὥσπερ ἐνταῦθα τὸ περὶ τὴν σελήνην αἰθέρι, καὶ τόνον
+ἀφ ᾽ αὑτοῦ καὶ δύναμιν, οἷον τὰ στομούμενα βαφὴν ἴσχου-
+σι. τὸ γὰρ ἀραιὸν ἔτι καὶ διακεχυμένον ῥώννυται, καὶ
+γίνεται σταθερὸν καὶ διαυγὲς, ὥστε ὑπὸ τῆς τυχούσης ἀ-
+ναθυμιάσεως τρέφεσθαι. καὶ καλῶς Ἡράκλειτος εἶπεν,
+ὅτι αἱ ψυχαὶ ὀσμῶνται καθ ᾽ ᾅδην · ἐφορῶσι δὲ πρῶτον
+μὲν αὐτῆς σελήνης τὸ μέγεθος, καὶ τὸ κάλλος, καὶ τὴν
+φύσιν, οὐχ ἁπλῆν, οὐδ ᾽ ἄμικτον, ἀλλ ᾽ οἷον ἄστρου σύγκρα-
+μα καὶ γῆς οὖσαν. ὡς γὰρ ἡ γῆ πνεύματι μεμιγμένη
+καὶ ὑγρῷ μαλακὴ γέγονε, καὶ τὸ αἷμα τῇ σαρκὶ παρέ-
+χει τὴν αἴσθησιν ἐγκεκραμένον · οὕτω τῷ αἰθέρι λέγουσι
 
-
-### 0089
-
-PLVTARCHI
-72ο
-943. 45.
-τὴν σελήνην 5 ἀνακεκραμένην διὰ βάθυς, ἄμα μὲν ἔμ-
-ψυχον εἶναι καὶ γόνιμον, αμα δ ἰσόρροπον ἔχειν τὴν πρὸς
-τὸ βαρὐ συμμετρίαν τῆς κυφότητος. καὶ γὰρ αύτὸν υ-
+τὴν σελήνην* ἀνακεκραμένην διὰ βάθους, ἅμα μὲν ἔμ-
+ψυχον εἶναι καὶ γόνιμον, ἅμα δ ᾽ ἰσόῤῥοπον ἔχειν τὴν πρὸς
+τὸ βαρὺ συμμετρίαν τῆς κουφότητος. καὶ γὰρ αὐτὸν οὕ-
 τω τὸν κόσμον ἐκ τῶν ἄνω καὶ τῶν κάτω φύσει φερομέ-
-νων συνηρμοσμένον, ἀπηλάχθαι παντάπασι τῆς κατὰ
-τόπον κινήσεως. ταῦτα δὲ καὶ ᾶενοκράτης ἔοικεν ἐννοη-
-σαι θείω τινὶ λογισμῶ, τὴν ἀρχὴν λαβών παρὰ λά-
-τωνος. Πλάταν γάρ ἐτιν ὁ καὶ τῶν ἀτέρων ἔκατον ἐκ
-γῆς καὶ πυρος συνηρμόσθαι διὰ τῶν μεταξὐ φύσεων άνα-
-λογία δοθεισῶν ἀοφηνάμενος. ὐδὲν 6 γὰρ εὶς αἴσθη-
-σι ἐξικνεῖσθαι, ὑ μή τι γῆς ἐμμέμικται καὶ φωτός. ὁ
-δὲ Zενοκράτης τὰ μὲν ἄτρα καὶ τὸν ἤλιον ἐκ πυρός φησι
-καὶ τῦ πρώτυ πυκνῦ συγκεῖσθαι, τὴν δὲ σελήνην ἐκ τε
-δευτέρε πυκνῦ καὶ τῦ δίς ἀέρος, τὴν δὲ γῆν ἐξ ὑδατος
-2
-καὶ πυρὸς καὶ τῦ τρίτυ τῶν πυκνῶν. ὄλως δὲ μήτε τὸ
-πυκνὸν αὐτὸ καθ αὐτὸ, μήτε τὸ μανὸν εἶναι ψυχῆς δε-
-κτικόν. καὶ ταῦτα μὲν περὶ ἀσίας σελήνης. εὐρος δὲ
-καὶ μέγεθος, ύχ όσον οὶ γεωμέτραι λέγεσιν, ἀλα μεῖ-
-ζον πολῶ 7 ἐςί. καταμετρεῖ δὲ τὴν σκιὰν τῆς γῆς όλι-
-ri aiunt Lunam profunde permixtam, ſimul et animatam eſſe
-et foecundam, et grauitatis leuitatisque aequalia momenta
-habere. Nam ipſum quoque mundum ex iis, quae ſurſum,
-et iis, quae deorſum feruntur, natura contemperatum, ab
-omni mutatione loci eſſe liberum. Haec etiam Xenocrates
-diuina quadam ratiocinatione videtur deprehendiſſe, a Platο-
-ne ſumto prineipio. Platο enim eſt, qui ſtellarum quoque
-vnamquamlibet ex terra et igni concinnatam pronunciauit per
-intermedias naturas proportione datas : nihil enim ſentiri,
-cui nihil terrae et luminis ſit admixtum. Κenocrates autem
-ſtellas et Solem ex igne ait et primο denſo compoſitas : Lu-
-nam autem ex ſecundο denſο, et peculiari aëre : terram eκ
-aqua, 1gnὶ, et tertiο denſο : omnino autem neque denſum
-ipſum per ſe, neque rarum eſſe capax animae. Atque haec
-quidem de ſubſtantia Lunae. Latitudinem autem eius et ma-
-gnitudinem, non quantam geometrae dicunt, ſed multis mo-
-dis maiorem. Dimetitur autem vmbram paululum ſuis ma-
-gnitu-
-85. Prο τὴν σελήνην Turn. 87. Prο πολλῷ dant πολ-
-λακις Ald. et Baſ.
-nabet τὴν γῆν.
-86. 2δένα Ald. et Baſ.
-88. ἀνα-
+νων συνηρμοσμένον, ἀπηλλάχθαι παντάπασι τῆς κατὰ
+τόπον κινήσεως. ταῦτα δὲ καὶ Ξενοκράτης ἔοικεν ἐννοῆ-
+σαι θείῳ τινὶ λογισμῷ, τὴν ἀρχὴν λαβὼν παρὰ Πλά-
+τωνος. Πλάτων γάρ ἐστιν ὁ καὶ τῶν ἀστέρων ἕκαστον ἐκ
+γῆς καὶ πυρὸς συνηρμόσθαι διὰ τῶν μεταξὺ φύσεων ἀνα-
+λογίᾳ δοθεισῶν ἀποφῃνάμενος. οὐδὲν* γὰρ εἰς αἴσθη-
+σιν ἐξικνεῖσθαι, ᾧ μή τι γῆς ἐμμέμικται καὶ φωτός. ὁ
+δὲ Ξενοκράτης τὰ μὲν ἄστρα καὶ τὸν ἤλιον ἐκ πυρός φησι
+καὶ τοῦ πρώτου πυκνοῦ συγκεῖσθαι, τὴν δὲ σελήνην ἐκ τοῦ
+δευτέρου πυκνοῦ καὶ τοῦ ἰδίου ἀέρος, τὴν δὲ γῆν ἐξ ὕδατος
+καὶ πυρὸς καὶ τοῦ τρίτου τῶν πυκνῶν. ὅλως δὲ μήτε τὸ
+πυκνὸν αὐτὸ καθ ᾽ αὑτὸ, μήτε τὸ μανὸν εἶναι ψυχῆς δε-
+κτικόν. καὶ ταῦτα μὲν περὶ οὐσίας σελήνης. εὖρος δὲ
+καὶ μέγεθος, οὐχ ὅσον οἱ γεωμέτραι λέγουσιν, ἀλλὰ μεῖ-
+ζον πολλῷ* ἐστί. καταμετρεῖ δὲ τὴν σκιὰν τῆς γῆς ὀλι-
 
-
-### 0090
-
-944. 6. DE FACIE IN ORBELVNAE. 71
 γάκις τοῖς ἐαυτῦ μεγέθεσιν, ἀχ ὑπὸ σμικρότητος, ἀλ-
 λὰ θερμοτάτην δ8 ἐπάγει τὴν κίνησιν, πως ταχὐ δια-
 περᾶ τὸν σκοτώδη τόπον ὑπεκφέροσα τὰς ꝰ τῶν ἀγα-
@@ -573,7 +372,6 @@ nabet τὴν γῆν.
 καῦτα διὰ τῆς σκιὰς όδυρόμεναι, ἀλαλάζρσι διαφερόν-
 τως 22. διὸ καὶ κροτεῖν ἐν ταῖς ἐκλείψεσιν είώθασιν οἱ
 πλεῖσοι χαλκώματα, καὶ ψόφον ποιεῖν καὶ πάταγον
-05
 ἐπὶ τάς ψυχάς. ἐκφοβεῖ δ ᾽ αύτας καὶ τὸ καλύμενον
 πρόσωπον, ὅταν ἐγγὐς γένωνται, βλοσυρόν τι καὶ φρι-
 κωδες δρώμενον. ἔτι δ ᾽ ὐ τοιῦτον, ἀλλ ὅσπερ ἡ παρ ἡ-
