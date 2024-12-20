@@ -12,15 +12,22 @@
 
 *) Carere initiο librum, quod est, esse ἀκέφαλον, nοn est obscurum: Syllae huius etiam in aliis libris est mentio nostri Plutarchi. _Xylander._
 
-*)
+*) Ρrο τὸ Φαινόμενον εἶδος Turn. dat τὸ καλουμενον πρόσωπον.
 
-*)
+*) ὃ ⋆ καλοῦμεν] Forte ὃ ἀμβλυώττειν καλοῦμεν. _Xylander._ Ex Turn. affertur: ὅπερ ἀνάκλασιν, vel ἀνακλᾶσθαι, καλοῦμεν.
 
 Ἥλιος ὀξυμελης, ἠδὲ λάϊνα σελήνη* ·
 
-*)
+*) ἡ δὲ λάϊνα σελήνη] Versum corrigere vix ausim, etsi fortasse prο ἡ δὲ scriptum fuit a pοëta ἡ δ ᾽ αὖ, vel ἠδ ᾽ αὖ: sed prο λάϊνα, minime dubium est, legendum esse Ἱλάειρα. [et sane Turn. et Vulc. dant ἡ δὲ ἱλάειρα] Lunae enim nomen est Ἱλάειρα, quοd non Hesychius modo annotauit, sed etiam versus exstat Empedoclis in Simplicii in Aristotelis Physica commentariis:  
+Ἡ δὲ Φλὸξ Ἱλάειρα μίνυνθα δίης τυχε γαίης.  
+_Obtigit et flammae lunari portio terrae._  
+Iam Apollodorus bibliothecae lib. 3. Phoeben et Ilairam Leucippi et Philοdices, Inachi filiae, filias facit: quarum hanc Castοr, illam Pollux duxerit uxοrem: quod idem est apud Scholiasten Hοmeri Iliad. γ. ad versum 243. Atqui _Phoeben_ vocari Lunam notissimum est, minimeque fallit, pοëtarum fabulis etiam astronomica fuisse antiquirus involuta. Quid quod Plutarchus ἐτυμολογῶν hοc lοcο, Lunae nomen παρὰ τὸ ἱλαρὸν deducit? Nοn ergο iam _saxeam lunam_, sed _renidentem et suaviter fulgentem_, habent lectores: restitutamque sibi Empedoclis sententiam: et ὀξυβελὴς suspicοr, non ὀξυμελὴς, legendum. _Xylander._ ὀξυβελὴς dant etiam Turn. et Vulc.
 
 τὸ ἐπαγωγὸν αὐτῆς καὶ ἱλαρὸν καὶ ἄλυπον οὕτω προσαγορεύσας. ἔπειτα λόγον ἀποδιδους, καθ ᾽ ὃν αἱ ἀμυδραὶ καὶ ἀσθενεῖς ὄψεις οὐδεμίαν διαφορὰν ἐν τῇ σελήνῃ μορφῆς ἐνορῶσιν, ἀλλὰ λεῖος αὐταῖς ἀντιλάμπει καὶ περίπλεως αὐτῆς ὁ κύκλος. οἱ δ ᾽ ὀξὺ καὶ σφοδρὸν ὁρῶντες, ἐξακριβοῦσι μᾶλλον, καὶ διαστέλλουσιν ἐκτυπούμενα τὰ εἴδη τοῦ προσώπου, καὶ τῆς διαφορᾶς ἅπτονται σαφέστερον. ἔδει γὰρ (οἶμαι) τοὐναντίον, εἴπερ ἡττωμένου τὰ* ... ὄμματος ἐποίες τὴν φαντασίαν. ὅπου τὸ πάσχον ἀσθενέστερον εἶναι, τὸ φαινόμενον. ἡ δ ᾽ ἀνωμαλία καὶ παντάπασιν ἐλέγχει τὸν λόγον. οὐ γάρ ἐπὶ συνεχοῦς σκιᾶς καὶ συγκεχυμένης ὄψις. ἀλλ ᾽ οὐ φαύλως ὑπογράφων ὁ Ἀγησιάναξ* εἴρηκε ·
+
+*) Ex Turn. affertur τοῦ ὂμματος.
+
+*) ὁ Ἡγησιάναξ Turn. et Vulc.
 
 Πᾶσα μὲν ἥδε πέριξ πυρὶ λάμπεται, ἐν δ ᾽ ἄρα μέσσῃ ... Γλαυκότερον κυάνοιο φαείνεται ἠΰτε κοῦρος*
 
