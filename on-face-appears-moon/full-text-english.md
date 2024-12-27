@@ -18,321 +18,82 @@
 
 ## Preface.
 
-A few words of apology seem to be needed for the form 
-in which this translation is presented. It was printed, 
-without any idea of publication, in order to obtain a full 
-revision by others, and to clear the ground for some further 
-attempt to deal with the textual and other difficulties 
-of this dialogue, before proceeding with other parts of 
-Plutarch's _Moralia_. As, however, it was clear that this 
-revision could be better obtained if the draft were circu- 
-lated more freely among a public, however limited, and as 
-I was encouraged to think that the dialogue might interest 
-some general readers, I decided to put it out as it stands, 
-the printer adding some necessary aids, such as the inser- 
-tion in the margin of the names of successive speakers. 
-I have included notes on a few of the textual difficulties 
-(to which my attention had been called by an eminent 
-scholar, and which were my primary interest), and an 
-introductory note calling attention to parts of the subject 
-matter which seem to deserve the fuller consideration of 
-competent persons. 
+A few words of apology seem to be needed for the form in which this translation is presented. It was printed, without any idea of publication, in order to obtain a full revision by others, and to clear the ground for some further attempt to deal with the textual and other difficulties of this dialogue, before proceeding with other parts of Plutarch's _Moralia_. As, however, it was clear that this revision could be better obtained if the draft were circulated more freely among a public, however limited, and as I was encouraged to think that the dialogue might interest some general readers, I decided to put it out as it stands, the printer adding some necessary aids, such as the insertion in the margin of the names of successive speakers. I have included notes on a few of the textual difficulties (to which my attention had been called by an eminent scholar, and which were my primary interest), and an introductory note calling attention to parts of the subject matter which seem to deserve the fuller consideration of competent persons. 
 
-The text followed throughout has been that of 
-Wyttenbach's Oxford edition. I have, I hope, called 
-attention to every deviation from his readings, _i. e._, from 
-those to be found in his text, or his translation, or his 
-critical notes. I have derived much assistance from the 
-Teubner edition throughout, and owe to it, in most cases, 
-my first knowledge of modern corrections, including those 
-of M. Bernardakis himself. As I have explained, I had 
-not the materials for a continuous critical commentary. 
-The few attempts which I have made at reconstruction 
-may be thought somewhat hazardous ; they might possibly 
-seem less unjustifiable if the reader had before him the 
-whole history of the text and of the corrections made by 
-the great Renaissance scholars. I had entertained some 
-hope that the severe nature of the subject matter, and the 
+The text followed throughout has been that of Wyttenbach's Oxford edition. I have, I hope, called attention to every deviation from his readings, _i. e._, from those to be found in his text, or his translation, or his critical notes. I have derived much assistance from the Teubner edition throughout, and owe to it, in most cases, my first knowledge of modern corrections, including those of M. Bernardakis himself. As I have explained, I had not the materials for a continuous critical commentary. The few attempts which I have made at reconstruction may be thought somewhat hazardous; they might possibly seem less unjustifiable if the reader had before him the whole history of the text and of the corrections made by the great Renaissance scholars. I had entertained some hope that the severe nature of the subject matter, and the frequent references by Plutarch to older writers, might make it possible to proceed by way of hypothesis within fixed limits, and so to obtain a closer estimate of the general fidelity of the manuscripts which we have. However this may turn out, I have introduced no readings resting on hypothesis into the translation except in ch. 19, where an express reference to a passage of Aristotle seems to give a sure clue, and in ch. 26, where a rendering of αὐτοκράτορα (for παρακάτω) has slipped in almost by inadvertence.
 
+Besides the unusually faulty state of the text, and its many _lacunæ_, this dialogue is difficult because the ground is unbroken; there is no commentary. The notes of Wyttenbach on other parts of the _Moralia_ have been very helpful, and those of Holden on some of the _Lives_. But for the most part, a reader or editor of the _De Facie_ must raise questions for himself, and then seek their solution. 
 
-frequent references by Plutarch to older writers, might 
-make it possible to proceed by way of hypothesis within 
-fixed limits, and so to obtain a closer estimate of the 
-general fidelity of the manuscripts which we have. How- 
-ever this may turn out, I have introduced no readings 
-resting on hypothesis into the translation except in ch. xix, 
-where an express reference to a passage of Aristotle seems 
-to give a sure clue, and in ch. xxvi, where a rendering 
-of avroKpdropa (for irapaKaTco) has slipped in almost by 
-inadvertence. 
+The special nature of the subject matter may be of help in dealing with the text; it brings in difficulties of its own. An excellent Spanish proverb, which I hope may be allowed to do service once again, will explain what I mean:--- "It takes four men to make a salad; a spendthrift for the oil, a miser for the vinegar, a statesman for the salt, and a madman to stir."* The Astronomer, the critical Scholar, and the philosopher, all have their rights in this dialogue ---
 
-Besides the unusually faulty state of the text, and its 
-many lacuna, this dialogue is difficult because the ground 
-is unbroken ; there is no commentary. The notes of 
-Wyttenbach on other parts of the Moralia have been very 
-helpful, and those of Holden on some of the Lives. But 
-for the most part, a reader or editor of the De Facie must 
-raise questions for himself, and then seek their solution. 
+"Three guests, I find, for different dishes call,  
+And how's one host to satisfy them all?"
 
-The special nature of the subject matter may be of help 
-in dealing with the text ; it brings in difficulties of its own. 
-An excellent Spanish proverb, which I hope may be 
-allowed to do service once again, will explain what I 
-mean : — « it takes four men to make a salad ; a spendthrift 
-for the oil, a miser for the vinegar, a statesman for the salt, 
-and a madman to stir." * The Astronomer, the critical 
-Scholar, and the philosopher, all have their rights in this 
-dialogue — 
+*) By the good offices of a friend I can give this in the original:--- "Se necesitan cuatro para hacer una ensalada: un pródigo para el aceite, un avaro para el vinagre, un cuerdo para la sal y un loco para revolverla." --- From Diez, _Dictionary of the Romance Languages_, I gather that "loco" is by etymology "an owl."
 
-" Three guests, I find, for different dishes call, 
-And how's one host to satisfy them all ? " 
+Here the translator has been the guest, and the others the hosts. I have to acknowledge help generously and unsparingly given by several kind friends; if I do not name them, modesty is the cause, and not ingratitude. But there are limits to the advantageous use of the method of question and answer, which lie not in the patience of the experts consulted, but in the capacity of the questioner to put the right questions. Continuous co-operation may bring its own mischances, too. Failing the good fortune of some scholar who can speak familiarly the language of Science intervening, the "madman" must have the last hand in the dish.
 
-Here the translator has been the guest, and the others the 
-hosts. I have to acknowledge help generously and un- 
-sparingly given by several kind friends ; if I do not name 
-them, modesty is the cause, and not ingratitude. But 
-there are limits to the advantageous use of the method of 
-question and answer, which lie not in the patience of the 
-experts consulted, but in the capacity of the questioner to 
-put the right questions. Continuous co-operation may 
+I have specially mentioned two books which have been of the utmost service to me throughout: Kepler's annotated translation, the work of the last clouded years of a great life (though Plutarch's treatise had been an inspiration to him from an early time), and Dreyer's _Planetary Systems_, to which I have often referred, but might properly have referred much oftener. Günther's translation of Kepler's "Somnium" (Leipzig, 1898), which does not include Plutarch's dialogue, has a full account of Kepler's work upon it, and some excellent diagrams. Ebner's Essay on the Geographical matter in Plutarch (Munich, 1906) is full of interest, and he, too, has closely studied Kepler.
 
-* By the good offices of a friend I can give ibis in the original:— "Se 
-necesitan cuatro para hacer una ensalada : un prodigo para el aceite, un avaro 
-para el vinagre, un cuerdo para la sal y un loco para revolverla. "— From Diez, 
-Dictionary of the Romance Languages, I gather that "loco" is by etymology 
-"an owl." 
+In speaking of astronomical subjects, I have made no attempt to give explanations, being in no degree qualified to do so, except that I have attempted to realise, and convey to a reader, the conditions of knowledge under which Plutarch wrote. As it happened that a lunar eclipse took place while these sheets were being printed, I have availed myself of it to introduce a diagram prepared (roughly, no doubt) from the data contained in the "Nautical Almanack" of 1910. That printed on the cover is reproduced, by kind permission of Mr. R. Painton and the publishers of the _English Mechanic and World of Science_, from their paper of November 25th, 1910; it represents the moon shortly before totality on the night of the 16th.
 
+I have added a translation of Cicero's _Somnium Scipionis_, partly because a second view of Astronomy in ancient literature seemed likely to round off and complete that given in Plutarch, partly from an uneasy feeling that the Stoics hardly received fair play in the _De Facie_. At least they were sound on the Antipodes, and on a globular Earth. It is fortunate that they, and Latin literature also, can be represented by such a master of clear speech as this pupil of Poseidonius. And I have been fortunate in securing here the help of a very old friend, of whose Latinity I was as well assured as of his constant kindness; otherwise I might have shrunk from the attempt to render such a masterly specimen of the conversation of men whose ideal combined a "leisure" full of noble interests, with a "dignity" which was one thing with public duty.
 
-bring its own mischances, too. Failing the good fortune 
-of some scholar who can speak familiarly the language 
-of Science intervening, the " madman " must have the last 
-hand in the dish. 
+Lastly, I hope that some indulgence may be accorded, if it should be necessary, to the "loco" who undertakes, even when helped by the best of printers, to be his own proof-reader.
 
-I have specially mentioned two books which have been 
-of the utmost service to me throughout: Kepler's annotated 
-translation, the work of the last clouded years of a great 
-life (though Plutarch's treatise had been an inspiration to 
-him from an early time), and Dreyer's Planetary Systems, 
-to which I have often referred, but might properly have 
-referred much oftener. Giinther's translation of Kepler's 
-" S omnium" (Leipzig, 1898), which does not include 
-Plutarch's dialogue, has a full account of Kepler's work 
-upon it, and some excellent diagrams. Ebner's Essay on 
-the Geographical matter in Plutarch (Munich, 1906) is full 
-of interest, and he, too, has closely studied Kepler. 
+## Introductory Note.
 
-In speaking .of astronomical subjects, I have made no 
-attempt to give explanations, being in no degree qualified 
-to do so, except that I have attempted to realise, and 
-convey to a reader, the conditions of knowledge under 
-which Plutarch wrote. As it happened that a lunar eclipse 
-took place while these sheets were being printed, I have 
-availed myself of it to introduce a diagram prepared 
-(roughly, no doubt) from the data contained in the 
-" Nautical Almanack " of 1910. That printed on the 
-cover is reproduced, by kind permission of Mr. R. Painton 
-and the publishers of the English Mechanic and World of 
-Science, from their paper of November 25th, 19 10 ; it 
-represents the moon shortly before totality on the night 
-of the 1 6th. 
+The opening chapters of the Dialogue being lost, we have no clue to the place where it is supposed to take place, nor to the time --- unless one is given by the Eclipse of the Sun mentioned by Lucius in c. 19 --- and some points in the actual course of the discussion require a word of explanation. This can be most readily supplied by an enumeration of the speakers, in the order of their appearance, followed by a short analysis of the argument. Where the names are those of real persons living in Plutarch's lifetime, or of those who appear in other dialogues, I assume identity.
 
-I have added a translation of Cicero's Somnium Scipi- 
-onis, partly because a second view of Astronomy in ancient 
-literature seemed likely to round off and complete that 
-given in Plutarch, partly from an uneasy feeling that the 
-Stoics hardly received fair play in the De Facie. At least 
-they were sound on the Antipodes, and on a globular 
-Earth. It is fortunate that they, and Latin literature also, 
-can be represented by such a master of clear speech as 
-this pupil of Poseidonius. And I have been fortunate in 
+## Persons of the Dialogue. 
 
+1\. Sextius _Sylla_, the Carthaginian, mentioned in the _Life of Romulus_ (c. 15) as "a man wanting neither learning nor ingenuity," who had supplied Plutarch with a piece of archæological information. Elsewhere (_De cohib. ira._ c. 1) he is addressed as "O most eager Sylla!" In another dialogue he declines to be led into a discussion on all cosmology by answering the question "whether the egg or the bird comes first?" (_Quaest conv._ 2, 3).
 
-securing here the help of a very old friend, of whose 
-Latinity I was as well assured as of his constant kindness ; 
-otherwise I might have shrunk from the attempt to render 
-such a masterly specimen of the conversation of men whose 
-ideal combined a " leisure " full of noble interests, with a 
-" dignity " which was one thing with public duty. 
+He has a story, or myth, to tell about the Moon, which he is impatient to begin. This story, which he had heard from a friend in Carthage, is mainly geographical in interest. The details remind us of those quoted from Pytheas about his journeys to Britain and the Northern Seas. The whole conception of the globe is clearly earlier than that of Ptolemy (see especially as to the Caspian Sea, c. 26). The myth also introduces us to the worship of Cronus as practised at Carthage, and connects it with the wonders of the Moon, and her place in the heavenly system.
 
-Lastly, I hope that some indulgence may be accorded, 
-if it should be necessary, to the " loco " who undertakes, 
-even when helped by the best of printers, to be his own 
-proof-reader. 
+In c. 17 Sylla raises a good point, about the half-moon, which was being passed over.
 
+2\. _Lamprias_, a brother, probably an elder brother, of Plutarch, who directs the course of the conversation, and himself expounds the Academic view, referring to Lucius for his recollections of a recent discussion at which both had been present, when the Stoic doctrines on physics had been criticised.
 
-INTRODUCTORY NOTE. 
+In some of the Symposiacs and other dialogues Lamprias takes a similar place; in others both brothers take part. Lamprias probably died early, see p. 15.
 
+"Evidently a character, a good trencherman, as became a Boeotian, one who on occasion could dance the Pyrrhic wardance, who loved well a scoff and a jest ... and who, if he thrust himself somewhat brusquely into discussions which are going forward, was quite able to justify the intrusion." --- Archbishop Trench.
 
-The opening chapters of the Dialogue being lost, we have no 
-clue to the place where it is supposed to take place, nor to the 
-time — unless one is given by the Eclipse of the Sun mentioned by 
-Lucius in c. 19 — and some points in the actual course of the 
-discussion require a word of explanation. This can be most 
-readily supplied by an enumeration of the speakers, in the order 
-of their appearance, followed by a short analysis of the argument. 
-Where the names are those of real persons living in Plutarch's life- 
-time, or of those who appear in other dialogues, I assume identity. 
+3\. _Apollonides_, astronomer and geometrician; perhaps the latter would be the more correct designation. In another dialogue (_Quaest conv._ 3, 4) a "tactician" of the name appears.
 
-PERSONS OF THE DIALOGUE. 
+As Apollonius, the great mathematician (living about 200 B. C.) was also a geometrician who contributed to astronomical theory, not himself an astronomer, it seems likely that the name Apollonides has been coined by Plutarch for "one of the clan of Apollonius," _i. e._, a young professor of Geometry. Apollonius is treated rather brusquely by Lamprias, certainly with less respect than Menelaus. He seems to have cast in his lot with the Stoics in their physical opinions.
 
-1. Sextius Sylla, the Carthaginian, mentioned in the Life of I 
-Romulus (c. 15) as "a man wanting neither learning nor in- 
-genuity," who had supplied Plutarch with a piece of archaeological 
-"information. Elsewhere (De cohib. ira. c. 1) he is addressed as 
+4\. _Aristotle_, a Peripatetic. Perhaps the name was given to him to mark the School to which he belonged. In the Dialogue "On the deferred vengeance of the gods" an "Epicurus" is a representative Epicurean.
 
-" O most eager Sylla ! " In another dialogue he declines to be 
-led into a discussion on all cosmology by answering the question 
-"whether the egg or the bird comes first?" (Quaest conv. ii, 3). 
-He has a story, or myth, to tell about the Moon, which he is 
-impatient to begin. This story, which he had heard from a friend 
-in Carthage, is mainly geographical in interest. The details 
-remind us of those quoted from Pytheas about his journeys to 
-Britain and the Northern Seas. The whole conception of the 
-globe is clearly earlier than that of Ptolemy (see especially as to the 
-Caspian Sea, c. 26). The myth also introduces us to the worship 
-of Cronus as practised at Carthage, and connects it with the 
-wonders of the Moon, and her place in the heavenly system. 
+5\. _Pharnaces_, a Stoic, who sturdily supports his physical creed against all comers.
 
-In c. 17 Sylla raises a good point, about the half-moon, which 
-was being passed over. 
+6\. _Lucius_, an Etrurian pupil of Moderatus the Pythagorean, spoken of in one place (_Quaest conv._ 8, 7 and 8) as "Lucius our comrade." He is elsewhere reticent as to the inner Pythagorean teaching, but is courteous and ready to discuss "what is probable and reasonable."
 
-2. Lamprias, a brother, probably an elder brother, of 
-Plutarch, who directs the course of the conversation, and himself 
-expounds the Academic view, referring to Lucius for his recollec- 
-tions of a recent discussion at which both had been present, 
-when the Stoic doctrines on physics had been criticised. 
+Kepler is inclined to complain of his professorial tone and longwindedness in the present dialogue. This is hardly fair, as he is for the most part reporting a set discourse heard elsewhere, and that by request. Lamprias has to give him time to remember the points (c. 7). In c. 5 he asks that justice may be done to the Stoics. He associates himself with the Academics on physical matters.
 
-In some of the Symposiacs and other dialogues Lamprias takes 
-a similar place ; in others both brothers take part. Lamprias 
-probably died early, see p. 15. 
+7\. _Theon_, the Grammarian, represents literature (as he does in other dialogues, notably in that on the "Ei at Delphi"). He is a welcome foil to the more severe disputants. In c. 24 he interrupts by moving the previous question --- "Why a moon at all?" and is congratulated on the cheerful turn which he has given to the discussion. He was Egyptian by birth. Theon may sometimes recall to readers of Jules Verne's pleasant _Voyage autour de la lune_ the sallies of Michel Ardan the Poet.
 
-" Evidently a character, a good trencherman, as became a 
-Boeotian, one who on occasion could dance the Pyrrhic war- 
-dance, who loved well a scoff and a jest .... and who, if he 
-thrust himself somewhat brusquely into discussions which are 
-going forward, was quite able to justify the intrusion." — Arch- 
-bishop Trench. 
+8\. _Menelaus_, a distinguished Astronomer who lived and observed at Alexandria. Observations of his, which include some taken in the first year of Trajan, A. D. 98, are recorded by Ptolemy (_Magna Syntaxis_ 7, 3, p. 170) and other writers.
 
+## Analysis.
 
-3- Apollonides, astronomer and geometrician ; perhaps the 
-latter would be the more correct designation. In another dialogue 
-(Quaest conv. iii, 4) a "tactician" of the name appears. 
+[The opening chapters are lost. There must have been an introduction of the speakers, with some explanation as to time and place, a reference to a set discussion at which some of the speakers had been present, and a promise of Sylla to narrate a myth, bearing upon the Moon and her markings, which he had heard in Carthage. The conversation had taken a turn, prematurely as Sylla thinks, towards the mythical or supernatural aspects of the Moon.]
 
-As Apollonius, the great mathematician (living about 200 B.C.) 
-was also a geometrician who contributed to astronomical theory, 
-not himself an astronomer, it seems likely that the name 
-Apollonides has been coined by Plutarch for " one of the clan of 
-Apollonius," _i. e._, a. young professor of Geometry. Apollonius is 
-treated rather brusquely by Lamprias, certainly with less respect 
-than Menelaus. He seems to have cast in his lot with the Stoics 
-in their physical opinions. 
+c\. 1. It is agreed that the current scientific or quasi-scientific views on the markings of the Moon's face shall be first considered, then the supernatural.
 
-4. Aristotle, a Peripatetic. Perhaps the name was given to 
-him to mark the School to which he belonged. In the Dialogue 
-" On the deferred vengeance of the gods " an " Epicurus " is a 
-representative Epicurean. 
+cc\. 2-4. Lamprias mentions
 
-5. Pharnaces, a Stoic, who sturdily supports his physical creed 
-against all comers. 
+_1\._ The view that the markings are due to weakness of human eyesight. This is easily refuted.
 
-6. Lucius, an Etrurian pupil of Moderatus the Pythagorean, 
-spoken of in one place {Quaest conv. viii, 7 and 8) as "Lucius 
-our comrade." He is elsewhere reticent as to the inner Pytha- 
-gorean teaching, but is courteous and ready to discuss " what is 
-probable and reasonable." 
+_2\._ The view of Clearchus, the Peripatetic, that they are caused by reflexion of the Ocean on the Moon's face. But Ocean is continuous, the markings are broken; they are seen from all parts of the Earth, including Ocean itself (and the Earth is not a mere point in Space, but has dimensions of its own); and, thirdly, they are not seen on any other heavenly body.
 
-Kepler is inclined to complain of his professorial tone and 
-longwindedness in the present dialogue. This is hardly fair, as 
-he is for the most part reporting a set discourse heard elsewhere, 
-and that by request. Lamprias has to give him time to remember 
-the points (c. 7). In c. 5 he asks that justice may be done to the 
-Stoics. He associates himself with the Academics on physical 
-matters. 
+c\. 3. The mention of Clearchus brings up the view, adopted from him by the Stoics, that the Moon is not a solid or earth-like body, but is fire or air, like the stars. This view had been severely handled in the former conference.
 
-7. Theon, the Grammarian, represents literature (as he does 
-in other dialogues, notably in that on the " Ei at Delphi "). He 
-is a welcome foil to the more severe disputants. In c. 24 he 
-interrupts by moving the previous question — "Why a moon at 
-all?" and is congratulated on the cheerful turn which he has 
-given to the discussion. He was Egyptian by birth. Theon 
-may sometimes recall to readers of Jules Verne's pleasant Voyage 
-autour de la lune the sallies of Michel Ardan the Poet. 
+c\. 6. Pharnaces complains that the Academics always criticise, never submit to be criticised. Let them first answer for their own paradox in confusing "up" and "down," if they place a heavy body, such as the Moon is now said to be, above. Lucius retorts: "Why not the Moon as well as the Earth, a larger body, yet poised in space?" Pharnaces is unconvinced.
 
-8. Menelaus, a distinguished Astronomer who lived and 
-observed at Alexandria. Observations of his, which include some 
-taken in the first year of Trajan, a.d. 98, are recorded by Ptolemy 
-{Magna Syntaxis vii, 3, p. 170) and other writers. 
+cc\. 7-15. To give Lucius time to remember his points, Lamprias reviews the absurd consequences from the Stoic tenet that all weights converge towards the centre of our Earth. Why should not every heavy body, not Earth only, attract its parts towards its own centre? Again, if the Moon is a light fiery body, how do we find her placed near the Earth and immeasurably far from the Sun, planets and stars? How can we assume that Earth is the middle point of The Whole, that is, of Infinity? Lastly, allow that the Moon, if a heavy body, is out of her natural place. Yet why not? She may have been removed by force from the place naturally assigned to her to one which was better. Here the tone of the speaker rises as he lays down, often following the thought and the words of Plato's _Timaeus_, the theory of creative "Necessity" and "The Better."
 
-ANALYSIS. 
-
-[The opening chapters are lost. There must have been an 
-introduction of the speakers, with some explanation as to time 
-and place, a reference to a set discussion at which some of the 
-
-
-speakers had been present, and a promise of Sylla to narrate a 
-myth, bearing upon the Moon and her markings, which he had 
-heard in Carthage. The conversation had taken a turn, pre- 
-maturely as Sylla thinks, towards the mythical or supernatural 
-aspects of the Moon.] 
-
-c.i. It is agreed that the current scientific or quasi-scientific 
-views on the markings of the Moon's face shall be first considered, 
-then the supernatural. 
-
-cc. 2-4. Lamprias mentions 
-
-(i.) The view that the markings are due to weakness of human 
-eyesight. This is easily refuted. 
-
-(ii.) The view of Clearchus, the Peripatetic, that they are 
-caused by reflexion of the Ocean on the Moon's face. But Ocean 
-is continuous, the markings are broken ; they are seen from all 
-parts of the Earth, including Ocean itself (and the Earth is not 
-a mere point in Space, but has dimensions of its own) ; and, 
-thirdly, they are not seen on any other heavenly body. 
-
-c. 3. The mention of Clearchus brings up the view, adopted 
-from him by the Stoics, that the Moon is not a solid or earth-like 
-body, but is fire or air, like the stars. This view had been 
-severely handled in the former conference. 
-
-c. 6. Pharnaces complains that the Academics always criticise, 
-never submit to be criticised. Let them first answer for their own 
-paradox in confusing "up" and "down," if they place a heavy 
-body, such as the Moon is now said to be, above. Lucius retorts : 
-"Why not the Moon as well as the Earth, a larger body, yet 
-poised in space?" Pharnaces is unconvinced. 
-
-cc. 7-15. To give Lucius time to remember his points, 
-Lamprias reviews the absurd consequences from the Stoic tenet 
-that all weights converge towards the centre of our Earth. Why 
-should not every heavy body, not Earth only, attract its parts 
-towards its own centre ? Again, if the Moon is a light fiery body, 
-how do we find her placed near the Earth and immeasurably far 
-from the Sun, planets and stars ? How can we assume that Earth 
-is the middle point of The Whole, that is, of Infinity ? Lastly, 
-allow that the Moon, if a heavy body, is out of her natural place. 
-Yet why not ? She may have been removed by force from the 
-place naturally assigned to her to one which was better. Here 
-the tone of the speaker rises as he lays down, often following the 
-thought and the words of Plato's Timaeus, the theory of creative 
-"Necessity" and "The Better." 
-
-c. 16. Lucius is now ready to speak, but Aristotle intervenes 
-with a reference to the view, held by his namesake, that the stars 
-are composed of something essentially different from the four 
-elements, and that their motion is naturally circular, not up or 
-down. Lucius points out that it is degrading to the Moon to call 
-her a star, being inferior to the stars in lustre and speed, 
-
-
-8 
-
-and deriving her light from the Sun. For this, the view of 
-Anaxagoras and of Empedocles, is the only one consistent with 
-her phases as we see them (not that quoted from Poseidonius the 
-Stoic). 
+c\. 16. Lucius is now ready to speak, but Aristotle intervenes with a reference to the view, held by his namesake, that the stars are composed of something essentially different from the four elements, and that their motion is naturally circular, not up or down. Lucius points out that it is degrading to the Moon to call her a star, being inferior to the stars in lustre and speed, and deriving her light from the Sun. For this, the view of Anaxagoras and of Empedocles, is the only one consistent with her phases as we see them (not that quoted from Poseidonius the Stoic).
 
 c. 17. To an enquiry from Sylla whether the difficulty of the 
 half-moon (_i. e._ how does reflexion, being at equal angles, then carry 
@@ -373,8 +134,8 @@ moon with sides high enough to cast such shadows. Lamprias
 replies that it is the distance and position of the light which 
 matter, not the size of objects which break it ; 
 
-c. 23. And goes on himself to supply a stronger objection — 
-that we do not see the Sun's image in the Moon — and the answer. 
+c. 23. And goes on himself to supply a stronger objection --- 
+that we do not see the Sun's image in the Moon --- and the answer. 
 This is twofold (a) general, the two cases differ in all details 
 (b) personal to those who, like himself, believe the Moon to be 
 an earth, and to have a rough surface. Why should we see the 
@@ -400,8 +161,8 @@ Carthage to certain islands in the Northern Atlantic where Cronus
 to pay special honour to the Moon, 
 
 cc. 27-29. instructing him as to the functions of Persephone 
-in bringing about the second death — the separation of mind 
-from soul — which takes place on the Moon, and the genesis of 
+in bringing about the second death --- the separation of mind 
+from soul --- which takes place on the Moon, and the genesis of 
 " Daemons," 
 
 c. 30. to whom are assigned certain functions on Earth. 
@@ -442,7 +203,7 @@ a constant desire to mediate between " Superstition " and
 
 It happens that this dialogue might, if carefully examined, yield 
 material of some importance for the history of Greek science. It 
-must have been written not very long — say a generation — before 
+must have been written not very long --- say a generation --- before 
 Ptolemy's standard book, the Magna Syntaxis, but it contains no 
 reference to him, and shows no consciousness of his views and 
 work. Now Ptolemy is almost our only authority as to the dis- 
@@ -569,11 +330,11 @@ eighteen times that of the Moon, and less than twenty times."
 The book is extant (ed. Wallis, Oxford, 1688), and the process 
 seems to be as unexceptionable in theory as it was audacious. 
 Aristarchus set himself to catch the moment of half-moon, and 
-in the right-angled triangle Sun — Moon — Earth, to determine the 
+in the right-angled triangle Sun --- Moon --- Earth, to determine the 
 large angle at Earth. This he found to be §§ of a right angle, 
 or 870, whereas it is really (theoretically, at least) 890 50'. This 
 was harmless enough, but it involved a large relative error in 
-the small angle, Earth — Sun — Moon, which became 30 instead of 
+the small angle, Earth --- Sun --- Moon, which became 30 instead of 
 10', eighteen times too much. The sequel is very interesting. 
 Hipparchus, a century later, adopted this result in his calculation 
 of the parallax (angle subtending the earth's radius) of the Sun, 
@@ -635,7 +396,7 @@ became familiar with the conception of one law for all matter in
 space, the actual movements remained of little concern. 
 
 Kepler {Epit. As iron. Cofiern., iv) remarks that in stating the 
-uses of the Moon (c. 25) Lamprias has made an omission: — she 
+uses of the Moon (c. 25) Lamprias has made an omission: --- she 
 gives man a means of approach to the planetary system. No one 
 could speak with more absolute authority on this particular point, 
 but we may give some details suggested by Plutarch's dialogue. 
@@ -669,7 +430,7 @@ of intersection of the two orbits, were familiar to Hipparchus.
 A third "Anomaly," now known as "Variation," is instructive, 
 because its discovery has been claimed for an Arabian astronomer, 
 of about iooo a.d. After an exhaustive discussion during the 
-last century (1836 — 187 1), it seems proved that the claim rested 
+last century (1836 --- 187 1), it seems proved that the claim rested 
 upon a mistake, and that the sole credit is due to Tycho Brahe 
 (1598). (See Dreyer, p. 252.) 
 
@@ -701,7 +462,7 @@ moon is composed of earth and water. ... I added further :
 Even allowing that the matter of the moon may be like that of 
 the earth (a most improbable supposition) still not one of those 
 things that the earth produces can exist on the moon." Much 
-has been said and written since— and the moon keeps her 
+has been said and written since--- and the moon keeps her 
 countenance ! 
 
 Daniel Ruhnken, in his Inaugural Lecture (a.d. 1757) De 
@@ -731,8 +492,8 @@ sometimes fanned into brightness, and to follow the " good talk "
 of a party meeting in Boeotia perhaps late in the first century 
 a.d. about the " Face in the Moon " and all that it meant. 
 Horace, a century earlier, compares the Greek genius of his day 
-to a little girl in the nursery — " What she sought eagerly she 
-soon tired of and let be"— a sad estimate for those who remember 
+to a little girl in the nursery --- " What she sought eagerly she 
+soon tired of and let be"--- a sad estimate for those who remember 
 what Greece at her best has done for us, and all the more sad, 
 because it was deliberate and unbiassed. It is consoling to find, 
 in one branch of enquiry, so much steadiness of purpose and 
@@ -793,7 +554,7 @@ death, and with the Spirits, or Genii, who help the endeavours
 of men on earth, and minister to their needs. But he was the 
 practical moralist above all things, and would have endorsed, as a 
 sane and lofty utterance, the words of the unhappy astronomer 
-in Rasselas : — " To man is permitted the contemplation of the skies, 
+in Rasselas : --- " To man is permitted the contemplation of the skies, 
 but the practice of virtue is commanded." * 
 
 * There is a short word, tG</>os, often used by Plutarch, and always difficult 
@@ -809,7 +570,7 @@ OF THE FACE WHICH APPEARS
 ON THE ORB OF THE MOON. 
 
 
-920. C. — I. Here Sylla said : " Enough of all this, for it belongs Sylla log. 
+920. C. --- I. Here Sylla said : " Enough of all this, for it belongs Sylla log. 
 to my story, and comes out of it. But I should like to ask in 
 the first place whether we are to have a prelude, and first to 
 discuss those views about the Moon's face which are in everyone's 
@@ -836,7 +597,7 @@ Page 41, line 3, for "or" read "nor."
 duced the image j the weaker the organ the clearer should be the 
 appearance. The very irregularity of the surface is sufficient to 
 refute this theory; this image is not one of continuous and confluent 
-shadow, but is well sketched in the words of Agesianax : — 
+shadow, but is well sketched in the words of Agesianax : --- 
 ' All round as fire she shines, but in her midst, 
 
 Bluer than cyanus, lo, a maiden's eye, 
@@ -875,14 +636,14 @@ closely connected as she was with the mysteries of birth and
 death, and with the Spirits, or Genii, who help the endeavours 
 -<■ ••.-,*„ on earth, and minister to their needs. But he was the 
 11 Minors, and would have endorsed, as a 
-— ~" °ctrononier 
+--- ~" °ctrononier 
 
 
 OF THE FACE WHICH APPEARS 
 ON THE ORB OF THE MOON. 
 
 
-C. — I. Here Sylla said : " Enough of all this, for it belongs Sylla loq. 
+C. --- I. Here Sylla said : " Enough of all this, for it belongs Sylla loq. 
 to my story, and comes out of it. But I should like to ask in 
 the first place whether we are to have a prelude, and first to 
 discuss those views about the Moon's face which are in everyone's 
@@ -901,7 +662,7 @@ which appears in the Moon an affection of our eyesight, too weak
 to resist the brightness, or, as we say, dazzled ; and of not observing 
 that this ought rather to happen when we look at the Sun, who 
 meets us with his fierce strong strokes. Empedocles* has a pretty 
-line giving the difference between the two : — 
+line giving the difference between the two : --- 
 
 ' The Sun's keen shafts, and Moon with kindly beams.' 
 
@@ -915,7 +676,7 @@ happen if it were a weakness and affection of the eye which pro-
 duced the image ; the weaker the organ the clearer should be the 
 appearance. The very irregularity of the surface is sufficient to 
 refute this theory; this image is not one of continuous and confluent 
-shadow, but is well sketched in the words of Agesianax : — 
+shadow, but is well sketched in the words of Agesianax : --- 
 ' All round as fire she shines, but in her midst, 
 
 Bluer than cyanus, lo, a maiden's eye, 
@@ -966,7 +727,7 @@ where it really is, but in the place from which reflexion carried
 
 our sight into contact with it and its dazzle. Agesianax has 
 
-another passage : — 
+another passage : --- 
 
 ' Or Ocean's wave that foams right opposite, 
 Be mirrored like a sheet of fire and flame.' " 
@@ -1096,7 +857,7 @@ of Samos, for shifting the hearth of the Universe, because that
 great man attempted 'to save phenomena' with his hypothesis 
 that the heavens are stationary, while our earth moves round in an 
 oblique orbit, at the same time whirling about her own axis. We 
-Academics have no view of our own finding, but do tell me this — 
+Academics have no view of our own finding, but do tell me this --- 
 why are those who assume that the moon is an earth turning 
 things upside down, any more than you who fix the earth where 
 she is, suspended in mid air, a body considerably larger than 
@@ -1186,8 +947,8 @@ beams sawn off at the surface of the earth on either side, do not
 move downwards all the way, but as they fall upon the surface 
 receive equal thrusts from the outside inwards and are lost around 
 the middle ? That water rushing violently downwards, if it 
-should reach this middle point— an incorporeal point as they say 
-— would stand balanced around it for a pivot, swinging with an 
+should reach this middle point--- an incorporeal point as they say 
+--- would stand balanced around it for a pivot, swinging with an 
 oscillation which never stops and never can be stopped ? Some 
 of these a man could not force himself to present to his intellect 
 as possible, even if untrue ! This is to make 
@@ -1541,7 +1302,7 @@ them Comets."
 
 XVI. This said, as I was passing the turn to Lucius, my Aristotle. 
 argument now reaching the stage of demonstration, Aristotle said 
-with a smile : — " I protest that you have addressed your whole 
+with a smile : --- " I protest that you have addressed your whole 
 reply to those who assume that the Moon herself is half fire, and 
 who say of all bodies in common that they have an inclination of 
 their own, some an upward one, some a downward. If there is a 
@@ -1577,7 +1338,7 @@ some other substance. Indeed, mixture implies passion, since 929.
 there is a loss of its own transparency when a body is forcibly 
 filled with what is inferior to itself. Consider her own torpor and 
 dullness of speed, and her faint ineffectual heat, wherein, as Ion 
-says — 
+says --- 
 
 'The black grape ripens not'; 
 
@@ -1643,7 +1404,7 @@ missiles which glance off strike with weaker impact,
 reaches us in a feeble and exhausted stream, because the force is 
 dispersed in the reflexion." 
 
-XVII. Here Sylla broke in:— "All these things no doubt Sylla. 
+XVII. Here Sylla broke in:--- "All these things no doubt Sylla. 
 have their probabilities ; but the strongest point on the other side 
 was either explained away or it escaped our comrade's attention : 
 which was it ? " 
@@ -1662,7 +1423,7 @@ distortion and variation in the angle, which is impossible."
 
 "I assure you," said Lucius, "that point was mentioned also;" Lucius 
 and here he glanced at Menelaus the mathematician, as he went 
-on : — " I am ashamed, dear Menelaus," he said, "in your presence 
+on : --- " I am ashamed, dear Menelaus," he said, "in your presence 
 to upset a mathematical proposition which is assumed as a founda- 
 tion in all the Optics of Mirrors. But I feel obliged to say," 
 he continued, " that the law which requires reflexion in all cases 
@@ -1674,7 +1435,7 @@ so that there is an angle between them, and each of the surfaces
 returns a double image, four images in all, two on the right, two 
 on the left, two from the outer surfaces, two dimmer ones deep 
 within the mirrors. Plato gives the cause why this takes place. Timceus, 
-He has told us that if the mirrors be raised on either side, there 46 A — C. 
+He has told us that if the mirrors be raised on either side, there 46 A --- C. 
 is a gradual shifting of the visual reflexion as it passes from one 
 side to the other. If then some images proceed directly to us, 
 while others glance to the opposite side of the mirrors, and are 
@@ -1933,7 +1694,7 @@ which you say is peculiar to her, belongs to a body which has
 density and depth. For no remnant or trace of flame will remain 
 in rarefied bodies, nor can coal come into existence, without a 
 substantial body, deep enough to allow of ignition and to maintain 
-it, as Homer has somewhere said : — 
+it, as Homer has somewhere said : --- 
 
 //., ix, 212. ' When fire's red flower was flown, and spent the flames, 
 
@@ -1985,7 +1746,7 @@ which appear on land at different times he has passed over as
 being infinite in number. Now, it is not likely that the moon has 
 one surface as the sea has, but rather that she resembles in 
 substance the earth, of which Socrates of old used to tell the See Phado, 
-935- story, whether he hinted at the moon, or told it of some lI° B—C 
+935- story, whether he hinted at the moon, or told it of some lI° B---C 
 other body. For it is nothing incredible or wonderful if, having 
 nothing corrupt or muddy in her, but enjoying light from heaven, 
 and being stored with a heat not burning or furious, but mild 
@@ -2238,7 +1999,7 @@ emerge from the abyss, is fertile in animals and plants ; of the
 other parts, some are desert and unfruitful owing to storms and 
 droughts, while most are sunk under the ocean. But you, lover 
 and admirer of Aristarchus that you are, do not attend to Crates 
-and his reading : — 
+and his reading : --- 
 
 ' Ocean, the birth and being of us all, H., xiv, 246. 
 
@@ -2326,7 +2087,7 @@ softening of wood, easy delivery to women. I am afraid of stirring
 cases of restoring moisture the tides of the Ocean (as his own 
 school describes them), and the fillings of gulfs when their flood 
 is augmented by the moon. So I will rather turn to you, dear 
-Theon, for you told us in explaining these words of Alcman : — 
+Theon, for you told us in explaining these words of Alcman : --- 
 
 ' Dew feeds them, born of Zeus and Lady Moon/ Bergk., jg. 
 
@@ -2342,9 +2103,9 @@ eyes for the inequalities of Nature, since it is possible to find
 greater and more numerous divergencies and dissimilarities between 
 animals and animals than between them and the inanimate world. 
 And grant that men without mouths and nourished on smells are 
-not to be found — I do not think they are — but the potency which 
+not to be found --- I do not think they are --- but the potency which 
 Ammonius himself used to expound to us has been hinted at by 
-Hesiod in the line — 
+Hesiod in the line --- 
 
 ' Nor yet in mallow and in asphodel O. & D., 41. 
 
@@ -2383,12 +2144,12 @@ chance of hearing those lines of Homer :
 
 //., xx, 64. ' Grim mouldy regions which e'en gods abhor/ 
 
-and — 
+and --- 
 //., viii, 16. ' 'Neath hell so far as earth below high heaven,' 
 
 they will say they are written about a place exactly such as this, 
 and that Hades is a colony planted here, and Tartarus, and that 
-there is only one earth — the Moon — being midway between the 
+there is only one earth --- the Moon --- being midway between the 
 upper regions and these lower ones." 
 
 XXVI. I had scarcely finished speaking when Sylla broke in ; 
@@ -2397,7 +2158,7 @@ Sylla " Stop Lamprias, and shut the door on your oratory, lest you run
 my myth aground before you know it, and make confusion of my 
 drama, which requires another stage and a different setting. Now, 
 I am only its actor, but I will first, if you see no objection, 941. 
-name the poet, beginning in Homer's words : — 
+name the poet, beginning in Homer's words : --- 
 
 Oct., vii, 244. ' Far o'er the brine an isle Ogygian lies,' 
 
@@ -2496,7 +2257,7 @@ specially to honour the moon with all our substance (and so he
 charged me to do), because she was most potent in our life." 
 
 XXVII. When I marvelled at this, and asked for clearer 
-statements, he went on : — " Many tales, Sylla, are told among the 
+statements, he went on : --- " Many tales, Sylla, are told among the 
 Greeks about the gods, but not all are well told. For instance, 
 about Demeter and Cora, they are right in their names, but wrong 
 in supposing that they both belong to the same region ; for the 
@@ -2563,7 +2324,7 @@ been called ' Of the Birth to Unity,' for the best part of man is
 
 left in oneness, when separated by her. Each process happens piato, 
 
-according to nature, as thus : — It is appointed that every soul, Timceus, end. 
+according to nature, as thus : --- It is appointed that every soul, Timceus, end. 
 
 irrational or rational, when it has quitted the body, should wander 
 
@@ -2693,7 +2454,7 @@ through love of the sun that the moon herself makes her circuit,
 and has her meetings with him to receive from him all fertility. 
 That nature which is the soul remains on the moon, retaining 
 traces and dreams of the former life, and of it you may take it 
-that it has been rightly said — 
+that it has been rightly said --- 
 
 ' Winged as a dream the soul takes flight away.' Od., xi, 222. 
 
@@ -2701,11 +2462,11 @@ Not at the first, and not when it is quit of the body does this
 happen to it, but afterwards when it becomes deserted and 
 solitary, set free from mind. Of all that Homer has told us I 
 think that there is nothing more divine than where he speaks of 
-those in Hades : — 
+those in Hades : --- 
 
 1 Next was I ware of mighty Hercules, 0d> xh 6o/- 
 
-His ghost — himself among the immortals dwells.' 
+His ghost --- himself among the immortals dwells.' 
 
 For the self of each of us is not courage, nor fear, nor desire, 
 any more than it is a parcel of flesh and of humours ; it is that 
@@ -2770,10 +2531,10 @@ B = Codex Parisinus, No. 1675.
 E = Codex Parisinus, No. 1672. 
 
 W. = Plutarchi Moralia, ed. Daniel Wyttenbach, Oxonii 
-1795 — l8o°- 
+1795 --- l8o°- 
 
 Bern. = editio Teubneriana, ed. G. N. Bernardakis, Lipsiae 
-1888— 1896. 
+1888--- 1896. 
 
 K. = Plutarchi Chaeronensis libellus De Facie quae in orbe 
 Lunae apparet a Ioanne Kepplero Mathematico (an appendix 
@@ -2802,7 +2563,7 @@ Turnebus and Xylander to correct obvious errors, which
 their wide knowledge of Greek, and of Plutarch's Greek 
 in particular, enabled them to do successfully, though often 
 at a long distance from the written letter. Wyttenbach, in 
-his monumental edition (Oxford, 1795 — 1800) has with 
+his monumental edition (Oxford, 1795 --- 1800) has with 
 excellent diligence and judgment collected the fruits of their 
 labours, and has often been able to indicate the omitted words 
 according to the requirements of the sense, Other scholars, 
@@ -2827,9 +2588,9 @@ this Dialogue, and hope to have an opportunity of seeing
 B, which was away when I visited the library. 
 
 Select Passages. 
-p. 1, ch. i. — Here Sylla said .... 
+p. 1, ch. i. --- Here Sylla said .... 
 
-The opening words raise a question. They run : — 6 fiev 
+The opening words raise a question. They run : --- 6 fiev 
 ovv ^vWas ravra elire. toj jap i/jL(Z fjivd(p irpocnjKet /catcec- 
 dev eariv. 
 
@@ -2878,7 +2639,7 @@ introduced as a prelude (so 996 B). The metaphor well
 suits Sylla's way of speaking (compare the opening of 
 ch. 26). 
 
-p. 18, ch. iii. — For our sight being reflected back .... 
+p. 18, ch. iii. --- For our sight being reflected back .... 
 
 I have, with some reluctance, adopted en/a?, Turnebus' 
 correction of trv$. The idea of a rim bent back, as in a con- 
@@ -2900,7 +2661,7 @@ quotation from poetry, the further difficulty that the habit-
 able world, according to Eratosthenes and Ptolemy, and in 
 fact, was twice as long as broad, will at least be softened. 
 
-p. 18, ch. iv. — I know, my dear friend, that Hipparchus .... 
+p. 18, ch. iv. --- I know, my dear friend, that Hipparchus .... 
 
 KaiTot ye (f)l\e ^"irpiapff, a\\a 7ro\\ot? ovte apea/eec (j)v- 
 aioXoywv irepl rr)<; o^ew?, avrr)v ofMOLoirady) Kpaaiv layeiv 
@@ -2918,7 +2679,7 @@ on a question of geometry or astronomy." See Introductory
 note, p. 11, and for a fuller statement of this view of Hip- 
 parchus on vision see De Plac. Phil. V, 13, p. 901 B. 
 
-I venture to suggest, as possible, — tcairoi ye, </>t\e, Trarrjp 
+I venture to suggest, as possible, --- tcairoi ye, </>t\e, Trarrjp 
 r/l7T7ra/o%o9 aarpovopias [fjieyas ?], for which the scribe in- 
 stead of leaving a mere gap, as elsewhere, wrote in initial 
 or significant letters it .... p I a .... p.. 
@@ -2934,9 +2695,9 @@ and the phrase is classical : Cicero calls Herodotus the
 
 For irepl T/j? 6S/re&)<? avrrjv . . . read it. t. o. <o? avrrjv . . . 
 
-p. 19, ch. v. — As Artemis and Athena. 
+p. 19, ch. v. --- As Artemis and Athena. 
 
-See p. 39, ch. xxv. Origen c. Cels. viii, 6, has : — KeXaos 
+See p. 39, ch. xxv. Origen c. Cels. viii, 6, has : --- KeXaos 
 pev ovv (f>rjcriv pdXXov Bo/eecv r)p,d<; aefteiv rov pueyav 6ebv, av 
 teal yiXiov teal 'Adrjvav vpvtop,ev. In some doubtful lines of 
 the Homeric Hymn to Hermes 99-100, the Moon is the 
@@ -2945,7 +2706,7 @@ daughter of Pallas, "the Pallantean Moon sublime" (Shelley).
 
 54 
 
-p. 20, ch. vi. — Even Homer. 
+p. 20, ch. vi. --- Even Homer. 
 
 The question why Homer called Night doi] is an ever- 
 green, and so is Buttmann's excellent article. See also 
@@ -2953,7 +2714,7 @@ Leaf on II. x, 394. The cone is " fine and narrow" indeed,
 the angle at the apex being really little more than half a 
 degree, and not much blunter on the ancient figures. 
 
-p. 20, ch. vi. — As broad at its shortest . . . 
+p. 20, ch. vi. --- As broad at its shortest . . . 
 
 17 fipaxvrdTT]. Madvig (Adv. I, p. 664) seems right in 
 reading fj. There is exaggeration. The cone of shadow 
@@ -2961,19 +2722,19 @@ where crossed by the Moon has a diameter about three-
 quarters that of the earth, and tapers continuously to its 
 apex. 
 
-p. 21. — Taprobanes, _i. e._, natives of Ceylon. 
+p. 21. --- Taprobanes, _i. e._, natives of Ceylon. 
 
-p. 21. — The earth .... might naturally be moved by its own 
+p. 21. --- The earth .... might naturally be moved by its own 
 iv eight. 
 
 tijv he <yf]v ei/co? rjv /xovw too /3apuvovTt Ktvelv. I 
 
 have followed W. in the translation, but \xeveiv, given in his 
-text, seems necessary, as Ktvelv cannot — KivelaOai — "The 
+text, seems necessary, as Ktvelv cannot --- KivelaOai --- "The 
 earth would naturally have nothing but its own weight to 
 keep it at rest." 
 
-p. 22, ch. vii. — That segments of beams, etc. 
+p. 22, ch. vii. --- That segments of beams, etc. 
 
 A beam is sawn into two segments, on, or near, the 
 earth's surface. The two segments move simultaneously 
@@ -2989,7 +2750,7 @@ given ; the above appeared to me to suit the banter of the
 Stoics in the passage generally. It was suggested by the 
 words of Aristotle quoted above in this note. 
 
-p. 22, ch. vii. — Up down, down up, where topsy-turvy reigns. 
+p. 22, ch. vii. --- Up down, down up, where topsy-turvy reigns. 
 
 Tpairefx-naXLv is Bernardakis' bright suggestion for 
 Tfjairivra ttuXlv. (See below on ch. 23). 
@@ -3002,22 +2763,22 @@ ravo) [wavTa] kutco, real irdvTa rpa7T6/x7ra\iv elvai.
 
 55 
 
-p. 22, ch. vii. — Out of sympathy with earth . . . 
+p. 22, ch. vii. --- Out of sympathy with earth . . . 
 
 avfiiraOeia needs no change. It is a Stoic word. 
 
-p. 22, ch. vii. — The down part of his body. 
+p. 22, ch. vii. --- The down part of his body. 
 
-dvafcvTTTov avTov to . . . elvcu — ay. to vmtov ? 
+dvafcvTTTov avTov to . . . elvcu --- ay. to vmtov ? 
 
-p. 23, ch. ix. — Like to the nave of a ivagon she glances . . . 
+p. 23, ch. ix. --- Like to the nave of a ivagon she glances . . . 
 
 apfACLTos cacnrep l'%vo<; dveXlaaeTai 
 
 qy., apficLTOs bscnrep del xvor) acro-eTai . . . ? See Diels, 
 who prints ap/jLCLTos &>? irepl xvo^V iXla-aeTat. 
 
-p. 23, ch. ix. — Why, she seldom clears the earth's shadow, 
+p. 23, ch. ix. --- Why, she seldom clears the earth's shadow, 
 though she rises but little, the illuminating body being 
 so vast. 
 
@@ -3046,20 +2807,20 @@ may be expected to be eclipsed, and (in homely language)
 " makes her shot " to clear the shadow, but seldom (once 
 out of four or five times) succeeds. 
 
-p. 24, ch. x. — On this side and on that. 
+p. 24, ch. x. --- On this side and on that. 
 
 dXXa Kal itcetvy ical TavTrj Sluo-tt]/jlci 8qt€ov . . . So 
 Madvig (Adv. I, p. 665) for dXXa Kal kivt)tlko . . . TavTy 
 Sid<TT7]/jLa to Seov. 
 
-p. 25, ch. xii. — " Where neither sun's bright face is separate 
+p. 25, ch. xii. --- " Where neither sun's bright face is separate 
 seen!' 
 SielBeTac Mullach, for SeStTTeTat. 
 
 
 56 
 
-p. 27, ch. xvi. — We do know that universally the Better 
+p. 27, ch. xvi. --- We do know that universally the Better 
 prevails over the law of Stress. 
 
 I have followed W.'s iv ttclvtI 8e tcparel to @i\Tt,ov rov 
@@ -3070,16 +2831,16 @@ the condition of things according to those laws. See Plat.
 Tim., ch. XVII, p. 47 E, and Archer Hind's notes. But the 
 question of reading is difficult. 
 
-p. 27, ch. xvi. — A circle of eternal and never-ending revolu- 
+p. 27, ch. xvi. --- A circle of eternal and never-ending revolu- 
 tion. 
 
 aihiov, Emperius for oY ov. 
 
-p. 28. — She quenched his beams. 
+p. 28. --- She quenched his beams. 
 
 aireo-Kehaaev, Xylander for aireaKevaaev. 
 
-p. 29, ch. xvii. — Four images in all . . . within the mirrors. 
+p. 29, ch. xvii. --- Four images in all . . . within the mirrors. 
 
 I have translated, or paraphrased, the text suggested 
 by W., but incline to think that the words given by the 
@@ -3105,7 +2866,7 @@ the results stated in the text, and also the omitted case of
 the image in the angle, follow from the law of reflexion at 
 equal angles. 
 
-p. 29, ch. xvii. — They observe that these images, etc. 
+p. 29, ch. xvii. --- They observe that these images, etc. 
 
 6aa<; 6p.6ae ^(apovvTe^ aljcovo-LV. qy. oaas ofMoae 'xcapelv 
 opoivres, u^tovGLv} _i. e._, They observe that all these images 
@@ -3117,9 +2878,9 @@ meet in one point, _i. e._, the eye of the observer, and further,
 etc. For ofxoa-e j^copelv, cp. tc3 cjmotI iravTa^ocre ^«poO^Tt, 
 p. 930 F. 
 
-p. 30. — Kepler supplies the figure. See diagram at the end. 
+p. 30. --- Kepler supplies the figure. See diagram at the end. 
 
-p. 32, ch. xix. — The moon by that of the earth and of other 
+p. 32, ch. xix. --- The moon by that of the earth and of other 
 bodies also. 
 
 tt)v Se a-ekrjvrjv .... (two gaps of about six cmm. in 
@@ -3133,7 +2894,7 @@ of the moon ....
 €tc\6iyjrL$ 6(TTLV rjXiov avvoSos aiaas ae\r]V7]<i 779 rrjv 
 etcXeiyfnv .... 
 
-So the editions — etcXeiyjriv is followed by a gap of 
+So the editions --- etcXeiyjriv is followed by a gap of 
 four cmm. (eighteen letters) in E. 
 
 W. refers to a passage of Cleomedes II, 4, which con- 
@@ -3149,8 +2910,8 @@ justifies the dative after avvoSos from Platonic instances
 {Polit. 298 D and Leg. XII, 949 E) : he gives at length the 
 passage from Cleomedes, in which solar and lunar eclipses 
 are contrasted : the former phenomenon is not avrov rov 
-deov Trados aWa tt)? rf/jLerepas oyjreax; — the moon blocks 
-our vision, and so we do not see him — whereas an eclipse 
+deov Trados aWa tt)? rf/jLerepas oyjreax; --- the moon blocks 
+our vision, and so we do not see him --- whereas an eclipse 
 of the moon is avrr)? r»}? deov TraOos, she plunges into the 
 earth's shadow, and is obscured. The writer calls attention 
 to the use of the Stoic word irdOo^. 
@@ -3175,7 +2936,7 @@ verification, and without knowing the reading of B. But
 I would suggest (1) that ttjv etcXeiyfnv may have come into 
 the text from the margin, being a gloss upon ToSe to ttciOos, 
 (2) that 979 or 06? conceals some reference to our eyesight or 
-our earth. The whole passage will then be in outline : — 
+our earth. The whole passage will then be in outline : --- 
 
 II Poseidonius, in defining an eclipse of the sun as a meeting 
 of the moon's shadow with our vision (for an eclipse is only 
@@ -3187,7 +2948,7 @@ e.g., de plac. phil, Ill, I, p. 893 A, and a clause introduced
 by yap is found in some of them (see his remains, ed. 
 Bake, 1820). 
 
-p. 34, ch. xxi. — Till three and a half hours .... (I had 
+p. 34, ch. xxi. --- Till three and a half hours .... (I had 
 too hastily removed this numeral from the text.) 
 It is pointed out to me that all the notes of time may 
 be taken as referring back to moon-rise (3J hours from, 
@@ -3197,11 +2958,11 @@ culty is that dvLcrrarai cannot = " ostenditur " (W.) or
 a forcible description of the successive phenomena of a 
 lunar eclipse, see Herschel's Outlines, p. 421. 
 
-p. 36, ch. xxi. — So you really think . . . 
+p. 36, ch. xxi. --- So you really think . . . 
 
 oi€t tcls tr/cta? . . . (MSS.) el oUl Emperius. 
 
-p. 36, ch. xxii. — Athos the Lemnian cows .... 
+p. 36, ch. xxii. --- Athos the Lemnian cows .... 
 
 This line of Sophocles shows how true to fact, and 
 familiar to Greek imagination, was the second stage in the 
@@ -3227,28 +2988,28 @@ such an use. Kepler points out a further fallacy, due to
 ambiguous use of terms in the application of the geometrical 
 truth to the mountains and valleys of the moon. 
 
-p. 37, ch. xxiii. — . . . how topsy-turvy it is. 
+p. 37, ch. xxiii. --- . . . how topsy-turvy it is. 
 
 a>9 dvco Trora/jLMV ical rpairev irakiv. rpaTrefiirakiv 
 Bernardakis from Meineke. The word is quoted by 
 Photius from Pherecrates (Meineke Com. Frag., II, p. 354). 
 
-p. 37, ch. xxiii. — It is obscured in the reflexion. 
-avaKXaaOev tvttovtcu — rvcfrXovrai Emperius. 
+p. 37, ch. xxiii. --- It is obscured in the reflexion. 
+avaKXaaOev tvttovtcu --- rvcfrXovrai Emperius. 
 
-p. 38, ch. xxiv. — A seated audience .... 
+p. 38, ch. xxiv. --- A seated audience .... 
 
 Plutarch perhaps remembers the matchless humour of 
 the Protagoras of Plato. At any rate the reader should 
 refer to it. See ch. viii of that dialogue, end. 
 
-p. 38, ch. xxiv. — If a lion did once . . . 
+p. 38, ch. xxiv. --- If a lion did once . . . 
 
 Doubtless from a confusion between \t? a lion and \a? 
 a stone, but in an earlier stage of the saying, so that the 
 text (as Kepler remarks) need not be altered. 
 
-p. 39, ch. xxiv. — And nourished by the smells .... 
+p. 39, ch. xxiv. --- And nourished by the smells .... 
 
 How the inhabitants of the moon feast by smell is fully 
 explained in Cyrano de Bergerac's Histoir-e comique des 
@@ -3256,7 +3017,7 @@ etats et empires de la Lune. In this very ingenious book
 reference is frequently made to Plutarch, especially to the 
 De Genio Socratis, never, I think, to the De Facie. 
 
-p. 40, ch. xxv. — If you will set against the .... sunwier 
+p. 40, ch. xxv. --- If you will set against the .... sunwier 
 conjunctions. 
 
 rats evhetca Oeptvals crvvohots (MSS.) is unintelligible, 
@@ -3268,7 +3029,7 @@ be used for the summer solstices, but as it is properly
 used of the moon's summer periods, it may pass in the 
 comparison. 
 
-p. 41, ch. xxv. — But many effects of moisture .... 
+p. 41, ch. xxv. --- But many effects of moisture .... 
 
 See Ouaest. Sympos., Ill, 10. Some curious instances, 
 evidently taken from observation, will be found in ch. xxii 
@@ -3277,24 +3038,24 @@ of The King's Own, by Captain Marry att.
 
 6o 
 
-p. 42, ch. xxvi. — Is left sovereign lord of these islands. 
+p. 42, ch. xxvi. --- Is left sovereign lord of these islands. 
 
 Trapa/carco icelaOai. I have ventured to render avro- 
 /cpdropa fcetadac (or KaXelaOai). The noun is of very 
 frequent occurrence in Plutarch. 
 
-p. 43. — Those who have joined in the service of the God 
+p. 43. --- Those who have joined in the service of the God 
 for thirty years. 
 
 Tpia/caiSe/ea MSS. rpcaKovra W., following earlier sug- 
-gestion— qy. rd Tjok Setca ? 
+gestion--- qy. rd Tjok Setca ? 
 
-p. 43. — When sleep has stayed the Titanic motions .... 
+p. 43. --- When sleep has stayed the Titanic motions .... 
 
 I have followed Madvig's eire&dv iravar] (Adv. I, 
 p. 664) for the elvai he dvdaraatv of the MSS. 
 
-p. 44, ch. xxvi. — He spent a very long time .... potent in 
+p. 44, ch. xxvi. --- He spent a very long time .... potent in 
 our life. 
 
 7r\el<JT0V yap iv Kap^rjSovt ypovov SLerpiyjrev, are Br) 
@@ -3306,7 +3067,7 @@ Btac^epovTWs ttjv aeXijvTjv, &><» tov (3lov /cvpicoraTrip ovaav
 iyojxev7]v. 
 
 So E (rivas, as Bernardakis prints, not Tt/ia?, as W.). 
-I would venture to propose somewhat as follows : — 
+I would venture to propose somewhat as follows : --- 
 
 rrXelarov .... hierpi^ev, are 8r) nap r/fxlv fxeraXXa 
 eycov 0? tcai Ttvas .... e^evpeov, tojv re cfraivofievcov 
@@ -3338,10 +3099,10 @@ and one phrase may have been a gloss on the other, but it
 would be like Plutarch to use both (e^eo-flat in this sense 
 is a favourite verb), perhaps connected by teal. 
 
-p. 45. ch. xxviii. — Of the birth to unity, ixovoyev^. The 
+p. 45. ch. xxviii. --- Of the birth to unity, ixovoyev^. The 
 Timceus ends with the words /xovoyevrj^ wv. 
 
-p. 46, ch. xxix. — The reason why . . . increases her speed. 
+p. 46, ch. xxix. --- The reason why . . . increases her speed. 
 
 I have translated W.'s Oep/jLOTrjTos (so E) f) iweiyei. For 
 tols we should surely read rptalv (see ch. vi, and pp. 10-11). 
@@ -3349,7 +3110,7 @@ Sylla's argument is not very easy to follow ; oXiydfcts
 may mean " seldom " or " only seldom," and afjuKporrjTo^ 
 may refer either to the Moon or to the Shadow. 
 
-p. 48, ch. xxv. — But you and your friends. . . . 
+p. 48, ch. xxv. --- But you and your friends. . . . 
 
 The formula with which the myth is dismissed is 
 Platonic. Compare, e.g., the end of the Gorgias : " this 
@@ -3526,8 +3287,8 @@ defend the Republic, understand this, that for all who shall have
 preserved, or helped, or advanced their fatherland, a certain place 
 is set apart in Heaven, where they may enjoy life and bliss for 
 ever ; since nothing is more to the mind of that Sovereign God 
-Who rules this Universe — nothing, I mean, of all which passes on 
-the Earth — than the combinations and assemblages of men in 
+Who rules this Universe --- nothing, I mean, of all which passes on 
+the Earth --- than the combinations and assemblages of men in 
 lawful union, which are called states. From such a place in 
 Heaven do rulers and preservers of states go forth, and to it they 
 return. 
@@ -3593,7 +3354,7 @@ which one sphere belongs to the star named on Earth as Saturn ;
 next comes the brightness, prosperous and salutary to mankind, 
 called after Jupiter ; then, red and dreadful to our Earth, that 
 which ye call the star of Mars ; next, and nearly in the middle 
-space, the Sun has his station — leader, prince and governor of the 
+space, the Sun has his station --- leader, prince and governor of the 
 other lights, the mind and controlling influence of the Universe, 
 
 
@@ -3639,7 +3400,7 @@ look full at the Sun, and your sense of sight is overpowered by his
 rays. I listened, and admired, yet from time to time my eyes 
 returned to Earth. 
 
-XIX. Then Africanus : — I perceive that thou art even now 
+XIX. Then Africanus : --- I perceive that thou art even now 
 gazing on the dwelling-place and home of men ; if that seem to 
 thee small, as small indeed it is, look always to these Heavenly 
 sights, despise the things below, which are but mortal. Take 
@@ -3664,7 +3425,7 @@ the middle, which is the largest, is scorched by the burning heat
 of the Sun. Two are habitable, and of them the southernmost, 
 whose inhabitants plant their steps exactly opposite to yours, is of 
 no concern to you; this other one towards the north, your dwelling- 
-place, touches you — see how slenderly. For all the Earth in- 
+place, touches you --- see how slenderly. For all the Earth in- 
 habited by you, narrow in upward extension, wider from side to 
 side, is but a small island of a sort, washed all round by that sea 
 which you call The Atlantic, The Great Sea, The Ocean ; see how 
@@ -3676,7 +3437,7 @@ towards the rising or the setting Sun will hear thy name, or who
 in the parts of the north or of the south ? Cut all these off, and 
 thou seest in very truth within what narrow limits it is that thy 
 glory is ambitious to be spread. The very men who speak of thee 
-now — how long will they speak ? 
+now --- how long will they speak ? 
 
 XXI. Again, suppose that the offspring of men yet to be 
 should wish to pass on in order the praises of each of us which 
@@ -3800,7 +3561,7 @@ and assist man, and also in the belief that the Moon shared one
 atmosphere with the Earth. It may be interesting to give at 
 length a passage in the Life of Nicias (c. xxiii), where a comparison 
 is drawn. The lunar eclipse in question is that mentioned by 
-Thucydides (VII, 50). I quote from Clough's translation : — 
+Thucydides (VII, 50). I quote from Clough's translation : --- 
 
 " And when all were in readiness, and none of the enemy had 
 observed them, not expecting such a thing, the Moon was 
@@ -3849,7 +3610,7 @@ disturbed," etc.
 An eclipse of the Sun, which took place on August 3rd, 
 431 B.C. (see Thuc. ii, 28), gives Plutarch (who, however, 
 places it in the following year), occasion for an anecdote, which 
-may be quoted in illustration : — 
+may be quoted in illustration : --- 
 
 " And now the vessels, having their complement of men, and 
 Pericles being gone aboard his own galley, it happened that the 
@@ -4028,7 +3789,7 @@ the Earth and im
 of our globe, whil 
 passed into space, 
 
-seems to be entirex^ «« — * — B ^ , 0„ _ 
+seems to be entirex^ «« --- * --- B ^ , 0„ _ 
 
 point of view. The cone really tapers through some 800,000 
 miles to an apex of a little more than half a degree, whereas on 
@@ -4095,7 +3856,7 @@ become visible, f f of the sun's diameter being obscured ; a few
 might be visible during No. 1, none during No. 3. 
 
 
-Figure I. — To illustrate Chapter XVII — end (after Kepler). 
+Figure I. --- To illustrate Chapter XVII --- end (after Kepler). 
 
 
 There is always a point on the Half Moon, from which the Sun's rays are reflected down to 
