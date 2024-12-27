@@ -95,134 +95,35 @@ cc\. 7-15. To give Lucius time to remember his points, Lamprias reviews the absu
 
 c\. 16. Lucius is now ready to speak, but Aristotle intervenes with a reference to the view, held by his namesake, that the stars are composed of something essentially different from the four elements, and that their motion is naturally circular, not up or down. Lucius points out that it is degrading to the Moon to call her a star, being inferior to the stars in lustre and speed, and deriving her light from the Sun. For this, the view of Anaxagoras and of Empedocles, is the only one consistent with her phases as we see them (not that quoted from Poseidonius the Stoic).
 
-c. 17. To an enquiry from Sylla whether the difficulty of the 
-half-moon (_i. e._ how does reflexion, being at equal angles, then carry 
-sunlight to the Earth, and not off into space beyond us?) had 
-been met, Lucius answers that it had. The answer given was : 
-(i) Reflexion at equal angles is not a law universally admitted or 
-true ; (ii) there may be cross lights and a complex illumination ; 
-(iii) it may be shewn by a diagram (though this could not be 
-done at the time) that some rays would reach the earth ; (iv) the 
-difficulty arises at other phases also. He repeats the argument 
-drawn from the phases as we see them ; and ends with an analogy : 
-Sunlight acts on the Moon as it does on the Earth, not as on the 
-air; therefore the Moon resembles Earth rather than air. 
+c\. 17. To an enquiry from Sylla whether the difficulty of the half-moon (_i. e._ how does reflexion, being at equal angles, then carry sunlight to the Earth, and not off into space beyond us?) had been met, Lucius answers that it had. The answer given was: _1._ Reflexion at equal angles is not a law universally admitted or true; _2._ there may be cross lights and a complex illumination; _3._ it may be shewn by a diagram (though this could not be done at the time) that some rays would reach the earth; _4._ the difficulty arises at other phases also. He repeats the argument drawn from the phases as we see them; and ends with an analogy: Sunlight acts on the Moon as it does on the Earth, not as on the air; therefore the Moon resembles Earth rather than air.
 
-c. 19. This is well received, and Lucius refers (a second 
-analogy) to Solar Eclipses, and in particular to a recent one, to 
-shew that the Moon, like the Earth, can intercept the Sun's light, 
-and is therefore, like it, a solid body. The fact that the track of 
-the shadow is narrow in a solar eclipse is explained from the 
-figures and distances. 
+c\. 19. This is well received, and Lucius refers (a second analogy) to Solar Eclipses, and in particular to a recent one, to shew that the Moon, like the Earth, can intercept the Sun's light, and is therefore, like it, a solid body. The fact that the track of the shadow is narrow in a solar eclipse is explained from the figures and distances.
 
-c. 20. Lucius continues his report, and describes in detail 
-what happens in a lunar eclipse. If the Moon, he concludes, were 
-fiery and luminous, we should only see her at eclipse times, _i. e._ at 
-intervals normally of six months, occasionally of five. 
+c\. 20. Lucius continues his report, and describes in detail what happens in a lunar eclipse. If the Moon, he concludes, were fiery and luminous, we should only see her at eclipse times, _i. e._ at intervals normally of six months, occasionally of five.
 
-c. 21. Pharnaces and Apollonides both rise to speak. Apol- 
-lonides raises a verbal point about the word "shadow" ; Pharnaces 
-observes that the Moon does shew a blurred and fiery appearance 
-during an Eclipse, to which Lamprias replies by enumerating 
-the successive colours of the Moon's face during Eclipse, that 
-proper to herself being dark and earth-like, not fiery. He con- 
-cludes that the Moon is like our Earth, with a surface broken 
-into heights and gullies, which are the cause of the markings. 
+c\. 21. Pharnaces and Apollonides both rise to speak. Apollonides raises a verbal point about the word "shadow"; Pharnaces observes that the Moon does shew a blurred and fiery appearance during an Eclipse, to which Lamprias replies by enumerating the successive colours of the Moon's face during Eclipse, that proper to herself being dark and earth-like, not fiery. He concludes that the Moon is like our Earth, with a surface broken into heights and gullies, which are the cause of the markings.
 
-c. 22. Apollonides objects that there can be no clefts on the 
-moon with sides high enough to cast such shadows. Lamprias 
-replies that it is the distance and position of the light which 
-matter, not the size of objects which break it ; 
+c\. 22. Apollonides objects that there can be no clefts on the moon with sides high enough to cast such shadows. Lamprias replies that it is the distance and position of the light which matter, not the size of objects which break it; 
 
-c. 23. And goes on himself to supply a stronger objection --- 
-that we do not see the Sun's image in the Moon --- and the answer. 
-This is twofold (a) general, the two cases differ in all details 
-(b) personal to those who, like himself, believe the Moon to be 
-an earth, and to have a rough surface. Why should we see the 
-Sun mirrored in the Moon, and not terrestrial objects or stars? 
+c\. 23. And goes on himself to supply a stronger objection --- that we do not see the Sun's image in the Moon --- and the answer. This is twofold _a._ general, the two cases differ in all details _b._ personal to those who, like himself, believe the Moon to be an earth, and to have a rough surface. Why should we see the Sun mirrored in the Moon, and not terrestrial objects or stars?
 
-c. 24. Sylla's myth is now called for, and the company sits 
-down to hear it. But Theon interposes : Can the Moon have 
+c\. 24. Sylla's myth is now called for, and the company sits down to hear it. But Theon interposes: Can the Moon have inhabitants or support any life, animal or vegetable? If not, how is she "an earth," and what is her use?
 
+c\. 25. Theon's sally is taken in good part, and gravely answered at some length by Lamprias.
 
-inhabitants or support any life, animal or vegetable ? If not, how 
-is she " an earth," and what is her use ? 
+c\. 26. The mention of life on the Moon calls up Sylla, who again feels that he has been anticipated. He begins his myth, heard from a stranger met in Carthage, who had himself made the northward voyage and returned. Once in every thirty years (or year of the planet Saturn) an expedition is sent out from Carthage to certain islands in the Northern Atlantic where Cronus (Saturn) reigns in banishment. The stranger had charged Sylla to pay special honour to the Moon, 
 
-c. 25. Theon's sally is taken in good part, and gravely 
-answered at some length by Lamprias. 
+cc\. 27-29. instructing him as to the functions of Persephone in bringing about the second death --- the separation of mind from soul --- which takes place on the Moon, and the genesis of "Daemons,"
 
-c. 26. The mention of life on the Moon calls up Sylla, who 
-again feels that he has been anticipated. He begins his myth, 
-heard from a stranger met in Carthage, who had himself made 
-the northward voyage and returned. Once in every thirty years 
-(or year of the planet Saturn) an expedition is sent out from 
-Carthage to certain islands in the Northern Atlantic where Cronus 
-(Saturn) reigns in banishment. The stranger had charged Sylla 
-to pay special honour to the Moon, 
+c\. 30. to whom are assigned certain functions on Earth. Sylla commends the myth to his hearers.
 
-cc. 27-29. instructing him as to the functions of Persephone 
-in bringing about the second death --- the separation of mind 
-from soul --- which takes place on the Moon, and the genesis of 
-" Daemons," 
+---
 
-c. 30. to whom are assigned certain functions on Earth. 
-Sylla commends the myth to his hearers. 
+The dialogue "On the Face in the Moon" is not a scientific treatise, and its author would have disclaimed any intention of writing for scientific men. It is discussion for the sake of discussion, the "good talk" of which Plutarch wished that Athens should have no monopoly in his own day, any more than it had when the Boeotian Simmias and Cebes were numbered among the most trusty friends of Socrates, or, later, when "plain living and high thinking" could be exhibited in lofty perfection in the Theban home of Epaminondas. A mixed company, including an astronomer, another mathematician, a literary man, and professed philosophers, with Plutarch's brother, Lamprias, a genial and sensible president, discusses the movements and nature of the Moon from many points of view. That the weightiest part of their arguments consists in an assault on the Stoic view that the Moon is a fiery or starlike body, and no earth, will not surprise us if we remember that the Stoics were used to such attacks; no one denounced their physical absurdities (drawn from Aristotle, perversely followed) more roundly than the Stoics themselves, notably Seneca. (See _Physical Science in the time of Nero_, by Clarke and Geikie; Macmillan, 1910.) The interest in natural phenomena which Plutarch shows throughout the "Lives," touched by a still greater interest in their bearing on men and life, and coloured by an eye ready to see what was picturesque or ludicrous in them, makes him a pleasant, and, with certain reservations, a competent reporter. Like our own Sir Thomas Browne, though without his training or scientific grasp, he had a good deal of sympathy with mystical and occult explanations; and he shows a constant desire to mediate between "Superstition" and "Atheism."
 
+It happens that this dialogue might, if carefully examined, yield material of some importance for the history of Greek science. It must have been written not very long --- say a generation --- before Ptolemy's standard book, the _Magna Syntaxis_, but it contains no reference to him, and shows no consciousness of his views and work. Now Ptolemy is almost our only authority as to the discoveries of Hipparchus, the "Father of Astronomy," who lived some three hundred years before him. It is often difficult to be sure from his language how much is to be credited to himself, and how much to Hipparchus. Delambre is always inclined to disparage the originality of Ptolemy, and De Morgan often questions Delambre's conclusions. (See Art. Cl. Ptolemaeus, in Smith's _Dict. Biog._, also the _Penny Cyclopædia_.) There were workers of importance in the interval, such as the great mathematician Apollonius, and the Stoic Poseidonius, though no first-rate astronomer. Thus a lively account of the state of science in Plutarch's time, so far as it could be made intelligible to an educated company, should have its value. 
 
-The dialogue " On the Face in the Moon " is not a scientific 
-treatise, and its author would have disclaimed any intention of 
-writing for scientific men. It is discussion for the sake of dis- 
-cussion, the "good talk" of which Plutarch wished that Athens 
-should have no monopoly in his own day, any more than it had 
-when the Boeotian Simmias and Cebes were numbered among 
-the most trusty friends of Socrates, or, later, when " plain living 
-and high thinking" could be exhibited in lofty perfection in the 
-Theban home of Epaminondas. A mixed company, including an 
-astronomer, another mathematician, a literary man, and professed 
-philosophers, with Plutarch's brother, Lamprias, a genial and 
-sensible president, discusses the movements and nature of the 
-Moon from many points of view. That the weightiest part of 
-their arguments consists in an assault on the Stoic view that the 
-Moon is a fiery or starlike body, and no earth, will not surprise 
-us if we remember that the Stoics were used to such attacks ; no 
-one denounced their physical absurdities (drawn from Aristotle, 
-perversely followed) more roundly than the Stoics themselves, 
-notably Seneca. (See Physical Science in the time of Nero, by 
-Clarke and Geikie ; Macmillan, 19 10.) The interest in natural 
-phenomena which Plutarch shows throughout the "Lives," touched 
-by a still greater interest in their bearing on men and life, and 
-coloured by an eye ready to see what was picturesque or ludicrous 
-in them, makes him a pleasant, and, with certain reservations, a 
-competent reporter. Like our own Sir Thomas Browne, though 
-without his training or scientific grasp, he had a good deal of 
-sympathy with mystical and occult explanations ; and he shows 
-
-
-a constant desire to mediate between " Superstition " and 
-"Atheism." 
-
-It happens that this dialogue might, if carefully examined, yield 
-material of some importance for the history of Greek science. It 
-must have been written not very long --- say a generation --- before 
-Ptolemy's standard book, the Magna Syntaxis, but it contains no 
-reference to him, and shows no consciousness of his views and 
-work. Now Ptolemy is almost our only authority as to the dis- 
-coveries of Hipparchus, the " Father of Astronomy," who lived 
-some three hundred years before him. It is often difficult to be 
-sure from his language how much is to be credited to himself, 
-and how much to Hipparchus. Delambre is always inclined to 
-disparage the originality of Ptolemy, and De Morgan often 
-questions Delambre's conclusions. (See Art. CI. Ptolemaeus, in 
-Smith's Diet. Biog, also the Penny Cyclopcedia.) There were 
-workers of importance in the interval, such as the great mathema- 
-tician Apollonius, and the Stoic Poseidonius, though no first- 
-rate astronomer. Thus a lively account of the state of science 
-in Plutarch's time, so far as it could be made intelligible to an 
-educated company, should have its value. 
-
-Here we will only attempt to collect a few instances which 
-illustrate Plutarch's way of dealing with these subjects, as it 
-strikes an ordinary reader. 
+Here we will only attempt to collect a few instances which illustrate Plutarch's way of dealing with these subjects, as it strikes an ordinary reader.
 
 (i.) In c. 20, in order to account for the fact that the Moon 
 is first eclipsed on her eastern side, the Sun on his western, it is 
