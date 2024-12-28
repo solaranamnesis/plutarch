@@ -125,351 +125,47 @@ It happens that this dialogue might, if carefully examined, yield material of so
 
 Here we will only attempt to collect a few instances which illustrate Plutarch's way of dealing with these subjects, as it strikes an ordinary reader.
 
-(i.) In c. 20, in order to account for the fact that the Moon 
-is first eclipsed on her eastern side, the Sun on his western, it is 
-stated that the shadow of the earth moves from East to West, 
-the Sun and the Moon from West to East, so that the Sun is 
-overtaken by the shadow of the Moon, but the Moon meets that 
-of the earth. Really, all three move (speaking geocentrically, 
-though this makes no essential difference) from West to East ; in 
-both the cases the Moon, travelling some twelve times as fast as 
-the Sun, overtakes him, or the earth's shadow thrown by him ; 
-in one she is the darkening, in the other the darkened body. 
-The statement is put into the mouth of Lucius, who, after 
-reporting the chief arguments used by " Our Comrade " in the 
-previous discussion, adds some points of his own. The view 
-may be one hastily formed by the Author on a matter where 
-confusion is easy ; it can hardly have reached him from a pro- 
-fessional source. 
+_1._ In c. 20, in order to account for the fact that the Moon is first eclipsed on her eastern side, the Sun on his western, it is stated that the shadow of the earth moves from East to West, the Sun and the Moon from West to East, so that the Sun is overtaken by the shadow of the Moon, but the Moon meets that of the earth. Really, all three move (speaking geocentrically, though this makes no essential difference) from West to East; in both the cases the Moon, travelling some twelve times as fast as the Sun, overtakes him, or the earth's shadow thrown by him; in one she is the darkening, in the other the darkened body. The statement is put into the mouth of Lucius, who, after reporting the chief arguments used by "Our Comrade" in the previous discussion, adds some points of his own. The view may be one hastily formed by the Author on a matter where confusion is easy; it can hardly have reached him from a professional source.
 
-(ii.) Lucius mentions, as another additional point, "the 
-duration and magnitude of lunar eclipses." 
+_2._ Lucius mentions, as another additional point, "the duration and magnitude of lunar eclipses."
 
-" If she is eclipsed when high up and far from the earth, she 
-is hidden for a short time ; if when near the earth and low down, 
-she is firmly held and emerges slowly out of the shadow ; and yet 
-when she is low her speed is greatest, when high it is least." 
+"If she is eclipsed when high up and far from the earth, she is hidden for a short time; if when near the earth and low down, she is firmly held and emerges slowly out of the shadow; and yet when she is low her speed is greatest, when high it is least."
 
-Kepler demurs to the fact, and says that, in his experience, 
-Perigee eclipses are the shorter ; this must be understood ceteris 
-paribus, since the precise conditions of no two eclipses, at 
-least within a very long cycle of years, are the same. The last 
+Kepler demurs to the fact, and says that, in his experience, Perigee eclipses are the shorter; this must be understood _ceteris paribus_, since the precise conditions of no two eclipses, at least within a very long cycle of years, are the same. The last words of Lucius state correctly the second of two conflicting conditions. The shadow cone to be crossed will be broadest when the Moon is near the Earth, but she travels more slowly when distant, in accordance with the principle afterwards embodied in Kepler's _Second Law_. When the two conditions are stated in figures, it seems that _ceteris paribus_ an eclipse of a distant Moon should be the longer by about one fifteenth. Kepler suggests a scientific reason for the mistake, so far as there is any. Was Plutarch also led by his own picturesque conception of the Moon struggling through the lower circles of the cone, to prefer, where views were evenly balanced, the one most consistent with it?
 
+_3._ The figures given in c. 20 raise a question. "Out of the 465 occurrences of full Moon at eclipse intervals, 404 show an interval of six months, the remainder one of five." The numbers correspond correctly to the lunar eclipses of a little over 220 years. In that time there would be twelve recurrences of the cycle first known to the Greeks from Oriental astronomers, and called the Saros, each cycle being 223 lunar months or 18 years 11 days, in all 216 years 132 days. This total will account for 60 five-month eclipses and 396 six months opportunities (268 actual eclipses), and about four years more to one five-months eclipse and eight opportunities, so that the totals for 220 years will be those given in the text. But what was this period which included "_the_ 465 etc."? It does not seem to be mentioned elsewhere?
 
-T I 
+_4._ In c. 17 reference is made to the optics of "folding mirrors," _i. e._, plane mirrors placed at an angle (_i. e._, an angle of 60° in the case mentioned) to one another. We are told that the cause is given by Plato. But the words quoted from Plato (Timaeus, c. 16, p. 46 C.) are used to explain reflexion from concave mirrors, and it is difficult to give them a meaning as applied by Plutarch. However, there is confusion and repetition in our text, and concave mirrors are mentioned above.
 
+_5._ The language used in chapters 24 and 25 (often highly technical) as to the Moon's movements and the Epicyclic Theory, appears to refer to current controversies, settled later on by Ptolemy, and to deserve careful examination by a competent critic.
 
-words of Lucius state correctly the second of two conflicting 
-conditions. The shadow cone to be crossed will be broadest 
-when the Moon is near the Earth, but she travels more slowly 
-when distant, in accordance with the principle afterwards embodied 
-in Kepler's Second Law. When the two conditions are stated in 
-figures, it seems that ceteris paribus an eclipse of a distant Moon 
-should be the longer by about one fifteenth. Kepler suggests a 
-scientific reason for the mistake, so far as there is any. Was 
-Plutarch also led by his own picturesque conception of the Moon 
-struggling through the lower circles of the cone, to prefer, where 
-views were evenly balanced, the one most consistent with it ? 
+The Dialogue which suggests these questions may well be more instructive to us than a more professional treatise could be. Astronomy had, in its proper course of development, become very technical and mathematical, sharply distinguished from general physical enquiry. Even Hipparchus, we are told, "though he loved truth above everything," yet was not versed in "natural science," and was content to explain the motions of the heavenly bodies by an hypothesis mathematically consistent, without care for its physical truth (see Dreyer, p. 165, and the passages quoted from Theon of Alexandria and Ptolemy). Take the case of the Moon. Ptolemy was content to "save the phenomena," to borrow a favourite phrase, by a system which admirably accounted for her very complex movements, but which involved the consequence that her distance from us at the nearest must he half that at the farthest, and her angular diameter therefore double!
 
-(iii.) The figures given in c. 20 raise a question. "Out of 
-the 465 occurrences of full Moon at eclipse intervals, 404 show 
-an interval of six months, the remainder one of five." The 
-numbers correspond correctly to the lunar eclipses of a little over 
-220 years. In that time there would be twelve recurrences of 
-the cycle first known to the Greeks from Oriental astronomers, and 
-called the Saros, each cycle being 223 lunar months or 18 years 
-11 days, in all 216 years 132 days. This total will account for 60 
-five-month eclipses and 396 six months opportunities (268 actual 
-eclipses), and about four years more to one five-months eclipse 
-and eight opportunities, so that the totals for 220 years will be 
-those given in the text. But what was this period which included 
-"the 465 etc."? It does not seem to be mentioned elsewhere? 
+One bold thinker of earlier times, when an astronomer might concern himself also with physical facts, is twice mentioned. It will not be beside our purpose to look into his two great efforts, one of calculation, one of theory.
 
-(iv.) In c. 17 reference is made to the optics of "folding 
-mirrors," _i. e._, plane mirrors placed at an angle {_i. e._, an angle of 6o° 
-in the case mentioned) to one another. We are told that the cause 
-is given by Plato. But the words quoted from Plato (Timaeus, 
-c. xvi, p. 46 C.) are used to explain reflexion from concave mirrors, 
-and it is difficult to give them a meaning as applied by Plutarch. 
-However, there is confusion and repetition in our text, and concave 
-mirrors are mentioned above. 
+We read in c. 10 that "Aristarchus in his book on _Magnitudes and Distances_ shows that the distance of the Sun is more than eighteen times that of the Moon, and less than twenty times." The book is extant (ed. Wallis, Oxford, 1688), and the process seems to be as unexceptionable in theory as it was audacious. Aristarchus set himself to catch the moment of half-moon, and in the right-angled triangle Sun --- Moon --- Earth, to determine the large angle at Earth. This he found to be 29/30 of a right angle, or 87°, whereas it is really (theoretically, at least) 89° 50′. This was harmless enough, but it involved a large relative error in the small angle, Earth --- Sun --- Moon, which became 3° instead of 10′, eighteen times too much. The sequel is very interesting. Hipparchus, a century later, adopted this result in his calculation of the parallax (angle subtending the earth's radius) of the Sun, which he found to be 3′ (twenty times too much). This was adopted by Ptolemy in the second century A. D., and remained the official estimate until nearly 1700 A. D., though both Hipparchus and Kepler protested, the latter stating as his opinion that the parallax could not be greater than one minute of arc, or the distance less than twelve millions of miles. Shortly before 1700 A. D. improved knowledge of the orbit and distances of Mars enabled the Sun's parallax to be reduced to 9 1/2 seconds of arc. Lastly, Halley, Savilian Professor of Geometry at Oxford, and also Astronomer Royal, had the splendid privilege of pointing out the method which he had no chance of practising himself, but which has since been repeatedly applied, though to some extent superseded,* the current settlement (a little under 9 seconds of arc) dating from 1867. It was a great achievement of Aristarchus, though he misled the world for so many centuries, to state a figure at all, and to think in such mighty units. Perhaps the attempt could not have been made in a more advanced state of his science.
 
-(v.) The language used in chapters xxiv and xxv (often highly 
-technical) as to the Moon's movements and the Epicyclic Theory, 
-appears to refer to current controversies, settled later on by 
-Ptolemy, and to deserve careful examination by a competent 
-critic. 
+*) See Turner's _Modern Astronomy_, p. 95 foll.
 
-The Dialogue which suggests these questions may well be 
-more instructive to us than a more professional treatise could be. 
-Astronomy had, in its proper course of development, become 
-very technical and mathematical, sharply distinguished from 
-general physical enquiry. Even Hipparchus, we are told, "though 
-he loved truth above everything," yet was not versed in "natural 
-science," and was content to explain the motions of the heavenly 
-bodies by an hypothesis mathematically consistent, without care 
-for its physical truth (see Dreyer, p. 165, and the passages quoted 
-from Theon of Alexandria and Ptolemy). Take the case of the 
-Moon. Ptolemy was content to "save the phenomena," to borrow 
-a favourite phrase, by a system which admirably accounted for 
+His cosmical speculation is even more daring. It is known to us from this dialogue (c. 6) and also from the great mathematician and engineer Archimedes of Syracuse (born about 287 B. C.), who records it (in his extant _Arenarius_) without comment on the main point. Aristarchus proposed to "disturb the hearth of the universe" by his hypothesis that the heaven of the stars is fixed, while the earth has a daily motion on her axis and an annual motion round the sun. It was a brilliant intuition, possible in an age of comparatively simple knowledge, which could not easily have been made when the complexity of the several orbits was increasingly realised (see Dreyer, pp. 147-8). If we may, without irreverence, use an analogy, it was like the happy efforts which novices often make in an exercise requiring skill of mind or body, relapsing into incompetence when the technical conditions are better understood. Dr. Dreyer (p. 145) makes the interesting suggestion that Aristarchus took the idea from some early form of the system of "movable excentrics," and further (p. 157), that if that system had, in later times, prevailed against that of Epicycles, its rival in displacing the cumbrous "concentric spheres" known to Aristotle, it must have flashed, sooner or later, upon some bright mind, that there was one excentric point, namely, in the Sun, central to the orbits of all the planets. It is as tempting as it is idle to speculate on what might have happened if a heliocentric view had been stereotyped by Ptolemy and Thomas Aquinas, and the geocentric abandoned to a few heretics and a few great lagging minds, as Francis Bacon and Sir Thomas Browne did lag later on. To Ptolemy the question would hardly be of the first interest. The "phenomena" of the Solar system are "saved" perfectly well on either hypothesis. And until people became familiar with the conception of one law for all matter in space, the actual movements remained of little concern.
 
+Kepler (_Epit. Astron. Copern._, 4) remarks that in stating the uses of the Moon (c. 25) Lamprias has made an omission :--- she gives man a means of approach to the planetary system. No one could speak with more absolute authority on this particular point, but we may give some details suggested by Plutarch's dialogue. From her apparent size, her nearness, the frequent recurrence of her phases, it was obvious that man should first turn to our nearest neighbour. There was the further advantage that, in all early stages of lunar enquiry, it was quite indifferent whether the sun turns round the earth, or the earth round the sun, or both round a common centre. Whether the Greeks owed much or little to the East, they soon came to realise that the moon really moved round the earth at a moderate distance, as the nave of a wheel round the axle. Soon it appeared that there were irregularities in this circular movement. The "First Anomaly," a difference in speed at various parts of the orbit, was well understood by Hipparchus and Ptolemy, and at last interpreted by Kepler as due to the fact that the orbit is, approximately, an ellipse not a circle (not apparently till _after_ he had solved the difficult orbit of Mars). Finally, that a body thus revolving round another must move in an ellipse, with the larger body in one focus, was settled by Newton. The "Second Anomaly" was indicated by Hipparchus, fully worked out by Ptolemy, and known as "the Evection" to more modern times, its cause, namely the interference of a third body, the sun, being again first explained by Newton. Other difficult points in the moon's movement, as the inclination of her orbit to that of the sun (earth), and the retrogression of the points of intersection of the two orbits, were familiar to Hipparchus. A third "Anomaly," now known as "Variation," is instructive, because its discovery has been claimed for an Arabian astronomer, of about 1000 A. D. After an exhaustive discussion during the last century (1836-1871), it seems proved that the claim rested upon a mistake, and that the sole credit is due to Tycho Brahe (1598). (See Dreyer, p. 252.)
 
-12 
+Turning from the movements to the physical aspects of the moon, we find from Plutarch that very correct ideas prevailed as to her size, distance, and the composition of her crust; and it was at least guessed that her density was less than that of the earth. On the other hand, she was erroneously supposed to share with us an atmosphere, in which comets move. Of great and far-reaching interest is the opinion which we find advanced, that earth and moon attract, each from its own centre, their own parts; and that if the earth draws the moon, it is as a former part of itself, just as it attracts back a stone which is thrown upwards (see too Dreyer, p. 189). The moon is a sphere, always presenting the same face to the earth. There is no suggestion of rotation on an axis; indeed this appears to be expressly excluded.
 
-her very complex movements, but which involved the consequence 
-that her distance from us at the nearest must he half that at the 
-farthest, and her angular diameter therefore double ! 
+It may cause a smile, on first reading, to find the earth-like nature of the moon, and similar truths, treated as open to argument. But our superior enlightenment is really very modern. Bacon gives a grudging assent to the new doctrine that the moon may be a body like the earth, but declines to extend it to other bodies in the heavens, and says that his own theory is against it. Sir Thomas Browne reserves for discussion the question: "Whether the globe of the earth be but a point in respect of the stars and firmament," and Galileo writes to Muti in 1616: "I said then and I say now that I do not believe that the body of the moon is composed of earth and water ... I added further: Even allowing that the matter of the moon may be like that of the earth (a most improbable supposition) still not one of those things that the earth produces can exist on the moon." Much has been said and written since --- and the moon keeps her countenance!
 
-One bold thinker of earlier times, when an astronomer might 
-concern himself also with physical facts, is twice mentioned. It 
-will not be beside our purpose to look into his two great efforts, 
-one of calculation, one of theory. 
+Daniel Ruhnken, in his Inaugural Lecture (A. D. 1757) _De Græcia artium ac doctrinarum inventrice_, an eloquent and weighty survey, warns us against a certain childishness in any comparison between ancient and modern astronomy, and lays stress upon the gains in actual knowledge and in increased accuracy due to instruments. The case, so far as instruments are concerned, is much stronger now than it was thirty years after Newton's death, but perhaps the essential points are the same, and are two. There is first the aim of the modern astronomer, which is to account for the position in space of the heavenly bodies; and, secondly, the mathematical conceptions, which are his best instruments, are of an order altogether higher. There has been continuity, but there has also been advance _per saltum_. If Xerxes had won at Salamis, and had succeeded in sterilising the genius of the Hellenic race, the giants of the Revival in Europe, in which the Hellenic spirit was only one factor, would surely have made up the missing ground, but there would have been much to make up before the advance went on. These great things apart, it is interesting to trace the early glimmerings, sometimes fanned into brightness, and to follow the "good talk" of a party meeting in Boeotia perhaps late in the first century A. D. about the "Face in the Moon" and all that it meant. Horace, a century earlier, compares the Greek genius of his day to a little girl in the nursery --- "What she sought eagerly she soon tired of and let be" --- a sad estimate for those who remember what Greece at her best has done for us, and all the more sad, because it was deliberate and unbiassed. It is consoling to find, in one branch of enquiry, so much steadiness of purpose and persevering effort, every step an advance, and scarcely one which needed to be recalled; continuous advance from Thales to Ptolemy and the later Theon. That no new contribution came from any other quarter, from the learned Romans or Indians or Arabians, until the birth of the new order, need not be matter of boasting; it is simple fact.
 
-We read in c. 10 that "Aristarchus in his book on Magnitudes 
-and Distances shows that the distance of the Sun is more than 
-eighteen times that of the Moon, and less than twenty times." 
-The book is extant (ed. Wallis, Oxford, 1688), and the process 
-seems to be as unexceptionable in theory as it was audacious. 
-Aristarchus set himself to catch the moment of half-moon, and 
-in the right-angled triangle Sun --- Moon --- Earth, to determine the 
-large angle at Earth. This he found to be §§ of a right angle, 
-or 870, whereas it is really (theoretically, at least) 890 50'. This 
-was harmless enough, but it involved a large relative error in 
-the small angle, Earth --- Sun --- Moon, which became 30 instead of 
-10', eighteen times too much. The sequel is very interesting. 
-Hipparchus, a century later, adopted this result in his calculation 
-of the parallax (angle subtending the earth's radius) of the Sun, 
-which he found to be 3' (twenty times too much). This was 
-adopted by Ptolemy in the second century a.d., and remained 
-the official estimate until nearly 1700 a.d., though both Hipparchus 
-and Kepler protested, the latter stating as his opinion that the 
-parallax could not be greater than one minute of arc, or the 
-distance less than twelve millions of miles. Shortly before 
-1700 a.d. improved knowledge of the orbit and distances of 
-Mars enabled the Sun's parallax to be reduced to 9J seconds 
-of arc. Lastly, Halley, Savilian Professor of Geometry at Oxford, 
-and also Astronomer Royal, had the splendid privilege of pointing 
-out the method which he had no chance of practising himself, 
-but which has since been repeatedly applied, though to some 
-extent superseded*, the current settlement (a little under 9 seconds 
-of arc) dating from 1867. It was a great achievement of Aris- 
-tarchus, though he misled the world for so many centuries, to 
-state a figure at all, and to think in such mighty units. Perhaps 
-the attempt could not have been made in a more advanced state 
-of his science. 
+Plutarch was born about 50 A. D. at Chaeroneia in Boeotia, and was living at least as late as 115 A. D. We have little information as to the dates of his several works. M. Gréard (p. 45) thinks that all the Lamprias dialogues, of which this is one, are early in date, and that Lamprias himself died young. We have a clue to the date of this dialogue in the recent Solar Eclipse mentioned in c. 19, which would help us more if we knew the place where the eclipse was observed; we should naturally assume this to have been in Boeotia. Various eclipses have been examined by modern authorities; see the special note.
 
-His cosmical speculation is even more daring. It is known 
-to us from this dialogue (c. 6) and also from the great mathema- 
-tician and engineer Archimedes of Syracuse (born about 287 B.C.), 
-who records it (in his extant Arenarhts) without comment on the 
-main point. Aristarchus proposed to " disturb the hearth of the 
-universe " by his hypothesis that the heaven of the stars is fixed, 
-while the earth has a daily motion on her axis and an annual 
-motion round the sun. It was a brilliant intuition, possible in an 
-age of comparatively simple knowledge, which could not easily 
+It would be out of place, in connexion with the dialogue before us, to speak at any length on Plutarch's life, or of his characteristics as a man, a stylist, and a moralist. On all these points a reader may be referred to the excellent "lives" by Dryden or Dacier, to the small volume of lectures by Archbishop Trench, to chapters in Mr. Dill's _Roman Society Nero to Aurelius_, and in Mr. Glover's recent _Conflict of Religions_, and to pages, all too few, in the late Dr. C. Bigg's works; and to the very beautiful and careful study by M. Octave Gréard. The style causes some difficulty to a translator, since it would be unfaithful to the Author to represent it by clear and unencumbered periods. But it is a very honest style; Plutarch, though steeped in Plato, never attempts to write with Plato's pen; and the man is always apparent in the style. I have made free use of Amyot's version, which combines faithfulness with ease in a degree which may well make those who follow him despair.* As a physicist, Plutarch was genuinely interested both in mathematics (Sympos., 9, 14, etc.), and in natural phenomena; but his tastes were too miscellaneous for accuracy to be possible. Indeed he makes no pretence to accuracy; but no one dreams of his reputation suffering on that account, and he puts accuracy out of fashion with his readers. He was not a philosopher (Glover, p. 89), but he knew a vast deal about philosophers. In the _De Facie_ it is sometimes amusing, and sometimes irritating, to watch the superior tone which the Academic speakers are allowed to assume in questioning or contradicting the scientific men present. As a practical moralist, with a strong vein of mysticism, Plutarch stands alone. It was the latter quality which gave him his strong interest in the moon, closely connected as she was with the mysteries of birth and death, and with the Spirits, or Genii, who help the endeavours of men on earth, and minister to their needs. But he was the practical moralist above all things, and would have endorsed, as a sane and lofty utterance, the words of the unhappy astronomer in _Rasselas_:--- "_To man is permitted the contemplation of the skies, but the practice of virtue is commanded._"*
 
-* See Turner's Modern Astronomy, p. 95 foil. 
+*) See, however, Gréard, p. 358 foll.
 
+*) There is a short word, τῦφος, often used by Plutarch, and always difficult to translate, which may be interpreted through its associates. It is coupled with Superstition (δεισιδαιμονία), Opinionativeness (οἴημα), Stupidity (ἀβελτερία), Pretentiousness (σεμνότης), Desire of applause (8o£δοξοκοπία), and other unlovely qualities. We cannot draw a man's character by merely summing up his antipathies, but the enumeration may help us to understand Plutarch's attitude, at once robust and finely sympathetic, towards men and their opinions.
 
-13 
-
-have been made when the complexity of the several orbits was 
-increasingly realised (see Dreyer, pp. 147-8). If we may, without 
-irreverence, use an analogy, it was like the happy efforts which 
-novices often make in an exercise requiring skill of mind or body, 
-relapsing into incompetence when the technical conditions are 
-better understood. Dr. Dreyer (p. 145) makes the interesting 
-suggestion that Aristarchus took the idea from some early form of 
-the system of "movable excentrics," and further (p. 157), that if 
-that system had, in later times, prevailed against that of Epicycles, 
-its rival in displacing the cumbrous "concentric spheres" known 
-to Aristotle, it must have flashed, sooner or later, upon some 
-bright mind, that there was one excentric point, namely, in the 
-Sun, central to the orbits of all the planets. It is as tempting as 
-it is idle to speculate on what might have happened if a helio- 
-centric view had been stereotyped by Ptolemy and Thomas 
-Aquinas, and the geocentric abandoned to a few heretics and a 
-few great lagging minds, as Francis Bacon and Sir Thomas 
-Browne did lag later on. To Ptolemy the question would hardly 
-be of the first interest. The " phenomena " of the Solar system 
-are " saved " perfectly well on either hypothesis. And until people 
-became familiar with the conception of one law for all matter in 
-space, the actual movements remained of little concern. 
-
-Kepler {Epit. As iron. Cofiern., iv) remarks that in stating the 
-uses of the Moon (c. 25) Lamprias has made an omission: --- she 
-gives man a means of approach to the planetary system. No one 
-could speak with more absolute authority on this particular point, 
-but we may give some details suggested by Plutarch's dialogue. 
-From her apparent size, her nearness, the frequent recurrence of 
-her phases, it was obvious that man should first turn to our 
-nearest neighbour. There was the further advantage that, in all 
-early stages of lunar enquiry, it was quite indifferent whether the 
-sun turns round the earth, or the earth round the sun, or both 
-round a common centre. Whether the Greeks owed much or 
-little to the East, they soon came to realise that the moon really 
-moved round the earth at a moderate distance, as the nave of a 
-wheel round the axle. Soon it appeared that there were irregu- 
-larities in this circular movement. The " First Anomaly," a 
-difference in speed at various parts of the orbit, was well under- 
-stood by Hipparchus and Ptolemy, and at last interpreted by Kepler 
-as due to the fact that the orbit is, approximately, an ellipse not 
-a circle (not apparently till after he had solved the difficult orbit of 
-Mars). Finally, that a body thus revolving round another must 
-move in an ellipse, with the larger body in one focus, was settled by 
-Newton. The "Second Anomaly" was indicated by Hipparchus, 
-fully worked out by Ptolemy, and known as " the Evection " to 
-more modern times, its cause, namely the interference of a third 
-body, the sun, being again first explained by Newton. Other 
-difficult points in the moon's movement, as the inclination of her 
-orbit to that of the sun (earth), and the retrogression of the points 
-
-
-14 
-
-of intersection of the two orbits, were familiar to Hipparchus. 
-A third "Anomaly," now known as "Variation," is instructive, 
-because its discovery has been claimed for an Arabian astronomer, 
-of about iooo a.d. After an exhaustive discussion during the 
-last century (1836 --- 187 1), it seems proved that the claim rested 
-upon a mistake, and that the sole credit is due to Tycho Brahe 
-(1598). (See Dreyer, p. 252.) 
-
-Turning from the movements to the physical aspects of the 
-moon, we find from Plutarch that very correct ideas prevailed as 
-to her size, distance, and the composition of her crust ; and it 
-was at least guessed that her density was less than that of the 
-earth. On the other hand, she was erroneously supposed to 
-share with us an atmosphere, in which comets move. Of great 
-and far-reaching interest is the opinion which we find advanced, 
-that earth and moon attract, each from its own centre, their own 
-parts ; and that if the earth draws the moon, it is as a former part 
-of itself, just as it attracts back a stone which is thrown upwards 
-(see too Dreyer, p. 189). The moon is a sphere, always pre- 
-senting the same face to the earth. There is no suggestion of 
-rotation on an axis ; indeed this appears to be expressly excluded. 
-
-It may cause a smile, on first reading, to find the earth-like 
-nature of the moon, and similar truths, treated as open to 
-argument. But our superior enlightenment is really very modern. 
-Bacon gives a grudging assent to the new doctrine that the moon 
-may be a body like the earth, but declines to extend it to other 
-bodies in the heavens, and says that his own theory is against 
-it. Sir Thomas Browne reserves for discussion the question : 
-" Whether the globe of the earth be but a point in respect of the 
-stars and firmament," and Galileo writes to Muti in 16 16: "I said 
-then and I say now that I do not believe that the body of the 
-moon is composed of earth and water. ... I added further : 
-Even allowing that the matter of the moon may be like that of 
-the earth (a most improbable supposition) still not one of those 
-things that the earth produces can exist on the moon." Much 
-has been said and written since--- and the moon keeps her 
-countenance ! 
-
-Daniel Ruhnken, in his Inaugural Lecture (a.d. 1757) De 
-Grcecia artium ac doctrinaram inventrice, an eloquent and weight) 
-survey, warns us against a certain childishness in any comparison 
-between ancient and modern astronomy, and lays stress upon the 
-gains in actual knowledge and in increased accuracy due to 
-instruments. The case, so far as instruments are concerned, is 
-much stronger now than it was thirty years after Newton's death, 
-but perhaps the essential points are the same, and are two. 
-There is first the aim of the modern astronomer, which is to 
-account for the position in space of the heavenly bodies; and, 
-secondly, the mathematical conceptions, which are his best 
-instruments, are of an order altogether higher. There has been 
-continuity, but there has also been advance per saltutn. If 
-
-
-*5 
-
-Xerxes had won at Salamis, and had succeeded in sterilising the 
-genius of the Hellenic race, the giants of the Revival in Europe, 
-in which the Hellenic spirit was only one factor, would surely 
-have made up the missing ground, but there would have been 
-much to make up before the advance went on. These great 
-things apart, it is interesting to trace the early glimmerings, 
-sometimes fanned into brightness, and to follow the " good talk " 
-of a party meeting in Boeotia perhaps late in the first century 
-a.d. about the " Face in the Moon " and all that it meant. 
-Horace, a century earlier, compares the Greek genius of his day 
-to a little girl in the nursery --- " What she sought eagerly she 
-soon tired of and let be"--- a sad estimate for those who remember 
-what Greece at her best has done for us, and all the more sad, 
-because it was deliberate and unbiassed. It is consoling to find, 
-in one branch of enquiry, so much steadiness of purpose and 
-persevering effort, every step an advance, and scarcely one which 
-needed to be recalled ; continuous advance from Thales to 
-Ptolemy and the later Theon. That no new contribution came 
-from any other quarter, from the learned Romans or Indians or 
-Arabians, until the birth of the new order, need not be matter 
-of boasting ; it is simple fact. 
-
-Plutarch was born about 50 a.d. at Chaeroneia in Boeotia, and 
-was living at least as late as 115 a.d. We have little information 
-as to the dates of his several works. M. Greard (p. 45) thinks 
-that all the Lamprias dialogues, of which this is one, are early in 
-date, and that Lamprias himself died young. We have a clue to 
-the date of this dialogue in the recent Solar Eclipse mentioned in 
-c. 19, which would help us more if we knew the place where the 
-eclipse was observed ; we should naturally assume this to have 
-been in Boeotia. Various eclipses have been examined by 
-modern authorities ; see the special note. 
-
-It would be out of place, in connexion with the dialogue 
-before us, to speak at any length on Plutarch's life, or of his 
-characteristics as a man, a stylist, and a moralist. On all these 
-points a reader may be referred to the excellent "lives" by 
-Dryden or Dacier, to the small volume of lectures by Archbishop 
-Trench, to chapters in Mr. Dill's Roman Society Nero to Aurelius, 
-and in Mr. Glover's recent Conflict of Religions, and to pages, 
-all too few, in the late Dr. C. Bigg's works; and to the very 
-beautiful and careful study by M. Octave Greard. The style 
-causes some difficulty to a translator, since it would be unfaithful 
-to the Author to represent it by clear and unencumbered periods. 
-But it is a very honest style ; Plutarch, though steeped in Plato, 
-never attempts to write with Plato's pen ; and the man is always 
-apparent in the style. I have made free use of Amyot's version, 
-which combines faithfulness with ease in a degree which may well 
-make those who follow him despair.* As a physicist, Plutarch 
-was genuinely interested both in mathematics (Sympos., ix, xiv, 
-
-* See, however, Greard, p. 358 foil. 
-
-
-i6 
-
-etc.), and in natural phenomena; but his tastes were too miscel- 
-laneous for accuracy to be possible. Indeed he makes no pretence 
-to accuracy ; but no one dreams of his reputation suffering on 
-that account, and he puts accuracy out of fashion with his readers. 
-He was not a philosopher (Glover, p. 89), but he knew a vast 
-deal about philosophers. In the De Facie it is sometimes amusing, 
-and sometimes irritating, to watch the superior tone which the 
-Academic speakers are allowed to assume in questioning or con- 
-tradicting the scientific men present. As a practical moralist, 
-with a strong vein of mysticism, Plutarch stands alone. It was 
-the latter quality which gave him his strong interest in the moon, 
-closely connected as she was with the mysteries of birth and 
-death, and with the Spirits, or Genii, who help the endeavours 
-of men on earth, and minister to their needs. But he was the 
-practical moralist above all things, and would have endorsed, as a 
-sane and lofty utterance, the words of the unhappy astronomer 
-in Rasselas : --- " To man is permitted the contemplation of the skies, 
-but the practice of virtue is commanded." * 
-
-* There is a short word, tG</>os, often used by Plutarch, and always difficult 
-to translate, which ma}' be interpreted through its associates. It is coupled 
-with Superstition (8€i<ri.5cu[xovia), Opinionativeness (o'lriixa), Stupidity (cgSeATepia), 
-Pretentiousness (crefxvoTrts), Desire of applause (8o£onoiria) , and other unlovely 
-qualities. We cannot draw a man's character by merely summing up his 
-antipathies, but the enumeration may help us to understand Plutarch's attitude, 
-at once robust and finely sympathetic, towards men and their opinions. 
-
-
-OF THE FACE WHICH APPEARS 
-ON THE ORB OF THE MOON. 
-
+# On the Face which appears on the Orb of the Moon.
 
 920. C. --- I. Here Sylla said : " Enough of all this, for it belongs Sylla log. 
 to my story, and comes out of it. But I should like to ask in 
