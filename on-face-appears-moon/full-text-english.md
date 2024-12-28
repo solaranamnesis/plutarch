@@ -167,210 +167,28 @@ It would be out of place, in connexion with the dialogue before us, to speak at 
 
 # On the Face which appears on the Orb of the Moon.
 
-920. C. --- I. Here Sylla said : " Enough of all this, for it belongs Sylla log. 
-to my story, and comes out of it. But I should like to ask in 
-the first place whether we are to have a prelude, and first to 
-discuss those views about the Moon's face which are in everyone's 
-hand and on everyone's lips." " Of course we are," I answered, Lamprias. 
-" it was the difficulty which we found in these which thrust us 
-upon the others. In chronic diseases, patients grow weary of the 
-common remedies and plans of treatment, and turn to rites and 
+C\. --- 1. Here Sylla said: "Enough of all this, for it belongs to my story, and comes out of it. But I should like to ask in the first place whether we are to have a prelude, and first to discuss those views about the Moon's face which are in everyone's hand and on everyone's lips." "Of course we are," I answered, "it was the difficulty which we found in these which thrust us upon the others. In chronic diseases, patients grow weary of the common remedies and plans of treatment, and turn to rites and charms and dreams. Just so in obscure and perplexing enquiries, when the common, received, familiar accounts are not convincing, we cannot but try those which lie further afield; we must not despise them, but simply repeat the spells which the old people used, and out of it all try to elicit the truth.
 
-rharms and dreams Tnsf so in nhcrurp cinrl r»^ri~>l<=>v^rr anm.tV;^ 
+2\. "To begin, you see the absurdity of calling the figure which appears in the Moon an affection of our eyesight, too weak to resist the brightness, or, as we say, dazzled; and of not observing that this ought rather to happen when we look at the Sun, who meets us with his fierce strong strokes. Empedocles* has a pretty line giving the difference between the two:---
 
+'The Sun's keen shafts, and Moon with kindly beams.'
 
-CORRIGENDA. 
+*) For quotations from early philosophers see Diels' "Fragmenta" (1901, etc.), also "Heracliti Reliquiæ" (Bywater, 1877), and other special collections.
 
+Thus he describes the attractive, cheerful, painless quality of her light. Further, the reason is given why men of dim and weak eyesight do not see any distinct figure in the moon; her orb shines full and smooth to them, whereas strong-sighted persons get more details, and distinguish the features impressed there with clearer sense of contrast. Surely, the reverse should happen if it were a weakness and affection of the eye which produced the image; the weaker the organ the clearer should be the appearance. The very irregularity of the surface is sufficient to refute this theory; this image is not one of continuous and confluent shadow, but is well sketched in the words of Agesianax:---
 
-Page 26, line 12, for "earthlier" read "earthlike." 
+'All round as fire she shines, but in her midst,  
+Bluer than cyanus, lo, a maiden's eye,  
+Her tender brow, her face in counterpart.'
 
-Page 33, line 33, for "outstretched" read "outmatched. 
+For the shadowy parts really pass beneath the bright ones which they encircle, and in turn are caught and cut off by them; thus light and shade are interwoven throughout, and the face-form is delineated to the life. The argument was thought to meet your Clearchus also, Aristotle, no less unanswerably; for yours he is, and an intimate of your namesake of old, although he perverted many doctrines of The Path."
 
-Page 39, lines 15-16, delete marks of quotation. 
+3\. Here Apollonides interposed to ask what the view of Clearchus was. "No man," I said, "has less good right than you to ignorance of a doctrine which starts from Geometry, as from its own native hearth. Clearchus says that the face, as we call it, is made up of images of the great ocean mirrored in the Moon. For our sight being reflected back from many points, is able to touch objects which are not in its direct line; and the full moon is of all mirrors the most beautiful and the purest in uniformity and lustre. As then you geometers think that the rainbow is seen in the cloud when it has acquired a moist and smooth consistence, because our vision is reflected on to the sun, so Clearchus held that the outer Ocean is seen in the moon, not where it really is, but in the place from which reflexion carried our sight into contact with it and its dazzle. Agesianax has another passage:---
 
-Page 41, line 3, for "or" read "nor." 
+'Or Ocean's wave that foams right opposite,  
+Be mirrored like a sheet of fire and flame.'"
 
-
-duced the image j the weaker the organ the clearer should be the 
-appearance. The very irregularity of the surface is sufficient to 
-refute this theory; this image is not one of continuous and confluent 
-shadow, but is well sketched in the words of Agesianax : --- 
-' All round as fire she shines, but in her midst, 
-
-Bluer than cyanus, lo, a maiden's eye, 
-
-Her tender brow, her face in counterpart.' 
-
-For the shadowy parts really pass beneath the bright ones which 
-they encircle, and in turn are caught and cut off by them ; thus 
-light and shade are interwoven throughout, and the face-form is 
-delineated to the life. The argument was thought to meet your 
-Clearchus also, Aristotle, no less unanswerably ; for yours he is, 
-and an intimate of your namesake of old, although he perverted 
-many doctrines of The Path." 
-
-* For quotations from early philosophers see Die Is " Fragment a" (/go/, etc.), 
-also " Heracliti Reliquice" (Bywater, /S77), and other special collections. 
-
-B 
-
-
-i6 
-
-
-etc.), and in natural phenomena; but his tastes were too miscel- 
-laneous for accuracy to be possible. Indeed he makes no pretence 
-to accuracy : but no one dreams of his reputation suffering on 
-that account, and he puts accuracy out of fashion with his readers. 
-He was not a philosopher (Glover, p. 89), but he knew a vast 
-deal about philosophers. In the Dt Facie it is sometimes amusing, 
-and sometimes irritating, to watch the superior tone which the 
-Academic speakers are allowed to assume in questioning or con- 
-tradicting the scientific men present. As a practical moralist, 
-with a strong vein of mysticism, Plutarch stands alone. It was 
-the latter quality which gave him his strong interest in the moon, 
-closely connected as she was with the mysteries of birth and 
-death, and with the Spirits, or Genii, who help the endeavours 
--<■ ••.-,*„ on earth, and minister to their needs. But he was the 
-11 Minors, and would have endorsed, as a 
---- ~" °ctrononier 
-
-
-OF THE FACE WHICH APPEARS 
-ON THE ORB OF THE MOON. 
-
-
-C. --- I. Here Sylla said : " Enough of all this, for it belongs Sylla loq. 
-to my story, and comes out of it. But I should like to ask in 
-the first place whether we are to have a prelude, and first to 
-discuss those views about the Moon's face which are in everyone's 
-hand and on everyone's lips." " Of course we are," I answered, Lamprias. 
-" it was the difficulty which we found in these which thrust us 
-upon the others. In chronic diseases, patients grow weary of the 
-common remedies and plans of treatment, and turn to rites and 
-charms and dreams. Just so in obscure and perplexing enquiries, 
-when the common, received, familiar accounts are not convincing, 
-we cannot but try those which lie further afield ; we must not 
-despise them, but simply repeat the spells which the old people 
-used, and out of it all try to elicit the truth. 
-
-II. "To begin, you see the absurdity of calling the figure 
-which appears in the Moon an affection of our eyesight, too weak 
-to resist the brightness, or, as we say, dazzled ; and of not observing 
-that this ought rather to happen when we look at the Sun, who 
-meets us with his fierce strong strokes. Empedocles* has a pretty 
-line giving the difference between the two : --- 
-
-' The Sun's keen shafts, and Moon with kindly beams.' 
-
-Thus he describes the attractive, cheerful, painless quality of 
-her light. Further, the reason is given why men of dim and 
-weak eyesight do not see any distinct figure in the moon ; 
-her orb shines full and smooth to them, whereas strong-sighted 
-persons get more details, and distinguish the features impressed 
-there with clearer sense of contrast. Surely, the reverse should 
-happen if it were a weakness and affection of the eye which pro- 
-duced the image ; the weaker the organ the clearer should be the 
-appearance. The very irregularity of the surface is sufficient to 
-refute this theory; this image is not one of continuous and confluent 
-shadow, but is well sketched in the words of Agesianax : --- 
-' All round as fire she shines, but in her midst, 
-
-Bluer than cyanus, lo, a maiden's eye, 
-
-Her tender brow, her face in counterpart.' 
-
-For the shadowy parts really pass beneath the bright ones which 
-they encircle, and in turn are caught and cut off by them ; thus 
-light and shade are interwoven throughout, and the face-form is 
-delineated to the life. The argument was thought to meet your 
-Clearchus also, Aristotle, no less unanswerably ; for yours he is, 
-and an intimate of your namesake of old, although he perverted 
-many doctrines of The Path." 
-
-* For quotations from early philosophers see Diets' " Fragment a" (/90/, etc.), 
-also " Heracliti Reliquice" {Bywater, 1877), and other special collections. 
-
-B 
-
-
-i8 
-
-Apollonides. III. Here Apollonides interposed to ask what the view of 
-
-Lamprias. Clearchus was. "No man," I said, "has less good right than 
-
-you to ignorance of a doctrine which starts from Geometry, as 
-
-from its own native hearth. Clearchus says that the face, as we 921. * 
-
-call it, is made up of images of the great ocean mirrored in the 
-
-Moon. For our sight being reflected back from many points, is 
-
-able to touch objects which are not in its direct line ; and the 
-
-full moon is of all mirrors the most beautiful and the purest in 
-
-uniformity and lustre. As then you geometers think that the 
-
-rainbow is seen in the cloud when it has acquired a moist and 
-
-Ar. Probl. smooth consistence, because our vision is reflected on to the sun, 
-
-*»»i 3- so Clearchus held that the outer Ocean is seen in the moon, not 
-
-where it really is, but in the place from which reflexion carried 
-
-our sight into contact with it and its dazzle. Agesianax has 
-
-another passage : --- 
-
-' Or Ocean's wave that foams right opposite, 
-Be mirrored like a sheet of fire and flame.' " 
-
-Apollonides. IV. This pleased Apollonides. " What a fresh way of 
-putting a view ; that was a bold man, and there was poetry in 
-him. But how did the refutation proceed on your side?" "In 
-
-Lamprias. this way," I answered. " First the outer Ocean is uniform, a sea 
-with one continuous stream, whereas the appearance of the dark 
-places in the moon is not uniform ; there are isthmuses, so to call 
-them, where the brightness parts and defines the shadow ; each 
-region is marked off and has its proper boundary, and so the 
-places where light and shade meet assume the appearance of 
-height and depth, and represent quite naturally human eyes and 
-lips. Either, therefore, we must assume that there are more 
-oceans than one, parted by real isthmuses and mainlands, which 
-is absurd and untrue ; or, if there is only one, it is impossible to 
-believe that its image could appear thus broken up. Now comes 
-a question which it is safer to ask in your presence than it is to 
-state an answer. Given that the habitable world is 'equal in 
-breadth and length,' is it possible that the view of the sea as a 
-whole, thus reflected from the moon, should reach those sailing 
-upon the great sea itself, yes, or living on it as the Britons do, 
-and this even if the earth does, as you say it does, occupy a point 
-central to the sphere of the moon? This," I continued, "is a 
-matter for you to consider, but the reflexion of vision from the 
-moon is a further question which it is not for you to decide, nor 
-yet for Hipparchus. I know, my dear friend [that Hipparchus is 
-a very great astronomer], but many people do not accept his view 
-on the physical nature of vision, that it is probably a sympathetic 
-blending and commixture, rather than a succession of strokes and 
-recoils such as Epicurus devised for his atoms. Nor will you find 
-Clearchus ready to assume that the moon is a weighty and solid 
-body. Yet 'an ethereal and luminous star,' to use your words, 
-ought to break and divert the vision, so there is no question 
-of reflexion. Lastly, if anyone requires us to do so, we will 
-
-
-19 
-
-put the question, how is it that only one face is seen, the sea Lamprias. 
-mirrored on the moon, and none in any of all the other stars ? 
-Yet reason demands that our vision should be thus affected in the 
-case of all or of none. But now," I said, turning to Lucius, 
-"remind us which of our points was mentioned first." 
+4\. This pleased Apollonides. "What a fresh way of putting a view; that was a bold man, and there was poetry in him. But how did the refutation proceed on your side?" "In this way," I answered. "First the outer Ocean is uniform, a sea with one continuous stream, whereas the appearance of the dark places in the moon is not uniform; there are isthmuses, so to call them, where the brightness parts and defines the shadow; each region is marked off and has its proper boundary, and so the places where light and shade meet assume the appearance of height and depth, and represent quite naturally human eyes and lips. Either, therefore, we must assume that there are more oceans than one, parted by real isthmuses and mainlands, which is absurd and untrue; or, if there is only one, it is impossible to believe that its image could appear thus broken up. Now comes a question which it is safer to ask in your presence than it is to state an answer. Given that the habitable world is 'equal in breadth and length,' is it possible that the view of the sea as a whole, thus reflected from the moon, should reach those sailing upon the great sea itself, yes, or living on it as the Britons do, and this even if the earth does, as you say it does, occupy a point central to the sphere of the moon? This," I continued, "is a matter for you to consider, but the reflexion of vision from the moon is a further question which it is not for you to decide, nor yet for Hipparchus. I know, my dear friend [that Hipparchus is a very great astronomer], but many people do not accept his view on the physical nature of vision, that it is probably a sympathetic blending and commixture, rather than a succession of strokes and recoils such as Epicurus devised for his atoms. Nor will you find Clearchus ready to assume that the moon is a weighty and solid body. Yet 'an ethereal and luminous star,' to use your words, ought to break and divert the vision, so there is no question of reflexion. Lastly, if anyone requires us to do so, we will put the question, how is it that only one face is seen, the sea mirrored on the moon, and none in any of all the other stars? Yet reason demands that our vision should be thus affected in the case of all or of none. But now," I said, turning to Lucius, "remind us which of our points was mentioned first."
 
 V. " No," said Lucius ; " to avoid the appearance of merely Lucius. 
 insulting Pharnaces, if we pass over the Stoic view without a 
