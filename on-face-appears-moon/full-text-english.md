@@ -209,9 +209,9 @@ Theon answered that it was Sophocles. "And physicians must be allowed to do so,"
 
 'Up down, down up, where Topsy-Turvy reigns'
 
-all from us to the centre down, and all below the centre becoming up in its turn! So that if a man, out of 'sympathy' with earth, were to stand with the central point of his own body touching the centre, he would have his head up and his feet up too! And if he were to dig into the space beyond, the down part of his body would bend upwards, and the soil would be dug out from above to below; and if another man could be conceived meeting him, the feet of both would be said to be up, and would really become so!
+all from us to the centre down, and all below the centre becoming up in its turn! So that if a man, out of 'sympathy' with earth, were to stand with the central point of his own body touching the centre, he would have his head up and his feet up too! And if he were to dig into the space beyond, the down part of his body would bend upwards, and the soil would be dug out from above to below; and if another man could be conceived meeting him, the feet of both would be said to be up, and would really become so!"
 
-8\. "Such are the monstrous paradoxes which they shoulder and trail along, no mere wallet, Heaven help us! but a conjuror's stock-in-trade and show-booth; and then they call other men triflers, because they place the moon, being an earth, up above, and not where the middle point is. And yet if every weighty body converge to the same point with all its parts, the earth will claim the heavy objects, not so much because she is middle of the whole, as because they are parts of herself; and the inclination of falling bodies will testify, not to any property of earth as middle of the Universe, but rather to a community and fellowship between earth and her own parts, once ejected, now borne back to her. For as the sun draws into himself the parts of which he has been composed, so earth receives the stone as belonging to her, and draws it towards herself. If there is any body neither assigned originally to the earth, nor torn away from it, but having somewhere a substance and nature of its own, such as they would describe the moon to be, what is there to prevent its existing separately, self-centred, pressed together and compacted by its own parts? For it is not proved that earth is the middle of the Universe, and, further, the way in which bodies here are collected and drawn together towards the earth suggests the manner in which bodies which have fallen together on to the moon may reasonably be supposed to keep their place with reference to her. Why the man who forces all earth-like and heavy objects into one place, and makes them parts of one body, does not apply the same law of coercion to light bodies, I cannot see, instead of allowing all those fiery structures to exist apart; nor why he does not collect all the stars into the same place, and hold distinctly that there must be a body common to all upward-borne and fiery units.
+8\. "Such are the monstrous paradoxes which they shoulder and trail along, no mere wallet, Heaven help us! but a conjuror's stock-in-trade and show-booth; and then they call other men triflers, because they place the moon, being an earth, up above, and not where the middle point is. And yet if every weighty body converge to the same point with all its parts, the earth will claim the heavy objects, not so much because she is middle of the whole, as because they are parts of herself; and the inclination of falling bodies will testify, not to any property of earth as middle of the Universe, but rather to a community and fellowship between earth and her own parts, once ejected, now borne back to her. For as the sun draws into himself the parts of which he has been composed, so earth receives the stone as belonging to her, and draws it towards herself. If there is any body neither assigned originally to the earth, nor torn away from it, but having somewhere a substance and nature of its own, such as they would describe the moon to be, what is there to prevent its existing separately, self-centred, pressed together and compacted by its own parts? For it is not proved that earth is the middle of the Universe, and, further, the way in which bodies here are collected and drawn together towards the earth suggests the manner in which bodies which have fallen together on to the moon may reasonably be supposed to keep their place with reference to her. Why the man who forces all earth-like and heavy objects into one place, and makes them parts of one body, does not apply the same law of coercion to light bodies, I cannot see, instead of allowing all those fiery structures to exist apart; nor why he does not collect all the stars into the same place, and hold distinctly that there must be a body common to all upward-borne and fiery units."
 
 9\. "But you and your friends, dear Apollonides, say that the sun is countless millions of stades distant from the highest circle, and that Phosphor next to him, and Stilbon, and the other planets, move below the fixed stars and at great intervals from one another; and yet you think that the universe provides within itself no interval in space for heavy and earth-like bodies. You see that it is ridiculous to call the moon no earth because she stands apart from the region below, and then to call her a star while we see her thrust so many myriads of stades away from the upper circle as though sunk into an abyss. She is lower than the stars by a distance which we cannot state in words, since numbers fail you mathematicians when you try to reckon it, but she touches the earth in a sense and revolves close to it,
 
@@ -219,180 +219,20 @@ all from us to the centre down, and all below the centre becoming up in its turn
 says Empedocles,  
 'which near the mid axle...'
 
-For she often fails to clear the earth's shadow, rising but little, because the illuminating body is so vast. But so nearly does she seem to graze the earth and to be almost in its embrace as she circles round, that she is shut off from the sun by it unless she rises enough to clear that shaded, terrestrial region, dark as night, which is the appanage of earth. Therefore I think we may say with confidence that the moon is within the precincts of earth when we see her blocked by earth's extremities.
+For she often fails to clear the earth's shadow, rising but little, because the illuminating body is so vast. But so nearly does she seem to graze the earth and to be almost in its embrace as she circles round, that she is shut off from the sun by it unless she rises enough to clear that shaded, terrestrial region, dark as night, which is the appanage of earth. Therefore I think we may say with confidence that the moon is within the precincts of earth when we see her blocked by earth's extremities."
 
-X. " Now leave the other fixed stars and planets, and consider 
-the conclusion proved by Aristarchus in his ' Magnitudes and ed 
-Distances ' ; that the distance of the sun is to the distance of the i 
-moon from us in a ratio greater than eighteen to one, less than 
-twenty to one. Yet the highest estimate of the distance of the 
-moon from us makes it fifty-six times the earth's radius, and that 
-is, even on a moderate measurement, forty thousand stades. 
-Upon this basis, the distance of the sun from the moon works out 
-to more than forty million three hundred thousand stades. So 
-far has she been settled down from the sun because of her weight, 
-and so nearly does she adjoin the earth, that, if we are to dis- 
-tribute estates according to localities, the ' portion and inheritance 
-of the earth ' invites the moon to join her, and the moon has a 
-next claim to chattels and persons on earth, in right of kinship 
-and vicinity. And I think that we are not doing wrong in this, 
-that, while we assign so great and profound an interval to what 
-we call the upper bodies, we also leave to bodies below as 
-much room for circulation as the breadth from earth to moon. 
-For he who confines the word 'upper' to the extreme circum- 
-ference of heaven and calls all the rest ' lower ' goes too far, and 
+10\. "Now leave the other fixed stars and planets, and consider the conclusion proved by Aristarchus in his 'Magnitudes and Distances'; that the distance of the sun is to the distance of the moon from us in a ratio greater than eighteen to one, less than twenty to one. Yet the highest estimate of the distance of the moon from us makes it fifty-six times the earth's radius, and that is, even on a moderate measurement, forty thousand stades. Upon this basis, the distance of the sun from the moon works out to more than forty million three hundred thousand stades. So far has she been settled down from the sun because of her weight, and so nearly does she adjoin the earth, that, if we are to distribute estates according to localities, the 'portion and inheritance of the earth' invites the moon to join her, and the moon has a next claim to chattels and persons on earth, in right of kinship and vicinity. And I think that we are not doing wrong in this, that, while we assign so great and profound an interval to what we call the upper bodies, we also leave to bodies below as much room for circulation as the breadth from earth to moon. For he who confines the word 'upper' to the extreme circumference of heaven and calls all the rest 'lower' goes too far, and on the other hand he who circumscribes 'below' to earth, or rather to her centre, is preposterous. On this side and on that the necessary interval must be granted, since the vastness of the universe permits. Against the claim that everything after we leave the earth is 'up' and poised on high, sounds the counterclaim that everything after we leave the circle of the fixed stars is 'down'!"
 
+11\. "Look at the question broadly. In what sense is the earth 'middle,' and middle of what? For The Whole is infinite; now the Infinite has neither beginning nor limit, so it ought not to have a middle; for a middle is in a sense itself a limit, but infinity is a negation of limits. It is amusing to hear a man labour to prove that the earth is the middle of the Universe, not of The Whole, forgetting that the Universe itself lies under the same difficulties; for The Whole, in its turn, left no middle for the Universe. 'Hearthless and homeless' it is borne over an infinite void towards nothing which it can call its own; or, if it find some other cause for remaining, it stands still, not because of the nature of the place. Much the same can be conjectured about the earth and the moon; if one stands here unshaken while the other moves, it is in virtue of a difference of soul and of nature rather than of place. Apart from all this, has not one important point escaped them? If anything, however great, which is outside the centre of the earth is 'up,' then no part of the Universe is 'down.' Earth is 'up,' and so are the things on the earth, absolutely every body lying or standing about the earth becomes 'up'; one thing alone is 'down,' that incorporeal point which has of necessity to resist the pressure of the whole Universe, if 'down' is naturally opposed to 'up.' Nor is this absurdity the only one. Weights lose the cause of their downward tendency and motion, since there is no body below towards which they move. That the incorporeal should have so great a force as to direct all things towards itself, or hold them together about itself, is not probable, nor do they mean this. No! it is found to be absolutely irrational, and against the facts, that 'up' should be the whole Universe, and 'down' nothing but an incorporeal and indivisible limit. The other view is reasonable, which we state thus, that a large space, possessing breadth, is apportioned both to 'the above' and to 'the below.'"
 
-Wallis, 
-ad init. 
+12\. "However, let us assume, if you choose, that it is contrary to nature that earth-like bodies should have their motions in heaven; and now let us look quietly, with no heroics, at the inference, which is this, not that the moon is not an earth, but that she is an earth not in its natural place. So the fire of Aetna is fire underground, which is contrary to nature, yet is fire; and air enclosed in bladders is light and volatile by nature, but has come perforce into a place unnatural to it. And the soul, the soul itself," I went on, "has it not been imprisoned in the body contrary to nature, a swift, and, as you hold, a fiery soul in a slow, cold body, the invisible within the sensible? Are we therefore to say that soul within body is nothing, and not rather that a divine thing has been subjected to weight and density, that one which ranges all heaven and earth and sea in a moment's flight has passed into flesh and sinews, marrow and humours, wherein is the origin of countless passions? Your Lord Zeus, is he not, so long as he preserves his own nature, one great continuous fire? Yet we see him brought down, and bent, and fashioned, assuming, and ready to assume, any and every complexion of change. Look well to it, my friend, whether when you shift all things about, and remove each to its 'natural' place, you are not framing a system to dissolve the Universe and introducing Empedoclean strife, or rather stirring up the old Titans against Nature, in your eagerness to see once more the dreadful disorder and dissonance of the myth? All that is heavy in a place by itself, and all that is light in another,
 
+'Where neither sun's bright face is separate seen,  
+Nor Earth's rough brood, nor Ocean any more,'
 
-24 
+as Empedocles says! Earth had nothing to do with heat, water with wind; nothing heavy was found above, nothing light below; without commixture, without affection were the principles of all things, mere units, each desiring no intercourse with each or partnership, performing their separate scornful motions in mutual flight and aversion, a state of things which must always be, as Plato teaches, where God is absent, the state of bodies deserted by intelligence and soul. So it was until the day when Providence brought Desire into Nature, and Friendship was engendered there, and Aphrodite and Eros, as Empedocles tells us and Parmenides too and Hesiod, so that things might change their places, and receive faculties from one another in turn, and, from being bound under stress, and forced, some to be in motion some to rest, might all begin to give in to the Better, instead of the Natural, and shift their places and so produce harmony and communion of The Whole."
 
-
-Lamprias. on the other hand he who circumscribes ' below ' to earth, or 
-rather to her centre, is preposterous. On this side and on that 
-the necessary interval must be granted, since the vastness of the 
-universe permits. Against the claim that everything after we leave 
-the earth is 'up' and poised on high, sounds the counterclaim 
-that everything after we leave the circle of the fixed stars is 
-' down ' ! 
-
-XI. " Look at the question broadly. In what sense is the 
-earth ' middle,' and middle of what ? For The Whole is infinite ; 
-now the Infinite has neither beginning nor limit, so it ought not to 
-have a middle ; for a middle is in a sense itself a limit, but infinity 
-is a negation of limits. It is amusing to hear a man labour to 
-prove that the earth is the middle of the Universe, not of The 
-Whole, forgetting that the Universe itself lies under the same 
-difficulties ; for The Whole, in its turn, left no middle for the 
-Universe. ' Hearthless and homeless ' it is borne over an infinite 926- 
-void towards nothing which it can call its own ; or, if it find 
-some other cause for remaining, it stands still, not because of the 
-nature of the place. Much the same can be conjectured about 
-the earth and the moon ; if one stands here unshaken while the 
-other moves, it is in virtue of a difference of soul and of nature 
-rather than of place. Apart from all this, has not one important 
-point escaped them? If anything, however great, which is 
-outside the centre of the earth is ' up,' then no part of the 
-Universe is 'down.' Earth is 'up,' and so are the things on 
-the earth, absolutely every body lying or standing about the earth 
-becomes ' up ' ; one thing alone is ' down,' that incorporeal 
-point which has of necessity to resist the pressure of the whole 
-Universe, if ' down ' is naturally opposed to ' up.' Nor is this 
-absurdity the only one. Weights lose the cause of their down- 
-ward tendency and motion, since there is no body below towards 
-which they move. That the incorporeal should have so great a 
-force as to direct all things towards itself, or hold them together 
-about itself, is not probable, nor do they mean this. No ! it is 
-found to be absolutely irrational, and against the facts, that ' up ' 
-should be the whole Universe, and ' down ' nothing but an 
-incorporeal and indivisible limit. The other view is reasonable, 
-which we state thus, that a large space, possessing breadth, is 
-apportioned both to 'the above' and to 'the below.' 
-
-XII. " However, let us assume, if you choose, that it is 
-contrary to nature that earth-like bodies should have their motions 
-in heaven ; and now let us look quietly, with no heroics, at the 
-inference, which is this, not that the moon is not an earth, but 
-that she is an earth not in its natural place. So the fire of Aetna 
-is fire underground, which is contrary to nature, yet is fire ; and 
-air enclosed in bladders is light and volatile by nature, but has 
-come perforce into a place unnatural to it. And the soul, the 
-soul itself," I went on, "has it not been imprisoned in the body 
-
-
-25 
-
-contrary to nature, a swift, and, as you hold, a fiery soul in a slow, Lamprias- 
-
-cold body, the invisible within the sensible? Are we therefore to 
-
-say that soul within body is nothing, and not rather that a divine 
-
-thing has been subjected to weight and density, that one which 
-
-ranges all heaven and earth and sea in a moment's flight has 
-
-passed into flesh and sinews, marrow and humours, wherein is the 
-
-origin of countless passions ? Your Lord Zeus, is he not, so long 
-
-as he preserves his own nature, one great continuous fire ? Yet 
-
-we see him brought down, and bent, and fashioned, assuming, 
-
-and ready to assume, any and every complexion of change. Look 
-
-well to it, my friend, whether when you shift all things about, and 
-
-remove each to its ' natural ' place, you are not framing a system 
-
-to dissolve the Universe and introducing Empedoclean strife, or 
-
-rather stirring up the old Titans against Nature, in your eagerness 
-
-to see once more the dreadful disorder and dissonance of the 
-
-myth ? All that is heavy in a place by itself, and all that is light 
-
-in another, 
-
-' Where neither sun's bright face is separate seen, 
-Nor Earth's rough brood, nor Ocean any more,' 
-
-as Empedocles says ! Earth had nothing to do with heat, water 
-with wind ; nothing heavy was found above, nothing light below ; 
-without commixture, without affection were the principles of all 
-things, mere units, each desiring no intercourse with each or 
-partnership, performing their separate scornful motions in mutual 
-flight and aversion, a state of things which must always be, 
-as Plato teaches, where God is absent, the state of bodies 
-deserted by intelligence and soul. So it was until the day when 
-Providence brought Desire into Nature, and Friendship was 
-927- engendered there, and Aphrodite and Eros, as Empedocles tells 
-us and Parmenides too and Hesiod, so that things might change 
-their places, and receive faculties from one another in turn, and, 
-from being bound under stress, and forced, some to be in motion 
-some to rest, might all begin to give in to the Better, instead of 
-the Natural, and shift their places and so produce harmony and 
-communion of The Whole. 
-
-XIII. " For if it be true that no other part of the Universe 
-departed from Nature, but that each rests in its natural place, 
-not needing any transposition or rearrangement, and never from 
-the first having needed any, I am at a loss to know what there is 
-for Providence to do, or of what Zeus ' the prime-craftsman,' is 
-the maker and the Artist-father. There would be no need of 
-tactics in an army if each soldier knew of himself how to take 
-and keep place and post at the proper time ; nor of gardeners or 
-builders if the water of its own nature were to flow over the 
-parts which need it, and moisten them, or if bricks and beams 
-should of themselves adopt the movements and inclinations 
-which are natural, and arrange themselves in their fitting places. 
-If such a theory strike out Providence altogether, and if it be 
-
-
-26 
-
-God's own attribute to order and discriminate things, what marvel 
-is it that Nature has been so disposed and partitioned that fire is 
-here and stars there, and again that Earth is planted where it is 
-and the Moon above, each held by a firmer bond than that of 
-Nature, the bond of reason ? Since, if all things are to observe 
-natural tendencies, and to move each according to its nature, let 
-the Sun no longer go round in a circle, nor Phosphorus, nor any 
-of the other stars, because it is the nature of light and fiery 
-bodies to move upwards, not in a circle ! But if Nature admits 
-of such variation with place, as that fire, here seen to ascend, yet 
-when it reaches heaven, joins in the general revolution, what 
-marvel if heavy and earthlier bodies too, when placed there, 
-assume another kind of motion, mastered by the circumambient 
-element ? For it is not according to Nature that light things 
-lose their upward tendency in heaven, and yet heaven cannot 
-prevail over those which are heavy and incline downwards. No, 
-heaven at some time had power to rearrange both these and 
-those, and turned the nature of each to what was Better. 
+13\. "For if it be true that no other part of the Universe departed from Nature, but that each rests in its natural place, not needing any transposition or rearrangement, and never from the first having needed any, I am at a loss to know what there is for Providence to do, or of what Zeus 'the prime-craftsman,' is the maker and the Artist-father. There would be no need of tactics in an army if each soldier knew of himself how to take and keep place and post at the proper time; nor of gardeners or builders if the water of its own nature were to flow over the parts which need it, and moisten them, or if bricks and beams should of themselves adopt the movements and inclinations which are natural, and arrange themselves in their fitting places. If such a theory strike out Providence altogether, and if it be God's own attribute to order and discriminate things, what marvel is it that Nature has been so disposed and partitioned that fire is here and stars there, and again that Earth is planted where it is and the Moon above, each held by a firmer bond than that of Nature, the bond of reason? Since, if all things are to observe natural tendencies, and to move each according to its nature, let the Sun no longer go round in a circle, nor Phosphorus, nor any of the other stars, because it is the nature of light and fiery bodies to move upwards, not in a circle! But if Nature admits of such variation with place, as that fire, here seen to ascend, yet when it reaches heaven, joins in the general revolution, what marvel if heavy and earthlier bodies too, when placed there, assume another kind of motion, mastered by the circumambient element? For it is not according to Nature that light things lose their upward tendency in heaven, and yet heaven cannot prevail over those which are heavy and incline downwards. No, heaven at some time had power to rearrange both these and those, and turned the nature of each to what was Better."
 
 XIV. " However, if we are at last to have done with notions 
 enslaved to usage, and to state fearlessly what appears to be 
