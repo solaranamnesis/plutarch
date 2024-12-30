@@ -234,186 +234,36 @@ as Empedocles says! Earth had nothing to do with heat, water with wind; nothing 
 
 13\. "For if it be true that no other part of the Universe departed from Nature, but that each rests in its natural place, not needing any transposition or rearrangement, and never from the first having needed any, I am at a loss to know what there is for Providence to do, or of what Zeus 'the prime-craftsman,' is the maker and the Artist-father. There would be no need of tactics in an army if each soldier knew of himself how to take and keep place and post at the proper time; nor of gardeners or builders if the water of its own nature were to flow over the parts which need it, and moisten them, or if bricks and beams should of themselves adopt the movements and inclinations which are natural, and arrange themselves in their fitting places. If such a theory strike out Providence altogether, and if it be God's own attribute to order and discriminate things, what marvel is it that Nature has been so disposed and partitioned that fire is here and stars there, and again that Earth is planted where it is and the Moon above, each held by a firmer bond than that of Nature, the bond of reason? Since, if all things are to observe natural tendencies, and to move each according to its nature, let the Sun no longer go round in a circle, nor Phosphorus, nor any of the other stars, because it is the nature of light and fiery bodies to move upwards, not in a circle! But if Nature admits of such variation with place, as that fire, here seen to ascend, yet when it reaches heaven, joins in the general revolution, what marvel if heavy and earthlier bodies too, when placed there, assume another kind of motion, mastered by the circumambient element? For it is not according to Nature that light things lose their upward tendency in heaven, and yet heaven cannot prevail over those which are heavy and incline downwards. No, heaven at some time had power to rearrange both these and those, and turned the nature of each to what was Better."
 
-XIV. " However, if we are at last to have done with notions 
-enslaved to usage, and to state fearlessly what appears to be 
-true, it is probable that no part of a whole has any order, or 
-position, or movement of its own which can be described in 
-absolute terms as natural. But when each body places itself at 
-the disposal of that on account of which it has come into being, 
-and in relation to which it naturally exists or has been created, to 
-move as is useful and convenient to it, actively and passively and 
-in all its own states conforming to the conservation, beauty, or 
-power of that other, then, I hold, its place, movements and 
-disposition are according to Nature. In man certainly, who has, 
-if anything has, come into being according to Nature, the heavy 
-and earth-like parts are found above, mostly about the head, the 
-hot and fiery in the middle regions ; of the teeth one set grows 
-from above, the other from below, yet neither contrary to Nature ; 
-nor can it be said of the fire in him that when it is above and 
-flashes in his eyes it is natural, but when it is in stomach or heart 
-unnatural ; each has been arranged as is proper and convenient. 
+14\. "However, if we are at last to have done with notions enslaved to usage, and to state fearlessly what appears to be true, it is probable that no part of a whole has any order, or position, or movement of its own which can be described in absolute terms as natural. But when each body places itself at the disposal of that on account of which it has come into being, and in relation to which it naturally exists or has been created, to move as is useful and convenient to it, actively and passively and in all its own states conforming to the conservation, beauty, or power of that other, then, I hold, its place, movements and disposition are according to Nature. In man certainly, who has, if anything has, come into being according to Nature, the heavy and earth-like parts are found above, mostly about the head, the hot and fiery in the middle regions; of the teeth one set grows from above, the other from below, yet neither contrary to Nature; nor can it be said of the fire in him that when it is above and flashes in his eyes it is natural, but when it is in stomach or heart unnatural; each has been arranged as is proper and convenient.
 
-' Mark well the tortoise and the trumpet-shell ' 
-says Empedocles, and, we may add, the nature of every shell-fish, 
-and 
+'Mark well the tortoise and the trumpet-shell'
+ 
+says Empedocles, and, we may add, the nature of every shell-fish, and
 
-' Earth uppermost, flesh under thou shalt see.' 
+'Earth uppermost, flesh under thou shalt see.'
 
-Yet the stony substance does not squeeze or crush the growth 928. 
-within, nor again does the heat fly off and be lost because of its 
-lightness ; they are mingled and co-ordinated according to the 
-nature of each. 
+Yet the stony substance does not squeeze or crush the growth within, nor again does the heat fly off and be lost because of its lightness; they are mingled and co-ordinated according to the nature of each."
 
-XV. "And so it is probably with the Universe, if it be indeed 
-a living structure ; in many places it contains earth, in many 
-others fire, water, and wind, which are not forced out under stress, 
-but arranged on a rational system. Take the eye ; it is not where 
+15\. "And so it is probably with the Universe, if it be indeed a living structure; in many places it contains earth, in many others fire, water, and wind, which are not forced out under stress, but arranged on a rational system. Take the eye; it is not where it is in the body owing to pressure acting on its light substance, nor has the heart fallen or slipped down into the region of the chest because of its weight; each is arranged where it is because it was better so. Let us not then suppose that it is otherwise with the parts of the Universe; that Earth lies here where it has fallen of its own weight, that the Sun, as Metrodorus of Chios used to think, has been pressed out into the upper region because of his lightness, like a bladder, or that the other stars have reached the places which they now hold as if they had been weighed in a balance and kicked the beam. No, the rational principle prevailed; and some, like eyes to give light, are inserted into the face of The Whole and revolve; the Sun acts as a heart, and sheds and distributes out of himself heat and light, as it were blood and breath. Earth and sea are to the Universe, according to Nature, what stomach and bladder are to the animal. The Moon, lying between Sun and Earth, as the liver or some other soft organ between heart and stomach, distributes here gentle warmth from above, while she returns to us, digested, purified, and refined in her own sphere, the exhalations of Earth. Whether her earth-like solid substance contributes to any other useful purposes, we cannot say. We do know that universally The Better prevails over the law of Stress. How can their view lead us to any probable result? That view is, that the luminous and subtle part of the atmosphere has by its rarety formed the sky, the dense and consolidated part stars, and that, of the stars, the Moon is the dullest and the grossest. However, we may see with our eyes that the Moon is not entirely separated from the atmosphere, but moves within a great belt of it, having beneath itself a wind-swept region, where bodies are whirled, and amongst them Comets."
 
+16\. This said, as I was passing the turn to Lucius, my argument now reaching the stage of demonstration, Aristotle said with a smile:--- "I protest that you have addressed your whole reply to those who assume that the Moon herself is half fire, and who say of all bodies in common that they have an inclination of their own, some an upward one, some a downward. If there is a single person who holds that the stars move in a circle according to Nature, and are of a substance widely different from the four elements, it has not occurred to your memory, even by accident; so that I am out of the discussion." "No, no, good friend," said Lucius. "As to the other stars, and the heaven in general, when your school asserts that they have a nature which is pure and transparent, and removed from all changes caused by passion, and when they introduce a circle of eternal and never ending revolution, perhaps no one would contradict you, at least for the present, although there are countless difficulties. But when the theory comes down and touches the Moon, it no longer retains the freedom from passion and the beauty of form of the others. Leaving out of account her other irregularities and points of difference, this very face which appears upon her has come there either from some passion proper to herself or by admixture of some other substance. Indeed, mixture implies passion, since there is a loss of its own transparency when a body is forcibly filled with what is inferior to itself. Consider her own torpor and dullness of speed, and her faint ineffectual heat, wherein, as Ion says ---
 
-27 
+'The black grape ripens not';
 
-it is in the body owing to pressure acting on its light substance, Lamprias. 
+to what are we to assign this, but to weakness in herself and affection, if affection can have place in an eternal and Olympian body? It comes to this, dear Aristotle; look on her as earth, and she appears a very beautiful object, venerable and highly adorned; but as star, or light, or any divine or heavenly body, I fear she may be found wanting in shapeliness and grace, and do no credit to her beautiful name, if out of all the multitude in heaven she alone goes round begging light of others, as Parmenides says,
 
-nor has the heart fallen or slipped down into the region of the 
+'For ever peering toward the Sun's bright rays.'
 
-chest because of its weight ; each is arranged where it is because 
+Now when our comrade, in his dissertation, had expounded the proposition of Anaxagoras, that 'the Sun places the brightness in the Moon,' he was highly applauded. But I am not going to speak of things which I learned from you or with you, I will gladly pass on to the remaining points. It is then probable that the Moon is illuminated not as glass or crystal by the sunlight shining in and through her, nor yet by way of accumulation of light and rays, as torches multiply their light. For then we should have full moon at the beginning of the month just as much as at the middle, if she does not conceal or block the sun, but he passes through because of her rarety, or if he by way of commixture, shines upon the light around her and helps to kindle it with his own. For it is not possible to allege any bending or swerving aside on her part at the time of her conjunction, as we can when she is at the half or is gibbous or crescent. Being then 'plumb opposite,' as Democritus puts it, to her illuminant, she receives and admits the sun, so that we should expect to see her shining herself and also allowing him to shine through her. Now she is very far from doing this; she is herself invisible at those times, and she often hides him out of our sight.
 
-it was better so. Let us not then suppose that it is otherwise 
+'So from above for men,'
 
-with the parts of the Universe ; that Earth lies here where it has 
+as Empedocles says,
 
-fallen of its own weight, that the Sun, as Metrodorus of Chios 
+'She quenched his beams, shrouding a slice of Earth  
+Wide as the compass of the glancing Moon;'
 
-used to think, has been pressed out into the upper region because 
-
-of his lightness, like a bladder, or that the other stars have 
-
-reached the places which they now hold as if they had been 
-
-weighed in a balance and kicked the beam. No, the rational 
-
-principle prevailed ; and some, like eyes to give light, are inserted 
-
-into the face of The Whole and revolve ; the Sun acts as a heart, 
-
-and sheds and distributes out of himself heat and light, as it were 
-
-blood and breath. Earth and sea are to the Universe, according 
-
-to Nature, what stomach and bladder are to the animal. The 
-
-Moon, lying between Sun and Earth, as the liver or some other 
-
-soft organ between heart and stomach, distributes here gentle 
-
-warmth from above, while she returns to us, digested, purified, 
-
-and refined in her own sphere, the exhalations of Earth. Whether 
-
-her earth-like solid substance contributes to any other useful 
-
-purposes, we cannot say. We do know that universally The 
-
-Better prevails over the law of Stress. How can their view lead 
-
-us to any probable result ? That view is, that the luminous and 
-
-subtle part of the atmosphere has by its rarety formed the sky, 
-
-the dense and consolidated part stars, and that, of the stars, the 
-
-Moon is the dullest and the grossest. However, we may see 
-
-with our eyes that the Moon is not entirely separated from the 
-
-atmosphere, but moves within a great belt of it, having beneath 
-
-itself a wind-swept region, where bodies are whirled, and amongst 
-
-them Comets." 
-
-XVI. This said, as I was passing the turn to Lucius, my Aristotle. 
-argument now reaching the stage of demonstration, Aristotle said 
-with a smile : --- " I protest that you have addressed your whole 
-reply to those who assume that the Moon herself is half fire, and 
-who say of all bodies in common that they have an inclination of 
-their own, some an upward one, some a downward. If there is a 
-single person who holds that the stars move in a circle according 
-to Nature, and are of a substance widely different from the four 
-elements, it has not occurred to your memory, even by accident ; 
-so that I am out of the discussion." " No, no, good friend," said Lucius. 
-Lucius. " As to the other stars, and the heaven in general, when 
-your school asserts that they have a nature which is pure and 
-transparent, and removed from all changes caused by passion, 
-and when they introduce a circle of eternal and never ending 
-revolution, perhaps no one would contradict you, at least for the 
-present, although there are countless difficulties. But when the 
-theory comes down and touches the Moon, it no longer retains 
-the freedom from passion and the beauty of form of the others. 
-Leaving out of account her other irregularities and points of 
-
-
-28 
-
-
-Lucius. 
-
-
-Nauck, 
-
-Ion 57. 
-
-
-difference, this very face which appears upon her has come there 
-either from some passion proper to herself or by admixture of 
-some other substance. Indeed, mixture implies passion, since 929. 
-there is a loss of its own transparency when a body is forcibly 
-filled with what is inferior to itself. Consider her own torpor and 
-dullness of speed, and her faint ineffectual heat, wherein, as Ion 
-says --- 
-
-'The black grape ripens not'; 
-
-to what are we to assign this, but to weakness in herself and affection, 
-if affection can have place in an eternal and Olympian body ? It 
-comes to this, dear Aristotle ; look on her as earth, and she appears 
-a very beautiful object, venerable and highly adorned ; but as star, 
-or light, or any divine or heavenly body, I fear she may be found 
-wanting in shapeliness and grace, and do no credit to her beautiful 
-name, if out of all the multitude in heaven she alone goes round 
-begging light of others, as Parmenides says, 
-
-1 For ever peering toward the Sun's bright rays.' 
-
-Now when our comrade, in his dissertation, had expounded the 
-proposition of Anaxagoras, that ' the Sun places the brightness in 
-the Moon,' he was highly applauded. But I am not going to 
-speak of things which I learned from you or with you, I will 
-gladly pass on to the remaining points. It is then probable that 
-the Moon is illuminated not as glass or crystal by the sunlight 
-shining in and through her, nor yet by way of accumulation of 
-light and rays, as torches multiply their light. For then we 
-should have full moon at the beginning of the month just as 
-much as at the middle, if she does not conceal or block the sun, 
-but he passes through because of her rarety, or if he by way of 
-commixture, shines upon the light around her and helps to 
-kindle it with his own. For it is not possible to allege any 
-bending or swerving aside on her part at the time of her conjunc- 
-tion, as we can when she is at the half or is gibbous or crescent. 
-Being then ' plumb opposite,' as Democritus puts it, to her 
-illuminant, she receives and admits the sun, so that we should 
-expect to see her shining herself and also allowing him to shine 
-through her. Now she is very far from doing this ; she is herself 
-invisible at those times, and- she often hides him out of our sight. 
-
-' So from above for men ' 
-as Empedocles says, 
-
-' She quenched his beams, shrouding a slice of Earth 
-Wide as the compass of the glancing Moon ; ' 
-
-as though his light had fallen, not upon another star, but upon 
-night and darkness. 
+as though his light had fallen, not upon another star, but upon night and darkness."
 
 "The view of Poseidonius, that because of the depth of the 
 Moon's body the light of the sun is not passed through to us, is 
