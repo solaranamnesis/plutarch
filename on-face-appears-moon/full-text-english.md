@@ -190,259 +190,36 @@ Be mirrored like a sheet of fire and flame.'"
 
 4\. This pleased Apollonides. "What a fresh way of putting a view; that was a bold man, and there was poetry in him. But how did the refutation proceed on your side?" "In this way," I answered. "First the outer Ocean is uniform, a sea with one continuous stream, whereas the appearance of the dark places in the moon is not uniform; there are isthmuses, so to call them, where the brightness parts and defines the shadow; each region is marked off and has its proper boundary, and so the places where light and shade meet assume the appearance of height and depth, and represent quite naturally human eyes and lips. Either, therefore, we must assume that there are more oceans than one, parted by real isthmuses and mainlands, which is absurd and untrue; or, if there is only one, it is impossible to believe that its image could appear thus broken up. Now comes a question which it is safer to ask in your presence than it is to state an answer. Given that the habitable world is 'equal in breadth and length,' is it possible that the view of the sea as a whole, thus reflected from the moon, should reach those sailing upon the great sea itself, yes, or living on it as the Britons do, and this even if the earth does, as you say it does, occupy a point central to the sphere of the moon? This," I continued, "is a matter for you to consider, but the reflexion of vision from the moon is a further question which it is not for you to decide, nor yet for Hipparchus. I know, my dear friend [that Hipparchus is a very great astronomer], but many people do not accept his view on the physical nature of vision, that it is probably a sympathetic blending and commixture, rather than a succession of strokes and recoils such as Epicurus devised for his atoms. Nor will you find Clearchus ready to assume that the moon is a weighty and solid body. Yet 'an ethereal and luminous star,' to use your words, ought to break and divert the vision, so there is no question of reflexion. Lastly, if anyone requires us to do so, we will put the question, how is it that only one face is seen, the sea mirrored on the moon, and none in any of all the other stars? Yet reason demands that our vision should be thus affected in the case of all or of none. But now," I said, turning to Lucius, "remind us which of our points was mentioned first."
 
-V. " No," said Lucius ; " to avoid the appearance of merely Lucius. 
-insulting Pharnaces, if we pass over the Stoic view without a 
-word of greeting, do give some answer to Clearchus, and his 
-assumption that the moon is a mere mixture of air and mild 
-fire, that the air grows dark on its surface, as a ripple courses 
-over a calm sea, and so the appearance of a face is produced " 
+5\. "No," said Lucius; "to avoid the appearance of merely insulting Pharnaces, if we pass over the Stoic view without a word of greeting, do give some answer to Clearchus, and his assumption that the moon is a mere mixture of air and mild fire, that the air grows dark on its surface, as a ripple courses over a calm sea, and so the appearance of a face is produced."
 
-"It is kind of you, Lucius," I said, "to clothe this absurdity Lamprias. 
-in sounding terms. That is not how our comrade dealt with it. 
-He said the truth, that it is a slap in the face to the moon when 
-they fill her with smuts and blacks, addressing her in one breath 
-292. as Artemis and Athena, and in the very same describing a caked 
-compound of murky air and charcoal fire, with no kindling or 
-light of its own, a nondescript body smoking and charred like 
-those thunderbolts which poets address as 'lightless' and 'sooty.' 
-That a charcoal fire, such as this school makes out the moon to 
-be, has no stability or consistence at all, unless it find solid fuel 
-at once to support and to feed it, is a point not so clearly seen by 
-some philosophers as it is by those who tell us in jest that 
-Hephaestus has been called lame because fire advances no better 
-without wood than lame people without a stick ! If then the 
-moon is fire, whence has it all this air inside it ? For this upper 
-region, always in circular motion, belongs not to air but to some 
-nobler substance, which has the property of refining and kindling 
-all things. If air has been generated, how is it that it has not 
-been vaporised by the fire and passed away into some other form, 
-but is preserved near the fire all this time, like a nail fitted into 
-the same place and wedged there for ever? If it is rare and 
-diffused, it should not remain stable, but be displaced. On the 
-other hand, it cannot subsist in a solidified form, because it is 
-mingled with fire, and has no moisture with it nor yet earth, the 
-only agents by which air can be compacted. Again, rapid 
-motion fires the air which is contained in stones, and even in cold 
-lead, much more then that which is in fire, when whirled round 
-with such velocity. For they are displeased with Empedocles, 
-when he describes the moon as a mass of air frozen like hail and 
-enclosed within her globe of fire. Yet they themselves hold 
-that the moon is a globe of fire which encloses air variously 
-distributed, and this though they do not allow that she has clefts 
-in herself, or depths and hollows, for which those who make her 
-an earth-like body find room, but clearly suppose that the air lies 
-upon her convex surface. That it should do so is absurd in point 
-of stability, and impossible in view of what we see at full moon ; 
-for we ought not to be able to distinguish black parts and shadow 
-then ; either all should be dull and shrouded, or all should shine 
+"It is kind of you, Lucius," I said, "to clothe this absurdity in sounding terms. That is not how our comrade dealt with it. He said the truth, that it is a slap in the face to the moon when they fill her with smuts and blacks, addressing her in one breath as Artemis and Athena, and in the very same describing a caked compound of murky air and charcoal fire, with no kindling or light of its own, a nondescript body smoking and charred like those thunderbolts which poets address as 'lightless' and 'sooty.' That a charcoal fire, such as this school makes out the moon to be, has no stability or consistence at all, unless it find solid fuel at once to support and to feed it, is a point not so clearly seen by some philosophers as it is by those who tell us in jest that Hephaestus has been called lame because fire advances no better without wood than lame people without a stick! If then the moon is fire, whence has it all this air inside it? For this upper region, always in circular motion, belongs not to air but to some nobler substance, which has the property of refining and kindling all things. If air has been generated, how is it that it has not been vaporised by the fire and passed away into some other form, but is preserved near the fire all this time, like a nail fitted into the same place and wedged there for ever? If it is rare and diffused, it should not remain stable, but be displaced. On the other hand, it cannot subsist in a solidified form, because it is mingled with fire, and has no moisture with it nor yet earth, the only agents by which air can be compacted. Again, rapid motion fires the air which is contained in stones, and even in cold lead, much more then that which is in fire, when whirled round with such velocity. For they are displeased with Empedocles, when he describes the moon as a mass of air frozen like hail and enclosed within her globe of fire. Yet they themselves hold that the moon is a globe of fire which encloses air variously distributed, and this though they do not allow that she has clefts in herself, or depths and hollows, for which those who make her an earth-like body find room, but clearly suppose that the air lies upon her convex surface. That it should do so is absurd in point of stability, and impossible in view of what we see at full moon; for we ought not to be able to distinguish black parts and shadow then; either all should be dull and shrouded, or all should shine out together when the moon is caught by the sun. For look at our earth; the air which lies in her depths and hollows, where no ray penetrates, remains in shadow unilluminated; that which is outside, diffused over the earth, has light and brilliant colouring, because from its rarety it easily mingles, and takes up any quality or influence. By light, in particular, if merely touched, or, in your words, grazed, it is changed all through and illumined. This is at once an excellent ally to those who thrust the air into depths and gullies on the moon, and also quite disposes of you, who strangely compound her globe of air and fire. For it is impossible that shadow should be left on her surface when the sun touches with his light all the moon within our own field of vision."
 
+6\. Here Pharnaces, while I was still speaking, broke in: "There it is again, the old trick of the Academy brought out against us; they amuse themselves with arguing against other people, but in no case submit to be examined on their own views, they treat their opponents as apologists, not accusers. I can speak for myself at any rate; you are not going to draw me on today to answer your charges against the Stoics, unless we first get an account of your conduct in turning the universe upside down." Lucius smiled: "Yes, my friend," he said, "only do not threaten us with the writ of heresy, such as Cleanthes used to think that the Greeks should have had served upon Aristarchus of Samos, for shifting the hearth of the Universe, because that great man attempted 'to save phenomena' with his hypothesis that the heavens are stationary, while our earth moves round in an oblique orbit, at the same time whirling about her own axis. We Academics have no view of our own finding, but do tell me this --- why are those who assume that the moon is an earth turning things upside down, any more than you who fix the earth where she is, suspended in mid air, a body considerably larger than the moon? At least mathematicians tell us so, calculating the magnitude of the obscuring body from what takes place in eclipses, and from the passages of the moon through the shadow. For the shadow of the earth is less as it extends, because the illuminating body is greater, and its upper extremity is fine and narrow, as even Homer, they say, did not fail to notice. He called night 'pointed' because of the sharpness of the shadow. Such, at any rate, is the body by which the moon is caught in her eclipses, and yet she barely gets clear by a passage equal to three of her own diameters. Just consider how many moons go to make an earth, if the earth cast a shadow as broad at its shortest as three moons. Yet you have fears for the moon lest she should tumble, while as for our earth, Aeschylus has perhaps satisfied you that Atlas 
 
-20 
+'Stands, and the pillar which parts Heaven and Earth  
+His shoulders prop, no load for arms t' embrace!'
 
+Then you think that under the moon there runs light air, quite inadequate to support a solid mass, while the earth, in Pindar's words, 'is compassed by pillars set on adamant.' And this is why Pharnaces has no fear on his own account of the earth's falling, but pities those who lie under the orbit of the moon, Ethiopians, say, or Taprobanes, on whom so great a weight might fall! Yet the moon has that which helps her against falling, in her very speed and the swing of her passage round, as objects placed in slings are hindered from falling by the whirl of the rotation. For everything is borne on in its own natural direction unless this is changed by some other force. Therefore the moon is not drawn down by her weight, since that tendency is counteracted by her circular movement. Perhaps it would be more reasonable to wonder if she were entirely at rest as the earth is. As things are, the moon has a powerful cause to prevent her from being borne down upon us; but the earth, being destitute of any other movement, might naturally be moved by its own weight; being heavier than the moon not merely in proportion to its greater bulk, but because the moon has been rendered lighter by heat and conflagration. It would actually seem that the moon, if she is a fire, needs earth all the more, a solid substance whereon she moves and to which she clings, so feeding and keeping up the force of her flame. For it is impossible to conceive fire as maintained without fuel. But you Stoics say that our earth stands firm without foundation or root." "Of course," said Pharnaces, "it keeps its proper and natural place, as being the essential middle point, that place around which all weights press and bear, converging towards it from all sides. But all the upper region, even if it receive any earth-like body thrown up with force, immediately thrusts it out hitherward, or rather lets it go, to be borne down by its own momentum."
 
-out together when the moon is caught by the sun. For look at 
-our earth ; the air which lies in her depths and hollows, where no 
-ray penetrates, remains in shadow unilluminated ; that which is 
-outside, diffused over the earth, has light and brilliant colouring, 
-because from its rarety it easily mingles, and takes up any quality 
-or influence. By light, in particular, if merely touched, or, in 
-your words, grazed, it is changed all through and illumined. 
-This is at once an excellent ally to those who thrust the air 
-into depths and gullies on the moon, and also quite disposes of 
-you, who strangely compound her globe of air and fire. For it is 
-impossible that shadow should be left on her surface when the 
-sun touches with his light all the moon within our own field of 
-vision." 
+7\. At this point, wishing Lucius to have time to refresh his memory, I called on Theon: "Theon, which of the tragic poets has said that physicians
 
-Pharnaces. VI. Here Pharnaces, while I was still speaking, broke in : 
+'Purge bitter bile with bitter remedies?'"
 
-" There it is again, the old trick of the Academy brought out 
-against us ; they amuse themselves with arguing against other 
-people, but in no case submit to be examined on their own views, 
-they treat their opponents as apologists, not accusers. I can 
-speak for myself at any rate ; you are not going to draw me on 
-to-day to answer your charges against the Stoics, unless we first 
-get an account of your conduct in turning the universe upside 
+Theon answered that it was Sophocles. "And physicians must be allowed to do so," I said, "we cannot help it. But philosophers must not be listened to, if they choose to meet paradoxes with paradoxes, and, when contending against strange views, to invent views which are more strange and wonderful still. Here are these Stoics with their 'tendency towards the middle!' Is there any paradox which is not implicit there? That our earth, with all those depths and heights and inequalities, is a sphere? That there are people at our antipodes who live like timber-worms or lizards, their lower limbs turned uppermost as they plant them on earth? That we ourselves do not keep perpendicular as we move, but remain on the slant, swerving like drunkards? That masses of a thousand talents weight, borne through the depth of the earth, stop when they reach the middle point, though nothing meets or resists them; or, if mere momentum carry them down beyond the middle point, they wheel round and turn back of themselves? That segments of beams sawn off at the surface of the earth on either side, do not move downwards all the way, but as they fall upon the surface receive equal thrusts from the outside inwards and are lost around the middle? That water rushing violently downwards, if it should reach this middle point--- an incorporeal point as they say --- would stand balanced around it for a pivot, swinging with an oscillation which never stops and never can be stopped? Some of these a man could not force himself to present to his intellect as possible, even if untrue! This is to make
 
-Lucius. down." Lucius smiled : "Yes, my friend," he said, "only do not 
+'Up down, down up, where Topsy-Turvy reigns'
 
-threaten us with the writ of heresy, such as Cleanthes used to 
-think that the Greeks should have had served upon Aristarchus 923. 
-of Samos, for shifting the hearth of the Universe, because that 
-great man attempted 'to save phenomena' with his hypothesis 
-that the heavens are stationary, while our earth moves round in an 
-oblique orbit, at the same time whirling about her own axis. We 
-Academics have no view of our own finding, but do tell me this --- 
-why are those who assume that the moon is an earth turning 
-things upside down, any more than you who fix the earth where 
-she is, suspended in mid air, a body considerably larger than 
-the moon? At least mathematicians tell us so, calculating the 
-magnitude of the obscuring body from what takes place in eclipses, 
-and from the passages of the moon through the shadow. For 
-the shadow of the earth is less as it extends, because the illuminat- 
-ing body is greater, and its upper extremity is fine and narrow, as 
+all from us to the centre down, and all below the centre becoming up in its turn! So that if a man, out of 'sympathy' with earth, were to stand with the central point of his own body touching the centre, he would have his head up and his feet up too! And if he were to dig into the space beyond, the down part of his body would bend upwards, and the soil would be dug out from above to below; and if another man could be conceived meeting him, the feet of both would be said to be up, and would really become so!
 
-SeeButtmann even Homer, they say, did not fail to notice. He called night 
+8\. "Such are the monstrous paradoxes which they shoulder and trail along, no mere wallet, Heaven help us! but a conjuror's stock-in-trade and show-booth; and then they call other men triflers, because they place the moon, being an earth, up above, and not where the middle point is. And yet if every weighty body converge to the same point with all its parts, the earth will claim the heavy objects, not so much because she is middle of the whole, as because they are parts of herself; and the inclination of falling bodies will testify, not to any property of earth as middle of the Universe, but rather to a community and fellowship between earth and her own parts, once ejected, now borne back to her. For as the sun draws into himself the parts of which he has been composed, so earth receives the stone as belonging to her, and draws it towards herself. If there is any body neither assigned originally to the earth, nor torn away from it, but having somewhere a substance and nature of its own, such as they would describe the moon to be, what is there to prevent its existing separately, self-centred, pressed together and compacted by its own parts? For it is not proved that earth is the middle of the Universe, and, further, the way in which bodies here are collected and drawn together towards the earth suggests the manner in which bodies which have fallen together on to the moon may reasonably be supposed to keep their place with reference to her. Why the man who forces all earth-like and heavy objects into one place, and makes them parts of one body, does not apply the same law of coercion to light bodies, I cannot see, instead of allowing all those fiery structures to exist apart; nor why he does not collect all the stars into the same place, and hold distinctly that there must be a body common to all upward-borne and fiery units.
 
-Lexil.s.v.6o6s. < pointed ' because of the sharpness of the shadow. Such, at any 
-rate, is the body by which the moon is caught in her eclipses, and 
-yet she barely gets clear by a passage equal to three of her own 
-diameters. Just consider how many moons go to make an earth, 
-if the earth cast a shadow as broad at its shortest as three moons. 
-Yet you have fears for the moon lest she should tumble, while as 
-for our earth, Aeschylus has perhaps satisfied you that Atlas 
+9\. "But you and your friends, dear Apollonides, say that the sun is countless millions of stades distant from the highest circle, and that Phosphor next to him, and Stilbon, and the other planets, move below the fixed stars and at great intervals from one another; and yet you think that the universe provides within itself no interval in space for heavy and earth-like bodies. You see that it is ridiculous to call the moon no earth because she stands apart from the region below, and then to call her a star while we see her thrust so many myriads of stades away from the upper circle as though sunk into an abyss. She is lower than the stars by a distance which we cannot state in words, since numbers fail you mathematicians when you try to reckon it, but she touches the earth in a sense and revolves close to it,
 
-P.V. 34Q. 'Stands, and the pillar which parts Heaven and Earth 
+'Like to the nave of a wagon, she glances,'  
+says Empedocles,  
+'which near the mid axle...'
 
-His shoulders prop, no load for arms t' embrace!' 
-
-Then you think that under the moon there runs light air, quite 
-inadequate to support a solid mass, while the earth, in Pindar's 
-
-
-21 
-
-words, ' is compassed by pillars set on adamant.' And this is Lucius. 
-why Pharnaces has no fear on his own account of the earth's Fr. 65. 
-falling, but pities those who lie under the orbit of the moon, 
-Ethiopians, say, or Taprobanes, on whom so great a weight might 
-fall ! Yet the moon has that which helps her against falling, in 
-her very speed and the swing of her passage round, as objects 
-placed in slings are hindered from falling by the whirl of the 
-rotation. For everything is borne on in its own natural direction 
-unless this is changed by some other force. Therefore the moon 
-is not drawn down by her weight, since that tendency is counter- 
-acted by her circular movement. Perhaps it would be more 
-reasonable to wonder if she were entirely at rest as the earth is. 
-As things are, the moon has a powerful cause to prevent her from 
-being borne down upon us ; but the earth, being destitute of any 
-other movement, might naturally be moved by its own weight ; 
-being heavier than the moon not merely in proportion to its 
-greater bulk, but because the moon has been rendered lighter 
-by heat and conflagration. It would actually seem that the 
-moon, if she is a fire, needs earth all the more, a solid 
-substance whereon she moves and to which she clings, so 
-feeding and keeping up the force of her flame. For it is im- 
-possible to conceive fire as maintained without fuel. But you 
-Stoics say that our earth stands firm without foundation or 
-root." "Of course," said Pharnaces, "it keeps its proper and Pharnaces. 
-natural place, as being the essential middle point, that place 
-around which all weights press and bear, converging towards it 
-from all sides. But all the upper region, even if it receive any 
-earth-like body thrown up with force, immediately thrusts it out 
-hitherward, or rather lets it go, to be borne down by its own 
-momentum." 
-
-VII. At this point, wishing Lucius to have time to refresh Lamprias. 
-his memory, I called on Theon : " Theon, which of the tragic 
-poets has said that physicians 
-
-' Purge bitter bile with bitter remedies ? ' " Soph. 770. 
-
-Theon answered that it was Sophocles. "And physicians must be Theon. 
-allowed to do so," I said, "we cannot help it. But philosophers Lamprias. 
-must not be listened to, if they choose to meet paradoxes with 
-paradoxes, and, when contending against strange views, to invent 
-924. views which are more strange and wonderful still. Here are 
-these Stoics with their ' tendency towards the middle ! ' Is 
-there any paradox which is not implicit there ? That our 
-earth, with all those depths and heights and inequalities, is a 
-sphere ? That there are people at our antipodes who live like 
-timber-worms or lizards, their lower limbs turned uppermost as 
-they plant them on earth ? That we ourselves do not keep 
-perpendicular as we move, but remain on the slant, swerving like 
-drunkards ? That masses of a thousand talents weight, borne 
-through the depth of the earth, stop when they reach the 
-
-
-Lamprias. middle point, though nothing meets or resists them ; or, if mere 
-momentum carry them down beyond the middle point, they 
-wheel round and turn back of themselves ? That segments of 
-beams sawn off at the surface of the earth on either side, do not 
-move downwards all the way, but as they fall upon the surface 
-receive equal thrusts from the outside inwards and are lost around 
-the middle ? That water rushing violently downwards, if it 
-should reach this middle point--- an incorporeal point as they say 
---- would stand balanced around it for a pivot, swinging with an 
-oscillation which never stops and never can be stopped ? Some 
-of these a man could not force himself to present to his intellect 
-as possible, even if untrue ! This is to make 
-
-' Up down, down up, where Topsy-Turvy reigns ' 
-
-all from us to the centre down, and all below the centre becoming 
-up in its turn ! So that if a man, out of ' sympathy ' with earth, 
-were to stand with the central point of his own body touching 
-the centre, he would have his head up and his feet up too ! 
-And if he were to dig into the space beyond, the down part of 
-his body would bend upwards, and the soil would be dug out 
-from above to below ; and if another man could be conceived 
-meeting him, the feet of both would be said to be up, and 
-would really become so ! 
-
-VIII. " Such are the monstrous paradoxes which they shoulder 
-and trail along, no mere wallet, Heaven help us ! but a conjuror's 
-stock-in-trade and show-booth ; and then they call other men 
-triflers, because they place the moon, being an earth, up above, 
-and not where the middle point is. And yet if every weighty 
-body converge to the same point with all its parts, the earth will 
-claim the heavy objects, not so much because she is middle of 
-the whole, as because they are parts of herself; and the inclination 
-of falling bodies will testify, not to any property of earth as 
-middle of the Universe, but rather to a community and fellowship 
-between earth and her own parts, once ejected, now borne 
-back to her. For as the sun draws into himself the parts of 
-which he has been composed, so earth receives the stone as 
-belonging to her, and draws it towards herself. If there is 
-any body neither assigned originally to the earth, nor torn 
-away from it, but having somewhere a substance and nature of 
-its own, such as they would describe the moon to be, what is 
-there to prevent its existing separately, self-centred, pressed to- 
-gether and compacted by its own parts ? For it is not proved 
-that earth is the middle of the Universe, and, further, the way in 
-which bodies here are collected and drawn together towards the 
-earth suggests the manner in which bodies which have fallen 
-together on to the moon may reasonably be supposed to keep 
-their place with reference to her. Why the man who forces 
-all earth-like and heavy objects into one place, and makes them 
-parts of one body, does not apply the same law of coercion to 
-
-
-n 
-
-
-light bodies, I cannot see, instead of allowing all those fiery LampriaS- 
-structures to exist apart ; nor why he does not collect all the stars 
-into the same place, and hold distinctly that there must be a 
-body common to all upward-borne and fiery units. 
-
-925- IX. " But you and your friends, dear Apollonides, say that the 
-sun is countless millions of stades distant from the highest circle, 
-and that Phosphor next to him, and Stilbon, and the other 
-planets, move below the fixed stars and at great intervals from 
-one another ; and yet you think that the universe provides within 
-itself no interval in space for heavy and earth-like bodies. You 
-see that it is ridiculous to call the moon no earth because she 
-stands apart from the region below, and then to call her a star 
-while we see her thrust so many myriads of stades away from the 
-upper circle as though sunk into an abyss. She is lower than 
-the stars by a distance which we cannot state in words, since 
-numbers fail you mathematicians when you try to reckon it, but 
-she touches the earth in a sense and revolves close to it, 
-
-' Like to the nave of a wagon, she glances,' 
-says Empedocles, 
-
-' which near the mid axle . . . .' 
-
-For she often fails to clear the earth's shadow, rising but little, 
-because the illuminating body is so vast. But so nearly does she 
-seem to graze the earth and to be almost in its embrace as she 
-circles round, that she is shut off from the sun by it unless she 
-rises enough to clear that shaded, terrestrial region, dark as night, 
-which is the appanage of earth. Therefore I think we may say 
-with confidence that the moon is within the precincts of earth 
-when we see her blocked by earth's extremities. 
+For she often fails to clear the earth's shadow, rising but little, because the illuminating body is so vast. But so nearly does she seem to graze the earth and to be almost in its embrace as she circles round, that she is shut off from the sun by it unless she rises enough to clear that shaded, terrestrial region, dark as night, which is the appanage of earth. Therefore I think we may say with confidence that the moon is within the precincts of earth when we see her blocked by earth's extremities.
 
 X. " Now leave the other fixed stars and planets, and consider 
 the conclusion proved by Aristarchus in his ' Magnitudes and ed 
