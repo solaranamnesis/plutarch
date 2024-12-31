@@ -265,205 +265,23 @@ Wide as the compass of the glancing Moon;'
 
 as though his light had fallen, not upon another star, but upon night and darkness."
 
-"The view of Poseidonius, that because of the depth of the 
-Moon's body the light of the sun is not passed through to us, is 
-wrong on the face of it. For the air, which is unlimited, and has 
-a depth many times that of the Moon, is filled throughout with 
-sunlight and brightness. There is left then that of Empedocles, 
+"The view of Poseidonius, that because of the depth of the Moon's body the light of the sun is not passed through to us, is wrong on the face of it. For the air, which is unlimited, and has a depth many times that of the Moon, is filled throughout with sunlight and brightness. There is left then that of Empedocles, that the illumination which we get from the Moon arises in some way from the reflexion of the sun falling upon her. Hence her light reaches us without heat or lustre, whereas we should expect both if there were a kindling by him or a commixture of lights. But as voices return an echo weaker than the original sound, and missiles which glance off strike with weaker impact,
 
+'E'en so the ray which smote the Moon's white orb'
 
-29 
+reaches us in a feeble and exhausted stream, because the force is dispersed in the reflexion."
 
-that the illumination which we get from the Moon arises in some 
-way from the reflexion of the sun falling upon her. Hence her 
-light reaches us without heat or lustre, whereas we should expect 
-both if there were a kindling by him or a commixture of lights. 
-But as voices return an echo weaker than the original sound, and 
-missiles which glance off strike with weaker impact, 
+17\. Here Sylla broke in:--- "All these things no doubt have their probabilities; but the strongest point on the other side was either explained away or it escaped our comrade's attention: which was it?"
 
-' E'en so the ray which smote the Moon's white orb ' 
+"What do you mean?" said Lucius. "The problem of the half-moon I suppose?"
 
-reaches us in a feeble and exhausted stream, because the force is 
-dispersed in the reflexion." 
+"Precisely," said Sylla, "for as all reflexion takes place at equal angles, there is some reason in saying that when the moon is on the meridian at half-moon, the light is not carried from her on to the earth, but glances off beyond it; for the sun being then on the horizon, touches the Moon with his rays, which will therefore, being reflected at equal angles, fall on the other side and beyond us, and will not send the light here; or else there will be a great distortion and variation in the angle, which is impossible."
 
-XVII. Here Sylla broke in:--- "All these things no doubt Sylla. 
-have their probabilities ; but the strongest point on the other side 
-was either explained away or it escaped our comrade's attention : 
-which was it ? " 
+"I assure you," said Lucius, "that point was mentioned also;" and here he glanced at Menelaus the mathematician, as he went on:--- "I am ashamed, dear Menelaus," he said, "in your presence to upset a mathematical proposition which is assumed as a foundation in all the Optics of Mirrors. But I feel obliged to say," he continued, "that the law which requires reflexion in all cases to be at equal angles is neither self-evident, nor admitted. It is impugned in the instance of curved mirrors, when magnified images are reflected to the point of sight. It is impugned also in that of double mirrors, when they are inclined towards one another so that there is an angle between them, and each of the surfaces returns a double image, four images in all, two on the right, two on the left, two from the outer surfaces, two dimmer ones deep within the mirrors. Plato gives the cause why this takes place. He has told us that if the mirrors be raised on either side, there is a gradual shifting of the visual reflexion as it passes from one side to the other. If then some images proceed directly to us, while others glance to the opposite side of the mirrors, and are returned thence to us, it is impossible that reflexion in all cases takes place at equal angles. They observe that these images meet in one point, and further claim that the law of equal angles is disproved by the streams of light which actually proceed from the Moon to the earth, holding the fact to be more convincing than the law. However, if we are so far to indulge beloved Geometry as to make her a present of this law, in the first place it may be expected to hold of mirrors which have been made accurately smooth. But the Moon has many irregularities and rough parts, so that the rays proceeding from a large body, when they fall on considerable eminences, are exposed to counter-illuminations and reciprocal dispersion; the cross-light is reflected, involved and accumulated as though it reached us from a number of mirrors. In the next place, even if we allow that the reflexions are produced at equal angles upon the actual surface of the Moon, yet, when the distance is so great, it is not impossible that the rays may be broken or glance round in their passage, so that the light reaches us in one composite stream. Some go further, and show by a figure that many lights discharge their rays along a line inclined to the hypothenuse, as it is called; but it was not possible to construct the diagram while speaking, especially before a large audience."
 
-"What do you mean?" said Lucius. "The problem of the Lucius, 
-half-moon I suppose?" 
+18\. "Upon the whole question," he went on, "I am at a loss to see how they bring up the half-moon against us; the point arises equally upon her gibbous and crescent phases. For if the Moon were a mass of air or fire which the sun illuminated, he would not have left half her sphere always in shadow and darkness as seen by us; but even if he touched her in his circuit only in a small point, the proper consequence would follow, she would be affected all through, and her entire substance changed by the light penetrating everywhere with ease. When wine touches water on its extreme surface, or a drop of blood falls into liquid, the whole is discoloured at once, and turned to crimson. But the air itself, we are told, is not filled with sunshine by emanations or beams actually mingling with it, but by a change and alteration caused by something like a prick or touch. Now, how can they suppose that when star touches star or light light, it does not mingle with or alter the substance throughout, but only illuminates those points which it touches superficially? The circular orbit of the sun as he passes about the Moon, which sometimes coincides with the line dividing her visible and invisible parts, and at other times rises to right angles with that line so as to cut those parts in two, and in turn be cut by her, produces her gibbous and crescent phases by the varying inclination and position of the bright part relatively to that in shadow. This proves beyond all question that the illumination is contact not commixture, not accumulation of light but its circumfusion. But the fact that she is not only illuminated herself but also sends on the image of her brightness to us, allows us to insist the more confidently on our theory of her substance. For reflexions do not take place on a rarefied body, one formed of subtle particles, nor is it easy to conceive light rebounding from light, or fire from fire; the body which is to produce recoil and reflexion must be heavy and dense, that there may be impact upon it and resilience from it. To the sun himself the air certainly allows a passage, offering no obstructions or resistance; whereas if timber, stones, or woven stuffs be placed to meet his light many cross rays are caused, and there is illumination all round. We see the same thing in the way his light reaches the earth. The earth does not pass his ray into a depth as water does, nor yet throughout her whole substance as air does. Just as his orbit passes round the Moon, gradually cutting off a certain portion of her, so a similar orbit passes round the earth, illuminating a similar part of it and leaving another unilluminated, for the part of either body which receives light appears to be a little larger than a hemisphere. Allow me to speak geometrically in terms of proportion. Here are three bodies approached by the sun's light, earth, moon, air; we see that the Moon is illuminated like the earth, not like the air; but bodies naturally affected in the same way by the same must be themselves similar."
 
-" Precisely," said Sylla, " for as all reflexion takes place at equal Sylla. 
-angles, there is some reason in saying that when the moon is on 
-the meridian at half-moon, the light is not carried from her on to 
-the earth, but glances off beyond it ; for the sun being then on 
-930- the horizon, touches the Moon with his rays, which will therefore, 
-being reflected at equal angles, fall on the other side and beyond 
-us, and will not send the light here ; or else there will be a great 
-distortion and variation in the angle, which is impossible." 
-
-"I assure you," said Lucius, "that point was mentioned also;" Lucius 
-and here he glanced at Menelaus the mathematician, as he went 
-on : --- " I am ashamed, dear Menelaus," he said, "in your presence 
-to upset a mathematical proposition which is assumed as a founda- 
-tion in all the Optics of Mirrors. But I feel obliged to say," 
-he continued, " that the law which requires reflexion in all cases 
-to be at equal angles is neither self-evident, nor admitted. It is 
-impugned in the instance of curved mirrors, when magnified 
-images are reflected to the point of sight. It is impugned also in 
-that of double mirrors, when they are inclined towards one another 
-so that there is an angle between them, and each of the surfaces 
-returns a double image, four images in all, two on the right, two 
-on the left, two from the outer surfaces, two dimmer ones deep 
-within the mirrors. Plato gives the cause why this takes place. Timceus, 
-He has told us that if the mirrors be raised on either side, there 46 A --- C. 
-is a gradual shifting of the visual reflexion as it passes from one 
-side to the other. If then some images proceed directly to us, 
-while others glance to the opposite side of the mirrors, and are 
-returned thence to us, it is impossible that reflexion in all cases 
-takes place at equal angles. They observe that these images meet 
-in one point, and further claim that the law of equal angles is 
-disproved by the streams of light which actually proceed from the 
-Moon to the earth, holding the fact to be more convincing than 
-the law. However, if we are so far to indulge beloved Geometry 
-as to make her a present of this law, in the first place it may be 
-
-
-3° 
-
-expected to hold of mirrors which have been made accurately 
-smooth. But the Moon has many irregularities and rough parts, 
-so that the rays proceeding from a large body, when they fall on 
-considerable eminences, are exposed to counter-illuminations and 
-reciprocal dispersion ; the cross-light is reflected, involved and 
-accumulated as though it reached us from a number of mirrors. 
-In the next place, even if we allow that the reflexions are pro- 
-duced at equal angles upon the actual surface of the Moon, yet, 
-when the distance is so great, it is not impossible that the rays 
-may be broken or glance round in their passage, so that the light 
-reaches us in one composite stream. Some go further, and show 
-by a figure that many lights discharge their rays along a line 
-inclined to the hypothenuse, as it is called ; but it was not 
-possible to construct the diagram while speaking, especially before 
-a large audience. 
-
-XVIII. "Upon the whole question," he went on, "I am at 
-a loss to see how they bring up the half-moon against us ; the 
-point arises equally upon her gibbous and crescent phases. For 
-if the Moon were a mass of air or fire which the sun illuminated, 
-he would not have left half her sphere always in shadow and 
-darkness as seen by us ; but even if he touched her in his circuit 
-only in a small point, the proper consequence would follow, she 
-would be affected all through, and her entire substance changed 
-by the light penetrating everywhere with ease. When wine 
-touches water on its extreme surface, or a drop of blood falls 
-into liquid, the whole is discoloured at once, and turned to 
-crimson. But the air itself, we are told, is not filled with sunshine 
-by emanations or beams actually mingling with it, but by a change 
-and alteration caused by something like a prick or touch. Now, 
-how can they suppose that when star touches star or light light, 
-it does not mingle with or alter the substance throughout, but 
-only illuminates those points which it touches superficially ? 931. 
-The circular orbit of the sun as he passes about the Moon, 
-which sometimes coincides with the line dividing her visible and 
-invisible parts, and at other times rises to right angles with that 
-line so as to cut those parts in two, and in turn be cut by her, 
-produces her gibbous and crescent phases by the varying inclina- 
-tion and position of the bright part relatively to that in shadow 
-This proves beyond all question that the illumination is contact 
-not commixture, not accumulation of light but its circumfusion. 
-But the fact that she is not only illuminated herself but also sends 
-on the image of her brightness to us, allows us to insist the more 
-confidently on our theory of her substance. For reflexions do 
-not take place on a rarefied body, one formed of subtle particles, 
-nor is it easy to conceive light rebounding from light, or fire from 
-fire ; the body which is to produce recoil and reflexion must be 
-heavy and dense, that there may be impact upon it and resilience 
-from it. To the sun himself the air certainly allows a passage, 
-offering no obstructions or resistance; whereas if timber, stones, 
-
-
-31 
-
-or woven stuffs be placed to meet his light many cross rays are Lucius. 
-caused, and there is illumination all round. We see the same 
-thing in the way his light reaches the earth. The earth does not 
-pass his ray into a depth as water does, nor yet throughout her 
-whole substance as air does. Just as his orbit passes round the 
-Moon, gradually cutting off a certain portion of her, so a similar 
-orbit passes round the earth, illuminating a similar part of it and 
-leaving another unilluminated, for the part of either body which 
-receives light appears to be a little larger than a hemisphere. 
-Allow me to speak geometrically in terms of proportion. Here 
-are three bodies approached by the sun's light, earth, moon, 
-air ; we see that the Moon is illuminated like the earth, not like 
-the air ; but bodies naturally affected in the same way by the same 
-must be themselves similar." 
-
-XIX. When all had applauded Lucius, " Bravo ! " said I, " a Lamprias. 
-beautiful proportion fitted to a beautiful theory ; for you must not 
-be defrauded of your own." " In that case " he said, with a Lucius. 
-smile, " I must employ proportion a second time, in order that 
-we may prove the moon like the earth, not only as being affected 
-in the same way by the same body, but also as producing 
-the same effect on the same. Grant me that no one of the 
-phenomena relating to the sun is so like another as an eclipse 
-to a sunset, remembering that recent conjunction of sun and 
-moon, which, beginning just after noon, showed us plainly many 
-stars in all parts of the heavens, and produced a chill in the 
-temperature like that of twilight. If you have forgotten it, Theon 
-here will bring up Mimnermus and Cydias, and Archilochus, and 
-Stesichorus and Pindar besides, all bewailing at eclipse time 'the If ar'- t 
-brightest star stolen from the sky ' and ' night with us at mid- 0xy p 841). 
-day,' speaking of the ray of the sun as 'a track of darkness ' pr $4 Bergk. 
-and, besides all these, Homer saying that the faces of men are od.-. xx, 32. 
-' bound in night and gloom ' and ' the sun is perished out of the xiv, 162. 
-
-heaven " [around the Moon,] and how this occurs according to *»*i 307- 
-
-nature, 'When one Moon perishes and one is born.' The 
-remaining points have been reduced I think, by the accuracy of 
-mathematical methods to the one certain principle that night is 
-the shadow of earth, whereas an eclipse of the sun is the shadow 
-of the moon when it falls within our vision. When the sun sets 
-he is blocked from our sight by the earth, when he is eclipsed, by 
-932. the moon. In both cases there is overshadowing, in his setting 
-it is caused by the earth, in his eclipses by the moon, her shadow 
-intercepting our vision. From all this it is easy to draw out a 
-theory about the process. If the effect is similar, the agents are 
-similar ; for the same effects upon the same body must be due to 
-the same agents. If the darkness of eclipses is not so profound, 
-let us not be surprised ; the bodies which cause respectively night 
-and eclipse are similar in nature, but unequal in size. The 
-Egyptians, I believe, say that the moon's bulk is one two-and- 
-seventieth part of the earth's, Anaxagoras made her as large as 
-
-
-V 
-
-
-Lucius. Peloponnesus ; but Aristarchus proves that the diameter of the 
-
-earth bears to that of the moon a ratio which is less than sixty to 
-nineteen, and greater than a hundred and eight to forty-three. 
-Hence the earth because of its size removes the sun entirely from 
-our sight, the obstruction is great and lasts all night ; whereas if 
-the moon sometimes hides the sun entirely, yet the eclipse does 
-not last long and has no breadth ■ but a certain brightness is 
-apparent around the rim, which does not allow the shadow to be 
-deep and absolute. Aristotle, I mean the ancient philosopher, 
-after giving other reasons why the moon is more often visibly 
-DeCaelo,U,i3, eclipsed than the sun, adds this further one, that the sun is 
-p. 293, b. 20. eclipsed by the interposition of the moon [the moon by that of 
-the earth and of other bodies also]. But Poseidonius gives this 
-definition of what occurs : an eclipse of the sun is his conjunction 
-with the shadow of the moon * * * for there is no eclipse, except to 
-those whose view of the sun can be intercepted by the shadow of 
-the moon. In allowing that the shadow of the moon reaches to 
-us, I do not know what he has left himself to say. There can be 
-no shadow of a star ; shadow means absence of light, and it is 
-the nature of light to remove shadow, not to cause it. 
+19\. When all had applauded Lucius, "Bravo!" said I, "a beautiful proportion fitted to a beautiful theory; for you must not be defrauded of your own." "In that case" he said, with a smile, "I must employ proportion a second time, in order that we may prove the moon like the earth, not only as being affected in the same way by the same body, but also as producing the same effect on the same. Grant me that no one of the phenomena relating to the sun is so like another as an eclipse to a sunset, remembering that recent conjunction of sun and moon, which, beginning just after noon, showed us plainly many stars in all parts of the heavens, and produced a chill in the temperature like that of twilight. If you have forgotten it, Theon here will bring up Mimnermus and Cydias, and Archilochus, and Stesichorus and Pindar besides, all bewailing at eclipse time 'the brightest star stolen from the sky' and 'night with us at mid-day,' speaking of the ray of the sun as 'a track of darkness' and, besides all these, Homer saying that the faces of men are 'bound in night and gloom' and 'the sun is perished out of the heaven' [around the Moon,] and how this occurs according to nature, 'When one Moon perishes and one is born.' The remaining points have been reduced I think, by the accuracy of mathematical methods to the one certain principle that night is the shadow of earth, whereas an eclipse of the sun is the shadow of the moon when it falls within our vision. When the sun sets he is blocked from our sight by the earth, when he is eclipsed, by the moon. In both cases there is overshadowing, in his setting it is caused by the earth, in his eclipses by the moon, her shadow intercepting our vision. From all this it is easy to draw out a theory about the process. If the effect is similar, the agents are similar; for the same effects upon the same body must be due to the same agents. If the darkness of eclipses is not so profound, let us not be surprised; the bodies which cause respectively night and eclipse are similar in nature, but unequal in size. The Egyptians, I believe, say that the moon's bulk is one two-and-seventieth part of the earth's, Anaxagoras made her as large as Peloponnesus; but Aristarchus proves that the diameter of the earth bears to that of the moon a ratio which is less than sixty to nineteen, and greater than a hundred and eight to forty-three. Hence the earth because of its size removes the sun entirely from our sight, the obstruction is great and lasts all night; whereas if the moon sometimes hides the sun entirely, yet the eclipse does not last long and has no breadth; but a certain brightness is apparent around the rim, which does not allow the shadow to be deep and absolute. Aristotle, I mean the ancient philosopher, after giving other reasons why the moon is more often visibly eclipsed than the sun, adds this further one, that the sun is eclipsed by the interposition of the moon [the moon by that of the earth and of other bodies also]. But Poseidonius gives this definition of what occurs: an eclipse of the sun is his conjunction with the shadow of the moon ... for there is no eclipse, except to those whose view of the sun can be intercepted by the shadow of the moon. In allowing that the shadow of the moon reaches to us, I do not know what he has left himself to say. There can be no shadow of a star; shadow means absence of light, and it is the nature of light to remove shadow, not to cause it.
 
 XX. " But tell me," he went on, "what proof was mentioned 
 next?" "That the moon was eclipsed in the same way," I said. 
