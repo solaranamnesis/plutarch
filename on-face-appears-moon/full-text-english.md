@@ -283,252 +283,26 @@ reaches us in a feeble and exhausted stream, because the force is dispersed in t
 
 19\. When all had applauded Lucius, "Bravo!" said I, "a beautiful proportion fitted to a beautiful theory; for you must not be defrauded of your own." "In that case" he said, with a smile, "I must employ proportion a second time, in order that we may prove the moon like the earth, not only as being affected in the same way by the same body, but also as producing the same effect on the same. Grant me that no one of the phenomena relating to the sun is so like another as an eclipse to a sunset, remembering that recent conjunction of sun and moon, which, beginning just after noon, showed us plainly many stars in all parts of the heavens, and produced a chill in the temperature like that of twilight. If you have forgotten it, Theon here will bring up Mimnermus and Cydias, and Archilochus, and Stesichorus and Pindar besides, all bewailing at eclipse time 'the brightest star stolen from the sky' and 'night with us at mid-day,' speaking of the ray of the sun as 'a track of darkness' and, besides all these, Homer saying that the faces of men are 'bound in night and gloom' and 'the sun is perished out of the heaven' [around the Moon,] and how this occurs according to nature, 'When one Moon perishes and one is born.' The remaining points have been reduced I think, by the accuracy of mathematical methods to the one certain principle that night is the shadow of earth, whereas an eclipse of the sun is the shadow of the moon when it falls within our vision. When the sun sets he is blocked from our sight by the earth, when he is eclipsed, by the moon. In both cases there is overshadowing, in his setting it is caused by the earth, in his eclipses by the moon, her shadow intercepting our vision. From all this it is easy to draw out a theory about the process. If the effect is similar, the agents are similar; for the same effects upon the same body must be due to the same agents. If the darkness of eclipses is not so profound, let us not be surprised; the bodies which cause respectively night and eclipse are similar in nature, but unequal in size. The Egyptians, I believe, say that the moon's bulk is one two-and-seventieth part of the earth's, Anaxagoras made her as large as Peloponnesus; but Aristarchus proves that the diameter of the earth bears to that of the moon a ratio which is less than sixty to nineteen, and greater than a hundred and eight to forty-three. Hence the earth because of its size removes the sun entirely from our sight, the obstruction is great and lasts all night; whereas if the moon sometimes hides the sun entirely, yet the eclipse does not last long and has no breadth; but a certain brightness is apparent around the rim, which does not allow the shadow to be deep and absolute. Aristotle, I mean the ancient philosopher, after giving other reasons why the moon is more often visibly eclipsed than the sun, adds this further one, that the sun is eclipsed by the interposition of the moon [the moon by that of the earth and of other bodies also]. But Poseidonius gives this definition of what occurs: an eclipse of the sun is his conjunction with the shadow of the moon ... for there is no eclipse, except to those whose view of the sun can be intercepted by the shadow of the moon. In allowing that the shadow of the moon reaches to us, I do not know what he has left himself to say. There can be no shadow of a star; shadow means absence of light, and it is the nature of light to remove shadow, not to cause it.
 
-XX. " But tell me," he went on, "what proof was mentioned 
-next?" "That the moon was eclipsed in the same way," I said. 
-"Thank you for reminding me," he said. "But now am I to 
-turn at once to the argument, assuming that you are satisfied, 
-and allow that the moon is eclipsed when she is caught in the 
-shadow, or do you wish me to set out a studied proof, with all the 
-steps in order?" "By all means," said Theon, "let us have 
-the proof in full. For my own part, however, 1 still need to be 
-convinced ; I have only heard it put thus, that when the three 
-bodies, earth, sun, and moon, come into one straight line eclipses 
-occur, the earth removing the sun from the moon, or the moon 
-the sun from the earth ; that is, the sun is eclipsed when the moon, 
-the moon when the earth is in the middle of the three, the first 
-case happening at new moon, the second at her full." 
+20\. "But tell me," he went on, "what proof was mentioned next?" "That the moon was eclipsed in the same way," I said. "Thank you for reminding me," he said. "But now am I to turn at once to the argument, assuming that you are satisfied, and allow that the moon is eclipsed when she is caught in the shadow, or do you wish me to set out a studied proof, with all the steps in order?" "By all means," said Theon, "let us have the proof in full. For my own part, however, I still need to be convinced; I have only heard it put thus, that when the three bodies, earth, sun, and moon, come into one straight line eclipses occur, the earth removing the sun from the moon, or the moon the sun from the earth; that is, the sun is eclipsed when the moon, the moon when the earth is in the middle of the three, the first case happening at new moon, the second at her full."
 
-Lucius replied: "These are perhaps the most important points 
-mentioned ; but first, if you will, take the additional argument 
-drawn from the shape of the shadow. This is a cone, such as is 
-caused by a large spherical body of fire or light over-lapping a 
-smaller body also spherical. Hence in eclipses the lines which 
-mark off the dark portions of the moon from the bright give 
-circular sections. For when one round body approaches another, 
-the lines of mutual intersection are invariably circular like the 
-bodies themselves. In the second place, I think you are aware 
-that the first parts of the moon to be eclipsed are those towards 
-the East, of the sun those towards the West, and the shadow of 
-the earth moves from East to West, the sun and the moon on the 933. 
-contrary move to the East. This is made clear to the senses by 
-the phenomena, which may be explained quite shortly. They go 
-to confirm our view of the cause of the eclipse. For since the 
+Lucius replied: "These are perhaps the most important points mentioned; but first, if you will, take the additional argument drawn from the shape of the shadow. This is a cone, such as is caused by a large spherical body of fire or light over-lapping a smaller body also spherical. Hence in eclipses the lines which mark off the dark portions of the moon from the bright give circular sections. For when one round body approaches another, the lines of mutual intersection are invariably circular like the bodies themselves. In the second place, I think you are aware that the first parts of the moon to be eclipsed are those towards the East, of the sun those towards the West, and the shadow of the earth moves from East to West, the sun and the moon on the contrary move to the East. This is made clear to the senses by the phenomena, which may be explained quite shortly. They go to confirm our view of the cause of the eclipse. For since the sun is eclipsed by being overtaken, the moon by meeting the body which causes the eclipse, it is likely, or rather it is necessary, that the sun should be overtaken from behind, the moon from the front, the obstruction beginning from the first point of contact with the obstructing body. The moon comes up with the sun from the West as she races against him, the earth from the East because it is moving from the opposite direction. As a third point, I will ask you to notice the duration and the magnitude of her eclipses. If she is eclipsed when high up and far from the earth, she is hidden for a short time; if near the earth and low down when the same thing happens to her, she is firmly held and emerges slowly out of the shadow; and yet when she is low her speed is greatest, when high it is least. The cause of the difference lies in the shadow; for being broadest about the base, like all cones, and tapering gradually, it ends in a sharp, fine head. Hence, if the moon be low when she meets the shadow, she is caught in the largest circles of the cone, and crosses its most profound and darkest part; if high, she dips as into a shallow pond, because the shadow is thin, and quickly makes her way out. I omit the points of detail mentioned as to bases and permeations, which can also be rationally explained as far as the subject matter allows. I go back to the theory put before us founded on our senses. We see that fire shines through more visibly and more brightly out of a place in shadow, whether because of the density of the darkened air, which does not allow it to stream off and be dispersed, but holds its substance compressed where it is, or whether this is an affection of our senses; as hot things are hotter when contrasted with cold, and pleasures are more intense by contrast with pains, so bright things stand out more clearly by the side of dark, setting the imagination on the alert by the contrast. The former appears the more probable, for in the light of the sun every thing in the nature of fire not only loses its brightness, but is outstretched and becomes inactive and blunted, since the sun's heat scatters and dissipates its power. If then the moon possess a faint, feeble fire, being a star of somewhat turbid substance, as the Stoics themselves say, none of the effects which she now exhibits ought to follow, but the opposite in all respects; she ought to appear when she is now hidden, and be hidden when she now appears; be hidden, that is, all the time while she is dimmed by the surrounding atmosphere, but shine brightly out at intervals of six months, or again at intervals of five, when she passes under the shadow of the earth. (For of the 465 full moons at eclipse intervals, 404 give periods of six months, the remainder periods of five). At such intervals then the moon ought to appear shining brightly in the shadow. But as a fact she is eclipsed and loses her light in the shadow, and recovers it when she has cleared the shadow; also she is often seen by day, which shows that she is in no sense a fiery or star-like body."
 
+21\. When Lucius had said this, Pharnaces and Apollonides sprang forward together to oppose. Apollonides made way to Pharnaces, who observed that this is a very strong proof that the moon is a star or fire; for she does not disappear entirely in eclipses, but shows through with a grim ashy hue peculiar to herself. Apollonides objected to the word "shadow," a term always applied by mathematicians to a region which is not lighted, whereas the heavens admit of no shadow. "This objection," I said, "is contentious, and addressed to the name, not to the thing in any physical or mathematical sense. If anyone should prefer to call the region blocked by the earth not 'shadow,' but 'an unlighted place,' it is still necessarily true that the moon when it reaches that region [is darkened]. It is merely childish," I went on, "not to allow that the shadow of the earth reaches it, since we know that the shadow of the moon, falling upon the sight and reaching to the earth, causes an eclipse of the sun. I will now turn to you, Pharnaces. That ashy charred colour in the moon, which you say is peculiar to her, belongs to a body which has density and depth. For no remnant or trace of flame will remain in rarefied bodies, nor can coal come into existence, without a substantial body, deep enough to allow of ignition and to maintain it, as Homer has somewhere said:--- 
 
-33 
+'When fire's red flower was flown, and spent the flames,  
+Which smoothed the embers.'
 
-sun is eclipsed by being overtaken, the moon by meeting the body Lucius- 
-which causes the eclipse, it is likely, or rather it is necessary, that 
-the sun should be overtaken from behind, the moon from the 
-front, the obstruction beginning from the first point of contact 
-with the obstructing body. The moon comes up with the sun 
-from the West as she races against him, the earth from the East 
-because it is moving from the opposite direction. As a third 
-point, I will ask you to notice the duration and the magnitude 
-of her eclipses. If she is eclipsed when high up and far from 
-the earth, she is hidden for a short time ; if near the earth and 
-low down when the same thing happens to her, she is firmly 
-held and emerges slowly out of the shadow ; and yet when she is 
-low her speed is greatest, when high it is least. The cause of the 
-difference lies in the shadow; for being broadest about the base, 
-like all cones, and tapering gradually, it ends in a sharp, fine head. 
-Hence, if the moon be low when she meets the shadow, she is 
-caught in the largest circles of the cone, and crosses its most 
-profound and darkest part ; if high, she dips as into a shallow 
-pond, because the shadow is thin, and quickly makes her way 
-out. I omit the points of detail mentioned as to bases and 
-permeations, which can also be rationally explained as far 
-as the subject matter allows. I go back to the theory put 
-before us founded on our senses. We see that fire shines 
-through more visibly and more brightly out of a place in shadow, 
-whether because of the density of the darkened air, which does 
-not allow it to stream off and be dispersed, but holds its substance 
-compressed where it is, or whether this is an affection of our 
-senses ; as hot things are hotter when contrasted with cold, and 
-pleasures are more intense by contrast with pains, so bright things 
-stand out more clearly by the side of dark, setting the imagination 
-on the alert by the contrast. The former appears the more 
-probable, for in the light of the sun every thing in the nature of 
-fire not only loses its brightness, but is outstretched and becomes 
-inactive and blunted, since the sun's heat scatters and dissipates 
-its power. If then the moon possess a faint, feeble fire, being a 
-star of somewhat turbid substance, as the Stoics themselves say, 
-none of the effects which she now exhibits ought to follow, but 
-the opposite in all respects ; she ought to appear when she is now 
-hidden, and be hidden when she now appears ; be hidden, that is, 
-all the time while she is dimmed by the surrounding atmosphere, 
-but shine brightly out at intervals of six months, or again at 
-intervals of five, when she passes under the shadow of the earth. 
-(For of the 465 full moons at eclipse intervals, 404 give periods 
-of six months, the remainder periods of five). At such intervals 
-then the moon ought to appear shining brightly in the shadow. 
-But as a fact she is eclipsed and loses her light in the shadow, and 
-recovers it when she has cleared the shadow ; also she is often 
-seen by day, which shows that she is in no sense a fiery or star- 
-like body." 
+For coal is evidently not fire but a body submitted to fire, and altered by it, which fire is attached to a solid stable mass and is permanent there, whereas flames are the kindling and streaming away of rarefied fuel matter which is quickly dissolved because it is weak."
 
+"Thus no equally clear proof could exist that the moon is earth-like and dense, as this cinder-like colour, if it really is her own proper colour. But it is not so, dear Pharnaces; in the course of an eclipse she goes through many changes of complexion, and scientific men divide these accordingly by time and hour. If she is eclipsed at early evening, she appears strangely black till ... hours and a half have elapsed, if at midnight, she emits that red and flame-like hue over her surface which we know; after seven and a half hours the redness begins to be removed, and at last towards dawn she takes a bluish or light-grey hue, which is the real reason why poets and Empedocles invoke her as 'grey eyed.' Now, people who see the moon assume so many hues as she passes through the shadow do wrong in fastening upon one, the cinder-like, which may be called the one most foreign to her, being rather an admixture and remnant of light which shines round her through the shadows, than her own peculiar complexion which is black and earth-like. But whereas we see on our earth that places in shadow which are near purple or scarlet cloths, or near lakes, or rivers open to the sun, partake in the brilliance of these colours and offer many varied splendours because of the reflexions, what wonder if a great stream of shadow, falling upon a celestial sea of light, not stable or calm but agitated by myriads of stars and admitting of combinations and changes of every kind, presents to us different colours at different times impressed on it by the moon? For a star or a fire could not shew when in shadow as black or grey or blue. But our hills and plains and seas are coursed over by many coloured shapes coming from the sun and by shadows also and mists, resembling the hues produced by white light over a painter's pigments. For those seen on the sea Homer has endeavoured to find such names as he could, as 'violet' for the sea, and 'wine dark' and again 'purple wave' and elsewhere 'grey sea' and 'white calm.' But the varying colours which appear on land at different times he has passed over as being infinite in number. Now, it is not likely that the moon has one surface as the sea has, but rather that she resembles in substance the earth, of which Socrates of old used to tell the story, whether he hinted at the moon, or told it of some other body. For it is nothing incredible or wonderful if, having nothing corrupt or muddy in her, but enjoying light from heaven, and being stored with a heat not burning or furious, but mild and harmless and natural, she possesses regions of marvellous beauty, hills clear as flame, and belts of purple, her gold and silver not dispersed within her depths, but flowering forth on the plains in plenty, or set around smooth eminences. Now, if a varying view of these reaches us from time to time through the shadow, owing to some change and shifting of the surrounding air, surely the moon does not lose her honour or her fame, nor yet her divinity, when she is held by men to be holy earth of a sort and not, as the Stoics say, fire which is turbid, mere dregs of fire. Fire is honoured in barbarous fashions by the Medes and Assyrians, who fear what injures them, and pay observance or rites of propitiation to that, rather than to what they revere. But the name of Earth, we know, is dear and honourable to every Greek, we reverence her as our fathers did, like any other god. But, being men, we are very far from thinking of the Moon, that Olympian Earth, as a body without soul or mind, with no share in things which we duly offer as first fruits to the gods, taught by usage to pay them a return for the goods they give us, and by Nature to reverence that which is above ourselves in virtue and power and honour. Let us not then think that we offend in holding that she is an earth, and that this her visible face, just like our earth with its great gulfs, is folded back into great depths and clefts containing water or murky air which the light of the sun fails to penetrate or touch, but is obscured, and sends back its reflexion here in shattered fragments."
 
-34 
+22\. Here Apollonides broke in: "Then in the name of the Moon herself" he said, "do you think it possible that shadows are thrown there by any clefts or gullies, and from thence reach our sight, or do you not calculate what follows, and am I to tell you? Pray hear me out though you know it all. The diameter of the moon shews an apparent breadth of twelve fingers at her mean distance from us. Now, each of those black shadowy objects appears larger than half a finger, and is therefore more than a twenty-fourth part of the diameter. Very well; if we were to assume the circumference of the moon to be only thirty thousand stades, and the diameter ten thousand, on that assumption each of these shadowy objects on her would be not less than five thousand stades. Now, consider first whether it be possible for the Moon to have depths and eminences sufficient to cause a shadow of that size. Next, if they are so large, how is it that we do not see them?"
 
-XXI. When Lucius had said this, Pharnaces and Apollonides 
-sprang forward together to oppose. Apollonides made way to 
+At this, I smiled on him and said, "Well done Apollonides, to have found out such a demonstration! By it you will prove that you and I too are greater than the Aloades of old, not at any time of day however, but in early morning for choice, and late afternoon; so you really think that when the sun makes our shadows prodigious, he presents to our sense the splendid inference, that if the shadow thrown be great, the object which throws it is enormous. Neither of us, I am sure, has ever been in Lemnos, but we have both heard the familiar line,
 
-Pharnaces. Pharnaces, who observed that this is a very strong proof that the 
-moon is a star or fire ; for she does not disappear entirely in 
-eclipses, but shows through with a grim ashy hue peculiar to 
+'Athos the Lemnian cow's two flanks shall shade.'
 
-Apollonides. herself. Apollonides objected to the word "shadow," a term 
-always applied by mathematicians to a region which is not lighted, 
-
-Lamprias- whereas the heavens admit of no shadow. "This objection," I 934. 
-said, " is contentious, and addressed to the name, not to the 
-thing in any physical or mathematical sense. If anyone should 
-prefer to call the region blocked by the earth not 'shadow,' but 
-'an unlighted place,' it is still necessarily true that the moon when 
-it reaches that region [is darkened]. It is merely childish," I went 
-on, " not to allow that the shadow of the earth reaches it, since we 
-know that the shadow of the moon, falling upon the sight and 
-reaching to the earth, causes an eclipse of the sun. I will now 
-turn to you, Pharnaces. That ashy charred colour in the moon, 
-which you say is peculiar to her, belongs to a body which has 
-density and depth. For no remnant or trace of flame will remain 
-in rarefied bodies, nor can coal come into existence, without a 
-substantial body, deep enough to allow of ignition and to maintain 
-it, as Homer has somewhere said : --- 
-
-//., ix, 212. ' When fire's red flower was flown, and spent the flames, 
-
-Which smoothed the embers.' 
-
-For coal is evidently not fire but a body submitted to fire, 
-and altered by it, which fire is attached to a solid stable mass and 
-is permanent there, whereas flames are the kindling and streaming 
-away of rarefied fuel matter which is quickly dissolved because it 
-is weak. 
-
-"Thus no equally clear proof could exist that the moon is 
-earth-like and dense, as this cinder-like colour, if it really is her 
-own proper colour. But it is not so, dear Pharnaces ; in the 
-course of an eclipse she goes through many changes of complexion, 
-and scientific men divide these accordingly by time and hour. If 
-she is eclipsed at early evening, she appears strangely black till 
-* * hours and a half have elapsed, if at midnight, she emits that 
-red and flame-like hue over her surface which we know; after 
-seven and a half hours the redness begins to be removed, and at 
-last towards dawn she takes a bluish or light-grey hue, which is 
-the real reason why poets and Empedocles invoke her as 'grey 
-eyed.' Now, people who see the moon assume so many hues as 
-she passes through the shadow do wrong in fastening upon one, 
-the cinder-like, which may be called the one most foreign to her, 
-being rather an admixture and remnant of light which shines 
-round her through the shadows, than her own peculiar complexion 
-which is black and earth-like. But whereas we see on our earth 
-that places in shadow which are near purple or scarlet cloths, or 
-near lakes, or rivers open to the sun, partake in the brilliance of 
-these colours and offer many varied splendours because of the 
-
-
-35 
-
-reflexions, what wonder if a great stream of shadow, falling upon 
-a celestial sea of light, not stable or calm but agitated by myriads 
-of stars and admitting of combinations and changes of every kind, 
-presents to us different colours at different times impressed on it 
-by the moon ? For a star or a fire could not shew when in 
-shadow as black or grey or blue. But our hills and plains and 
-seas are coursed over by many coloured shapes coming from the 
-sun and by shadows also and mists, resembling the hues produced 
-by white light over a painter's pigments. For those seen on the 
-sea Homer has endeavoured to find such names as he could, as 
-' violet ' for the sea, and ' wine dark ' and again ' purple wave ' and 
-elsewhere 'grey sea' and 'white calm.' But the varying colours 
-which appear on land at different times he has passed over as 
-being infinite in number. Now, it is not likely that the moon has 
-one surface as the sea has, but rather that she resembles in 
-substance the earth, of which Socrates of old used to tell the See Phado, 
-935- story, whether he hinted at the moon, or told it of some lI° B---C 
-other body. For it is nothing incredible or wonderful if, having 
-nothing corrupt or muddy in her, but enjoying light from heaven, 
-and being stored with a heat not burning or furious, but mild 
-and harmless and natural, she possesses regions of marvellous 
-beauty, hills clear as flame, and belts of purple, her gold and 
-silver not dispersed within her depths, but flowering forth on the 
-plains in plenty, or set around smooth eminences. Now, if a 
-varying view of these reaches us from time to time through the 
-shadow, owing to some change and shifting of the surrounding 
-air, surely the moon does not lose her honour or her fame, nor 
-yet her divinity, when she is held by men to be holy earth of a 
-sort and not, as the Stoics say, fire which is turbid, mere dregs of 
-fire. Fire is honoured in barbarous fashions by the Medes and 
-Assyrians, who fear what injures them, and pay observance or rites 
-of propitiation to that, rather than to what they revere. But the 
-name of Earth, we know, is dear and honourable to every Greek, 
-we reverence her as our fathers did, like any other god. But, 
-being men, we are very far from thinking of the Moon, that 
-Olympian Earth, as a body without soul or mind, with no share in 
-things which we duly offer as first fruits to the gods, taught by 
-usage to pay them a return for the goods they give us, and by 
-Nature to reverence that which is above ourselves in virtue and 
-power and honour. Let us not then think that we offend in 
-holding that she is an earth, and that this her visible face, 
-just like our earth with its great gulfs, is folded back into great 
-depths and clefts containing water or murky air which the light of 
-the sun fails to penetrate or touch, but is obscured, and sends 
-back its reflexion here in shattered fragments." 
-
-XXII. Here Apollonides broke in: "Then in the name of Apollonides. 
-the Moon herself" he said, "do you think it possible that shadows 
-are thrown there by any clefts or gullies, and from thence reach 
-our sight, or do you not calculate what follows, and am I to tell 
-
-
-36 
-
-
-Apollonides. you ? Pray hear me out though you know it all. The diameter 
-of the moon shews an apparent breadth of twelve fingers at her 
-mean distance from us. Now, each of those black shadowy 
-objects appears larger than half a finger, and is therefore more 
-than a twenty-fourth part of the diameter. Very well ; if we were 
-to assume the circumference of the moon to be only thirty 
-thousand stades, and the diameter ten thousand, on that assump- 
-tion each of these shadowy objects on her would be not less than 
-five thousand stades. Now, consider first whether it be possible 
-for the Moon to have depths and eminences sufficient to cause a 
-shadow of that size. Next, if they are so large, how is it that we 
-do not see them ? " 
-
-Lamprias. At this, I smiled on him and said, " Well done Apollonides, 
-
-to have found out such a demonstration ! By it you will prove 
-
-Od. xi, 311. that you and I too are greater than the Aloades of old, not at any 
-time of day however, but in early morning for choice, and late 
-afternoon ; so you really think that when the sun makes our 
-shadows prodigious, he presents to our sense the splendid 
-inference, that if the shadow thrown be great, the object which 
-throws it is enormous. Neither of us, I am sure, has ever been 
-in Lemnos, but we have both heard the familiar line, 
-
-Nauck, ' Athos the Lemnian cow's two flanks shall shade.' 
-
-op .70 . por tjie sha(}ow 0f the diff falls, it seems, on a certain brazen 
-
-heifer over a stretch of sea of not less than seven hundred stades. 936. 
-Do you think that the height which casts the shadow is the cause, 
-forgetting that distance of the light from objects makes their 
-shadows many times longer ? Now consider the sun at his greatest 
-distance from the moon, when she is at the full, and shews the 
-features of the face most expressly because of the depth of the 
-shadow ; it is the mere distance of the light which has made 
-the shadow large, not the size of the irregularities on the moon. 
-Again, in full day the extreme brightness of the sun's rays does 
-not allow the tops of mountains to be seen, but deep and hollow 
-places appear from a long distance as also do those in shadow. 
-There is nothing strange then if it is not possible to see precisely 
-how the moon too is caught by the light, and illuminated, and yet 
-if we do see by contrast where the parts in shadow lie near the 
-bright parts." 
+For the shadow of the cliff falls, it seems, on a certain brazen heifer over a stretch of sea of not less than seven hundred stades. Do you think that the height which casts the shadow is the cause, forgetting that distance of the light from objects makes their shadows many times longer? Now consider the sun at his greatest distance from the moon, when she is at the full, and shews the features of the face most expressly because of the depth of the shadow; it is the mere distance of the light which has made the shadow large, not the size of the irregularities on the moon. Again, in full day the extreme brightness of the sun's rays does not allow the tops of mountains to be seen, but deep and hollow places appear from a long distance as also do those in shadow. There is nothing strange then if it is not possible to see precisely how the moon too is caught by the light, and illuminated, and yet if we do see by contrast where the parts in shadow lie near the bright parts."
 
 XXIII. "But here," said I, "is a better point to disprove 
 the alleged reflexion from the moon ; it is found that those 
@@ -540,9 +314,6 @@ which caused the reflexion, and the sun himself, from whom
 proceeds the light so falling on the water and reflected. All this 
 being granted and apparent, people require those who contend 
 that the earth receives the moon's light by reflexion, to point out 
-
-
-37 
 
 the sun appearing in the moon at night, as he appears in the water Lamprias- 
 by day when he is reflected off it. Then as he does not so 
@@ -595,23 +366,6 @@ further from the eye does not return the reflexion in strength or
 intensity. But enough ! Whereas the light of the sun reflected 
 from the moon loses its heat entirely, and only a scanty and 
 
-
-38 
-
-
-Lamprias. 
-
-
-Theon. 
-
-
-Aesch., 
-Suppl. 
-
-
-937- 
-
-
 ineffectual remnant of its brilliance reaches us, do you really 
 think it possible that when sight has the double course to travel, 
 any remnant whatever should reach the sun from the moon ? No ! 
@@ -663,9 +417,6 @@ for the space of one brief day at the solstice and then passes on,
 all but shrivelled up by the dryness of the air around them, is 
 it likely, I ask you, that people in the moon can endure twelve 
 summers in each year, the sun standing plumb straight above 
-
-
-39 
 
 them at every full moon ? Then as to winds and clouds and Theon. 
 showers, without which plants can neither receive nor maintain 
@@ -720,9 +471,6 @@ And here we will make bold to yield a point to ancient legend,
 and to say that she has been held to be Artemis, a maiden and 
 no mother, but for the rest helpful and serviceable. In the next 
 
-
-4° 
-
 place, nothing which has been said, dear Theon, proves it to be 
 impossible that she is inhabited in the way alleged. For her 
 revolution is one very gentle and calm ; which smoothes the air, 939. 
@@ -773,8 +521,6 @@ which need no rains or snows, but are fitted by nature for a light
 and summer-like atmosphere? Why again may it not be probable 
 that breezes ascend warmed by the moon and by the whirl of her 
 
-
-4i 
 
 revolution, and that she is accompanied by quiet ^breezes, which Lamprias. 
 shed dews and moisture around, and when distributed suffice for 
@@ -831,7 +577,6 @@ and is full of monsters, to all of whom water is as air to us, he
 would seem to be making up a parcel of fairy tales ; just so is it 
 
 
-42 
 
 Lamprias- with us, it seems, and such is our attitude towards the moon, when 
 we refuse to believe that she has men dwelling on her. Her 
