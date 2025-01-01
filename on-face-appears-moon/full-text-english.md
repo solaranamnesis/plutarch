@@ -419,151 +419,59 @@ The opening words raise a question. They run:--- ὁ μὲν οὖν Συλλα�
 
 W. proposes ... ταῦτα, εἶπε, τῷ παρ' ἐμοὶ μύθῳ ... which seems right. See the _Lex. Platon._ for instances of this phrase (= τῷ ἐμῷ). Here it is specially appropriate, since Sylla was only the depository of the myth, its "actor" (ch. 26). Madvig τῷ παραμέσῳ. The translation assumes ἅλις, or some such word, before ταῦτα.
 
-It is noticeable that Quaest. Conviv. Ill, 4, begins with 
-the words eO /xev ovv HvWas ravra elire. If the scribe 
-remembered this, he may have thought the words formed 
-a complete sentence here ; however, the Symposiacs come 
-later on in this volume (E) and doubtless in its original. 
+It is noticeable that _Quaest. Conviv._ 3, 4, begins with the words Ὁ μὲν οὖν Σύλλας ταῦτα εἶπε. If the scribe remembered this, he may have thought the words formed a complete sentence here; however, the Symposiacs come later on in this volume **E** and doubtless in its original.
 
-Is it possible that the Dialogue on the Face in the 
-Moon was preceded by a complete dialogue on some 
-kindred subject, which was resumed by the same speakers, 
-after the manner of the Symposiacs ? If so, it was omitted 
-from the collection at an early stage, since the index gives 
-no clue to such a work. But it is curious, and against the 
-law of chances, that if the opening pages were simply torn 
-out, the sequel should form such a possible beginning. A 
-rent usually shows a more ragged edge. Against any such 
-supposition, however, it is to be noticed that in E the words 
-are hastily written, and presumably were so also in the 
-immediate original, ovv is represented by o (no accent or 
-breathing) and fxev is only indicated (no accent). But a 
-scribe is not likely to use rare abbreviations in the opening 
-words of a new dialogue. In the passage quoted from the 
-Symposiacs the letters are carefully written, with all the 
-breathings and accents. It may be useful to compare the 
-abrupt opening of the De sera numinum vindicta. 
+Is it possible that the Dialogue on the Face in the Moon was preceded by a complete dialogue on some kindred subject, which was resumed by the same speakers, after the manner of the Symposiacs? If so, it was omitted from the collection at an early stage, since the index gives no clue to such a work. But it is curious, and against the law of chances, that if the opening pages were simply torn out, the sequel should form such a possible beginning. A rent usually shows a more ragged edge. Against any such supposition, however, it is to be noticed that in E the words are hastily written, and presumably were so also in the immediate original. οὖν is represented by ο (no accent or breathing) and μὲν is only indicated (no accent). But a scribe is not likely to use rare abbreviations in the opening words of a new dialogue. In the passage quoted from the Symposiacs the letters are carefully written, with all the breathings and accents. It may be useful to compare the abrupt opening of the _De sera numinum vindicta_.
 
-To have a prelude. 
+_To have a prelude._
 
-aWa el Bel irpoaavafcpovaaadat (E) doubtless 
+ἀλλὰ εἰ δεῖ ... προσανακρούσασθαι **E** doubtless for προανακρούσασθαι. The verb is frequently found in Plutarch, sometimes with an accusative of that which is introduced as a prelude (so 996 B). The metaphor well suits Sylla's way of speaking (compare the opening of ch. 26).
 
-for TTpoavaKpovcracrOaL. The verb is frequently found in 
-Plutarch, sometimes with an accusative of that which is 
-introduced as a prelude (so 996 B). The metaphor well 
-suits Sylla's way of speaking (compare the opening of 
-ch. 26). 
+Ch. 3. --- _For our sight being reflected back_ ...
 
-p. 18, ch. iii. --- For our sight being reflected back .... 
+I have, with some reluctance, adopted ὄψις, Turnebus' correction of ἴτυς. The idea of a rim bent back, as in a convex mirror, seems not impossible; but ἀνακλωμένη can only naturally be understood here of visual reflexion. Kepler strongly approves of ὄψις. 
 
-I have, with some reluctance, adopted en/a?, Turnebus' 
-correction of trv$. The idea of a rim bent back, as in a con- 
-vex mirror, seems not impossible ; but dvaicXco/jLevr) can 
-only naturally be understood here of visual reflexion. 
-Kepler strongly approves of o-tyis. 
+Ch. 4.
 
+τῆς οἰκουμένης εὖρος ἴσης καὶ μῆκος (MSS.). The construction halts, and the old editions read ἐχούσης. It will be observed that the words scan as in a hexameter. Empedocles has a line (Diels, fr. 17, 20), καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε. If the words here are a quotation from poetry, the further difficulty that the habitable world, according to Eratosthenes and Ptolemy, and in fact, was twice as long as broad, will at least be softened.
 
-53 
+Ch. 4. --- _I know, my dear friend, that Hipparchus_ ...
 
-p. 1 8, ch. iv. 
+καίτοι γε φίλε † πριαμ †, ἀλλὰ πολλοῖς οὐκ ἀρέσκει φυσιολογῶν περὶ τῆς ὄψεως, αὐτὴν ὁμοιοπαθῆ κρᾶσιν ἴσχειν καὶ σύμπηξιν εἰκός ἐστι μᾶλλον, ἢ πληγάς τινας καὶ ἀποπηδήσεις οἵας ἔπλαττε τῶν ἀτόμων Ἐπίκουρος.
 
-tt)<? otKov/juevrj^ evpos tcr^? ical /jltj/cos (MSS.). The 
-construction halts, and the old editions read c^oucr???. It 
-will be observed that the words scan as in a hexameter. 
-Ejnpedocles has a line (Diels, fr. 17, 20), teal $i\6t7)s ev 
-rolcnv, i<T7] jjbTjKo^ re 7rXaro? re. If the words here are a 
-quotation from poetry, the further difficulty that the habit- 
-able world, according to Eratosthenes and Ptolemy, and in 
-fact, was twice as long as broad, will at least be softened. 
+For πρίαμ' Turnebus proposed Λαμπρία, which Amyot translates, as does Kepler. This is ingenious but impossible, since Lamprias is himself the speaker.
 
-p. 18, ch. iv. --- I know, my dear friend, that Hipparchus .... 
+W. is right, as to sense, in suggesting φίλος γ' ἀνὴρ, ἀλλὰ ..., _i. e._, "granted that Hipparchus is a sound man, yet his opinion is not final on a question of physics, as it is on a question of geometry or astronomy." See Introductory note and for a fuller statement of this view of Hipparchus on vision see _De Plac. Phil._ 5, 13, p. 901 B.
 
-KaiTot ye (f)l\e ^"irpiapff, a\\a 7ro\\ot? ovte apea/eec (j)v- 
-aioXoywv irepl rr)<; o^ew?, avrr)v ofMOLoirady) Kpaaiv layeiv 
-/cal (tv/jltttj^iv et/c6? ecrri fiaWov, rj irXrjyds iiva^ teal cnroTTr)- 
-Srjcreis cua? eirXarre rcov arofjiwv 'EiriKovpo<i. 
+I venture to suggest, as _possible_, --- καίτοι γε, φίλε, πατὴρ Ἵππαρχος ἀστρονομίας [μέγας?], for which the scribe instead of leaving a mere gap, as elsewhere, wrote in initial or significant letters π ... ρ Ι ... α ... μ.
 
-For wpiafi Turnebus proposed Aapbirpia, which Amyot 
-translates, as does Kepler. This is ingenious but impossible, 
-since Lamprias is himself the speaker. 
+Compare ch. 26, p. 941 D (_ad init._), where τὸν ἄ is written for τον ἀπόπλουν (observe however the accent), also ο for οὖν in the first line of the dialogue (_q. v._), though better instances should be forthcoming.
 
-W. is right, as to sense, in suggesting <£i\o? 7' avi)p, 
-a\\a . . . . , _i. e._, " granted that Hipparchus is a sound man, 
-yet his opinion is not final on a question of physics, as it is 
-on a question of geometry or astronomy." See Introductory 
-note, p. 11, and for a fuller statement of this view of Hip- 
-parchus on vision see De Plac. Phil. V, 13, p. 901 B. 
+Delambre calls Hipparchus the "Father of Astronomy," and the phrase is classical: Cicero calls Herodotus the "Father of History" (_De Legibus_, 1, 1).
 
-I venture to suggest, as possible, --- tcairoi ye, </>t\e, Trarrjp 
-r/l7T7ra/o%o9 aarpovopias [fjieyas ?], for which the scribe in- 
-stead of leaving a mere gap, as elsewhere, wrote in initial 
-or significant letters it .... p I a .... p.. 
+For περὶ τῆς ὄψεως αὐτὴν ... read π. τ. ὄ. ὡς αὐτὴν ...
 
-Compare ch. 26, p. 941 D {ad init.), where top a is 
-written for rov aironrXovv (observe however the accent), also 
-o for ovv in the first line of the dialogue (a. v.), though 
-better instances should be forthcoming. 
+Ch. 5. --- _As Artemis and Athena._
 
-Delambre calls Hipparchus the " Father of Astronomy," 
-and the phrase is classical : Cicero calls Herodotus the 
-"Father of History" (De Legibus, I, 1). 
+See p. 39, ch. 25. Origen c. Cels. 8, 6, has:--- Κέλσος μὲν οὖν φησιν μᾶλλον δοκεῖν ἡμᾶς σέβειν τὸν μέγαν θεὸν, ἂν καὶ ἥλιον καὶ Ἀθηνᾶν ὑμνῶμεν. In some doubtful lines of the Homeric Hymn to Hermes 99-100, the Moon is the daughter of Pallas, "the Pallantean Moon sublime" (Shelley).
 
-For irepl T/j? 6S/re&)<? avrrjv . . . read it. t. o. <o? avrrjv . . . 
+Ch. 6. --- _Even Homer._
 
-p. 19, ch. v. --- As Artemis and Athena. 
+The question why Homer called Night θοή is an ever-green, and so is Buttmann's excellent article. See also Leaf on Il. 10, 394. The cone is "fine and narrow" indeed, the angle at the apex being really little more than half a degree, and not much blunter on the ancient figures.
 
-See p. 39, ch. xxv. Origen c. Cels. viii, 6, has : --- KeXaos 
-pev ovv (f>rjcriv pdXXov Bo/eecv r)p,d<; aefteiv rov pueyav 6ebv, av 
-teal yiXiov teal 'Adrjvav vpvtop,ev. In some doubtful lines of 
-the Homeric Hymn to Hermes 99-100, the Moon is the 
-daughter of Pallas, "the Pallantean Moon sublime" (Shelley). 
+Ch. 6. --- _As broad at its shortest_ ...
 
+ἡ βραχυτάτη. Madvig (Adv. 1, p. 664) seems right in reading ᾗ. There is exaggeration. The cone of shadow where crossed by the Moon has a diameter about three-quarters that of the earth, and tapers continuously to its apex.
 
-54 
+--- Taprobanes, _i. e._, natives of Ceylon.
 
-p. 20, ch. vi. --- Even Homer. 
+--- _The earth_ ... _might naturally be moved by its own weight._
 
-The question why Homer called Night doi] is an ever- 
-green, and so is Buttmann's excellent article. See also 
-Leaf on II. x, 394. The cone is " fine and narrow" indeed, 
-the angle at the apex being really little more than half a 
-degree, and not much blunter on the ancient figures. 
+τὴν δὲ γῆν ... εἰκὸς ἦν μόνῳ τῷ βαρύνοντι κινεῖν. I have followed W. in the translation, but μένειν, given in his text, seems necessary, as κινεῖν cannot = κινεῖσθαι --- "The earth would naturally have nothing but its own weight to keep it at rest."
 
-p. 20, ch. vi. --- As broad at its shortest . . . 
+Ch. 7. --- _That segments of beams, etc._
 
-17 fipaxvrdTT]. Madvig (Adv. I, p. 664) seems right in 
-reading fj. There is exaggeration. The cone of shadow 
-where crossed by the Moon has a diameter about three- 
-quarters that of the earth, and tapers continuously to its 
-apex. 
-
-p. 21. --- Taprobanes, _i. e._, natives of Ceylon. 
-
-p. 21. --- The earth .... might naturally be moved by its own 
-iv eight. 
-
-tijv he <yf]v ei/co? rjv /xovw too /3apuvovTt Ktvelv. I 
-
-have followed W. in the translation, but \xeveiv, given in his 
-text, seems necessary, as Ktvelv cannot --- KivelaOai --- "The 
-earth would naturally have nothing but its own weight to 
-keep it at rest." 
-
-p. 22, ch. vii. --- That segments of beams, etc. 
-
-A beam is sawn into two segments, on, or near, the 
-earth's surface. The two segments move simultaneously 
-towards the central point, but in converging, not parallel, 
-lines {cp. Arist. de Caelo, II, 14, 296* 18). If there is an 
-appreciable gap between them (say -^T) inch) they will at 
-first move freely, but soon (after 34 miles) each will feel 
-pressure from without inwards, and there will be jamming 
-and recoils for the rest of the 4000 miles. I am not sure 
-whether any change in yrjs is necessary ; to/u?}? has been 
-suggested. I am aware that other explanations may be 
-given ; the above appeared to me to suit the banter of the 
-Stoics in the passage generally. It was suggested by the 
-words of Aristotle quoted above in this note. 
+A beam is sawn into two segments, on, or near, the earth's surface. The two segments move simultaneously towards the central point, but in converging, not parallel, lines (_cp. Arist. de Caelo_, 2, 14, 296 _b_ 18). If there is an appreciable gap between them (say 1/10 inch) they will at first move freely, but soon (after 3 1/3 miles) each will feel pressure from without inwards, and there will be jamming and recoils for the rest of the 4000 miles. I am not sure whether any change in γῆς is necessary; τομῆς has been suggested. I am aware that other explanations may be given; the above appeared to me to suit the banter of the Stoics in the passage generally. It was suggested by the words of Aristotle quoted above in this note.
 
 p. 22, ch. vii. --- Up down, down up, where topsy-turvy reigns. 
 
