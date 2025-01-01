@@ -10,23 +10,23 @@
 
 ---
 
-## [Preface.]()
+## [Preface.](#preface-1)
 
-## [Introductory Note.]()
+## [Introductory Note.](#introductory-note-1)
 
-## [Persons of the Dialogue.]()
+## [Persons of the Dialogue.](#persons-of-the-dialogue-1)
 
-## [Analysis.]()
+## [Analysis.](#analysis-1)
 
-# [On the Face which appears on the Orb of the Moon.]()
+# [On the Face which appears on the Orb of the Moon.](#on-the-face-which-appears-on-the-orb-of-the-moon-1)
 
-## [Note on the Text.]()
+## [Note on the Text.](#note-on-the-text-2)
 
-### [Abbreviations.]()
+### [Abbreviations.](#abbreviations-1)
 
-### [Note on the Text.]()
+### [Note on the Text.](#note-on-the-text-3)
 
-### [Select Passages.]()
+### [Select Passages.](#select-passages-1)
 
 ---
 
