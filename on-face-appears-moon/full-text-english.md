@@ -387,61 +387,19 @@ _Dreyer_ = History of the Planetary Systems from Thales to Kepler, by J. L. E. D
 
 ## Note on the Text.
 
-The text of this Dialogue depends entirely upon two 
-manuscripts, both at Paris, Nos. 1672 (E) and 1675 (B), both 
-of the fifteenth, or late fourteenth, century; E is considered 
-the older and better, and it has been suggested that it 
-was the original of B. There are no versions or other 
-subsidiary authorities. Both are marked by more than 
-usual carelessness in copying, which doubtless goes back 
-to an earlier stage of transmission, and by a large number 
-of lacunae, where the scribe unable to understand the words, 
-and being hurried, left blank spaces to await revision, 
-which never came. Much was done by such scholars as 
-Turnebus and Xylander to correct obvious errors, which 
-their wide knowledge of Greek, and of Plutarch's Greek 
-in particular, enabled them to do successfully, though often 
-at a long distance from the written letter. Wyttenbach, in 
-his monumental edition (Oxford, 1795 --- 1800) has with 
-excellent diligence and judgment collected the fruits of their 
-labours, and has often been able to indicate the omitted words 
-according to the requirements of the sense, Other scholars, 
-as Madvig, Emperius, and the Teubner Editor (Bernardakis) 
-have added some good corrections. Any hope of further 
-improving the text seems- to lie in two directions, a careful 
-examination of the readings of B and E where they can 
-be compared with older MSS. such as the Paris D and 
-that of Vienna, which might shew the range of probable 
-error ; and a scrutiny of the words of the text with 
-reference to the subject-matter, which is specially exacting 
-where scientific points are touched, and still more so where 
-reference is clearly made to earlier writers as Aristotle. 
+The text of this Dialogue depends entirely upon two manuscripts, both at Paris, Nos. 1672 **E** and 1675 **B**, both of the fifteenth, or late fourteenth, century; E is considered the older and better, and it has been suggested that it was the original of B. There are no versions or other subsidiary authorities. Both are marked by more than usual carelessness in copying, which doubtless goes back to an earlier stage of transmission, and by a large number of _lacunae_, where the scribe unable to understand the words, and being hurried, left blank spaces to await revision, which never came. Much was done by such scholars as Turnebus and Xylander to correct obvious errors, which their wide knowledge of Greek, and of Plutarch's Greek in particular, enabled them to do successfully, though often at a long distance from the written letter. Wyttenbach, in his monumental edition (Oxford, 1795-1800) has with excellent diligence and judgment collected the fruits of their labours, and has often been able to indicate the omitted words according to the requirements of the sense. Other scholars, as Madvig, Emperius, and the Teubner Editor (Bernardakis) have added some good corrections. Any hope of further improving the text seems to lie in two directions, a careful examination of the readings of B and E where they can be compared with older MSS. such as the Paris D and that of Vienna, which might shew the range of probable error; and a scrutiny of the words of the text with reference to the subject-matter, which is specially exacting where scientific points are touched, and still more so where reference is clearly made to earlier writers as Aristotle.
 
-The work of the early scholars was made more difficult 
-by the carelessness with which the first printed edition (said 
-to be grounded on MSS. belonging to Cardinal Bessarion, 
-then at Florence) was sent to the press. 
+The work of the early scholars was made more difficult by the carelessness with which the first printed edition (said to be grounded on MSS. belonging to Cardinal Bessarion, then at Florence) was sent to the press.
 
-I have myself examined, and partly collated, E for 
-this Dialogue, and hope to have an opportunity of seeing 
-B, which was away when I visited the library. 
+I have myself examined, and partly collated, E for this Dialogue, and hope to have an opportunity of seeing B, which was away when I visited the library.
 
-Select Passages. 
-p. 1, ch. i. --- Here Sylla said .... 
+## Select Passages.
 
-The opening words raise a question. They run : --- 6 fiev 
-ovv ^vWas ravra elire. toj jap i/jL(Z fjivd(p irpocnjKet /catcec- 
-dev eariv. 
+Ch. 1. --- _Here Sylla said_ ... 
 
+The opening words raise a question. They run:--- ὁ μὲν οὖν Συλλας ταῦτα εἶπε. τῷ γὰρ ἐμῷ μύθῳ προσηκει κἄκειθέν ἐστιν.
 
-5* 
-
-W. proposes . . . ravra, ewe, tg3 Trap* i/jiol /iv6(p . . . 
-which seems right. See the Lex. Platon. for instances of 
-this phrase ( = tg3 e/i«). Here it is specially appropriate, 
-since Sylla was only the depository of the myth, its 
-"actor" (ch. xxvi). Madvig to> irapa^eacp. The transla- 
-tion assumes akis, or some such word, before ravra. 
+W. proposes ... ταῦτα, εἶπε, τῷ παρ' ἐμοὶ μύθῳ ... which seems right. See the _Lex. Platon._ for instances of this phrase (= τῷ ἐμῷ). Here it is specially appropriate, since Sylla was only the depository of the myth, its "actor" (ch. 26). Madvig τῷ παραμέσῳ. The translation assumes ἅλις, or some such word, before ταῦτα.
 
 It is noticeable that Quaest. Conviv. Ill, 4, begins with 
 the words eO /xev ovv HvWas ravra elire. If the scribe 
