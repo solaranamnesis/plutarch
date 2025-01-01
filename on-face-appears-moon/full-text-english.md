@@ -304,694 +304,88 @@ At this, I smiled on him and said, "Well done Apollonides, to have found out suc
 
 For the shadow of the cliff falls, it seems, on a certain brazen heifer over a stretch of sea of not less than seven hundred stades. Do you think that the height which casts the shadow is the cause, forgetting that distance of the light from objects makes their shadows many times longer? Now consider the sun at his greatest distance from the moon, when she is at the full, and shews the features of the face most expressly because of the depth of the shadow; it is the mere distance of the light which has made the shadow large, not the size of the irregularities on the moon. Again, in full day the extreme brightness of the sun's rays does not allow the tops of mountains to be seen, but deep and hollow places appear from a long distance as also do those in shadow. There is nothing strange then if it is not possible to see precisely how the moon too is caught by the light, and illuminated, and yet if we do see by contrast where the parts in shadow lie near the bright parts."
 
-XXIII. "But here," said I, "is a better point to disprove 
-the alleged reflexion from the moon ; it is found that those 
-who stand in reflected rays, not only see the illuminated but 
-also the illuminating body. For instance, when light from water 
-leaps on to a wall, and the eye is placed in the spot so illuminated 
-by reflexion, it sees the three objects, the reflected rays, the water 
-which caused the reflexion, and the sun himself, from whom 
-proceeds the light so falling on the water and reflected. All this 
-being granted and apparent, people require those who contend 
-that the earth receives the moon's light by reflexion, to point out 
-
-the sun appearing in the moon at night, as he appears in the water Lamprias- 
-by day when he is reflected off it. Then as he does not so 
-appear, they suppose that the illumination is caused by some 
-process other than reflexion, and that, failing reflexion, the Moon 
-is no earth." 
-
-" What answer then is to be given to them ?" said Apollonides, Apollonides. 
-" for the difficulty about reflexion seems to apply equally to 
-us." "Equally no doubt in one sense," I answered, "but in Lamprias. 
-another sense not at all so. First look at the details of the simile, 
-how ' topsy turvy ' it is, rivers flowing up stream ! The water 
-is below and on earth, the moon is above the earth and poised 
-aloft. So the angles of reflexion are differently formed; in the 
-one case the apex is above in the moon, in the other below on 
-the earth. They should not then require that mirrors of every form 
-and at any distance should produce like reflexions, since they are 
-fighting against clear fact. But from those like ourselves who seek 
-to shew that the moon is not a fine smooth substance like water, 
-but heavy and earth-like, it is strange to ask for a visible appear- 
-ance of the sun in her. Why, milk does not return such mirrored 
-images, nor produce optical reflexion, the reason being the un- 
-evenness and roughness of its parts. How can the moon possibly 
-send back the vision of herself as the smoother mirrors do ? We 
-know that even in these, if any scratch or speck or roughness 
-is found at the point from which the vision is naturally reflected, 
-the blemishes themselves are seen, but they do not return the 
-light. A man who requires that she should either turn our vision 
-back to the sun, or else not reflect the sun from herself to us, is 
-a humorist; he wants our eye to be the sun, the image light, 
-man heaven ! That the reflexion of the sun's light conveyed to 
-the moon with the impact of his intense brilliance should be borne 
-back to us is reasonable enough, whereas our sight is weak and 
-slight and merely fractional. What wonder if it deliver a stroke 
-which has no resilience, or, if it does rebound, no continuity, 
-but is broken up and falls, having no store of light to make 
-937. up for dispersion about the rough and uneven places. For 
-it is not impossible that the reflexion should rebound to the sun 
-from water and other mirrors, being still strong and near its point 
-of origin ; whereas from the moon, even if there are glancings of 
-a sort, yet they will be weak and dim, and will fail by the way 
-because of the long distance. Another point, concave mirrors 
-return the reflected light in greater strength than the original, and 
-thus often produce flames ; convex and spherical mirrors one 
-which is weak and dim, because the pressure is not returned from 
-all parts of the surface. You have seen, no doubt, how when two 
-rainbows appear, one cloud enfolding another, the enveloping bow 
-shows the colours dim and distinct, for the outer cloud lying 
-further from the eye does not return the reflexion in strength or 
-intensity. But enough ! Whereas the light of the sun reflected 
-from the moon loses its heat entirely, and only a scanty and 
-
-ineffectual remnant of its brilliance reaches us, do you really 
-think it possible that when sight has the double course to travel, 
-any remnant whatever should reach the sun from the moon ? No ! 
-say I. Look for yourselves," I went on. " If the effects of the 
-water and of the moon on our sight were the same, the full moon 
-ought to show us images of earth and plants and men and stars, 
-as other mirrors do. If, on the other hand, our vision is never 
-carried back to these objects, whether because of its own feeble- 
-ness or of the roughness of the moon's surface, then let us never 
-demand that it should be reflected to the sun." 
-
-XXIV. "We have now," I said, "reported all that was said 
-then, and has not escaped our memory. Now it is time to call 
-on Sulla, or rather to claim his story, as he was allowed to be a 
-listener on terms. So, if it meet your approval, let us cease our 
-walk, and take our places on the benches and give him a seated 
-audience." This was at once agreed, and we had taken our seats, 
-when Theon said : " I want as much as any of you, Lamprias, 
-to hear what is now to be said, but first I should like to hear 
-about the alleged dwellers in the moon, not whether there are 
-any such, I mean, but whether there can be ; for if the thing is 
-impossible, then it is also absurd that the moon should be an 
-earth ; it will appear that she has been created for no end or 
-use, if she bears no fruit, offers no abode to human beings, no 
-existence, no livelihood, the very things for which we say that 
-she has been created, in Plato's words, ' Our nurse, and of day 
-and night the unswerving guardian and maker.' You see that 
-many things are said about this, some in jest, some seriously. 
-For instance, that the moon hangs poised over the heads of those 
-who dwell beneath her, as if they were so many Tantali ; while 
-as for those who dwell on her, they are lashed on like Ixions by 
-the tremendous speed. Yet hers is not a single motion, but, as 
-it is somewhere put, she is a Goddess of the Three Ways. She 
-moves in longitude over the Zodiac, in latitude, and in depth ; 
-one movement is revolution, another a spiral, the third is strangely 
-named ' anomaly ' by scientific men, although there is nothing 
-irregular or confused to be seen in her returns to her stations. 
-Therefore it is no wonder if a lion did once fall on to Pelopon- 
-nesus, owing to the velocity ; the wonder is that we do not see 
-every day 
-
-' Fallings of men, lives trampled to the dust,' 
-
-men tumbling off through the air and turning somersaults. Yet 938. 
-it is ridiculous to raise a discussion about their remaining there, 
-if they can neither come into being nor subsist at all. When we 
-see Egyptians and Troglodytes, over whose heads the sun stands 
-for the space of one brief day at the solstice and then passes on, 
-all but shrivelled up by the dryness of the air around them, is 
-it likely, I ask you, that people in the moon can endure twelve 
-summers in each year, the sun standing plumb straight above 
-
-them at every full moon ? Then as to winds and clouds and Theon. 
-showers, without which plants can neither receive nor maintain 
-existence, it is out of the question to conceive of their being 
-formed, because the surrounding atmosphere is too hot and too 
-rare. For even here the highest mountain tops do not get our 
-fierce and conflicting storms, the air being already in turmoil 
-from its lightness escapes any such condensation. Or are we 
-really to say that, as Athena dropped a little nectar and ambrosia 
-into Achilles' mouth when he was refusing nourishment, even so 
-the moon, who is called and who is Athena, feeds man by sending 
-up ambrosia day by day, in which form old Pherecydes thinks 
-that the gods take food ! For as to that Indian root, of which 
-Megasthenes tells us that men, who neither eat nor drink but 
-are without mouths, burn a little and make a smoke and are 
-nourished by the smells, 'how is it to be found growing there 
-if there is no rain on the moon ? ' " 
-
-XXV. When Theon had finished : " Well and kindly done," Lamprias. 
-I said, " to unbend our brows by your witty argument ; it makes 
-us bold in reply, since we have no over harsh or severe criticism 
-to expect. It is a very true saying that there is little to choose 
-between those who are vehemently convinced in such matters and 
-those who are vehemently offended at them and incredulous, and 
-will not look quietly into the possibilities. To begin, supposing 
-that men do not inhabit the moon, it does not follow that she has 
-come into being just for nothing. Why, our earth, as we see, 
-is not in active use or inhabited in her whole extent ; but a 
-small part of her only, mere promontories or peninsulas which 
-emerge from the abyss, is fertile in animals and plants ; of the 
-other parts, some are desert and unfruitful owing to storms and 
-droughts, while most are sunk under the ocean. But you, lover 
-and admirer of Aristarchus that you are, do not attend to Crates 
-and his reading : --- 
-
-' Ocean, the birth and being of us all, H., xiv, 246. 
-
-Both men and gods, covers the most of earth.' 
-
-However, this is a long way from saying that all has been 
-brought into being for nothing. The sea sends up soft exhalations, 
-and delightful breezes in midsummer heat ; from the uninhabited 
-and icebound land snows quietly melt which open and fertilise all ; 
-Earth stands in the midst, in Plato's words, ' unswerving guardian 
-and maker of day and night.' Nothing then prevents the moon 
-too, though barren of animal life, from allowing the light around 
-her to be reflected and to stream about, and the rays of the stars 
-to flow together and to be united within her ; thus she combines 
-and digests the vapours proceeding from earth, and at the same 
-time gets rid of what is scorching and violent in the sun's heat. 
-And here we will make bold to yield a point to ancient legend, 
-and to say that she has been held to be Artemis, a maiden and 
-no mother, but for the rest helpful and serviceable. In the next 
-
-place, nothing which has been said, dear Theon, proves it to be 
-impossible that she is inhabited in the way alleged. For her 
-revolution is one very gentle and calm ; which smoothes the air, 939. 
-and duly blends and distributes it, so that there is no fear of those 
-who live there falling or slipping off her. Then passing from 
-herself, the changes and variety of her orbit are not due to 
-anomaly or confusion, but astronomers make us see a marvellous 
-order and progress in it all, as they confine her within circles 
-which roll around other circles, according to some not herself 
-stirring, according to others moving gently and evenly and with 
-uniform speed. For these circles and revolutions, and their 
-relations to one another, and to us, work out with very great 
-accuracy the phenomena of her varying height and depth and her 
-passages in latitude as well as in longitude. As to the great heat 
-and continuous charring caused by the sun, you will no longer 
-fear these if you will set against the ." . . summer conjunctions 
-the same number of full-moons, and the continuity of the 
-change, which does not allow extremes to last long, temper- 
-ing both extremes, and producing a convenient temperature, while 
-between the two the inhabitants enjoy a climate nearly resembling 
-our spring. In the next place, the Sun sends down to us through 
-our thick and resisting atmosphere heat fed by exhalations ; but 
-there a fine and transparent air scatters and distributes the stream 
-of light, which has no body or fuel beneath it. As to woods and 
-crops, here where we live they are nourished by rains, but in 
-other places, as far up as round your Thebes and Syene, the earth 
-drinks water which comes out of herself, not from rain ; it enjoys 
-winds and dews, and would not, I think, thank us for comparing 
-it in fruitfulness with our own, even where the rainfall is heaviest. 
-With us plants of the same order, if severely pinched by winter 
-frosts, bring forth much excellent fruit, while in Libya, and with 
-you in Egypt, they bear cold very badly and shrink from the 
-winters. Again, while Gedrosia and Troglodytis, which reaches 
-down to Ocean, are unproductive and treeless in all parts because 
-of the drought, yet in the adjacent and surrounding sea plants 
-grow to a marvellous size and luxuriate in its depths ; some of 
-these called ' olive trees,' some ' laurels,' some ' hair of Isis.' But 
-the ' Love-come-back ' as it is called, if taken out of the earth, 
-not only lives when hung up for as long as you please, but also 
-sprouts. Some are sown close on to winter, some in the height 
-of summer, sesame or millet for instance; thyme or century, if 
-sown in a good rich soil and watered, change their qualities and 
-their strength ; they rejoice in drought and reach their proper 
-growth in it. But if, as is said, like most Arabian plants they do 
-not endure even dews, but fade and perish when moistened, what 
-wonder, I ask, if roots and seeds and trees grow on the moon 
-which need no rains or snows, but are fitted by nature for a light 
-and summer-like atmosphere? Why again may it not be probable 
-that breezes ascend warmed by the moon and by the whirl of her 
-
-
-revolution, and that she is accompanied by quiet ^breezes, which Lamprias. 
-shed dews and moisture around, and when distributed suffice for 
-the grown plants, her own climate being neither fiery or dried up, 
-but mild and engendering moisture. For no touch of dryness 
-reaches us from her, but many effects of moisture and fertility, as 
-increase of plants, putrefaction of flesh, turning of wine to flatness, 
-softening of wood, easy delivery to women. I am afraid of stirring 
-940« Pharnaces to the fray again now that he is quiet if I enumerate as 
-cases of restoring moisture the tides of the Ocean (as his own 
-school describes them), and the fillings of gulfs when their flood 
-is augmented by the moon. So I will rather turn to you, dear 
-Theon, for you told us in explaining these words of Alcman : --- 
-
-' Dew feeds them, born of Zeus and Lady Moon/ Bergk., jg. 
-
-that here he calls the atmosphere Zeus, and says that it is liquefied 
-and turned into dew by the moon. Probably, my friend, her 
-nature is opposite to the sun's, since not only does he naturally 
-consolidate and dry things which she softens and disperses, but 
-she also liquefies and cools his heat as it falls upon her from him 
-and mingles with herself. Certainly they are in error who hold 
-that the moon is a fiery and charred body ; and those who require 
-for animals there all the things which they have here seem to lack 
-eyes for the inequalities of Nature, since it is possible to find 
-greater and more numerous divergencies and dissimilarities between 
-animals and animals than between them and the inanimate world. 
-And grant that men without mouths and nourished on smells are 
-not to be found --- I do not think they are --- but the potency which 
-Ammonius himself used to expound to us has been hinted at by 
-Hesiod in the line --- 
-
-' Nor yet in mallow and in asphodel O. & D., 41. 
-
-How great the virtue.' 
-
-But Epimenides made it plain in practice, teaching that nature 
-always keeps the fire of life in the animal with but little fuel, for 
-if it get as much as the size of an olive it needs no more 
-sustenance. Now men in the moon, if men there be, are 
-compactly framed, we may believe, and capable of being nourished 
-on what they get ; for the moon herself they say, like the sun who 
-is a fiery body many times larger than the earth, is nourished on 
-the humours coming from the earth, and the other stars too 
-in their infinite numbers. Light like them, and simple as to 
-necessaries, are those animals which the upper region produces 
-conceived to be. We do not see such animals, not yet do we see 
-that they require a different region, nature, climate. Supposing 
-that we were unable to approach the sea or touch it but merely 
-caught views of it in the distance, and were told that its water is 
-bitter and undrinkable and briny, and then someone said that it 
-supports in its depths many great animals with all sorts of shapes, 
-and is full of monsters, to all of whom water is as air to us, he 
-would seem to be making up a parcel of fairy tales ; just so is it 
-
-
-
-Lamprias- with us, it seems, and such is our attitude towards the moon, when 
-we refuse to believe that she has men dwelling on her. Her 
-inhabitants, I think, must wonder still more greatly at this earth, 
-a sort of sediment and slime of the Universe appearing through 
-damps, and mists, and clouds, a place unlighted, low, motionless, . 
-and must ask whether it breeds and supports animals with motion, 
-respiration and warmth. And if they should anyhow have a 
-chance of hearing those lines of Homer : 
-
-//., xx, 64. ' Grim mouldy regions which e'en gods abhor/ 
-
-and --- 
-//., viii, 16. ' 'Neath hell so far as earth below high heaven,' 
-
-they will say they are written about a place exactly such as this, 
-and that Hades is a colony planted here, and Tartarus, and that 
-there is only one earth --- the Moon --- being midway between the 
-upper regions and these lower ones." 
-
-XXVI. I had scarcely finished speaking when Sylla broke in ; 
-Sylla " Stop Lamprias, and shut the door on your oratory, lest you run 
-
-my myth aground before you know it, and make confusion of my 
-drama, which requires another stage and a different setting. Now, 
-I am only its actor, but I will first, if you see no objection, 941. 
-name the poet, beginning in Homer's words : --- 
-
-Oct., vii, 244. ' Far o'er the brine an isle Ogygian lies,' 
-
-distant from Britain five days sail to the West. There are three 
-other islands equidistant from Ogygia and from one another, in 
-the general direction of the sun's summer setting. The natives 
-have a story that in one of these Cronus has been confined by 
-Zeus, but that he, having a son for gaoler, is left sovereign lord of 
-those islands and of the sea, which they call the Gulf of Cronus. 
-To the great continent by which the ocean is fringed is a 
-voyage of about five thousand stades, made in row-boats, from 
-Ogygia, of less from the other islands, the sea being slow of 
-passage and full of mud because of the number of streams which 
-the great mainland discharges, forming alluvial tracts and making 
-the sea heavy like land, whence an opinion prevailed that it is 
-actually frozen. The coasts of the mainland are inhabited by 
-Greeks living around a bay a£ large as the Maeotic, with its mouth 
-nearly opposite that of the Caspian Sea. These Greeks speak of 
-themselves as continental, and of those who inhabit our land as 
-islanders, because it is washed all round by the sea. They think 
-that in after time those who came with Hercules and were left 
-behind by him, mingled with the subjects of Cronus, and rekindled, 
-so to speak, the Hellenic life which was becoming extinguished 
-and overborne by barbarian languages, laws, and ways of life, and 
-so it again became strong and vigorous. Thus the first honours 
-are paid to Hercules, the second to Cronus. When the star of 
-Cronus, called by us the Shining One, by them, as he told us, the 
-Night Watcher, has reached Taurus again after an interval of 
-
-
-43 
-
-thirty years, having for a long time before made preparation for Sylla. 
-the sacrifice and the voyage, they send forth men chosen by lot in 
-as many ships as are required, putting on board all the supplies 
-and stuff necessary for the great rowing voyage before them, and 
-for a long sojourn in a strange land. They put out, and naturally 
-do not all fare alike ; but those who come safely out of the perils 
-of the sea land first on the outlying islands, which are inhabited 
-by Greeks, and day after day, for thirty days, see the sun hidden 
-for less than one hour. This is the night, with a darkness which 
-is slight and of a twilight hue, and has a light over it from the 
-West. There they spend ninety days, meeting with honourable 
-and kindly treatment, and being addressed as holy persons, after 
-which they pass on, now with help from the winds. There are no 
-inhabitants except themselves, and those who have been sent 
-before them. For those who have joined in the service of the 
-God for thirty years are allowed to sail back home, but most 
-prefer to settle just in the place where they are, some because 
-they have grown used to it, some because all things are there in 
-plenty without pain or trouble, while their life is passed in sacri- 
-fices and festivals, or given to literature or philosophy. For the 
-natural beauty of the isle is wonderful and the mildness of the 
-environing air. Some are actually prevented by the god when 
-they are of a mind to sail away, manifesting himself to them as to 
-familiars and friends not in dreams only or by signs, for many 
-meet with shapes and voices of spirits, openly seen and heard. 
-Cronus himself sleeps within a deep cave resting on rock which 
-looks like gold, this sleep being devised for him by Zeus in place 
-of chains. Birds fly in at the topmost part of the rock, and bear 
-him ambrosia, and the whole island is pervaded by the fragrance 
-shed from the rock as out of a well. The Spirits of whom we hear 
-942- serve and care for Cronus, having been his comrades in the time 
-when he was really king over gods and men. Many are the 
-utterances which they give forth of their own prophetic power, 
-but the greatest and those about the greatest issues they announce 
-when they return as dreams of Cronus ; for the things which Zeus 
-premeditates, Cronus dreams, when sleep has stayed the Titanic 
-motions and stirrings of the soul within him, and that which is 
-royal and divine alone remains, pure and unalloyed. 
-
-"Now the stranger, having been received here, as he told us, and 
-serving the god at his leisure, attained as much skill in astronomy 
-as goes with the most advanced geometry ; of other philosophy he 
-applied himself to the physical branches. Then, having a strange 
-desire and yearning to see " the Great Island " (for so it appears 
-they call our world), when the thirty years were passed, and the 
-relief parties arrived from home, he said farewell to his friends 
-and sailed forth, carrying a complete equipment of all kinds, and 
-abundant store of provision for the way in golden caskets. All 
-the adventures which befell him, and all the men whose lands he 
-visited, how he met with holy writings and was initiated into all 
-
-
-44 
-
-Sylla. the mysteries, it would take more than one day to enumerate as 
-
-he did, well and carefully in all details. Listen now to those 
-which concern our present discussion. He spent a very long time 
-in Carthage . . . He there discovered certain sacred parchments 
-which had been secretly withdrawn when the older city was 
-destroyed, and had lain a long time in the earth unnoticed ; 
-and he said that of all the gods who appear to us we ought 
-specially to honour the moon with all our substance (and so he 
-charged me to do), because she was most potent in our life." 
-
-XXVII. When I marvelled at this, and asked for clearer 
-statements, he went on : --- " Many tales, Sylla, are told among the 
-Greeks about the gods, but not all are well told. For instance, 
-about Demeter and Cora, they are right in their names, but wrong 
-in supposing that they both belong to the same region ; for the 
-latter is on earth, and has power over earthly things, the former is 
-in the moon and is concerned with things of the moon. The 
-moon has been called both Cora and Persephone, Persephone 
-because she gives light, Cora because we also use the same Greek 
-word for the pupil of the eye, in which the image of the beholder 
-flashes back, as the sunbeam is seen in the moon. In the stories 
-told about their wanderings and the search there is an element of 
-truth. They yearn for one another when parted, and often 
-embrace in shadow. And what is told of Cora, that she is some- 
-times in heaven and in light, and again in night and darkness, is 
-no untruth, only time has brought error into the numbers ; for it 
-is not during six months, but at intervals of six months, that we 
-see her received by the earth, as by a mother, in the shadow, and 
-more rarely at intervals of five months ; for to leave Hades is 
-impossible to her, who is herself a ' bound of Hades,' as Homer 
-well hints in the words, 
-Od., ix, 563. ' Now to Elysian plains, earth's utmost bound.' 
-
-For where the shadow of the earth rests in its passage, there 
-Homer placed the limit and boundary of earth. To that limit 
-comes no man that is bad or impure, but the good after death are 
-conveyed thither, and pass a most easy life, not, however, one 
-blessed or divine until the second death." 
-
-Lamprias(?) XXVIII. "But what is that, Sylla?" "Ask me not of these 
-Sylla- things, for I am going to tell you fully myself. The common 943. 
-
-view that man is a composite creature is correct, but it is not 
-correct that he is composed of two parts only. For they suppose 
-that mind is in some sense a part of soul, which is as great a 
-mistake as to think that soul is a part of body ; mind is as much 
-better a thing and more divine than soul, as soul is than body. 
-Now the union of soul with body makes up the emotional part, 
-the further union with mind produces reason, the former the 
-origin of pleasure and pain, the latter of virtue and vice. When 
-these three principles have been compacted, the earth contributes 
-body to the birth of man, the moon soul, the sun reason, just as 
-
-
-45 
-
-he contributes light to the moon. The death which we die is of Sylla. 
-
-two kinds ; the one makes man two out of three, the other makes 
-
-him one out of two ; the one takes place in the earth which is the 
-
-realm of Demeter, and is initiation unto her, so that the Athenians 
-
-used in ancient times to call the dead ' Demetrians,' the other is 
-
-in the moon and is of Persephone ; Hermes of the lower earth is 
-
-the associate of the one, the heavenly Hermes of the other. 
-
-Demeter parts soul from body quickly and with force ; Persephone 
-
-parts mind from soul gently and very slowly, and therefore has 
-
-been called ' Of the Birth to Unity,' for the best part of man is 
-
-left in oneness, when separated by her. Each process happens piato, 
-
-according to nature, as thus : --- It is appointed that every soul, Timceus, end. 
-
-irrational or rational, when it has quitted the body, should wander 
-
-in the region between earth and moon, but not all for an equal 
-
-time ; unjust and unchaste souls pay penalties for their wrong 
-
-doings ; but the good must for a certain appointed time, sufficient 
-
-to purge away and blow to the winds, as noxious exhalations, 
-
-the defilements which come from the body, their vicious cause, 
-
-be in that mildest part of the air which they call 'The Meadows 
-
-of Hades ' ; then they return as from long and distant exile 
-
-back to their country, they taste such joy as men feel here 
-
-who are initiated, joy mingled with much amazement and trouble, 
-
-yet also with a hope which is each man's own. For many 
-
-who are already grasping at the moon she pushes off and 
-
-washes away, and some even of those souls which are already 
-
-there and are turning round to look below are seen to be plunged 
-
-again into the abyss. But those which have passed above, and 
-
-have found firm footing, first go round like victors wreathed with 
-
-crowns of feathers called 'crowns of constancy,' because they 
-
-kept the irrational part of the soul obedient to the curb of reason, 
-
-and well ordered in life. Then with countenance like a sunbeam, 
-
-and soul borne lightly upwards, as here by fire, in the air about 
-
-the moon, they receive tone and force from it, as iron takes an 
-
-edge in its bath ; for that which is still volatile and diffuse is 
-
-strengthened and becomes firm and transparent, so that they are 
-
-nourished by such vapour as meets them, and well did Heraclitus 
-
-say that ' Souls feed on smell in Hades.' 
-
-XXIX. " First they look on the moon herself, her size, her 
-beauty, and her nature, which is not single or unmixed, but as it 
-were a composition of earth and star. For as the earth has become 
-soft by being mixed with air and moisture, and as the blood in- 
-fused into the flesh produces sensibility, so the moon, they say, 
-being mingled with air through all her depth, is endowed with 
-soul and with fertility, and at the same time receives a balance, 
-lightness set against weight. Even so the Universe itself, duly 
-framed together of things having some an upward tendency, some a 
-downward, is freed from all movement of place. This Xenocrates 
-apprehended, it would seem, by some divine reasoning, having 
-received the suggestion from Plato. For it is Plato who showed Tim., 324. 
-
-
-46 
-
-Sylla. that every star has been compounded of earth and fire by means 
-
-of intermediate natures given in proportion, since nothing reaches 
-the senses into which earth and light do not enter. But Xeno- 
-crates says that the stars and the sun are compounded out of fire 944. 
-and the first solid, the moon out of the second solid and her own 
-air, and earth out of water, fire, and the third solid ; and that as 
-an universal law, neither the dense alone nor the rarefied alone 
-is capable of receiving soul. So much then for the substance of 
-the moon. But her breadth and bulk are not what geometricians 
-say, but many times greater. The reason why she but seldom 
-measures the shadow of the earth with [three of] her own 
-diameters, is not its smallness, but her heat, whereby she increases 
-her speed that she may swiftly pass through and beyond the dark 
-region, bearing from out it the souls of the good, as they hasten 
-and cry aloud, for being in the shadow they no longer hear the 
-harmony of heaven. At the same time there are borne up from 
-below through the shadow the souls of those who are to be 
-punished, with wailing and loud cries. Hence comes the wide- 
-spread custom of clanking vessels of brass during eclipses, with 
-a din and a clatter to reach the souls. Also the face, as we call 
-it, terrifies them, when they are near, so grim and weird is it to 
-their sight. Really it is nothing of the kind ; but as our earth has 
-gulfs deep and great, one here which streams inwards towards us 
-from the Pillars of Hercules, outside the Caspian, and those 
-about the Red Sea, even such are those depths and hollows of the 
-Moon. The largest of them they call the Gulf of Hecate, where 
-the souls endure and exact retribution for all the things which 
-they have suffered or done ever since they become spirits ; two 
-of them are long, through which the souls pass, now to the parts 
-of the moon which are turned toward heaven, now back to the 
-side next to earth. The parts of the moon toward heaven are 
-called ' the Elysian plain,' those toward earth ' the plain of 
-Persephone Antichthon.' 
-
-XXX. " However, the Spirits do not pass all their time upon 
-her, they come down here to superintend oracles, take part in the 
-highest rites of initiation and mysteries, become guardian avengers 
-of wrong doing, and shine forth as saving lights in war and on the 
-sea. In these functions, whatever they do in a way which is not 
-right, from anger or to win unrighteous favour, or in jealousy, 
-they suffer for it, being thrust down to earth again and imprisoned 
-in human bodies. From the better of them, those who are about 
-Cronus said that they are themselves sprung, as in earlier times 
-the Dactyli of Ida, the Corybantes in Phrygia, the Trophoniades 
-in Udora of Boetia, and countless others in many parts of the 
-inhabited world ; whose temples and houses and appellations 
-remain to this day. Some there are whose powers are failing 
-because they have passed to another place by an honourable 
-exchange. This happens to some sooner, to others later, when 
-mind has been separated from soul ; the separation comes by 
-
-
-47 
-
-love for the image which is in the sun, through it there shines Sylla. 
-upon them that desirable, beautiful, divine, and blessed presence 
-for which all nature yearns, yet in different ways. For it is 
-through love of the sun that the moon herself makes her circuit, 
-and has her meetings with him to receive from him all fertility. 
-That nature which is the soul remains on the moon, retaining 
-traces and dreams of the former life, and of it you may take it 
-that it has been rightly said --- 
-
-' Winged as a dream the soul takes flight away.' Od., xi, 222. 
-
-Not at the first, and not when it is quit of the body does this 
-happen to it, but afterwards when it becomes deserted and 
-solitary, set free from mind. Of all that Homer has told us I 
-think that there is nothing more divine than where he speaks of 
-those in Hades : --- 
-
-1 Next was I ware of mighty Hercules, 0d> xh 6o/- 
-
-His ghost --- himself among the immortals dwells.' 
-
-For the self of each of us is not courage, nor fear, nor desire, 
-any more than it is a parcel of flesh and of humours ; it is that 
-945. whereby we understand and think. The soul being shaped by 
-the mind and itself shaping the body and encompassing it upon 
-all sides, stamps its form upon it so that even if it is separated 
-from both for a long time, yet it possesses the likeness and the 
-stamp, and is rightly called an image. Of these, the Moon, as 
-has been said, is the element, for they are resolved into her just 
-as are the bodies of the dead into earth ; the temperate speedily, 
-who embraced a life of quiet and philosophy, for having been 
-set free by mind and having no further use for the passions 
-they wither away. But of the ambitious, and active, and sensuous, 
-and passionate, some are distracted as though in sleep dreaming 
-out their memories of life, as the soul of Endymion ; but when 
-their restless and susceptible nature starts them out of the 
-moon and draws them to another birth she does not suffer it, but 
-draws them back and soothes them. For no trifling matter is it, 
-nor quiet, nor conventional, when with mind away they get them 
-a body by passionate endeavour ; Tityi and Typhones, and that 
-Typhon who seized Delphi and confounded the oracle there by 
-insolence and force, came of such souls as these, deserted by 
-reason, left to the wild wanderings of their emotional part. But 
-in course of time the moon receives even these unto herself and 
-brings them to order ; then, when the sun again sows mind, she 
-receives it with vital power and makes new souls, and, thirdly, 
-earth provides a body ; for earth gives nothing after death of what 
-she received for birth ; the sun receives nothing, save that he 
-receives back the mind which he gives, but the moon both 
-receives and gives and compounds and distributes in diverse 
-functions ; she who compounds has Eileithyia for her name, she 
-who distributes Artemis. And of the three Fates Atropos has 
-her station about the sun and gives the first impulse of genera- 
-tion ; Clotho moving about the moon combines and mingles, 
-
-
-48 
-
-Sylla. lastly Lachesis, upon the earth, lends her hand, and she has most 
-
-to do with Fortune, for that which is without soul is powerless in 
-itself and is affected by others, mind is free from affection and 
-sovereign ; soul a compound and a middle term, has, like the 
-Moon, been formed by the god, a blend and mixture of things 
-above and things below, thus bearing the same relation to the 
-Sun which the Earth does to the Moon." 
-
-"Such," said Sylla, uis the story which I heard from the 
-stranger, but he had it from the chamberlains and ministers of 
-Cronus, as he himself told me. But you and your friends, 
-Lamprias, may take the story in what way you will." 
-
-
-NOTE ON THE TEXT. 
-
-
-ABBREVIATIONS. 
-
-
-B = Codex Parisinus, No. 1675. 
-
-E = Codex Parisinus, No. 1672. 
-
-W. = Plutarchi Moralia, ed. Daniel Wyttenbach, Oxonii 
-1795 --- l8o°- 
-
-Bern. = editio Teubneriana, ed. G. N. Bernardakis, Lipsiae 
-1888--- 1896. 
-
-K. = Plutarchi Chaeronensis libellus De Facie quae in orbe 
-Lunae apparet a Ioanne Kepplero Mathematico (an appendix 
-to the Somniam printed after the author's death, partly at Sagan, 
-partly at Frankfurt, 1634). 
-
-Dreyer= History of the Planetary Systems from Thales to 
-Kepler, by J. L. E. Dreyer, Ph.D. (Cambridge, 1906). 
-
-
-NOTE ON THE TEXT. 
+23\. "But here," said I, "is a better point to disprove the alleged reflexion from the moon; it is found that those who stand in reflected rays, not only see the illuminated but also the illuminating body. For instance, when light from water leaps on to a wall, and the eye is placed in the spot so illuminated by reflexion, it sees the three objects, the reflected rays, the water which caused the reflexion, and the sun himself, from whom proceeds the light so falling on the water and reflected. All this being granted and apparent, people require those who contend that the earth receives the moon's light by reflexion, to point out the sun appearing in the moon at night, as he appears in the water by day when he is reflected off it. Then as he does not so appear, they suppose that the illumination is caused by some process other than reflexion, and that, failing reflexion, the Moon is no earth."
 
+"What answer then is to be given to them?" said Apollonides, "for the difficulty about reflexion seems to apply equally to us." "Equally no doubt in one sense," I answered, "but in another sense not at all so. First look at the details of the simile, how 'topsy turvy' it is, rivers flowing up stream! The water is below and on earth, the moon is above the earth and poised aloft. So the angles of reflexion are differently formed; in the one case the apex is above in the moon, in the other below on the earth. They should not then require that mirrors of every form and at any distance should produce like reflexions, since they are fighting against clear fact. But from those like ourselves who seek to shew that the moon is not a fine smooth substance like water, but heavy and earth-like, it is strange to ask for a visible appearance of the sun in her. Why, milk does not return such mirrored images, nor produce optical reflexion, the reason being the unevenness and roughness of its parts. How can the moon possibly send back the vision of herself as the smoother mirrors do? We know that even in these, if any scratch or speck or roughness is found at the point from which the vision is naturally reflected, the blemishes themselves are seen, but they do not return the light. A man who requires that she should either turn our vision back to the sun, or else not reflect the sun from herself to us, is a humorist; he wants our eye to be the sun, the image light, man heaven! That the reflexion of the sun's light conveyed to the moon with the impact of his intense brilliance should be borne back to us is reasonable enough, whereas our sight is weak and slight and merely fractional. What wonder if it deliver a stroke which has no resilience, or, if it does rebound, no continuity, but is broken up and falls, having no store of light to make up for dispersion about the rough and uneven places. For it is not impossible that the reflexion should rebound to the sun from water and other mirrors, being still strong and near its point of origin; whereas from the moon, even if there are glancings of a sort, yet they will be weak and dim, and will fail by the way because of the long distance. Another point, concave mirrors return the reflected light in greater strength than the original, and thus often produce flames; convex and spherical mirrors one which is weak and dim, because the pressure is not returned from all parts of the surface. You have seen, no doubt, how when two rainbows appear, one cloud enfolding another, the enveloping bow shows the colours dim and distinct, for the outer cloud lying further from the eye does not return the reflexion in strength or intensity. But enough! Whereas the light of the sun reflected from the moon loses its heat entirely, and only a scanty and ineffectual remnant of its brilliance reaches us, do you really think it possible that when sight has the double course to travel, any remnant whatever should reach the sun from the moon? No! say I. Look for yourselves," I went on. "If the effects of the water and of the moon on our sight were the same, the full moon ought to show us images of earth and plants and men and stars, as other mirrors do. If, on the other hand, our vision is never carried back to these objects, whether because of its own feebleness or of the roughness of the moon's surface, then let us never demand that it should be reflected to the sun."
+
+24\. "We have now," I said, "reported all that was said then, and has not escaped our memory. Now it is time to call on Sulla, or rather to claim his story, as he was allowed to be a listener on terms. So, if it meet your approval, let us cease our walk, and take our places on the benches and give him a seated audience." This was at once agreed, and we had taken our seats, when Theon said: "I want as much as any of you, Lamprias, to hear what is now to be said, but first I should like to hear about the alleged dwellers in the moon, not whether there are any such, I mean, but whether there can be; for if the thing is impossible, then it is also absurd that the moon should be an earth; it will appear that she has been created for no end or use, if she bears no fruit, offers no abode to human beings, no existence, no livelihood, the very things for which we say that she has been created, in Plato's words, 'Our nurse, and of day and night the unswerving guardian and maker.' You see that many things are said about this, some in jest, some seriously. For instance, that the moon hangs poised over the heads of those who dwell beneath her, as if they were so many Tantali; while as for those who dwell on her, they are lashed on like Ixions by the tremendous speed. Yet hers is not a single motion, but, as it is somewhere put, she is a Goddess of the Three Ways. She moves in longitude over the Zodiac, in latitude, and in depth; one movement is revolution, another a spiral, the third is strangely named 'anomaly' by scientific men, although there is nothing irregular or confused to be seen in her returns to her stations. Therefore it is no wonder if a lion did once fall on to Peloponnesus, owing to the velocity; the wonder is that we do not see every day
+
+'Fallings of men, lives trampled to the dust,'
+
+men tumbling off through the air and turning somersaults. Yet it is ridiculous to raise a discussion about their remaining there, if they can neither come into being nor subsist at all. When we see Egyptians and Troglodytes, over whose heads the sun stands for the space of one brief day at the solstice and then passes on, all but shrivelled up by the dryness of the air around them, is it likely, I ask you, that people in the moon can endure twelve summers in each year, the sun standing plumb straight above them at every full moon? Then as to winds and clouds and showers, without which plants can neither receive nor maintain existence, it is out of the question to conceive of their being formed, because the surrounding atmosphere is too hot and too rare. For even here the highest mountain tops do not get our fierce and conflicting storms, the air being already in turmoil from its lightness escapes any such condensation. Or are we really to say that, as Athena dropped a little nectar and ambrosia into Achilles' mouth when he was refusing nourishment, even so the moon, who is called and who is Athena, feeds man by sending up ambrosia day by day, in which form old Pherecydes thinks that the gods take food! For as to that Indian root, of which Megasthenes tells us that men, who neither eat nor drink but are without mouths, burn a little and make a smoke and are nourished by the smells, 'how is it to be found growing there if there is no rain on the moon?'"
+
+25\. When Theon had finished: "Well and kindly done," I said, "to unbend our brows by your witty argument; it makes us bold in reply, since we have no over harsh or severe criticism to expect. It is a very true saying that there is little to choose between those who are vehemently convinced in such matters and those who are vehemently offended at them and incredulous, and will not look quietly into the possibilities. To begin, supposing that men do not inhabit the moon, it does not follow that she has come into being just for nothing. Why, our earth, as we see, is not in active use or inhabited in her whole extent; but a small part of her only, mere promontories or peninsulas which emerge from the abyss, is fertile in animals and plants; of the other parts, some are desert and unfruitful owing to storms and droughts, while most are sunk under the ocean. But you, lover and admirer of Aristarchus that you are, do not attend to Crates and his reading:---
+
+'Ocean, the birth and being of us all,  
+Both men and gods, covers the most of earth.'
+
+However, this is a long way from saying that all has been brought into being for nothing. The sea sends up soft exhalations, and delightful breezes in midsummer heat; from the uninhabited and icebound land snows quietly melt which open and fertilise all; Earth stands in the midst, in Plato's words, 'unswerving guardian and maker of day and night.' Nothing then prevents the moon too, though barren of animal life, from allowing the light around her to be reflected and to stream about, and the rays of the stars to flow together and to be united within her; thus she combines and digests the vapours proceeding from earth, and at the same time gets rid of what is scorching and violent in the sun's heat. And here we will make bold to yield a point to ancient legend, and to say that she has been held to be Artemis, a maiden and no mother, but for the rest helpful and serviceable. In the next place, nothing which has been said, dear Theon, proves it to be impossible that she is inhabited in the way alleged. For her revolution is one very gentle and calm; which smoothes the air, and duly blends and distributes it, so that there is no fear of those who live there falling or slipping off her. Then passing from herself, the changes and variety of her orbit are not due to anomaly or confusion, but astronomers make us see a marvellous order and progress in it all, as they confine her within circles which roll around other circles, according to some not herself stirring, according to others moving gently and evenly and with uniform speed. For these circles and revolutions, and their relations to one another, and to us, work out with very great accuracy the phenomena of her varying height and depth and her passages in latitude as well as in longitude. As to the great heat and continuous charring caused by the sun, you will no longer fear these if you will set against the ... summer conjunctions the same number of full-moons, and the continuity of the change, which does not allow extremes to last long, tempering both extremes, and producing a convenient temperature, while between the two the inhabitants enjoy a climate nearly resembling our spring. In the next place, the Sun sends down to us through our thick and resisting atmosphere heat fed by exhalations; but there a fine and transparent air scatters and distributes the stream of light, which has no body or fuel beneath it. As to woods and crops, here where we live they are nourished by rains, but in other places, as far up as round your Thebes and Syene, the earth drinks water which comes out of herself, not from rain; it enjoys winds and dews, and would not, I think, thank us for comparing it in fruitfulness with our own, even where the rainfall is heaviest. With us plants of the same order, if severely pinched by winter frosts, bring forth much excellent fruit, while in Libya, and with you in Egypt, they bear cold very badly and shrink from the winters. Again, while Gedrosia and Troglodytis, which reaches down to Ocean, are unproductive and treeless in all parts because of the drought, yet in the adjacent and surrounding sea plants grow to a marvellous size and luxuriate in its depths; some of these called 'olive trees,' some 'laurels,' some 'hair of Isis.' But the 'Love-come-back' as it is called, if taken out of the earth, not only lives when hung up for as long as you please, but also sprouts. Some are sown close on to winter, some in the height of summer, sesame or millet for instance; thyme or century, if sown in a good rich soil and watered, change their qualities and their strength; they rejoice in drought and reach their proper growth in it. But if, as is said, like most Arabian plants they do not endure even dews, but fade and perish when moistened, what wonder, I ask, if roots and seeds and trees grow on the moon which need no rains or snows, but are fitted by nature for a light and summer-like atmosphere? Why again may it not be probable that breezes ascend warmed by the moon and by the whirl of her revolution, and that she is accompanied by quiet breezes, which shed dews and moisture around, and when distributed suffice for the grown plants, her own climate being neither fiery or dried up, but mild and engendering moisture. For no touch of dryness reaches us from her, but many effects of moisture and fertility, as increase of plants, putrefaction of flesh, turning of wine to flatness, softening of wood, easy delivery to women. I am afraid of stirring Pharnaces to the fray again now that he is quiet if I enumerate as cases of restoring moisture the tides of the Ocean (as his own school describes them), and the fillings of gulfs when their flood is augmented by the moon. So I will rather turn to you, dear Theon, for you told us in explaining these words of Alcman:---
+
+'Dew feeds them, born of Zeus and Lady Moon,'
+
+that here he calls the atmosphere Zeus, and says that it is liquefied and turned into dew by the moon. Probably, my friend, her nature is opposite to the sun's, since not only does he naturally consolidate and dry things which she softens and disperses, but she also liquefies and cools his heat as it falls upon her from him and mingles with herself. Certainly they are in error who hold that the moon is a fiery and charred body; and those who require for animals there all the things which they have here seem to lack eyes for the inequalities of Nature, since it is possible to find greater and more numerous divergencies and dissimilarities between animals and animals than between them and the inanimate world. And grant that men without mouths and nourished on smells are not to be found --- I do not think they are --- but the potency which Ammonius himself used to expound to us has been hinted at by Hesiod in the line ---
+
+'Nor yet in mallow and in asphodel  
+How great the virtue.'
+
+But Epimenides made it plain in practice, teaching that nature always keeps the fire of life in the animal with but little fuel, for if it get as much as the size of an olive it needs no more sustenance. Now men in the moon, if men there be, are compactly framed, we may believe, and capable of being nourished on what they get; for the moon herself they say, like the sun who is a fiery body many times larger than the earth, is nourished on the humours coming from the earth, and the other stars too in their infinite numbers. Light like them, and simple as to necessaries, are those animals which the upper region produces conceived to be. We do not see such animals, not yet do we see that they require a different region, nature, climate. Supposing that we were unable to approach the sea or touch it but merely caught views of it in the distance, and were told that its water is bitter and undrinkable and briny, and then someone said that it supports in its depths many great animals with all sorts of shapes, and is full of monsters, to all of whom water is as air to us, he would seem to be making up a parcel of fairy tales; just so is it with us, it seems, and such is our attitude towards the moon, when we refuse to believe that she has men dwelling on her. Her inhabitants, I think, must wonder still more greatly at this earth, a sort of sediment and slime of the Universe appearing through damps, and mists, and clouds, a place unlighted, low, motionless, and must ask whether it breeds and supports animals with motion, respiration and warmth. And if they should anyhow have a chance of hearing those lines of Homer:
+
+'Grim mouldy regions which e'en gods abhor,'
+
+and ---
+
+'Neath hell so far as earth below high heaven,'
+
+they will say they are written about a place exactly such as this, and that Hades is a colony planted here, and Tartarus, and that there is only one earth --- the Moon --- being midway between the upper regions and these lower ones."
+
+26\. I had scarcely finished speaking when Sylla broke in; "Stop Lamprias, and shut the door on your oratory, lest you run my myth aground before you know it, and make confusion of my drama, which requires another stage and a different setting. Now, I am only its actor, but I will first, if you see no objection, name the poet, beginning in Homer's words:---
+
+'Far o'er the brine an isle Ogygian lies,'
+
+distant from Britain five days sail to the West. There are three other islands equidistant from Ogygia and from one another, in the general direction of the sun's summer setting. The natives have a story that in one of these Cronus has been confined by Zeus, but that he, having a son for gaoler, is left sovereign lord of those islands and of the sea, which they call the Gulf of Cronus. To the great continent by which the ocean is fringed is a voyage of about five thousand stades, made in row-boats, from Ogygia, of less from the other islands, the sea being slow of passage and full of mud because of the number of streams which the great mainland discharges, forming alluvial tracts and making the sea heavy like land, whence an opinion prevailed that it is actually frozen. The coasts of the mainland are inhabited by Greeks living around a bay as large as the Maeotic, with its mouth nearly opposite that of the Caspian Sea. These Greeks speak of themselves as continental, and of those who inhabit our land as islanders, because it is washed all round by the sea. They think that in after time those who came with Hercules and were left behind by him, mingled with the subjects of Cronus, and rekindled, so to speak, the Hellenic life which was becoming extinguished and overborne by barbarian languages, laws, and ways of life, and so it again became strong and vigorous. Thus the first honours are paid to Hercules, the second to Cronus. When the star of Cronus, called by us the Shining One, by them, as he told us, the Night Watcher, has reached Taurus again after an interval of thirty years, having for a long time before made preparation for the sacrifice and the voyage, they send forth men chosen by lot in as many ships as are required, putting on board all the supplies and stuff necessary for the great rowing voyage before them, and for a long sojourn in a strange land. They put out, and naturally do not all fare alike; but those who come safely out of the perils of the sea land first on the outlying islands, which are inhabited by Greeks, and day after day, for thirty days, see the sun hidden for less than one hour. This is the night, with a darkness which is slight and of a twilight hue, and has a light over it from the West. There they spend ninety days, meeting with honourable and kindly treatment, and being addressed as holy persons, after which they pass on, now with help from the winds. There are no inhabitants except themselves, and those who have been sent before them. For those who have joined in the service of the God for thirty years are allowed to sail back home, but most prefer to settle just in the place where they are, some because they have grown used to it, some because all things are there in plenty without pain or trouble, while their life is passed in sacrifices and festivals, or given to literature or philosophy. For the natural beauty of the isle is wonderful and the mildness of the environing air. Some are actually prevented by the god when they are of a mind to sail away, manifesting himself to them as to familiars and friends not in dreams only or by signs, for many meet with shapes and voices of spirits, openly seen and heard. Cronus himself sleeps within a deep cave resting on rock which looks like gold, this sleep being devised for him by Zeus in place of chains. Birds fly in at the topmost part of the rock, and bear him ambrosia, and the whole island is pervaded by the fragrance shed from the rock as out of a well. The Spirits of whom we hear serve and care for Cronus, having been his comrades in the time when he was really king over gods and men. Many are the utterances which they give forth of their own prophetic power, but the greatest and those about the greatest issues they announce when they return as dreams of Cronus; for the things which Zeus premeditates, Cronus dreams, when sleep has stayed the Titanic motions and stirrings of the soul within him, and that which is royal and divine alone remains, pure and unalloyed."
+
+"Now the stranger, having been received here, as he told us, and serving the god at his leisure, attained as much skill in astronomy as goes with the most advanced geometry; of other philosophy he applied himself to the physical branches. Then, having a strange desire and yearning to see "the Great Island" (for so it appears they call our world), when the thirty years were passed, and the relief parties arrived from home, he said farewell to his friends and sailed forth, carrying a complete equipment of all kinds, and abundant store of provision for the way in golden caskets. All the adventures which befell him, and all the men whose lands he visited, how he met with holy writings and was initiated into all the mysteries, it would take more than one day to enumerate as he did, well and carefully in all details. Listen now to those which concern our present discussion. He spent a very long time in Carthage ... He there discovered certain sacred parchments which had been secretly withdrawn when the older city was destroyed, and had lain a long time in the earth unnoticed; and he said that of all the gods who appear to us we ought specially to honour the moon with all our substance (and so he charged me to do), because she was most potent in our life."
+
+27\. When I marvelled at this, and asked for clearer statements, he went on:--- "Many tales, Sylla, are told among the Greeks about the gods, but not all are well told. For instance, about Demeter and Cora, they are right in their names, but wrong in supposing that they both belong to the same region; for the latter is on earth, and has power over earthly things, the former is in the moon and is concerned with things of the moon. The moon has been called both Cora and Persephone, Persephone because she gives light, Cora because we also use the same Greek word for the pupil of the eye, in which the image of the beholder flashes back, as the sunbeam is seen in the moon. In the stories told about their wanderings and the search there is an element of truth. They yearn for one another when parted, and often embrace in shadow. And what is told of Cora, that she is sometimes in heaven and in light, and again in night and darkness, is no untruth, only time has brought error into the numbers; for it is not during six months, but at intervals of six months, that we see her received by the earth, as by a mother, in the shadow, and more rarely at intervals of five months; for to leave Hades is impossible to her, who is herself a 'bound of Hades,' as Homer well hints in the words,
+
+'Now to Elysian plains, earth's utmost bound.'
+
+For where the shadow of the earth rests in its passage, there Homer placed the limit and boundary of earth. To that limit comes no man that is bad or impure, but the good after death are conveyed thither, and pass a most easy life, not, however, one blessed or divine until the second death."
+
+28\. "But what is that, Sylla?" "Ask me not of these things, for I am going to tell you fully myself. The common view that man is a composite creature is correct, but it is not correct that he is composed of two parts only. For they suppose that mind is in some sense a part of soul, which is as great a mistake as to think that soul is a part of body; mind is as much better a thing and more divine than soul, as soul is than body. Now the union of soul with body makes up the emotional part, the further union with mind produces reason, the former the origin of pleasure and pain, the latter of virtue and vice. When these three principles have been compacted, the earth contributes body to the birth of man, the moon soul, the sun reason, just as he contributes light to the moon. The death which we die is of two kinds; the one makes man two out of three, the other makes him one out of two; the one takes place in the earth which is the realm of Demeter, and is initiation unto her, so that the Athenians used in ancient times to call the dead 'Demetrians,' the other is in the moon and is of Persephone; Hermes of the lower earth is the associate of the one, the heavenly Hermes of the other. Demeter parts soul from body quickly and with force; Persephone parts mind from soul gently and very slowly, and therefore has been called 'Of the Birth to Unity,' for the best part of man is left in oneness, when separated by her. Each process happens according to nature, as thus:--- It is appointed that every soul, irrational or rational, when it has quitted the body, should wander in the region between earth and moon, but not all for an equal time; unjust and unchaste souls pay penalties for their wrong doings; but the good must for a certain appointed time, sufficient to purge away and blow to the winds, as noxious exhalations, the defilements which come from the body, their vicious cause, be in that mildest part of the air which they call 'The Meadows of Hades'; then they return as from long and distant exile back to their country, they taste such joy as men feel here who are initiated, joy mingled with much amazement and trouble, yet also with a hope which is each man's own. For many who are already grasping at the moon she pushes off and washes away, and some even of those souls which are already there and are turning round to look below are seen to be plunged again into the abyss. But those which have passed above, and have found firm footing, first go round like victors wreathed with crowns of feathers called 'crowns of constancy,' because they kept the irrational part of the soul obedient to the curb of reason, and well ordered in life. Then with countenance like a sunbeam, and soul borne lightly upwards, as here by fire, in the air about the moon, they receive tone and force from it, as iron takes an edge in its bath; for that which is still volatile and diffuse is strengthened and becomes firm and transparent, so that they are nourished by such vapour as meets them, and well did Heraclitus say that 'Souls feed on smell in Hades.'"
+
+29\. "First they look on the moon herself, her size, her beauty, and her nature, which is not single or unmixed, but as it were a composition of earth and star. For as the earth has become soft by being mixed with air and moisture, and as the blood infused into the flesh produces sensibility, so the moon, they say, being mingled with air through all her depth, is endowed with soul and with fertility, and at the same time receives a balance, lightness set against weight. Even so the Universe itself, duly framed together of things having some an upward tendency, some a downward, is freed from all movement of place. This Xenocrates apprehended, it would seem, by some divine reasoning, having received the suggestion from Plato. For it is Plato who showed  that every star has been compounded of earth and fire by means of intermediate natures given in proportion, since nothing reaches the senses into which earth and light do not enter. But Xenocrates says that the stars and the sun are compounded out of fire  and the first solid, the moon out of the second solid and her own air, and earth out of water, fire, and the third solid; and that as an universal law, neither the dense alone nor the rarefied alone is capable of receiving soul. So much then for the substance of the moon. But her breadth and bulk are not what geometricians say, but many times greater. The reason why she but seldom measures the shadow of the earth with [three of] her own diameters, is not its smallness, but her heat, whereby she increases her speed that she may swiftly pass through and beyond the dark region, bearing from out it the souls of the good, as they hasten and cry aloud, for being in the shadow they no longer hear the harmony of heaven. At the same time there are borne up from below through the shadow the souls of those who are to be punished, with wailing and loud cries. Hence comes the widespread custom of clanking vessels of brass during eclipses, with a din and a clatter to reach the souls. Also the face, as we call it, terrifies them, when they are near, so grim and weird is it to their sight. Really it is nothing of the kind; but as our earth has gulfs deep and great, one here which streams inwards towards us from the Pillars of Hercules, outside the Caspian, and those about the Red Sea, even such are those depths and hollows of the Moon. The largest of them they call the Gulf of Hecate, where the souls endure and exact retribution for all the things which they have suffered or done ever since they become spirits; two of them are long, through which the souls pass, now to the parts of the moon which are turned toward heaven, now back to the side next to earth. The parts of the moon toward heaven are called 'the Elysian plain,' those toward earth 'the plain of Persephone Antichthon.'"
+
+30\. "However, the Spirits do not pass all their time upon her, they come down here to superintend oracles, take part in the highest rites of initiation and mysteries, become guardian avengers of wrong doing, and shine forth as saving lights in war and on the sea. In these functions, whatever they do in a way which is not right, from anger or to win unrighteous favour, or in jealousy, they suffer for it, being thrust down to earth again and imprisoned in human bodies. From the better of them, those who are about Cronus said that they are themselves sprung, as in earlier times the Dactyli of Ida, the Corybantes in Phrygia, the Trophoniades in Udora of Boetia, and countless others in many parts of the inhabited world; whose temples and houses and appellations remain to this day. Some there are whose powers are failing because they have passed to another place by an honourable exchange. This happens to some sooner, to others later, when mind has been separated from soul; the separation comes by love for the image which is in the sun, through it there shines upon them that desirable, beautiful, divine, and blessed presence for which all nature yearns, yet in different ways. For it is through love of the sun that the moon herself makes her circuit, and has her meetings with him to receive from him all fertility. That nature which is the soul remains on the moon, retaining traces and dreams of the former life, and of it you may take it that it has been rightly said ---
+
+'Winged as a dream the soul takes flight away.'
+
+Not at the first, and not when it is quit of the body does this happen to it, but afterwards when it becomes deserted and solitary, set free from mind. Of all that Homer has told us I think that there is nothing more divine than where he speaks of those in Hades:---
+
+'Next was I ware of mighty Hercules,  
+His ghost --- himself among the immortals dwells.'
+
+For the self of each of us is not courage, nor fear, nor desire, any more than it is a parcel of flesh and of humours; it is that whereby we understand and think. The soul being shaped by the mind and itself shaping the body and encompassing it upon all sides, stamps its form upon it so that even if it is separated from both for a long time, yet it possesses the likeness and the stamp, and is rightly called an image. Of these, the Moon, as has been said, is the element, for they are resolved into her just as are the bodies of the dead into earth; the temperate speedily, who embraced a life of quiet and philosophy, for having been set free by mind and having no further use for the passions they wither away. But of the ambitious, and active, and sensuous, and passionate, some are distracted as though in sleep dreaming out their memories of life, as the soul of Endymion; but when their restless and susceptible nature starts them out of the moon and draws them to another birth she does not suffer it, but draws them back and soothes them. For no trifling matter is it, nor quiet, nor conventional, when with mind away they get them a body by passionate endeavour; Tityi and Typhones, and that Typhon who seized Delphi and confounded the oracle there by insolence and force, came of such souls as these, deserted by reason, left to the wild wanderings of their emotional part. But in course of time the moon receives even these unto herself and brings them to order; then, when the sun again sows mind, she receives it with vital power and makes new souls, and, thirdly, earth provides a body; for earth gives nothing after death of what she received for birth; the sun receives nothing, save that he receives back the mind which he gives, but the moon both receives and gives and compounds and distributes in diverse functions; she who compounds has Eileithyia for her name, she who distributes Artemis. And of the three Fates Atropos has her station about the sun and gives the first impulse of generation; Clotho moving about the moon combines and mingles, lastly Lachesis, upon the earth, lends her hand, and she has most to do with Fortune, for that which is without soul is powerless in itself and is affected by others, mind is free from affection and sovereign; soul a compound and a middle term, has, like the Moon, been formed by the god, a blend and mixture of things above and things below, thus bearing the same relation to the Sun which the Earth does to the Moon."
+
+"Such," said Sylla, "is the story which I heard from the stranger, but he had it from the chamberlains and ministers of Cronus, as he himself told me. But you and your friends, Lamprias, may take the story in what way you will."
+
+# Note on the Text.
+
+## Abbreviations.
+
+B = Codex Parisinus, No. 1675.
+
+E = Codex Parisinus, No. 1672.
+
+W. = Plutarchi Moralia, ed. Daniel Wyttenbach, Oxonii 1795-1800.
+
+_Bern._ = editio Teubneriana, ed. G. N. Bernardakis, Lipsiae 1888-1896.
+
+K. = Plutarchi Chaeronensis libellus De Facie quae in orbe Lunae apparet a Ioanne Kepplero Mathematico (an appendix to the _Somnium_ printed after the author's death, partly at Sagan, partly at Frankfurt, 1634).
+
+_Dreyer_ = History of the Planetary Systems from Thales to Kepler, by J. L. E. Dreyer, Ph. D. (Cambridge, 1906).
+
+## Note on the Text.
 
 The text of this Dialogue depends entirely upon two 
 manuscripts, both at Paris, Nos. 1672 (E) and 1675 (B), both 
