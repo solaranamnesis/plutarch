@@ -10,6 +10,24 @@
 
 ---
 
+## [Preface.]()
+
+## [Introductory Note.]()
+
+## [Persons of the Dialogue.]()
+
+## [Analysis.]()
+
+# [On the Face which appears on the Orb of the Moon.]()
+
+## [Note on the Text.]()
+
+### [Abbreviations.]()
+
+### [Note on the Text.]()
+
+### [Select Passages.]()
+
 ---
 
 "_De ces deux infinis de nature, en grandeur et en petitesse, l'homme en conçoit plus aysément celui de grandeur que celui de petitesse._" --- Pascal.
