@@ -571,7 +571,7 @@ Ch. 12. --- _"Where neither sun's bright face is separate seen."_
 
 διείδεται Mullach, for δεδίττεται.
 
-Ch. 16. --- _We do know that universally the Better prevails over the law of Stress."
+Ch. 16. --- _We do know that universally the Better prevails over the law of Stress._
 
 I have followed W.'s ἐν παντὶ δὲ κρατεῖ τὸ βέλτιον τοῦ κατηναγκασμένου, for ἐν παντὶ δὲ κρατεῖται τὸ βέλτιον τὸ κατηναγκασμένον. The terms are from the _Timaeus_, where ἀνάγκη means the positive laws of nature, and the participle the condition of things according to those laws. See _Plat. Tim._, ch. 17, p. 47 E, and Archer Hind's notes. But the question of reading is difficult.
 
