@@ -28,9 +28,9 @@
 
 ### [Select Passages.](#select-passages-1)
 
-# [Appendix.]()
+# [Appendix.](#appendix-1)
 
-## [Scipio's Dream.]()
+## [Scipio's Dream.](#scipios-dream-1)
 
 ---
 
