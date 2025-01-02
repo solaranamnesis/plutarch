@@ -32,6 +32,8 @@
 
 ## [Scipio's Dream.](#scipios-dream-1)
 
+## [Solar and Lunar Eclipses in Plutarch.](#solar-and-lunar-eclipses-in-plutarch-1)
+
 ---
 
 "_De ces deux infinis de nature, en grandeur et en petitesse, l'homme en conçoit plus aysément celui de grandeur que celui de petitesse._" --- Pascal.
