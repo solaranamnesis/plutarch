@@ -549,292 +549,101 @@ R. Kunze, in _Rhein. Mus._, vol. 64 (1909), p. 635, justifies the dative after �
 
 The change of σκιᾷ into σκιᾶς in transcription does not seem very probable, and though the point of the quotation from Poseidonius is the _argumentum ad hominem_, grounded on his use of the words σκιὰ σελήνης at all, it is unlikely that he would have given so insipid a definition of a solar eclipse as that it is "a concurrence of the sun with the moon's shadow," a fact known to Anaxagoras. Nor is the parenthesis introduced by γὰρ, which doubtless formed part of the definition quoted, accounted for.
 
-According to my own record, E has oh, not 979. I 
-should not, however, wish to build upon this without 
-verification, and without knowing the reading of B. But 
-
-I would suggest (1) that ttjv etcXeiyfnv may have come into 
-the text from the margin, being a gloss upon ToSe to ttciOos, 
-(2) that 979 or 06? conceals some reference to our eyesight or 
-our earth. The whole passage will then be in outline : --- 
+According to my own record, E has οἷς, not ἧς. I should not, however, wish to build upon this without verification, and without knowing the reading of B. But I would suggest _1._ that τὴν ἔκλειψιν may have come into the text from the margin, being a gloss upon τόδε τὸ πάθος, _2._ that ἧς or οἷς conceals some reference to our eyesight or our earth. The whole passage will then be in outline:--- "Poseidonius, in defining an eclipse of the sun as a meeting of the moon's shadow with our vision (for an eclipse is only an eclipse to those on the earth who are in the narrow track of the moon's shadow) gave his case away."
 
-II Poseidonius, in defining an eclipse of the sun as a meeting 
-of the moon's shadow with our vision (for an eclipse is only 
-an eclipse to those on the earth who are in the narrow 
-track of the moon's shadow) gave his case away." 
+Poseidonius is quoted for short and incisive definitions, _e. g., de plac. phil._, 3, 1, p. 893 A, and a clause introduced by γὰρ is found in some of them (see his remains, ed. Bake, 1820).
 
-Poseidonius is quoted for short and incisive definitions, 
-e.g., de plac. phil, Ill, I, p. 893 A, and a clause introduced 
-by yap is found in some of them (see his remains, ed. 
-Bake, 1820). 
+Ch. 21. --- _Till three and a half hours_ ... (I had too hastily removed this numeral from the text.)
 
-p. 34, ch. xxi. --- Till three and a half hours .... (I had 
-too hastily removed this numeral from the text.) 
-It is pointed out to me that all the notes of time may 
-be taken as referring back to moon-rise (3J hours from, 
-say, 6 p.m., midnight, half-past one a.m., dawn). The diffi- 
-culty is that dvLcrrarai cannot = " ostenditur " (W.) or 
-" oritur" (Kepler), but must = " s'en va" (Amyot). For 
-a forcible description of the successive phenomena of a 
-lunar eclipse, see Herschel's Outlines, p. 421. 
+It is pointed out to me that all the notes of time may be taken as referring back to moon-rise (3 1/2 hours from, say, 6 p. m., midnight, half-past one a. m., dawn). The difficulty is that ἀνίσταται cannot = "ostenditur" **W.** or "oritur" (Kepler), but must = "s'en va" (Amyot). For a forcible description of the successive phenomena of a lunar eclipse, see Herschel's _Outlines_, p. 421.
 
-p. 36, ch. xxi. --- So you really think . . . 
+Ch. 21. --- _So you really think_ ...
 
-oi€t tcls tr/cta? . . . (MSS.) el oUl Emperius. 
+οἴει τὰς σκιὰς ... (MSS.) εἰ οἴει Emperius.
 
-p. 36, ch. xxii. --- Athos the Lemnian cows .... 
+Ch. 22. --- _Athos the Lemnian cow's_ ...
 
-This line of Sophocles shows how true to fact, and 
-familiar to Greek imagination, was the second stage in the 
-passage of the "courier flame" in Aeschylus {Again., 285). 
-Mount Athos is 6400 feet high, and its shadow might fall 
-over the sea for nearly 100 miles. The actual distance is 
-about fifty. See Tozer's Islands of the Aegean, p. 239, and 
-History of Ancient Geography, p. 328, and the authorities 
-quoted there. Lamprias allows himself to use a sophism. 
-The length of a mountain's shadow in space would be 
-longer, as would that of the earth, if the illuminant were 
-further off, but this is of no practical importance to a large 
-body on the earth. 
+This line of Sophocles shows how true to fact, and familiar to Greek imagination, was the second stage in the passage of the "courier flame" in Aeschylus (_Agam._, 285). Mount Athos is 6400 feet high, and its shadow might fall over the sea for nearly 100 miles. The actual distance is about fifty. See Tozer's _Islands of the Aegean_, p. 239, and _History of Ancient Geography_, p. 328, and the authorities quoted there. Lamprias allows himself to use a sophism. The length of a mountain's shadow in space would be longer, as would that of the earth, if the illuminant were further off, but this is of no practical importance to a large body on the earth.
 
-W. translates aTroaraa^ by " obliqua distantia." If this 
-means " angular distance " or elevation above the horizon, 
-it makes the sense good, but I can find no authority for 
+W. translates ἀπόστασις by "obliqua distantia." If this means "angular distance" or elevation above the horizon, it makes the sense good, but I can find no authority for such an use. Kepler points out a further fallacy, due to ambiguous use of terms in the application of the geometrical truth to the mountains and valleys of the moon.
 
+Ch. 23. --- ... _how topsy-turvy it is._
 
-59 
+ὡς ἄνω ποταμῶν καὶ τραπὲν πάλιν. τραπέμπαλινBernardakis from Meineke. The word is quoted by Photius from Pherecrates (Meineke Com. Frag., 2, p. 354).
 
-such an use. Kepler points out a further fallacy, due to 
-ambiguous use of terms in the application of the geometrical 
-truth to the mountains and valleys of the moon. 
+Ch. 23. --- _It is obscured in the reflexion._
 
-p. 37, ch. xxiii. --- . . . how topsy-turvy it is. 
+ἀνακλασθὲν τυποῦται --- τυφλοῦται Emperius.
 
-a>9 dvco Trora/jLMV ical rpairev irakiv. rpaTrefiirakiv 
-Bernardakis from Meineke. The word is quoted by 
-Photius from Pherecrates (Meineke Com. Frag., II, p. 354). 
+Ch. 24. --- _A seated audience_ ...
 
-p. 37, ch. xxiii. --- It is obscured in the reflexion. 
-avaKXaaOev tvttovtcu --- rvcfrXovrai Emperius. 
+Plutarch perhaps remembers the matchless humour of the _Protagoras_ of Plato. At any rate the reader should refer to it. See ch. 8 of that dialogue, end.
 
-p. 38, ch. xxiv. --- A seated audience .... 
+Ch. 24. --- _If a lion did once_ ...
 
-Plutarch perhaps remembers the matchless humour of 
-the Protagoras of Plato. At any rate the reader should 
-refer to it. See ch. viii of that dialogue, end. 
+Doubtless from a confusion between λῖς a lion and λᾶς a stone, but in an earlier stage of the saying, so that the text (as Kepler remarks) need not be altered.
 
-p. 38, ch. xxiv. --- If a lion did once . . . 
+Ch. 24. --- _And nourished by the smells_ ... 
 
-Doubtless from a confusion between \t? a lion and \a? 
-a stone, but in an earlier stage of the saying, so that the 
-text (as Kepler remarks) need not be altered. 
+How the inhabitants of the moon feast by smell is fully explained in Cyrano de Bergerac's _Histoire comique des états et empires de la Lune_. In this very ingenious book reference is frequently made to Plutarch, especially to the _De Genio Socratis_, never, I think, to the _De Facie_.
 
-p. 39, ch. xxiv. --- And nourished by the smells .... 
+Ch. 25. --- _If you will set against the_ ... _summer conjunctions._
 
-How the inhabitants of the moon feast by smell is fully 
-explained in Cyrano de Bergerac's Histoir-e comique des 
-etats et empires de la Lune. In this very ingenious book 
-reference is frequently made to Plutarch, especially to the 
-De Genio Socratis, never, I think, to the De Facie. 
+ταῖς ἕνδεκα θεριναῖς συνόδοις (MSS.) is unintelligible, nor is much gained by reading δυώδεκα (Kepler). _qy._, ταῖς ἔνθαδε θεριναῖς συνόδοις, _i. e._, "if you will set against our summer conjunctions the full moons (_i. e._, the summers of the inhabitants in the moon)? σύνοδος cannot properly be used for the summer solstices, but as it is properly used of the moon's summer periods, it may pass in the comparison.
 
-p. 40, ch. xxv. --- If you will set against the .... sunwier 
-conjunctions. 
+Ch. 25. --- _But many effects of moisture_ ...
 
-rats evhetca Oeptvals crvvohots (MSS.) is unintelligible, 
-nor is much gained by reading SvcoSetca (Kepler). ay., rah 
-evdaBe depivals ovvoSois, _i. e._, " if you will set against our 
-summer conjunctions the full moons (_i. e._, the summers of 
-the inhabitants in the moon) ? avvoSos cannot properly 
-be used for the summer solstices, but as it is properly 
-used of the moon's summer periods, it may pass in the 
-comparison. 
+See Quæst. Sympos., 3, 10. Some curious instances, evidently taken from observation, will be found in ch. 22 of _The King's Own_, by Captain Marryatt.
 
-p. 41, ch. xxv. --- But many effects of moisture .... 
+Ch. 26. --- _Is left sovereign lord of these islands._
 
-See Ouaest. Sympos., Ill, 10. Some curious instances, 
-evidently taken from observation, will be found in ch. xxii 
-of The King's Own, by Captain Marry att. 
+παρακάτω κεῖσθαι. I have ventured to render αὐτοκράτορα κεῖσθαι (or καλεῖσθαι). The noun is of very frequent occurrence in Plutarch.
 
+--- _Those who have joined in the service of the God for thirty years._
 
-6o 
+τρισκαίδεκα MSS. τριάκοντα W., following earlier suggestion --- _qy._ τὰ τρὶς δέκα?
 
-p. 42, ch. xxvi. --- Is left sovereign lord of these islands. 
+--- _When sleep has stayed the Titanic motions_ ...
 
-Trapa/carco icelaOai. I have ventured to render avro- 
-/cpdropa fcetadac (or KaXelaOai). The noun is of very 
-frequent occurrence in Plutarch. 
+I have followed Madvig's ἐπειδὰν παύσῃ (Adv. 1, p. 664) for the εἶναι δὲ ἀνάστασιν of the MSS.
 
-p. 43. --- Those who have joined in the service of the God 
-for thirty years. 
+Ch. 26. --- _He spent a very long time_ ... _potent in our life._
 
-Tpia/caiSe/ea MSS. rpcaKovra W., following earlier sug- 
-gestion--- qy. rd Tjok Setca ? 
+πλεῖστον γὰρ ἐν Καρχηδόνι χρόνον διέτριψεν, ἅτε δὴ παρ' ἡμῖν μεγάλας ἔχοντος καί τινας, ὅτε ἡ προτέρα πόλις ἀπώλλυτο, διφθέρας ἱερὰς ὑπεκκομισθείσας κρύφα καὶ διαλαθούσας πολὺν χρόνον ἐν γῇ κειμένας ἐξευρὼν, τῶν τε φαινομένων θεῶν ἔφη χρῆναι, καί μοι παρεκελεύετο τιμᾶν διαφέροντως τὴν σελήνην, ὡς τοῦ βίου κυριωτάτην οὖσαν ἐχομένην.
 
-p. 43. --- When sleep has stayed the Titanic motions .... 
+So E (τινας, as Bernardakis prints, not τιμὰς, as W.). I would venture to propose somewhat as follows:---
 
-I have followed Madvig's eire&dv iravar] (Adv. I, 
-p. 664) for the elvai he dvdaraatv of the MSS. 
+πλεῖστον ... διέτριψεν, ἅτε δὴ παρ' ἡμῖν μέταλλα ἔχων · ὃς καί τινας ... ἐξευρὼν, τῶν τε φαινόμενων (_qv._ Φοινικικῶν?) θεῶν ἔφη χρηστήρια εἶναι, καί μοι ... ἐχομένην.
 
-p. 44, ch. xxvi. --- He spent a very long time .... potent in 
-our life. 
+"He spent a long time in Carthage, as being a mine owner in our country; a man who had also once discovered certain sacred parchments which had been secretly withdrawn when the older city was destroyed, and had lain a long time in the earth unnoticed, and which he said were oracles of the (Phoenician?) gods; and he charged me to pay special honour to the moon, as being most potent in (closely connected with) our life."
 
-7r\el<JT0V yap iv Kap^rjSovt ypovov SLerpiyjrev, are Br) 
-Trap fjfuv /jbeydXas eftovTOS /cai rivas, ore rj rrporepa ttoXl? 
-arraiWvTo, hufrdepas iepas vireKKOfjucrdeicras Kpvtya teal 81a- 
-Xadovaas ttoXvv y^povov iv yfj Ket/meva^ igevpcbv, tcjp re 
-tyaivofjLevwv Oe&iv e<j)r} ^pr/vat, kcil jjlol rrapeKeXevero ri/xdv 
-Btac^epovTWs ttjv aeXijvTjv, &><» tov (3lov /cvpicoraTrip ovaav 
-iyojxev7]v. 
+μεγάλας is very like μέταλλα, α and λ being almost identical as written in E.
 
-So E (rivas, as Bernardakis prints, not Tt/ia?, as W.). 
-I would venture to propose somewhat as follows : --- 
+μέταλλα ἔχων is hardly probable, and the hiatus is against it. More likely some rarer participle, such as χωνεύων, though μέταλλα seems only to be used of mines, not of metals.
 
-rrXelarov .... hierpi^ev, are 8r) nap r/fxlv fxeraXXa 
-eycov 0? tcai Ttvas .... e^evpeov, tojv re cfraivofievcov 
-(qy. $olvikikwv ?) decov e<f>r) xPVaTVPia elvai, ical /jlol .... 
-eyofievrjv. 
+ἐχομένην is written underneath κυριωτάτην οὖσαν in E, and one phrase may have been a gloss on the other, but it would be like Plutarch to use both (ἔχεσθαι in this sense is a favourite verb), perhaps connected by καί.
 
-" He spent a long time in Carthage, as being a mine 
-owner in our country; a man who had also once discovered 
-certain sacred parchments which had been secretly with- 
-drawn when the older city was destroyed, and had lain a 
-long time in the earth unnoticed, and which he said were 
-oracles of the (Phoenician ?) gods ; and he charged me to 
-pay special honour to the moon, as being most potent in 
-(closely connected with) our life." 
+Ch. 28. --- _Of the birth to unity_, μονογενής. The _Timæus_ ends with the words μονογενὴς ὤν.
 
-fjueydXas is very like fieraXXa, a and X being almost 
-identical as written in E. 
+Ch. 29. --- _The reason why_ ... _increases her speed._
 
-fieraXXa ex<*v is hardly probable, and the hiatus is 
-against it. More likely some rarer participle, such as 
-Xtovevcov, though p.eraXXa seems only to be used of mines, 
-not of metals. 
+I have translated W.'s θερμότητος (so E) ᾗ ἐπείγει. For τοῖς we should surely read τρισὶν (see ch. 6, and pp. 10-11). Sylla's argument is not very easy to follow; ὀλιγάκις may mean "seldom" or "only seldom," and σμικρότητος may refer either to the Moon or to the Shadow.
 
+Ch. 35. --- _But you and your friends_ ...
 
-6i 
+The formula with which the myth is dismissed is Platonic. Compare, _e. g._, the end of the _Gorgias_: "this may be all an old wife's tale; then find something better." (See Professor Stewart's _Myths of Plato_, especially the chapter on the _Phaedrus_.)
 
-exo/JLevrjv is written underneath fcvpLcoTarrjv ovcrav in E, 
-and one phrase may have been a gloss on the other, but it 
-would be like Plutarch to use both (e^eo-flat in this sense 
-is a favourite verb), perhaps connected by teal. 
+# Appendix.
 
-p. 45. ch. xxviii. --- Of the birth to unity, ixovoyev^. The 
-Timceus ends with the words /xovoyevrj^ wv. 
+## Scipio's Dream.*
 
-p. 46, ch. xxix. --- The reason why . . . increases her speed. 
+*) From the text of F. A. Nobbe.
 
-I have translated W.'s Oep/jLOTrjTos (so E) f) iweiyei. For 
-tols we should surely read rptalv (see ch. vi, and pp. 10-11). 
-Sylla's argument is not very easy to follow ; oXiydfcts 
-may mean " seldom " or " only seldom," and afjuKporrjTo^ 
-may refer either to the Moon or to the Shadow. 
+The _Somnium Scipionis_ formed the concluding part of the 6th and last book of Cicero's lost dialogue _De Republica_. It is not contained in the Vatican palimpsest published by Cardinal Mai in 1822, and we owe its recovery to the Commentary of Macrobius (4th or 5th century A. D.), and to manuscripts in which Cicero's text has been extracted thence. The dialogue is supposed to take place in 129 B. C., and the principal speaker is P. Cornelius Scipio Æmilianus (Africanus Minor), who met with his death in the same year. It will be found interesting to compare the opening of the 9th Book of Lucan, immediately following the death of Pompey.
 
-p. 48, ch. xxv. --- But you and your friends. . . . 
+---
 
-The formula with which the myth is dismissed is 
-Platonic. Compare, e.g., the end of the Gorgias : " this 
-may be all an old wife's tale ; then find something better." 
-(See Professor Stewart's Myths of Plato, especially the 
-chapter on the Phaedrus.) 
-
-
-62 
-
-
-INDEX OF NAMES 
-Of Persons mentioned or referred to in the De Facie. 
-
-[The numerals refer to pages.] 
-
-
-Aeschylus, 20, 38. 
-
-Agesianax, 17, 18. 
-
-Alcman, 41. 
-
-Ammonius, 41. 
-
-Anaxagoras, 28, 31. 
-
-Archilochus, 31. 
-
-Aristarchus of Samos, 20, 23, 32. 
-
-Aristarchus of Samothrace, 39. 
-
-Aristotle, 17, 32. 
-
-
-Cleanthes, 20. 
-Clearchus, 17, 18, 19. 
-Crates, 39. 
-Cydias, 31. 
-
-
-Democritus, 28. 
-
-
-Empedocles, 17, 19, 23, 25, 28, 34. 
-Epicurus, 18. 
-Epimenides, 41. 
-
-
-Heraclitus, 45. 
-
-Hesiod, 25, 41. 
-
-Hipparchus, 18. 
-
-Homer, 20, 34, 35, 42, 44, 47. 
-
-Ion Chius, 28. 
-
-Megasthenes, 39. 
-Metrodorus, 27. 
-Mimnermus, 31. 
-
-Farmenides, 25, 28. 
-
-Pherecydes, 39. 
-
-Pindar, 31. 
-
-Plato, 25, 29, 35, 38, 39, 45. 
-
-Poseidonius, 28, 32. 
-
-wSophocles, 21, 36. 
-Stesiehorus, 31. 
-
-Xenocrates, 45, 46. 
-
-
-APPENDIX. 
-
-
-SCIPIO'S DREAM. 
-NOTE ON ECLIPSES. 
-TWO DIAGRAMS. 
-
-
-SCIPIO'S DREAM.* 
-
-
-The Somnium Scipionis formed the concluding part of the Vlth 
-and last book of Cicero's lost dialogue De Republica. It is not 
-contained in the Vatican palimpsest published by Cardinal Mai in 
-1822, and we owe its recovery to the Commentary of Macrobius 
-(4th or 5th century a.d.), and to manuscripts in which Cicero's 
-text has been extracted thence. The dialogue is supposed to 
-take place in 129 B.C., and the principal speaker is P. Cornelius 
-Scipio ^Emilianus (Africanus Minor), who met with his death in 
-the same year. It will be found interesting to compare the opening 
-of the IXth Book of Lucan, immediately following the death of 
-Pompey. 
-
-IX. When I arrived in Africa to join M' Manilius, the 
+9\. When I arrived in Africa to join M' Manilius, the 
 Consul, as a tribune, you will remember, of the Fourth Legion, I 
 made it my first duty to meet Masinissa, a prince to whom our 
 family was, for good reasons, deeply attached. The old man 
