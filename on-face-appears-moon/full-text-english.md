@@ -669,151 +669,25 @@ Here Lælius cried aloud, and the others uttered a deeper groan; but Scipio gent
 
 18\. I gazed bewildered, and when I recovered myself I said: What is the sound which fills my ears, so loud and so sweet? That sound, he said, is formed at intervals unequal yet divided on a fixed scale, by the impulse and movement of the spheres themselves; it mingles high notes with low, and makes the various harmonies flow smoothly; it could never be that such mighty motions should speed in silence, and Nature wills that extremes on one side give a low, on the other a high sound. Therefore that highest orbit in Heaven which bears the stars, inasmuch as it revolves at greater speed than the others, moves to a shrill and eager note, this lowest lunar orbit to a very low one; for the Earth comes ninth, motionless and fixed in the lowest station, holding the middle point of the Universe. Those eight orbits, among which two are in effect identical, make seven tones with distinct intervals, this number seven being the knot which ties together almost all things. Artists have imitated this on strings and with the voice, and so have opened to themselves a return to this place, as have those others of excellent genius who, in their human life, have applied themselves to heavenly themes. Overcharged with this sound, the ears of men have grown deaf to it; there is no sense among you more easily blunted. So it is where the Nile hurls himself from lofty mountains to the falls they call Catadupa; the tribe which dwells about the place lacks the sense of hearing because of the greatness of the sound. This sound of the entire Universe revolving at utmost speed is so great that the ears of men cannot take it in, even as ye cannot look full at the Sun, and your sense of sight is overpowered by his rays. I listened, and admired, yet from time to time my eyes returned to Earth.
 
-19\. Then Africanus:--- I perceive that thou art even now 
-gazing on the dwelling-place and home of men ; if that seem to 
-thee small, as small indeed it is, look always to these Heavenly 
-sights, despise the things below, which are but mortal. Take 
-thine own self. What fame from human life is it possible for thee 
-to attain, or what glory worth the seeking ? Thou seest that the 
-inhabited parts of Earth are scanty strips and narrow ; and even 
-among these specks, to call them so, which are habitable, vast 
-solitary tracts are interspersed ; and that not only are the dwellers 
-upon Earth so effectually parted that no stream of intercourse can 
+19\. Then Africanus:--- I perceive that thou art even now gazing on the dwelling-place and home of men; if that seem to thee small, as small indeed it is, look always to these Heavenly sights, despise the things below, which are but mortal. Take thine own self. What fame from human life is it possible for thee to attain, or what glory worth the seeking? Thou seest that the inhabited parts of Earth are scanty strips and narrow; and even among these specks, to call them so, which are habitable, vast solitary tracts are interspersed; and that not only are the dwellers upon Earth so effectually parted that no stream of intercourse can flow from these to those, but also some lie obliquely to you, some laterally, some right opposite, and from them ye can certainly expect no glory.
 
+20\. Dost thou behold the same Earth, bound and girdled by sundry belts; of which two, most remote from one another, and resting on either apex of Heaven, are stiff with ice and frost; the middle, which is the largest, is scorched by the burning heat of the Sun. Two are habitable, and of them the southernmost, whose inhabitants plant their steps exactly opposite to yours, is of no concern to you; this other one towards the north, your dwelling-place, touches you --- see how slenderly. For all the Earth inhabited by you, narrow in upward extension, wider from side to side, is but a small island of a sort, washed all round by that sea which you call The Atlantic, The Great Sea, The Ocean; see how small a water it is to bear so great a name. From these lands, the known and habitable, has thy name, or that of any of our race, ever yet been able to climb over this Caucasus, or to swim over that Ganges? Who in the far-off regions which remain towards the rising or the setting Sun will hear thy name, or who in the parts of the north or of the south? Cut all these off, and thou seest in very truth within what narrow limits it is that thy glory is ambitious to be spread. The very men who speak of thee now --- how long will they speak?
 
-69 
+21\. Again, suppose that the offspring of men yet to be should wish to pass on in order the praises of each of us which their fathers have told them, yet, because of destruction by flood and fire, which must occur within a given cycle, the glory which we may attain cannot be eternal, it cannot even be for long. Or, again, what avail that there shall be talk of thee among men yet to be born, when there has been none among men born before our time? They were not fewer, and certainly they were better men than we.
 
-flow from these to those, but also some lie obliquely to you, some 
-laterally, some right opposite, and from them ye can certainly 
-expect no glory. 
+22\. Consider, too, that even among those by whom our name may possibly be heard, one single year is beyond the memory of any one. For men in common speech measure a year simply by the return to his place of our Sun, that is of a single star; but only when all the stars shall have returned to the point from which they once started, and shall have repeated at that long interval an entire measured year, may we truly say that a year has come round; how many generations of men are contained therein I hardly dare say. For as the Sun seemed to fail and to be extinguished for men, when the soul of Romulus made its way to these precincts, so, when the Sun shall again be eclipsed in the same part of the Heavens, and in the same season, then all the constellations and stars having been recalled to the same initial point thou mayest reckon that a year has been completed, and know that of a year in this sense not a twentieth part has revolved as yet.
 
-XX. Dost thou behold the same Earth, bound and girdled 
-by sundry belts ; of which two, most remote from one another, 
-and resting on either apex of Heaven, are stiff with ice and frost ; 
-the middle, which is the largest, is scorched by the burning heat 
-of the Sun. Two are habitable, and of them the southernmost, 
-whose inhabitants plant their steps exactly opposite to yours, is of 
-no concern to you; this other one towards the north, your dwelling- 
-place, touches you --- see how slenderly. For all the Earth in- 
-habited by you, narrow in upward extension, wider from side to 
-side, is but a small island of a sort, washed all round by that sea 
-which you call The Atlantic, The Great Sea, The Ocean ; see how 
-small a water it is to bear so great a name. From these lands, 
-the known and habitable, has thy name, or that of any of our 
-race, ever yet been able to climb over this Caucasus, or to swim 
-over that Ganges? Who in the far-off regions which remain 
-towards the rising or the setting Sun will hear thy name, or who 
-in the parts of the north or of the south ? Cut all these off, and 
-thou seest in very truth within what narrow limits it is that thy 
-glory is ambitious to be spread. The very men who speak of thee 
-now --- how long will they speak ? 
+23\. Therefore, if thou hast despaired of return to this place, where the great and the good have their portion, what, I ask thee, is that human glory worth which can at best belong to a tiny fraction of a single year? So if thou wilt look deeply into it, and regard this abode and this eternal home, cease to be the slave of the talk of the multitude, and no longer place thy hope and portion in human rewards. Then virtue must draw thee by her own unaided charm to what is honour indeed. What others say of thee is their concern alone, though talk they will! The whole of that talk goes not forth beyond these narrow regions which thou seest; nor has it been lasting in any case. When men die it perishes with them, and in the next generation is forgotten and clean extinguished.
 
-XXI. Again, suppose that the offspring of men yet to be 
-should wish to pass on in order the praises of each of us which 
-their fathers have told them, yet, because of destruction by flood 
-and fire, which must occur within a given cycle, the glory which 
-we may attain cannot be eternal, it cannot even be for long. 
-Or, again, what avail that there shall be talk of thee among men 
-yet to be born, when there has been none among men born before 
-our time ? They were not fewer, and certainly they were better 
-men than we. 
+24\. So he spake, and then said I: O, Africanus, since to those who have deserved well of their country a path lies open to enter Heaven, I, who have from my boyhood followed close in my father's steps, and have not come short of the glory which was yours, yet now, with this great prize before me, will strive much more vigilantly upwards. Aye, strive, said he, and remember this, thou art not mortal, but this body is; nor is this evident shape thy real self. The mind of a man, that is the man, not the form at which a finger may point. Know, therefore, that thou art a god. Aye, he is God who is strong and sentient, who remembers, who looks forward, who rules and orders and moves that body over which he has been set, even as the Supreme God moves this whole Universe. As the Eternal God moves an universe which has a mortal part, so does the everlasting soul move its frail body.
 
-XXII. Consider, too, that even among those by whom our 
-name may possibly be heard, one single year is beyond the 
-memory of any one. For men in common speech measure a year 
-simply by the return to his place of our Sun, that is of a single 
-star ; but only when all the stars shall have returned to the point 
-from which they once started, and shall have repeated at that long 
-interval an entire measured year, may we truly say that a year has 
-come round ; how many generations of men are contained therein 
-I hardly dare say. For as the Sun seemed to fail and to be 
-extinguished for men, when the soul of Romulus made its way to 
-these precincts, so, when the Sun shall again be eclipsed in the 
-same part of the Heavens, and in the same season, then all the 
-constellations and stars having been recalled to the same initial 
-point thou mayest reckon that a year has been completed, and 
-know that of a year in this sense not a twentieth part has revolved 
-as yet. 
+25\. For that which is always in motion is eternal; that which communicates motion to another body, but is itself acted upon by a third, must necessarily cease to live when the motion ceases. Therefore, the only body which never ceases to be in motion at all is that which moves itself, because it never is deserted by itself. Further, this is a source and Beginning of motion to all other things which are moved. But a Beginning has no origin, for from a Beginning all things originate, itself from nothing, nor would it be a Beginning if it were generated from elsewhere. But if it never originates, neither does it perish. For a Beginning once destroyed will neither be born again from another body nor create another out of itself, since all things must originate in a Beginning. It follows that the Beginning of motion proceeds out of that which is moved by its own self. This cannot be born, nor yet can it die: if it did, all Heaven must of necessity collapse, and Nature stand still, and not acquire any new force, seeing that her motion comes from the primal impulse.
 
+26\. Since, then, it is plain that what is moved by its own self is eternal, who is there to deny that this property has been bestowed upon souls? For all which is acted upon by eternal impulse is inanimate, the animate being is quickened by its own inward motion; such is the natural property and power of soul. If it be the one out of all things which moves itself, then assuredly it has not been born, and it is eternal. See that thou exercise it in all that is best, and best of all are cares for the safety of country: the mind which has been quickened by these and exercised therein will more swiftly make its flight to this abode, which is its proper home. And this it will do the sooner if, even when shut up within the body, it shall ever press abroad, and, by contemplation of things which are without the body, shall withdraw itself therefrom all it can. For the souls of those who have surrendered themselves to the pleasures of the body, consenting to be their servants, obeying pleasures, impelled by lusts, and have violated laws human and divine, when they have passed out of their bodies still hover about the Earth, and only return to this place after ages of torment.
 
-7o 
+He left me, and I awoke from my dream.
 
-XXIII. Therefore, if thou hast despaired of return to this 
-place, where the great and the good have their portion, what, I ask 
-thee, is that human glory worth which can at best belong to a 
-tiny fraction of a single year ? So if thou wilt look deeply into it, 
-and regard this abode and this eternal home, cease to be the 
-slave of the talk of the multitude, and no longer place thy hope 
-and portion in human rewards. Then virtue must draw thee by 
-her own unaided charm to what is honour indeed. What others 
-say of thee is their concern alone, though talk they will ! The 
-whole of that talk goes not forth beyond these narrow regions 
-which thou seest ; nor has it been lasting in any case. When 
-men die it perishes with them, and in the next generation is 
-forgotten and clean extinguished. 
-
-XXIV. So he spake, and then said I : O, Africanus, since to 
-those who have deserved well of their country a path lies open 
-to enter Heaven, I, who have from my boyhood followed close 
-in my father's steps, and have not come short of the glory which 
-was yours, yet now, with this great prize before me, will strive 
-much more vigilantly upwards. Aye, strive, said he, and remember 
-this, thou art not mortal, but this body is ; nor is this evident shape 
-thy real self. The mind of a man, that is the man, not the 
-form at which a finger may point. Know, therefore, that thou 
-art a god. Aye, he is God who is strong and sentient, who 
-remembers, who looks forward, who rules and orders and moves 
-that body over which he has been set, even as the Supreme 
-God moves this whole Universe. As the Eternal God moves an 
-universe which has a mortal part, so does the everlasting soul 
-move its frail body. 
-
-XXV. For that which is always in motion is eternal ; that 
-which communicates motion to another body, but is itself acted 
-upon by a third, must necessarily cease to live when the motion 
-ceases. Therefore, the only body which never ceases to be in 
-motion at all is that which moves itself, because it never is 
-deserted by itself. Further, this is a source and Beginning of 
-motion to all other things which are moved. But a Beginning 
-has no origin, for from a Beginning all things originate, itself from 
-nothing, nor would it be a Beginning if it were generated from 
-elsewhere. But if it never originates, neither does it perish. For 
-a Beginning once destroyed will neither be born again from 
-another body nor create another out of itself, since all things 
-must originate in a Beginning. It follows that the Beginning of 
-motion proceeds out of that which is moved by its own self. 
-This cannot be born, nor yet can it die : if it did, all Heaven 
-must of necessity collapse, and Nature stand still, and not acquire 
-any new force, seeing that her motion comes from the primal 
-impulse. 
-
-XXVI. Since, then, it is plain that what is moved by its own 
-self is eternal, who is there to deny that this property has been 
-
-
-bestowed upon souls ? For all which is acted upon by eternal 
-impulse is inanimate, the animate being is quickened by its own 
-inward motion ; such is the natural property and power of soul. 
-If it be the one out of all things which moves itself, then assuredly 
-it has not been born, and it is eternal. See that thou exercise it 
-in all that is best, and best of all are cares for the safety of 
-country : the mind which has been quickened by these and 
-exercised therein will more swiftly make its flight to this abode, 
-which is its proper home. And this it will do the sooner if, even 
-when shut up within the body, it shall ever press abroad, and, by 
-contemplation of things which are without the body, shall withdraw 
-itself therefrom all it can. For the souls of those who have 
-surrendered themselves to the pleasures of the body, consenting 
-to be their servants, obeying pleasures, impelled by lusts, and 
-have violated laws human and divine, when they have passed 
-out of their bodies still hover about the Earth, and only return 
-to this place after ages of torment. 
-
-He left me, and I awoke from my dream. 
-
-
-SOLAR AND LUNAR ECLIPSES IN PLUTARCH. 
-
+## Solar and Lunar Eclipses in Plutarch.
 
 It must strike a reader of the De Facie and other writings of 
 Plutarch, as the De Gento Socratis, that the writer is more 
