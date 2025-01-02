@@ -691,320 +691,34 @@ He left me, and I awoke from my dream.
 
 ## Solar and Lunar Eclipses in Plutarch.
 
-It must strike a reader of the De Facie and other writings of 
-Plutarch, as the De Gento Socratis, that the writer is more 
-interested in eclipses of the Moon than in those of the Sun. The 
-latter phenomenon is touched on cursorily, and a list of poetical 
-passages is given, rather to establish the parallel between night 
-and an eclipse than to shew its impressiveness. As it seems to 
-us a more remarkable occurrence that the " Earth should be 
-darkened in the clear day" than that "the Moon should not 
-cause her light to shine," some explanation seems to be needed. 
-This is probably to be found in the close connexion of the Moon 
-with human life and death, and with the spirits who watch over 
-and assist man, and also in the belief that the Moon shared one 
-atmosphere with the Earth. It may be interesting to give at 
-length a passage in the Life of Nicias (c. xxiii), where a comparison 
-is drawn. The lunar eclipse in question is that mentioned by 
-Thucydides (VII, 50). I quote from Clough's translation : --- 
+It must strike a reader of the _De Facie_ and other writings of Plutarch, as the _De Genio Socratis_, that the writer is more interested in eclipses of the Moon than in those of the Sun. The latter phenomenon is touched on cursorily, and a list of poetical passages is given, rather to establish the parallel between night and an eclipse than to shew its impressiveness. As it seems to us a more remarkable occurrence that the "Earth should be darkened in the clear day" than that "the Moon should not cause her light to shine," some explanation seems to be needed. This is probably to be found in the close connexion of the Moon with human life and death, and with the spirits who watch over and assist man, and also in the belief that the Moon shared one atmosphere with the Earth. It may be interesting to give at length a passage in the _Life of Nicias_ (c. 23), where a comparison is drawn. The lunar eclipse in question is that mentioned by Thucydides (7, 50). I quote from Clough's translation:---
 
-" And when all were in readiness, and none of the enemy had 
-observed them, not expecting such a thing, the Moon was 
-eclipsed in the night, to the great fright of Nicias and others, who, 
-for want of experience or out of superstition, felt alarm at such 
-appearances. That the Sun might be darkened about the close 
-of the month, this even ordinary people now understood pretty 
-well to be the effect of the Moon ; but the Moon itself to be 
-darkened, how that should come about,* and how, on the sudden, 
-a broad, full Moon should lose her light, and show such various 
-colors, was not easy to be comprehended ; they concluded it to 
-be ominous, and a Divine intimation of some heavy calamities. 
-For he who the first, and the most plainly of any, and with the 
-greatest assurance committed to writing how the Moon is 
-enlightened and overshadowed, was Anaxagoras ; and he was as 
-yet but recent, nor was his argument much known, but was rather 
-kept secret, passing only amongst a few, under some kind of 
-caution and confidence. People would not then tolerate natural 
-philosophers and theorists, as they then called them, about things 
-above, as lessening the Divine power by explaining away its 
-agency into the operation of irrational causes and senseless 
-forms acting by necessity,!' without anything of Providence, as 
+"And when all were in readiness, and none of the enemy had observed them, not expecting such a thing, the Moon was eclipsed in the night, to the great fright of Nicias and others, who, for want of experience or out of superstition, felt alarm at such appearances. That the Sun might be darkened about the close of the month, this even ordinary people now understood pretty well to be the effect of the Moon; but the Moon itself to be darkened, how that should come about,* and how, on the sudden, a broad, full Moon should lose her light, and show such various colors, was not easy to be comprehended; they concluded it to be ominous, and a Divine intimation of some heavy calamities. For he who the first, and the most plainly of any, and with the greatest assurance committed to writing how the Moon is enlightened and overshadowed, was Anaxagoras; and he was as yet but recent, nor was his argument much known, but was rather kept secret, passing only amongst a few, under some kind of caution and confidence. People would not then tolerate natural philosophers and theorists, as they then called them, about things above, as lessening the Divine power by explaining away its agency into the operation of irrational causes and senseless forms acting by necessity,* without anything of Providence, as a free agent. Hence it was that Protagoras was banished, and Anaxagoras cast in prison, so that Pericles had much difficulty to procure his liberty, and Socrates, though he had no concern whatever with this sort of learning, yet was put to death for philosophy. It was only afterwards that the reputation of Plato, shining forth by his life, and because he subjected natural necessity to Divine and more excellent principles, took away the obloquy and scandal that had attached to such contemplations, and obtained these studies currency among all people. So his friend Dion, when the Moon, at the time he was to embark from Zacynthus to go against Dionysius, was not in the least disturbed," etc.
 
-* How that should come about, lit. " meeting with what body," though 
-the phrase may be general, like ri iraddov. 
+*) _How that should come about_, lit. "meeting with what body," though the phrase may be general, like τί παθών.
 
-f Senseless forces acting by necessity. Compare the language in c. xv 
-of the De Facie and in the Timceus. 
+*) _Senseless forces acting by necessity_. Compare the language in c. 15 of the _De Facie_ and in the _Timæus_.
 
+An eclipse of the Sun, which took place on August 3rd, 431 B. C. (_see_ Thuc. 2, 28), gives Plutarch (who, however, places it in the following year), occasion for an anecdote, which may be quoted in illustration:---
 
-73 
+"And now the vessels, having their complement of men, and Pericles being gone aboard his own galley, it happened that the Sun was eclipsed, and it grew dark on a sudden, to the affright of all, for this was looked upon as extremely ominous. Pericles, therefore, perceiving the steersman seized with fear and at a loss what to do, took his cloak and held it up before the man's face, and, screening him with it so that he could not see, asked him whether he imagined there was any great hurt or the sign of any great hurt in this, and he answering, No! why, said he, and what does that differ from this, only that what has caused that darkness there is something greater than a cloak? This is a story which philosophers tell their scholars."
 
-a free agent. Hence it was that Protagoras was banished, and 
-Anaxagoras cast in prison, so that Pericles had much difficulty to 
-procure his liberty, and Socrates, though he had no concern 
-whatever with this sort of learning, yet was put to death for 
-philosophy. It was only afterwards that the reputation of Plato, 
-shining forth by his life, and because he subjected natural 
-necessity to Divine and more excellent principles, took away the 
-obloquy and scandal that had attached to such contemplations, 
-and obtained these studies currency among all people. So his 
-friend Dion, when the Moon, at the time he was to embark 
-from Zacynthus to go against Dionysius, was not in the least 
-disturbed," etc. 
+_Life of Pericles_, c. 35.
 
-An eclipse of the Sun, which took place on August 3rd, 
-431 B.C. (see Thuc. ii, 28), gives Plutarch (who, however, 
-places it in the following year), occasion for an anecdote, which 
-may be quoted in illustration : --- 
+The solar eclipse mentioned in c. 19 of the _De Facie_ has been the subject of much discussion, and is interesting, if only because its date, if ascertained, would enable us to know when the dialogue was supposed to take place. This need not be the same with the date of composition. It cannot go very far back, because Menelaus is introduced as a speaker, and he was living and observing in A. D. 98. I have not met with any serious question raised as to the authorship, but in any case the dialogue could not be much later than Plutarch's own life-time, since it shews no consciousness of Ptolemy's work. It is stated as probable by Gréard (p. 45, Note) that all the Lamprias dialogues are early in date, and that Lamprias himself died young. If this was so, a date for this dialogue should be found somewhere in the first century A. D. Various eclipses have been suggested. Kepler examined that of June 1st, A. D. 113, which passed from Northern Europe to the Atlantic north of the Azores. A complete list, with charts for the successive centuries, is given in Ginzel's _Specieller Kanon_ (Berlin, 1899), and a note on Plutarch's eclipse. The author selects that of March 20th, A. D. 71, as most suitable. The date would suit well with the general chronological data already stated. Whatever its date, Plutarch's eclipse would have a special interest if it could be established that his words contain a reference to the appearance of the "Corona" (_see Remarkable Eclipses_, by W. T. Lynn, Samuel Bagster and Sons, 1909, and a letter in _The Observatory_, vol. 4, p. 129, March, 1886). In themselves they would only seem to contain a statement that _all_ solar eclipses are partial (or annular).*
 
-" And now the vessels, having their complement of men, and 
-Pericles being gone aboard his own galley, it happened that the 
-Sun was eclipsed, and it grew dark on a sudden, to the affright of 
-all, for this was looked upon as extremely ominous. Pericles, 
-therefore, perceiving the steersman seized with fear and at a loss 
-what to do, took his cloak and held it up before the man's face, 
-and, screening him with it so that he could not see, asked him 
-whether he imagined there was any great hurt or the sign of 
-any great hurt in this, and he answering, No ! why, said he, and 
-what does that differ from this, only that what has caused that 
-darkness there is something greater than a cloak? This is a 
-story which philosophers tell their scholars." 
+*) See additional note on the next page.
 
-Life of Pericles, c. xxxv. 
+There are several mentions of lunar eclipses in the _Lives_, an interesting one in that of Æmilius Paulus, c. 17. In the _Moralia_ we have frequent indications of the hold which the phenomenon had taken on Plutarch's mind. Thus, in the paper _On Superstition_, he refers to the advantage of possessing a knowledge of science to raise a man above the vulgar claims of old wives to draw down the Moon. However, Plutarch had a superstition of his own connected with the spirits and with death, which comes out in the _De Facie_, and also in the _De Genio Socratis_, where a vivid picture is drawn, in mystical language, of the Moon at her full escaping Styx by her elevation, save once in one hundred and seventy-seven measures of time. In the _De sera numinis vindicta_ a shrill voice is said to issue from the Sibyl who goes round in the face of the Moon presaging the day of death. It may be well, therefore, to look at the conception which Plutarch had derived from his authorities.
 
-The solar eclipse mentioned in c. xix of the De Facie has 
-been the subject of much discussion, and is interesting, if only 
-because its date, if ascertained, would enable us to know when 
-the dialogue was supposed to take place. This need not be the 
-same with the date of composition. It cannot go very far back, 
-because Menelaus is introduced as a speaker, and he was living 
-and observing in a.d. 98. I have not met with any serious 
-question raised as to the authorship, but in any case the dialogue 
-could not be much later than Plutarch's own life-time, since it 
-shews no consciousness of Ptolemy's work. It is stated as 
-probable by Greard (p. 45, Note) that all the Lamprias dialogues 
-are early in date, and that Lamprias himself died young. If this 
-was so, a date for this dialogue should be found somewhere in the 
-first century a.d. Various eclipses have been suggested. Kepler 
-examined that of June 1st, a.d. 113, which passed from Northern 
-Europe to the Atlantic north of the Azores. A complete list, 
-with charts for the successive centuries, is given in Ginzel's 
-Specielier Kano?i (Berlin, 1899), and a note on Plutarch's eclipse. 
+The ancients conceived of the Sun, a body much larger than the Earth and immensely distant from it, as lighting up one side of our globe, while from the other side a cone of black shadow passed into space, tapering to a very fine head. This conception seems to be entirely according to fact, though we have no available point of view. The cone really tapers through some 800,000 miles to an apex of a little more than half a degree, whereas on the combined figures accepted by Ptolemy for the diameter and distance of the Sun, both very inadequate, the length might be some half million of miles, and the angle about a degree. Into this cone at its broadest end the Earth withdrew (we need not ask how) every night, and was darkened by its own shadow. To the same cone, as it travelled slowly round opposite the Sun, the Moon's much faster orbital movement brought her, at a distance from the Earth rightly reckoned at some sixty Earth-radii (240,000 miles), every time she was at the full. Then, if the two orbits were in the same plane, she would always plunge in and be eclipsed centrally every month. But as they are inclined to each other at about five degrees, and intersect at two points, the Moon rising from one point and sinking to the other, her fate depends on the distance of either point from the shadow. If either point, whether of "take-off" or of descent, is near enough to the shadow, she must always be involved more or less closely; if distant enough she will always escape. Ptolemy puts it that there can be no eclipse if the node (point of intersection) is more than 15° 12′ from the centre of the shadow, modern books say 11° 21′. The other limit does not seem to be stated (as it is for a solar eclipse), but there was a small margin between them of uncertainty for ancient methods. Thus, if the orbits always crossed at the same points, there would, broadly speaking, either always, or never, be an eclipse at full Moon. But, in fact, the points are always changing by an uniform movement of retreat, the effect being that an eclipse is possible at an interval of six lunar months (177 days), possible also at one of five, impossible (as Ptolemy is at pains to prove) at one of seven. Thus, after one eclipse, it may be taken for certain that the Moon will escape for the next four or five times; when it comes to the sixth she will probably be caught. If she escape then, she may be caught at the fifth following full Moon or she may only be caught seventeen months from the last eclipse. This is the uncertainty into which Plutarch throws so much imaginative interest. The succession of eclipses was carefully observed by Oriental astronomers, and represented in a cycle depends, as the Greeks at least knew, on the uniform recession of the nodes at the rate of about 19° in the year, completing a revolution in 223 lunar months or eighteen years and ten (or eleven) days.
 
+---
 
-74 
+## Additional Note. 
 
-The author selects that of March 20th, a.d. 71, as most suitable. 
-The date would suit well with the general chronological data 
-already stated. Whatever its date, Plutarch's eclipse would have 
-a special interest if it could be established that his words contain 
-a reference to the appearance of the " Corona " (see Remarkable 
-Eclipses, by W. T. Lynn, Samuel Bagster & Sons, 1909, and a 
-letter in The Observatory, vol. iv, p. 129, March, 1886). In 
-themselves they would only seem to contain a statement that all 
-solar eclipses are partial (or annular).* 
+Ginzel selected for special consideration three eclipses, those of April 30th, A. D. 59; March 20th, A. D. 71; and January 5th, A. D. 75. By the kindness of J. K. Fotheringham, Esq., D. Litt., Fellow of Magdalen College, who has made the laborious computations, I can state the respective magnitude of these eclipses at Chaeroneia as 11.08, 11.82, 10.38 (totality = 12). Thus Ginzel's preference for No. 2 is confirmed: it was there a large partial eclipse (not annular), and the time of greatest phase was 11 hrs. 4.1 mins., local solar time. Several stars would become visible, 66/67 of the sun's diameter being obscured; a few might be visible during No. 1, none during No. 3.
 
-There are several mentions of lunar eclipses in the Lives, an 
-interesting one in that of /Emilius Paulus, c. xvii. In the 
-Moralia we have frequent indications of the hold which the 
-phenomenon had taken on Plutarch's mind. Thus, in the paper 
-On Superstition, he refers to the advantage of possessing a know- 
-ledge of science to raise a man above the vulgar claims of old 
-wives to draw down the Moon. However, Plutarch had a super- 
-stition of his own connected with the spirits and with death, 
-which comes out in the De Facie, and also in the De Ge?iio 
-Socratis, where a vivid picture is drawn, in mystical language, of 
-the Moon at her full escaping Styx by her elevation, save once in 
-one hundred and seventy-seven measures of time. In the De 
-sera numinis vindicta a shrill voice is said to issue from the Sibyl 
-who goes round in the face of the Moon presaging the day of 
-death. It may be well, therefore, to look at the conception which 
-Plutarch had derived from his authorities. 
+[Figure 1. --- To illustrate Chapter 17 --- end (after Kepler). There is always a point on the Half Moon, from which the Sun's rays are reflected down to Earth. Join S, T, L, centres of Sun, Earth, Moon: with centre L and distance L T describe a circle: bisect the arc C T in D: join D L: I is the point required. (V I B is in a plane which touches the Moon's circumference at I.)]()
 
-The ancients conceived of the Sun, a body much larger than 
-the Earth and immensely distant from it, as lighting up one side 
-of our globe, while from the other side a cone of black shadow 
-passed into space, tapering to a very fine head. This conception 
-seems to be entirely according to fact, though we have no available 
-point of view. The cone really tapers through some 800,000 
-miles to an apex of a little more than half a degree, whereas on 
-the combined figures accepted by Ptolemy for the diameter and 
-distance of the Sun, both very inadequate, the length might be 
-some half million of miles, and the angle about a degree. Into 
-this cone at its broadest end the Earth withdrew (we need not ask 
-how) every night, and was darkened by its own shadow. To the 
-same cone, as it travelled slowly round opposite the Sun, the 
-Moon's much faster orbital movement brought her, at a distance 
-from the Earth rightly reckoned at some sixty Earth-radii (240,000 
-miles), every time she was at the full. Then, if the two orbits 
-were in the same plane, she would always plunge in and be 
-eclipsed centrally every month. But as they are inclined to each 
-other at about five degrees, and intersect at two points, the Moon 
-rising from one point and sinking to the other, her fate depends 
-on the distance of either point from the shadow. If either point, 
-whether of "take-off" or of descent, is near enough to the 
-
-* See additional note on the next page. 
-
-
-75 
-
-shadow, she must always be involved more or less closely ; if 
-distant enough she will always escape. Ptolemy puts it that there 
-can be no eclipse if the node (point of intersection) is more 
-than 1 50 12' from the centre of the shadow, modern books say 
-ii° 21'. The other limit does not seem to be stated (as it is for 
-a solar eclipse), but there was a small margin between them of 
-uncertainty for ancient methods. Thus, if the orbits always 
-crossed at the same points, there would, broadly speaking, either 
-always, or never, be an eclipse at full Moon. But, in fact, the 
-points are always changing by an uniform movement of retreat, 
-the effect being that an eclipse is possible at an interval of six 
-lunar months (177 days), possible also at one of five, impossible 
-(as Ptolemy is at pains to prove) at one of seven. Thus, after 
-one eclipse, it may be taken for certain that the Moon will escape 
-for the next four or five times ; when it comes to the sixth she will 
-probably be caught. If she escape then, she may be caught at 
-th^ fifth fnllowino- full Mnnn nr she mav onlv he cauerht seventeen 
-
-:h 
-of 
-id 
-
-p. 75, 11. 7-9. For "Thus if the orbits .... full moon," read 
-
-"Thus if the orbits always crossed at the same points, and 
-
-if the year contained exactly twelve lunar months, there in 
-
-would, broadly speaking, either always or never, be an -U 
-
-eclipse at every sixth full moon." 
-
-Also in 11. 24, 25, delete 
-
-"completing a revolution days. 
-
-
-Ginzel selected for special consideration three eclipses, those 
-of April 30th, a.d. 59; March 20th, a.d. 71; and January 
-5th, a.d. 75. By the kindness of J. K. Fotheringham, Esq., 
-D.Litt., Fellow of Magdalen College, who has made the laborious 
-computations, I can state the respective magnitude of these 
-eclipses at Chaeroneia as 11.08, 11.82, 10.38 (totality = 12). 
-Thus Ginzel's preference for No. 2 is confirmed : it was there a 
-large partial eclipse (not annular), and the time of greatest phase 
-was 11 hrs. 4.1 mins., local solar time. Several stars would 
-become visible, £f of the sun's diameter being obscured : a few 
-might be visible during No. i, none during No. 3. 
-
-
-74 
-
-The author selects that of March 20th, a.d. 71, as most suitable. 
-The date would suit well with the general chronological data 
-already stated. Whatever its date, Plutarch's eclipse would have 
-a special interest if it could be established that his words contain 
-a reference to the appearance of the " Corona " (see Remarkable 
-Eclipses, by W. T. Lynn, Samuel Bagster & Sons, 1909, and a 
-letter in The Observatory, vol. iv, p. 129, March, 1886). In 
-themselves they would only seem to contain a statement that all 
-solar eclipses are partial (or annular).* 
-
-There are several mentions of lunar eclipses in the Lives, an 
-interesting one in that of yEmilius Paulus, c. xvii. In the 
-Moralia we have frequent indications of the hold which the 
-phenomenon had taken on Plutarch's mind. Thus, in the paper 
-On Superstition, he refers to the advantage of possessing a know- 
-ledge of science to raise a man above the vulgar claims of old 
-wives to draw down ^p Moon Hnwpypr. Plutarch had a suner- 
-stition of his owr 
-which comes out 
-Socratis, where a ' 
-the Moon at her f 
-one hundred and 
-sera ?iuminis vindi 
-who goes round 
-death. It may be 
-Plutarch had deri\ 
-
-The ancients < • • 
-
-the Earth and im 
-of our globe, whil 
-passed into space, 
-
-seems to be entirex^ «« --- * --- B ^ , 0„ _ 
-
-point of view. The cone really tapers through some 800,000 
-miles to an apex of a little more than half a degree, whereas on 
-the combined figures accepted by Ptolemy for the diameter and 
-distance of the Sun, both very inadequate, the length might be 
-some half million of miles, and the angle about a degree. Into 
-this cone at its broadest end the Earth withdrew (we need not ask 
-how) every night, and was darkened by its own shadow. To the 
-same cone, as it travelled slowly round opposite the Sun, the 
-Moon's much faster orbital movement brought her, at a distance 
-from the Earth rightly reckoned at some sixty Earth-radii (240,000 
-miles), every time she was at the full. Then, if the two orbits 
-were in the same plane, she would always plunge in and be 
-eclipsed centrally every month. But as they are inclined to each 
-other at about five degrees, and intersect at two points, the Moon 
-rising from one point and sinking to the other, her fate depends 
-on the distance of either point from the shadow. If either point, 
-whether of "take-off" or of descent, is near enough to the 
-
-* See additional note on the next pugf. 
-
-
-75 
-
-shadow, she must always be involved more or less closely ; if 
-distant enough she will always escape. Ptolemy puts it that there 
-can be no eclipse if the node (point of intersection) is more 
-than 1 50 12' from the centre of the shadow, modern books say 
-n° 21/. The other limit does not seem to be stated (as it is for 
-a solar eclipse), but there was a small margin between them of 
-uncertainty for ancient methods. Thus, if the orbits always 
-crossed at the same points, there would, broadly speaking, either 
-always, or never, be an eclipse at full Moon. But, in fact, the 
-points are always changing by an uniform movement of retreat, 
-the effect being that an eclipse is possible at an interval of six 
-lunar months (177 days), possible also at one of five, impossible 
-(as Ptolemy is at pains to prove) at one of seven. Thus, after 
-one eclipse, it may be taken for certain that the Moon will escape 
-for the next four or five times ; when it comes to the sixth she will 
-probably be caught. If she escape then, she may be caught at 
-the fifth following full Moon, or she may only be caught seventeen 
-months from the last eclipse. This is the uncertainty into which 
-Plutarch throws so much imaginative interest. The succession of 
-eclipses was carefully observed by Oriental astronomers, and 
-represented in a cycle known as the Sa?-os, which they passed to 
-the Greeks. This cycle depends, as the Greeks at least knew, on 
-the uniform recession of the nodes at the rate of about 190 in 
-the year, completing a revolution in 223 lunar months or eighteen 
-years and ten (or eleven) days. 
-
-
-Additional Note. 
-
-Ginzel selected for special consideration three eclipses, those 
-of April 30th, a.d. 59; March 20th, a.d. 71; and January 
-5th, a.d. 75. By the kindness of J. K. Fotheringham, Esq., 
-D. Litt., Fellow of Magdalen College, who has made the laborious 
-computations, I can state the respective magnitude of these 
-eclipses at Chaeroneia as 11.08, 11.82, 10.38 (totality = 12). 
-Thus Ginzel's preference for No. 2 is confirmed : it was there a 
-large partial eclipse (not annular), and the time of greatest phase 
-was nhrs. 4. 1 mins., local solar time. Several stars would 
-become visible, f f of the sun's diameter being obscured ; a few 
-might be visible during No. 1, none during No. 3. 
-
-
-Figure I. --- To illustrate Chapter XVII --- end (after Kepler). 
-
-
-There is always a point on the Half Moon, from which the Sun's rays are reflected down to 
-Earth. Join S, T, L, centres of Sun, Earth, Moon: with centre L and distance LT describe a 
-circle : bisect the arc C T in D : join D L : I is the point required. (V 1 B is in a plane which 
-touches the Moon's circumference at I.) 
+[Figure 2. --- Lunar Eclipse of November 16-17, 1910. Sectional view of the Moon centering the shadow-cone at 10.44 p. m. The dotted line shews the track of the centre of the shadow, whose course conform to that of the distant Sun. The Moon crossed this track at about 2 p. m. on November 16th, at which time the shadow had nearly reached the position shown.]()
