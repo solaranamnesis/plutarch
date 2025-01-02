@@ -647,193 +647,29 @@ The _Somnium Scipionis_ formed the concluding part of the 6th and last book of C
 
 ---
 
-9\. When I arrived in Africa to join M' Manilius, the 
-Consul, as a tribune, you will remember, of the Fourth Legion, I 
-made it my first duty to meet Masinissa, a prince to whom our 
-family was, for good reasons, deeply attached. The old man 
-embraced me when I came, and burst into tears ; presently he 
-looked upward and said, " I thank thee, O Sun most high, and 
-you ye other Heavenly powers, that before I pass out of this life 
-I behold, within my kingdom, and in this house, P. Cornelius 
-Scipio, whose very name is a refreshment to me, so imperishably 
-planted in my mind is the memory of him who bore it, the best 
-and stanchest of mankind." I asked him about his kingdom, 
-and he asked me about our Republic. We had much to say on 
-either side, and so that day passed. 
+9\. When I arrived in Africa to join M' Manilius, the Consul, as a tribune, you will remember, of the Fourth Legion, I made it my first duty to meet Masinissa, a prince to whom our family was, for good reasons, deeply attached. The old man embraced me when I came, and burst into tears; presently he looked upward and said, "I thank thee, O Sun most high, and you ye other Heavenly powers, that before I pass out of this life I behold, within my kingdom, and in this house, P. Cornelius Scipio, whose very name is a refreshment to me, so imperishably planted in my mind is the memory of him who bore it, the best and stanchest of mankind." I asked him about his kingdom, and he asked me about our Republic. We had much to say on either side, and so that day passed.
 
-X. We were entertained with royal splendour, and "talked 
-and talked till night was growing old." The old man spoke of 
-nothing but Africanus, and remembered all his deeds, and even 
-the things which he had said. Then we parted for our chambers. 
-I was tired with my journey, and had stayed up till very late, and 
-a deeper sleep than was my wont enfolded me. I suppose it was 
-because of what we had been saying, for so it is that our thoughts 
-and conversations give birth in sleep to something like what 
-Ennius writes of Homer, that Homer of whom he used to think 
-and speak so often in his waking hours. Be that as it may, 
-Africanus presented himself to me in his well-known form, to me 
-more familiar from his bust than in life. At first I shuddered 
-when I recognised him ; but he said, Be thyself, Scipio, and 
-have no fear, and store in thy memory what I am about to say. 
+10\. We were entertained with royal splendour, and "talked and talked till night was growing old." The old man spoke of nothing but Africanus, and remembered all his deeds, and even the things which he had said. Then we parted for our chambers. I was tired with my journey, and had stayed up till very late, and a deeper sleep than was my wont enfolded me. I suppose it was because of what we had been saying, for so it is that our thoughts and conversations give birth in sleep to something like what Ennius writes of Homer, that Homer of whom he used to think and speak so often in his waking hours. Be that as it may, Africanus presented himself to me in his well-known form, to me more familiar from his bust than in life. At first I shuddered when I recognised him; but he said, Be thyself, Scipio, and have no fear, and store in thy memory what I am about to say.
 
-XI. Seest thou that city, once compelled by my arms to 
-obey the Roman people, which is now renewing the old warfare, 
+11\. Seest thou that city, once compelled by my arms to obey the Roman people, which is now renewing the old warfare, and cannot abide quiet (here he pointed to Carthage from a lofty place where we stood, full of stars and bright with their clear lustre), Carthage, to attack which thou art now come, almost a mere common soldier. In two years' time thou shalt return as Consul, and level it to the ground; and the name which now thou bearest by inheritance from me shall be thine by right of thine own arm. Carthage destroyed, thy triumph celebrated, a year of censorship passed, Egypt, Syria, Asia, Greece traversed by thee as governor, thou shalt be chosen Consul a second time in absence, shalt raze Numantia, and close a mighty war. But when thou shalt be borne to the Capitol in thy chariot thou shalt find the state disordered by my grandson's counsels.
 
-* From the text of F. A. Nobbe. 
+12\. Here, Africanus, it will be thy duty to show to thy country the light of thy spirit, genius, and policy. But at this crisis I see the path of the Fates part, as it were, into two; for when thy life shall have completed eight times seven windings and returns of the Sun in his orbit, and those two numbers, each known as a full one, yet each for a different reason, shall by their natural circuit have rounded for thee their fateful sum, the gaze of the whole state shall be fixed on thee alone, and on thy name; to thee the Senate, to thee shall all good men look, the allies, the Latins; thou shalt be the only stay on which the safety of the state may lean; in a word, thou must be dictator, thou must bring order to the commonwealth, if so be thou shalt have escaped the unholy hands of thy kindred.
 
+Here Lælius cried aloud, and the others uttered a deeper groan; but Scipio gently smiled and said, I pray you, wake me not from my sleep, nor break the vision; hear what remains!
 
-66 
+13\. But, Africanus, that thou mayest be more alert to defend the Republic, understand this, that for all who shall have preserved, or helped, or advanced their fatherland, a certain place is set apart in Heaven, where they may enjoy life and bliss for ever; since nothing is more to the mind of that Sovereign God Who rules this Universe --- nothing, I mean, of all which passes on the Earth --- than the combinations and assemblages of men in lawful union, which are called states. From such a place in Heaven do rulers and preservers of states go forth, and to it they return.
 
-and cannot abide quiet (here he pointed to Carthage from a lofty 
-place where we stood, full of stars and bright with their clear 
-lustre), Carthage, to attack which thou art now come, almost a mere 
-common soldier. In two years' time thou shalt return as Consul, 
-and level it to the ground ; and the name which now thou bearest 
-by inheritance from me shall be thine by right of thine own arm. 
-Carthage destroyed, thy triumph celebrated, a year of censorship 
-passed, Egypt, Syria, Asia, Greece traversed by thee as governor, 
-thou shalt be chosen Consul a second time in absence, shalt 
-raze Numantia, and close a mighty war. But when thou shalt 
-be borne to the Capitol in thy chariot thou shalt find the state 
-disordered by my grandson's counsels. 
+14\. Here I, though greatly moved by the fear, not of death, but of foes in my own household, found voice to ask whether he, and Paulus my father, and others of whom we thought as dead and gone, were living still. Assuredly, he said, they live who have flown forth from their bodily fetters as from prison; your life, as you call it, is death. Look up and see Paulus, thy father, he comes towards thee. When I saw my father I broke into floods of tears; but he embraced me and kissed me, and bade me not to weep.
 
-XII. Here, Africanus, it will be thy duty to show to thy 
-country the light of thy spirit, genius, and policy. But at this 
-crisis I see the path of the Fates part, as it were, into two; for 
-when thy life shall have completed eight times seven windings 
-and returns of the Sun in his orbit, and those two numbers, each 
-known as a full one, yet each for a different reason, shall by their 
-natural circuit have rounded for thee their fateful sum, the gaze 
-of the whole state shall be fixed on thee alone, and on thy name ; 
-to thee the Senate, to thee shall all good men look, the allies, the 
-Latins ; thou shalt be the only stay on which the safety of the 
-state may lean ; in a word, thou must be dictator, thou must 
-bring order to the commonwealth, if so be thou shalt have escaped 
-the unholy hands of thy kindred. 
+15\. As soon as I could restrain my tears and find voice to speak, Tell me, said I, my father, most reverend and best, since this is life, as I hear Africanus say, why do I linger on this Earth, why not hasten hither to you? Not so, he answered; until that God, Whose temple is all which thou beholdest here, shall have freed thee from the charge of the body, the way hitherward cannot lie open for thee. Men are brought into being for this end, that they may have in their care the globe called Earth, which thou seest in the middle part of this heavenly space; to them a soul is given from those eternal fires which ye call constellations and stars, rounded to perfect spheres, instinct with divine minds, performing their due revolutions with wondrous speed. Therefore, Publius, it is for thee and for all good men to let the soul remain as guardian of the body, and not without His word by Whom that soul was given, to pass from out the life of men, lest ye be found guilty of deserting that human function which God assigned to you. Do thou, Scipio, like this thy grandfather, and like me who begat thee, observe justice and loyalty. Though loyalty is a great matter towards parents and kinsfolk, it is greatest of all towards country. Such a life is the path to Heaven, to this assembly of those who have lived their lives, and now, released from the body, inhabit the place which thou seest.
 
-Here Laelius cried aloud, and the others uttered a deeper 
-groan ; but Scipio gently smiled and said, I pray you, wake me 
-not from my sleep, nor break the vision ; hear what remains ! 
+16\. Now this was that circle of dazzling splendour, set in flames, yet brighter than the flames, which you call, as the Greeks have taught you, the Milky Way. As I gazed out from it, all which I saw was passing wonderful. There were such stars as from this place we have never seen, and such magnitudes as we have never suspected to exist; the smallest of them all was she who, last in Heaven and nearest to Earth, shone with borrowed light. The globes of the stars easily surpassed the Earth in size; indeed Earth herself appeared to me so small that I felt ashamed of our empire, wherewith we touch a mere point of her surface.
 
-XIII. But, Africanus, that thou mayest be more alert to 
-defend the Republic, understand this, that for all who shall have 
-preserved, or helped, or advanced their fatherland, a certain place 
-is set apart in Heaven, where they may enjoy life and bliss for 
-ever ; since nothing is more to the mind of that Sovereign God 
-Who rules this Universe --- nothing, I mean, of all which passes on 
-the Earth --- than the combinations and assemblages of men in 
-lawful union, which are called states. From such a place in 
-Heaven do rulers and preservers of states go forth, and to it they 
-return. 
+17\. As I gazed more closely upon her, How long, said Africanus, how long will thy mind be fixed upon the ground below? Seest thou not into what heavenly precincts thou art come? All is interwoven with nine orbits, or rather nine spheres; one is heavenly and lies on the extreme outside, and enfolds all the rest, God Himself most high, confining and containing all the others. On it are fixed the eternal courses of the stars which revolve around us; beneath it lie the seven which travel backwards in the opposite direction to the Heaven itself, of which one sphere belongs to the star named on Earth as Saturn; next comes the brightness, prosperous and salutary to mankind, called after Jupiter; then, red and dreadful to our Earth, that which ye call the star of Mars; next, and nearly in the middle space, the Sun has his station --- leader, prince and governor of the other lights, the mind and controlling influence of the Universe, so vast that he illuminates and fills all with his light. Two follow him as his companions, one the path of Venus, the other of Mercury; in the lowest orbit revolves the Moon, kindled by the rays of the Sun. Below her is nothing that is not mortal and perishable, except the minds given to the human race by the bounty of the gods; above the Moon all things are eternal, for the Earth, which comes ninth and is the centre, never moves, and is lowest of all, and towards it all masses are borne by their own inclination.
 
-XIV. Here I, though greatly moved by the fear, not of 
-death, but of foes in my own household, found voice to ask 
-whether he, and Paulus my father, and others of whom we thought 
-as dead and gone, were living still. Assuredly, he said, they live 
-who have flown forth from their bodily fetters as from prison ; 
-your life, as you call it, is death, Look up and see Paulus, thy 
-father, he comes towards thee. When I saw my father I broke 
-into floods of tears; but he embraced me and kissed me, and 
-bade me not to weep. 
+18\. I gazed bewildered, and when I recovered myself I said: What is the sound which fills my ears, so loud and so sweet? That sound, he said, is formed at intervals unequal yet divided on a fixed scale, by the impulse and movement of the spheres themselves; it mingles high notes with low, and makes the various harmonies flow smoothly; it could never be that such mighty motions should speed in silence, and Nature wills that extremes on one side give a low, on the other a high sound. Therefore that highest orbit in Heaven which bears the stars, inasmuch as it revolves at greater speed than the others, moves to a shrill and eager note, this lowest lunar orbit to a very low one; for the Earth comes ninth, motionless and fixed in the lowest station, holding the middle point of the Universe. Those eight orbits, among which two are in effect identical, make seven tones with distinct intervals, this number seven being the knot which ties together almost all things. Artists have imitated this on strings and with the voice, and so have opened to themselves a return to this place, as have those others of excellent genius who, in their human life, have applied themselves to heavenly themes. Overcharged with this sound, the ears of men have grown deaf to it; there is no sense among you more easily blunted. So it is where the Nile hurls himself from lofty mountains to the falls they call Catadupa; the tribe which dwells about the place lacks the sense of hearing because of the greatness of the sound. This sound of the entire Universe revolving at utmost speed is so great that the ears of men cannot take it in, even as ye cannot look full at the Sun, and your sense of sight is overpowered by his rays. I listened, and admired, yet from time to time my eyes returned to Earth.
 
-
-67 
-
-XV. As soon as I could restrain my tears and find voice to 
-speak, Tell me, said I, my father, most reverend and best, since 
-this is life, as I hear Africanus say, why do I linger on this 
-Earth, why not hasten hither to you ? Not so, he answered ; until 
-that God, Whose temple is all which thou beholdest here, shall 
-have freed thee from the charge of the body, the way hitherward 
-cannot lie open for thee. Men are brought into being for this 
-end, that they may have in their care the globe called Earth, 
-which thou seest in the middle part of this heavenly space ; to 
-them a soul is given from those eternal fires which ye call 
-constellations and stars, rounded to perfect spheres, instinct with 
-divine minds, performing their due revolutions with wondrous 
-speed. Therefore, Publius, it is for thee and for all good men to 
-let the soul remain as guardian of the body, and not without His 
-word by Whom that soul was given, to pass from out the life of 
-men, lest ye be found guilty of deserting that human function 
-which God assigned to you. Do thou, Scipio, like this thy 
-grandfather, and like me who begat thee, observe justice and 
-loyalty. Though loyalty is a great matter towards parents and 
-kinsfolk, it is greatest of all towards country. Such a life is the 
-path to Heaven, to this assembly of those who have lived their 
-lives, and now, released from the body, inhabit the place which 
-thou seest. 
-
-XVI. Now this was that circle of dazzling splendour, set in 
-flames, yet brighter than the flames, which you call, as the Greeks 
-have taught you, the Milky Way. As I gazed out from it, all 
-which I saw was passing wonderful. There were such stars as 
-from this place we have never seen, and such magnitudes as we 
-have never suspected to exist ; the smallest of them all was she 
-who, last in Heaven and nearest to Earth, shone with borrowed 
-light. The globes of the stars easily surpassed the Earth in size ; 
-indeed Earth herself appeared to me so small that I felt ashamed 
-of our empire, wherewith we touch a mere point of her surface. 
-
-XVII. As I gazed more closely upon her, How long, said 
-Africanus, how long will thy mind be fixed upon the ground 
-below ? Seest thou not into what heavenly precincts thou art 
-come ? All is interwoven with nine orbits, or rather nine spheres ; 
-one is heavenly and lies on the extreme outside, and enfolds all 
-the rest, God Himself most high, confining and containing all 
-the others. On it are fixed the eternal courses of the stars 
-which revolve around us ; beneath it lie the seven which travel 
-backwards in the opposite direction to the Heaven itself, of 
-which one sphere belongs to the star named on Earth as Saturn ; 
-next comes the brightness, prosperous and salutary to mankind, 
-called after Jupiter ; then, red and dreadful to our Earth, that 
-which ye call the star of Mars ; next, and nearly in the middle 
-space, the Sun has his station --- leader, prince and governor of the 
-other lights, the mind and controlling influence of the Universe, 
-
-
-68 
-
-so vast that he illuminates and fills all with his light. Two follow 
-him as his companions, one the path of Venus, the other of 
-Mercury ; in the lowest orbit revolves the Moon, kindled by the 
-rays of the Sun. Below her is nothing that is not mortal and 
-perishable, except the minds given to the human race by the 
-bounty of the gods ; above the Moon all things are eternal, for 
-the Earth, which comes ninth and is the centre, never moves, and 
-is lowest of all, and towards it all masses are borne by their own 
-inclination. 
-
-XVIII. I gazed bewildered, and when I recovered myself 
-I said : What is the sound which fills my ears, so loud and so 
-sweet ? That sound, he said, is formed at intervals unequal yet 
-divided on a fixed scale, by the impulse and movement of the 
-spheres themselves ; it mingles high notes with low, and makes 
-the various harmonies flow smoothly ; it could never be that such 
-mighty motions should speed in silence, and Nature wills that 
-extremes on one side give a low, on the other a high sound. 
-Therefore that highest orbit in Heaven which bears the stars, 
-inasmuch as it revolves at greater speed than the others, moves to 
-a shrill and eager note, this lowest lunar orbit to a very low one ; 
-for the Earth comes ninth, motionless and fixed in the lowest 
-station, holding the middle point of the Universe. Those eight 
-orbits, among which two are in effect identical, make seven tones 
-with distinct intervals, this number seven being the knot which 
-ties together almost all things. Artists have imitated this on 
-strings and with the voice, and so have opened to themselves a 
-return to this place, as have those others of excellent genius who, 
-in their human life, have applied themselves to heavenly themes. 
-Overcharged with this sound, the ears of men have grown deaf to 
-it ; there is no sense among you more easily blunted. So it is 
-where the Nile hurls himself from lofty mountains to the falls they 
-call Catadupa ; the tribe which dwells about the place lacks the 
-sense of hearing because of the greatness of the sound. This 
-sound of the entire Universe revolving at utmost speed is so 
-great that the ears of men cannot take it in, even as ye cannot 
-look full at the Sun, and your sense of sight is overpowered by his 
-rays. I listened, and admired, yet from time to time my eyes 
-returned to Earth. 
-
-XIX. Then Africanus : --- I perceive that thou art even now 
+19\. Then Africanus:--- I perceive that thou art even now 
 gazing on the dwelling-place and home of men ; if that seem to 
 thee small, as small indeed it is, look always to these Heavenly 
 sights, despise the things below, which are but mortal. Take 
