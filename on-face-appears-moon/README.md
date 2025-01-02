@@ -7,4 +7,4 @@
 Latin - Plain Text  
 Latin - PDF  
 [English - Plain Text](full-text-english.md)  
-English - PDF | Coelacanth | Biolinum | Atkinson | Kerkis | Auriocus | Custom01  
+[English - PDF](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_atkinson.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_kerkis.pdf) | [Cursive](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_frcursive.pdf) | [Custom01](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_custom01.pdf) | [Custom02](https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_custom02.pdf)  
