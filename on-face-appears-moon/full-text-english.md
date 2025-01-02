@@ -473,184 +473,81 @@ Ch. 7. --- _That segments of beams, etc._
 
 A beam is sawn into two segments, on, or near, the earth's surface. The two segments move simultaneously towards the central point, but in converging, not parallel, lines (_cp. Arist. de Caelo_, 2, 14, 296 _b_ 18). If there is an appreciable gap between them (say 1/10 inch) they will at first move freely, but soon (after 3 1/3 miles) each will feel pressure from without inwards, and there will be jamming and recoils for the rest of the 4000 miles. I am not sure whether any change in γῆς is necessary; τομῆς has been suggested. I am aware that other explanations may be given; the above appeared to me to suit the banter of the Stoics in the passage generally. It was suggested by the words of Aristotle quoted above in this note.
 
-p. 22, ch. vii. --- Up down, down up, where topsy-turvy reigns. 
+Ch. 7. --- _Up down, down up, where topsy-turvy reigns._
 
-Tpairefx-naXLv is Bernardakis' bright suggestion for 
-Tfjairivra ttuXlv. (See below on ch. 23). 
+τραπέμπαλιν is Bernardakis' bright suggestion for τραπέντα πάλιν. (See below on ch. 23).
 
-Professor Henry Jackson has pointed out that the words 
-here form a hexameter. 
+Professor Henry Jackson has pointed out that the words here form a hexameter.
 
-ravo) [wavTa] kutco, real irdvTa rpa7T6/x7ra\iv elvai. 
+τἄνω [πάντα] κάτω, καὶ πάντα τραπέμπαλιν εἶναι
 
+Ch. 7. --- _Out of sympathy with earth_ ...
 
-55 
+συμπαθείᾳ needs no change. It is a Stoic word.
 
-p. 22, ch. vii. --- Out of sympathy with earth . . . 
+Ch. 7. --- _The down part of his body._
 
-avfiiraOeia needs no change. It is a Stoic word. 
+ἀνακύπτον αὐτοῦ τὸ ... εἶναι --- _qy._ τὸ νῶτον?
 
-p. 22, ch. vii. --- The down part of his body. 
+Ch. 9. --- _Like to the nave of a wagon she glances_ ...
 
-dvafcvTTTov avTov to . . . elvcu --- ay. to vmtov ? 
+ἅρματος ὥσπερ ἴχνος ἀνελίσσεται ... _qy._, ἅρματος ὥσπερ ἀεὶ χνόη ᾄσσεται ... ? See Diels, who prints ἅρματος ὡς περὶ χνοίη ἑλίσσεται.
 
-p. 23, ch. ix. --- Like to the nave of a ivagon she glances . . . 
+Ch. 9. --- _Why, she seldom clears the earth's shadow, though she rises but little, the illuminating body being so vast._
 
-apfACLTos cacnrep l'%vo<; dveXlaaeTai 
+I have retained αἰρομένη, altered by W. (or by older editors; see Amyot's tr.) to αἰρομένην. The point is, not the narrowness of the shadow (which would weaken the argument), but the trifling angle (5°) at which the moon rises from the sun's path in order to avoid eclipse. Compare μὴ ὑπεραίρουσα four lines lower, and _De Genio Socratis_, 591 C., σελήνη δὲ ... φεύγει τὴν Στύγα μικρὸν ὑπερφέρουσα.
 
-qy., apficLTOs bscnrep del xvor) acro-eTai . . . ? See Diels, 
-who prints ap/jLCLTos &>? irepl xvo^V iXla-aeTat. 
+τῷ παμμεγεθὲς εἶναι is not an instrumental dative after this participle, but one of attendant circumstance (see the instances quoted in Matthiae's _Grammar_, 541). She has to rise but little, in view of the fact that the illuminant is so vast and so distant, and the shadow so finely tapering. The physical fact is the same in either case (see ch. 6); the logic is not very distinct, but is now not against the speaker's view. The moon clears the earth's shadow, not "seldom," but five times out of six and oftener, if the whole number of full moons be considered. But Plutarch refers only to what he calls, in ch. 20, "full moons at eclipse intervals" (ἐκλειπικαὶ πανσέληνοι), when the moon may be expected to be eclipsed, and (in homely language) "makes her shot" to clear the shadow, but seldom (once out of four or five times) succeeds.
 
-p. 23, ch. ix. --- Why, she seldom clears the earth's shadow, 
-though she rises but little, the illuminating body being 
-so vast. 
+Ch. 10. --- _On this side and on that._
 
-I have retained aipofxivr), altered by W. (or by older 
-editors ; see Amyot's tr.) to alpo/jbevrjv. The point is, not 
-the narrowness of the shadow (which would weaken the 
-argument), but the trifling angle (50) at which the moon 
-rises from the sun's path in order to avoid eclipse. Com- 
-pare fMT] vTrepalpovcra four lines lower, and De Genio Socratis, 
-591 C, aeXrjvi] be . . , . (f)€vy€C ttjv %Ti>ya fXLKpov virep- 
-(frepovaa. 
+ἀλλὰ καὶ ἐκείνῃ καὶ ταύτῃ διάστημα δοτέον ... So Madvig (Adv. 1, p. 665) for ἀλλὰ καὶ κινητικο ... ταύτῃ διάστημα τὸ δέον.
 
-tgG TraiAfxeyeOes elvai is not an instrumental dative after 
-this participle, but one of attendant circumstance (see the 
-instances quoted in Matthiae's Grammar, 541). She has to 
-rise but little, in view of the fact that the illuminant is so vast 
-and so distant, and the shadow so finely tapering. The 
-physical fact is the same in either case (see ch. vi, p. 20) ; 
-the logic is not very distinct, but is now not against the 
-speaker's view. The moon clears the earth's shadow, not 
-" seldom," but five times out of six and oftener, if the whole 
-number of full moons be considered. But Plutarch refers 
-only to what he calls, in ch. xx, p. 33, "full moons at 
-eclipse intervals" (iK\€i7rifcai irava-eXrjvot), when the moon 
-may be expected to be eclipsed, and (in homely language) 
-" makes her shot " to clear the shadow, but seldom (once 
-out of four or five times) succeeds. 
+Ch. 12. --- _"Where neither sun's bright face is separate seen."_
 
-p. 24, ch. x. --- On this side and on that. 
+διείδεται Mullach, for δεδίττεται.
 
-dXXa Kal itcetvy ical TavTrj Sluo-tt]/jlci 8qt€ov . . . So 
-Madvig (Adv. I, p. 665) for dXXa Kal kivt)tlko . . . TavTy 
-Sid<TT7]/jLa to Seov. 
+Ch. 16. --- _We do know that universally the Better prevails over the law of Stress."
 
-p. 25, ch. xii. --- " Where neither sun's bright face is separate 
-seen!' 
-SielBeTac Mullach, for SeStTTeTat. 
+I have followed W.'s ἐν παντὶ δὲ κρατεῖ τὸ βέλτιον τοῦ κατηναγκασμένου, for ἐν παντὶ δὲ κρατεῖται τὸ βέλτιον τὸ κατηναγκασμένον. The terms are from the _Timaeus_, where ἀνάγκη means the positive laws of nature, and the participle the condition of things according to those laws. See _Plat. Tim._, ch. 17, p. 47 E, and Archer Hind's notes. But the question of reading is difficult.
 
+Ch. 16. --- _A circle of eternal and never-ending revolution._
 
-56 
+ἀϊδίου, Emperius for δι' οὗ.
 
-p. 27, ch. xvi. --- We do know that universally the Better 
-prevails over the law of Stress. 
+--- _She quenched his beams._
 
-I have followed W.'s iv ttclvtI 8e tcparel to @i\Tt,ov rov 
-tcaT7)vay/ca<TfjLevov, for iv iravri Be KparetTac to /3&\ti,ov to 
-/caT7]vay/cao~fjLevov. The terms are from the Timaeus, where 
-avdy/crj means the positive laws of nature, and the participle 
-the condition of things according to those laws. See Plat. 
-Tim., ch. XVII, p. 47 E, and Archer Hind's notes. But the 
-question of reading is difficult. 
+ἀπεσκέδασεν, Xylander for ἀπεσκεύασεν.
 
-p. 27, ch. xvi. --- A circle of eternal and never-ending revolu- 
-tion. 
+Ch. 17. --- _Four images in all_ ... _within the mirrors._
 
-aihiov, Emperius for oY ov. 
+I have translated, or paraphrased, the text suggested by W., but incline to think that the words given by the MSS. need little change, though the author has not expressed himself clearly. Mirrors inclined to each other at an angle of about 60° will shew two images of (say) a face in which the right eye of the face appears on the proper left side in the image (being opposite the right eye of the real face), two dimmer ones in which right eye is in its true place (δεξιοφανεῖς). There will actually be a fifth image at the angle, also δεξιοφανής. (At 90° there would be three images, and at 45° seven.) See Ganot's _Physics_, 516. Plato does not discuss "folding mirrors," nor, apparently, Euclid or Ptolemy. The simplest change would be to strike out ἀριστεροῖς, and understand τ. ἔξωθεν μ. of the parts of the mirrors remote from the inner angle. The case of the first-mentioned images is the normal one of reflexion in a mirror, so no epithet is needed (as ἀριστεροφανεῖς). See also p. 11.
 
-p. 28. --- She quenched his beams. 
+It may readily be shewn, by drawing the figure, that all the results stated in the text, and also the omitted case of the image in the angle, follow from the law of reflexion at equal angles.
 
-aireo-Kehaaev, Xylander for aireaKevaaev. 
+Ch. 17. --- _They observe that these images, etc._
 
-p. 29, ch. xvii. --- Four images in all . . . within the mirrors. 
+ὅσας ὁμόσε χωροῦντες ἀξιοῦσιν _qy._ ὅσας ὅμοσε χωρεῖν ὁρῶντες, ἀξιοῦσιν? _i. e._, They observe that all these images meet in one point, _i. e._, the eye of the observer, and further, etc. For ὁμόσε χωρεῖν, _cp._ τῷ φωτὶ πανταχόσε χωροῦντι p. 930 F.
 
-I have translated, or paraphrased, the text suggested 
-by W., but incline to think that the words given by the 
-MSS. need little change, though the author has not ex- 
-pressed himself clearly. Mirrors inclined to each other at 
-an angle of about 6o° will shew two images of (say) a face 
-in which the right eye of the face appears on the proper 
-left side in the image (being opposite the right eye of 
-the real face), two dimmer ones in which right eye is in 
-its true place (Be^co^aveU). There will actually be a fifth 
-image at the angle, also 8e^co<j)av?j<i. (At 900 there would 
-be three images, and at 450 seven.) See Ganot's Physics, 
-516. Plato does not discuss " folding mirrors," nor, appar- 
-ently, Euclid or Ptolemy. The simplest change would be 
-to strike out apLarepois, and understand r. egcoOev /jl. of 
-the parts of the mirrors remote from the inner angle. The 
-case of the first -mentioned images is the normal one 
-of reflexion in a mirror, so no epithet is needed (as 
-api<TT€po<l>avel<;). See also p. II. 
+--- Kepler supplies the figure. See diagram at the end.
 
-It may readily be shewn, by drawing the figure, that all 
-the results stated in the text, and also the omitted case of 
-the image in the angle, follow from the law of reflexion at 
-equal angles. 
+Ch. 19. --- _The moon by that of the earth and of other bodies also._
 
-p. 29, ch. xvii. --- They observe that these images, etc. 
+τὴν δέ σελήνην ... (two gaps of about six cmm. in all). I have supplied the sense of the missing words from _Ar. de Caelo_, 2, 13, 293, 15 _b_: as τὴν δὲ σ. καὶ ἄλλων σωμάτων (or ἄλλων τε σωμάτων καὶ τῆς ἀντίχθονος).
 
-6aa<; 6p.6ae ^(apovvTe^ aljcovo-LV. qy. oaas ofMoae 'xcapelv 
-opoivres, u^tovGLv} _i. e._, They observe that all these images 
+_An eclipse of the sun is his conjunction with the shadow of the moon_ ...
 
+ἔκλειψίς ἐστιν ἡλίου σύνοδος σκιᾶς σελήνης ἧς τὴν ἔκλειψιν ...
 
-57 
+So the editions --- ἔκλειψιν is followed by a gap of four cmm. (eighteen letters) in E.
 
-meet in one point, _i. e._, the eye of the observer, and further, 
-etc. For ofxoa-e j^copelv, cp. tc3 cjmotI iravTa^ocre ^«poO^Tt, 
-p. 930 F. 
+W. refers to a passage of Cleomedes 2, 4, which contains a definition of a solar eclipse probably drawn from Poseidonius. He suggests σκιᾷ for σκιᾶς.
 
-p. 30. --- Kepler supplies the figure. See diagram at the end. 
+Bernardakis agrees as to this dative, but does not print it, and further suggests γῆς for ἧς (for his method of filling up the gaps, see his note).
 
-p. 32, ch. xix. --- The moon by that of the earth and of other 
-bodies also. 
+R. Kunze, in _Rhein. Mus._, vol. 64 (1909), p. 635, justifies the dative after σύνοδος from Platonic instances (_Polit._ 298 D and _Leg._ 12, 949 E): he gives at length the passage from Cleomedes, in which solar and lunar eclipses are contrasted: the former phenomenon is not αὐτοῦ τοῦ θεοῦ πάθος ἀλλὰ τῆς ἡμετέρας ὄψεως --- the moon blocks our vision, and so we do not see him --- whereas an eclipse of the moon is αὐτῆς τῆς θεοῦ πάθος, she plunges into the earth's shadow, and is obscured. The writer calls attention to the use of the Stoic word πάθος.
 
-tt)v Se a-ekrjvrjv .... (two gaps of about six cmm. in 
-all). I have supplied the sense of the missing words from 
-Ar. de Caelo, II, 13, 293, 156: as rrjv 8e o\ ical aWcov a-cofid- 
-rcov (or aXkaov re (KOfxarcov teal T77? avTi^dovosi). 
-
-An eclipse of the sun is his conjunction with the shadow 
-of the moon .... 
-
-€tc\6iyjrL$ 6(TTLV rjXiov avvoSos aiaas ae\r]V7]<i 779 rrjv 
-etcXeiyfnv .... 
-
-So the editions --- etcXeiyjriv is followed by a gap of 
-four cmm. (eighteen letters) in E. 
-
-W. refers to a passage of Cleomedes II, 4, which con- 
-tains a definition of a solar eclipse probably drawn from 
-Poseidonius. He suggests aicia for <r^a?. 
-
-Bernardakis agrees as to this dative, but does not print 
-it, and further suggests 7% for ^? (for his method of filling 
-up the gaps, see his note). 
-
-R. Kunze, in Rhein. Mns., vol. lxiv (1909), p. 635, 
-justifies the dative after avvoSos from Platonic instances 
-{Polit. 298 D and Leg. XII, 949 E) : he gives at length the 
-passage from Cleomedes, in which solar and lunar eclipses 
-are contrasted : the former phenomenon is not avrov rov 
-deov Trados aWa tt)? rf/jLerepas oyjreax; --- the moon blocks 
-our vision, and so we do not see him --- whereas an eclipse 
-of the moon is avrr)? r»}? deov TraOos, she plunges into the 
-earth's shadow, and is obscured. The writer calls attention 
-to the use of the Stoic word irdOo^. 
-
-The change of aicia into ovaa? in transcription does not 
-seem very probable, and though the point of the quotation 
-from Poseidonius is the argumentum ad hominem, grounded 
-on his use of the words aieta creXr;^? at all, it is unlikely 
-that he would have given so insipid a definition of a solar 
-eclipse as that it is " a concurrence of the sun with the 
-moon's shadow," a fact known to Anaxagoras. Nor is the 
-parenthesis introduced by yap, which doubtless formed 
-part of the definition quoted, accounted for. 
-
-
-53 
+The change of σκιᾷ into σκιᾶς in transcription does not seem very probable, and though the point of the quotation from Poseidonius is the _argumentum ad hominem_, grounded on his use of the words σκιὰ σελήνης at all, it is unlikely that he would have given so insipid a definition of a solar eclipse as that it is "a concurrence of the sun with the moon's shadow," a fact known to Anaxagoras. Nor is the parenthesis introduced by γὰρ, which doubtless formed part of the definition quoted, accounted for.
 
 According to my own record, E has oh, not 979. I 
 should not, however, wish to build upon this without 
