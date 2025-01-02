@@ -28,6 +28,10 @@
 
 ### [Select Passages.](#select-passages-1)
 
+# [Appendix.]()
+
+## [Scipio's Dream.]()
+
 ---
 
 "_De ces deux infinis de nature, en grandeur et en petitesse, l'homme en conçoit plus aysément celui de grandeur que celui de petitesse._" --- Pascal.
