@@ -6,7 +6,9 @@
 
 ### Formerly Fellow of New College, Oxford, and of Winchester College.
 
-## London, Simpkin and Co., Ltd., Stationers Hall Court. 1911.
+## London, 1911.
+
+### Simpkin and Co., Ltd., Stationers Hall Court.
 
 ---
 
