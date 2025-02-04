@@ -258,33 +258,115 @@
 
 *) Non puto, ipsa illa verba formulam constituisse, sed ea Plutarchi esse, et legi oportere ὅπως αἴσιμα --- Formula cantici ipsa videtur Μάνερως, Μάνερως fuisse, aut Μανέρωτι. _Reiske._
 
+*) f. τοῦτο γὰρ τὸ Μανέρωτι εὐφραινομένους ἀναφωνεῖν. Salmasius τοῦτο μὲν γὰρ τῷ Μ. correxit. _Reiske._
+
+*) Non ausim περὶ Ὄσιριν urgere, quamuis ita sit usitatius. _Reiske._
+
+*) οἰόμενοι. _sed existimantes, se oportere adhortari convivas._ in παρακαλεῖν subauditur δεῖν. Nominatiuus ille οἰόμενοι cohaeret cum ἐπεισάγουσι v. 7. _Reiske._
+
+*) f. ἐσομένους, τοῦ ἱλαροῦ χάριν, _laetitiae gratia._ _Reiske._
+
 ### 18.
 
 τῆς δὲ Ἴσιδος πρὸς τὸν υἱὸν Ὧρον ἐν Βούτῳ τρεφόμενον πορευθείσης, τὸ δ' ἀγγεῖον ἐκποδὼν ἀποθεμένης, Τυφῶνα κυνηγετοῦντα νύκτωρ πρὸς τὴν σελήνην ἐντυχεῖν αὐτῷ, καὶ τὸ σῶμα γνωρίσαντα διελεῖν εἰς τεσσαρεσκαίδεκα μέρη, καὶ διαῤῥίψαι · τὴν δ' Ἶσιν πυθομένην ἀναζητεῖν ἐν βάριδι παπυρίνῃ, τὰ δὲ ἕλη διεκπλέουσαν. ὅθεν οὐκ ἀδικεῖσθαι τοὺς ἐν παπυρίνοις σκάφεσι πλέοντας ὑπὸ τῶν κροκοδείλων, ἢ φοβουμένων, ἢ σεβομένων διὰ* τὴν θεόν. ἐκ τούτου δὲ καὶ πολλοὺς τάφους Ὀσίριδος ἐν Αἰγύπτῳ λέγεσθαι διὰ τὸ προστυγχάνουσαν ἑκάστῳ μέρει ταφὰς ποιεῖν. οἱ δὲ οὔ φασιν · ἀλλὰ εἴδωλα ποιουμένην διδόναι* καθ' ἑκάστην πόλιν, ὡς τὸ σῶμα διδοῦσαν · ὅπως παρὰ πλείοσιν ἔχῃ τιμάς · κᾂν ὁ Τυφὼν ἐπικρατήσῃ, τοῦ Ὥρου τὸν ἀληθινὸν τάφον ζητῶν, πολλῶν λεγομένων καὶ δεικνυμένων ἀπαγορεύσῃ. μόνον δὲ τῶν μερῶν τοῦ Ὀσίριδος τὴν Ἶσιν οὐχ εὑρεῖν τὸ αἰδοῖον · εὐθὺς γὰρ εἰς τὸν ποταμὸν ῥιφῆναι, καὶ γεύσασθαι τόν τε λεπιδωτὸν αὐτοῦ καὶ τὸν φάγρον καὶ τὸν ὀξύρυγχον, ὡς* οὓς μάλιστα τῶν ἰχθύων ἀφοσιοῦσθαι. τὴν δ' Ἶσιν ἀντ' ἐκείνου μίμημα ποιησαμένην καθιερῶσαι τὸν φαλλὸν, ᾧ καὶ νῦν ἑορτάζειν τοὺς Αἰγυπτίους.
+
+*) διὰ] f. δὴ, aut δῆθεν. _Reiske._
+
+*) Conieceram quoque διαδοῦναι, ut Marklandus. _Reiske._
+
+*) Si ὡς prorsus perire nolis, possis legere οὓς ὡς μάλιστα --- illud ὡς ibi idem est, atque ὅτι, et Latinorum _quam. quam maxime._ sed ἀφοσιοῦνται necesse est. Salmasius ὡς οἱ μάλιστα correxit. _Reiske._
 
 ### 19.
 
 ἔπειτα τῷ Ὥρῳ τὸν Ὄσιριν ἐξ ᾅδου παραγενόμενον διαπομένειν* ἐπὶ τὴν μάχην καὶ ἀσκεῖν. εἶτα διερωτῆσαι, τί κάλλιστον ἡγεῖται. τοῦ δὲ φήσαντος τῷ πατρὶ καὶ τῇ μητρὶ τιμωρεῖν κακῶς παθοῦσιν, δεύτερον ἐρέσθαι, τί χρησιμώτερον οἴεται ζῶον εἰς μάχην ἐξιοῦσι. τοῦ δ' Ὥρου ἵππον εἰπόντος, ἐπιθαυμάσαι καὶ διαπορῆσαι, πῶς οὐ λέοντα μᾶλλον, ἀλλ' ἵππον. εἰπεῖν οὖν τὸν Ὧρον, ὡς λέων μὲν ὠφέλιμον ἐπιδεομένῳ βοηθείας, ἵππος δὲ φεύγοντα διασπάσαι καὶ καταναλῶσαι τὸν πολέμιον.* ἀκούσαντα οὖν ἡσθῆναι τὸν Ὄσιριν, ὡς ἱκανῶς παρασκευασαμένου τοῦ Ὥρου. λέγεται δὲ, ὅτι πολλῶν μετατιθεμένων ἀεὶ πρὸς τὸν Ὧρον, καὶ ἡ παλλακὴ τοῦ Τυφῶνος ἀφίκετο Θούηρις. ὄφις δέ τις ἐπιδιώκων αὐτὴν ὑπὸ τῶν περὶ τὸν Ὧρον κατεκόπη, καὶ νῦν διὰ τοῦτο σχοινίον τι προσβαλόντες εἰς μέσον κατακόπτουσι. τὴν μὲν οὖν μάχην ἐπὶ πολλὰς ἡμέρας γενέσθαι καὶ κρατῆσαι τὸν Ὧρον, τὸν Τυφῶνα δὲ τὴν Ἶσιν δεδεμένον παραλαβοῦσαν, οὐκ ἀνελεῖν, ἀλλὰ καὶ λῦσαι καὶ μεθεῖναι · τὸν δὲ Ὧρον οὐ μετρίως ἐνεγκεῖν, ἀλλ' ἐπιβαλόντα τῇ μητρὶ τὰς χεῖρας ἀποσπάσαι τῆς κεφαλῆς τὸ βασίλειον* · Ἑρμῆν δὲ περιθεῖναι βούκρανον αὐτῇ κράνος. τοῦ δὲ Τυφῶνος δίκην τῷ Ὥρῳ νοθείας λαχόντος, βοηθήσαντος δὲ* τοῦ Ἑρμοῦ, καὶ* τὸν Ὧρον ὑπὸ τῶν θεῶν γνήσιον κριθῆναι, τὸν δὲ Τυφῶνα δυσὶν ἄλλαις μάχαις καταπολεμωθῆναι. τὴν δ' Ἶσιν μετὰ τὴν τελευτὴν ἐξ Ὀσιριδος* συγγενομένου, τεκεῖν ἠλιτόμηνον καὶ ἀσθενῆ τοῖς κάτωθεν γυίοις τὸν Ἁρποκράτην.*
 
+*) διαῤῥωννύειν correxit Salmasius. _Reiske._
+
+*) f. βοηθείας, διασπᾶσαι καὶ καταναλῶσαι τὸν πόλεμον, ἵππος δὲ φεύγοντα καταλαβεῖν. ἀκούσαντα οὖν --- _Reiske._
+
+*) βασίλειον] _coronam._ v. du Cange Glossar. Gr. v. βασίλειον et Lat. v. _Regnum_, et Wesseling ad Diodor. Sic. T. 1. p. 57, 31. Horapollo 1, 2. παντὶ θηλυκῷ ζωδίῳ οἱ Αἰγύπτιοι γῦπα ὥσπερ βασίλειον ἐπιτιθέασι. _omni figurae foemineae vulturem Aegyptii velut coronam in caput imponunt._ quem locum non recte interpp. ceperunt. _Reiske._
+
+*) δὲ delend. _Reiske._
+
+*) καὶ pariter. _Reiske._
+
+*) Ἶσιν ἐξ Ὀσίριδος μετὰ τὴν τελευτὴν συγγενομένου. _Reiske._
+
+*) Ἀρποκράτην] Scribendum esse Harpocratem adspirate, constat plurimorum scriptorum testimoniis, quae cum in commentario Giraldiano de diis gentium accuratissimo iuxta atque utilissimo congesta sint: et absque eo sint, res ipsa hoc commonstrare videatur, infraque recte sit scriptum: hoc tamen obiter annotandum duxi, sicut haec vox perperam leni initio, ita ἡλιτόμηνον et iam in Aldino aspero male scriptum esse. Giraldus Helitomenum quendam, Harpocratis fratrem, commentus est errore (quod non exprobrandi, sed me longe inferiorem excusandi, ubi talia admisi, gratia relatum intelligi volo) in tantum virum, quem cadere posse nunquam, nisi exemplo doctus, crederem. Politianus epigramma Lucilii in malum mendicum, ubi Amphicrates pro Harpocrate legitur, et exstat etiamnum vox prava, li. 2. ἀνθολογ. recte hinc emendavit, quod ab eo non expressum, fideliter annotavit Brodaeus: idem Politianus ἠλιτόμηνον apposite vertit, _praematuro partu natum._ Miscel. 83. Nos quoque pueri istorum omnium nescii, tamen haud inepte eam vocem in Thryphiodoro nostro convertimus. 544. Nec dum perfectam prolem: ἔτυμον secuti, quod apud Eustat. multo post tempore offendimus in Iliad. τ. Est enim ἠλιτόμηνος, ὅστις ἢλιτε, id est, ἀπέτυχε καὶ ἥμαρτε τῶν συνήθων τοῦ τοκετοῦ ἐννέα μηνῶν. Sed haec in re plana abunde. Sequitur post haec verba hyperbaton mirificum, et quod distingui, ita ut fieret perspicuum, diffidebam posse. _Xylander._
+
 ### 20.
 
 ταῦτα σχεδόν ἐστι τοῦ μύθου τὰ κεφάλαια, τῶν δυσφημοτάτων ἐξαιρεθέντων · οἷόν ἐστι τὸ περὶ τὸν Ὥρου* διαμελισμὸν καὶ τὸν Ἴσιδος ἀποκεφαλισμόν. ὅτι μὲν οὖν εἰ ταῦτα περὶ τῆς μακαρίας καὶ ἀφθάρτου φύσεως, καθ' ἣν μάλιστα νοεῖται τὸ θεῖον, ὡς ἀληθῶς πραχθέντα καὶ συμπεσόντα δοξάζουσι καὶ λέγουσιν, ἀποπτύσαι δεῖ καὶ καθῄρασθαι τὸ* στόμα κατ' Αἰσχύλον, οὐδὲν δεῖ λέγειν πρὸς σε. καὶ γὰρ αὐτὴ* δυσκολαίνεις τοῖς οὕτω παρανόμους καὶ βαρβάρους δόξας περὶ θεῶν ἔχουσιν · ὅτι δ' οὐκ ἔοικε ταῦτα κομιδῆ μυθεύμασιν ἀραιοῖς καὶ διακένοις πλάσμασιν, οἷα ποιηταὶ καὶ λογογράφοι, καθάπερ οἱ ἀράχναι, γεννῶντες ἀφ' ἑαυτῶν ἀπἀρχὰς ἀνυποθέτους ὑφαίνουσι καὶ ἀποτείνουσιν, ἀλλ' ἔχειν τινὰς ἀπορίας* καὶ παθῶν διηγήσεις αὐτῇ.* καὶ καθάπερ οἱ μαθηματικοὶ τὴν ἶριν ἔμφασιν εἶναι τοῦ ἡλίου λέγουσι ποικιλλομένην τῇ πρὸς τὸ νέφος ἀναχωρήσει* τῆς ὄψεως, οὕτως ὁ μῦθος ἐνταῦθα λόγου τινὸς ἔμφασίς ἐστιν ἀνακλῶντος ἐπ' ἄλλα τὴν διάνοιαν, ὡς ὑποδηλοῦσιν αἵ τε θυσίαι τὸ πένθιμον ἔχουσαι καὶ σκυθρωπὸν ἐμφαινόμενον, αἵ τε τῶν ναῶν διαθέσεις, πῆ μὲν ἀνειμένων εἰς πτερὰ καὶ δρόμους ὑπαιθρίους καὶ καθαρούς, πῆ δὲ κρυπτὰ καὶ σκότια κατὰ γῆς ἐχόντων στολιστήρια Θηβαίοις ἐοικότα* καὶ σηκοῖς · οὐχ ἥκιστα δὲ ἡ τῶν Ὀσιρείων* δόξα, πολλαχοῦ* κεῖσθαι λεγομένου τοῦ σώματος. Ἄβυδον ἴσως, ἢ* Μέμφιν, ὀνομάζεσθαι πολίχνην λέγουσιν, ὡς μόνην τὸ ἀληθινὸν ἔχουσαν, ἔν τε Ἀβύδῳ τοὺς εὐδαίμονας τῶν Αἰγυπτίων καὶ δυνατοὺς μάλιστα θάπτεσθαι φιλοτιμουμένους* ὁμοτάφους εἶναι τοῦ σώματος Ὀσίριδος. ἐν δὲ Μέμφει τρέφεσθαι τὸν Ἆπιν, εἴδωλον ὄντα τῆς ἐκείνου ψυχῆς, ὅπου καὶ τὸ σῶμα κεῖσθαι. καὶ τὴν μὲν πόλιν οἱ μὲν Ὅρμον ἀγαθῶν ἑρμηνεύουσιν, οἱ δ'* ὡς τάφον Ὀσίριδος. τὴν δὲ πρὸς πύλαῖς Νιστιτάνην* ἄλλως μὲν ἄβατον ἅπασι καὶ ἀπροσπέλαστον εἶναι, καὶ μηδ' ὄρνιθας ἐπ' αὐτὴν καρτερεῖν,* μηδὲ ἰχθῦς προσπελάζειν, ἑνὶ δὲ καιρῷ τοὺς ἱερεῖς διαβαίνοντας ἐναγίζειν καὶ καταστέφειν τὸ σῆμα μηθίδης φυτῷ περισκιαζόμενον, ὑπεραίροντι πάσης ἐλαίας μέγεθος.
+
+*) Ὥρου] imo vero Ὀσίριδος. _Reiske._
+
+*) τὸ delend. _Reiske._
+
+*) Nescio, quid sibi voluerit Squirius cum sua scriptione αὑτὴ, et cum notula sua: _Olim αὐτὴ male exstabat._ imo vero id rectum erat et servari debebat. _Reiske._
+
+*) f. τινὰς ἱστορίας. _Reiske._
+
+*) f. αὐτὴ οἶσθα. _Reiske._
+
+*) f. ἀνακλάσει. _Reiske._
+
+*) Θηβαίοις ἐοικότα] Θηβαίοις non puto esse integrum. στολιστήρια quidem _cellulas_ accipio, aut _sacella_, imagunculis aliisue id genus rebus consecratis in operto abstrudendis facta. forte θήκαις scriptum ab auctore, aut θηλάκοις, aut θησαυροῖς, quales erant apud Delphos. _Xylander._ στολιστήρια sunt cellae in penetralibus, ubi sacerdotes se lavabant et vestes mutabant, it. numina sua ἐστόλιζον, vestiebant. Pro Θηβαίοις lego ἐφηβείοις. erant autem ἐφηβεῖα loca, ubi puberes ungebantur in palaestris et vestes ponebant. quare omnibus illuc aditus non patebat. Salmasius Θήβαις correxit. _Reiske._
+
+*) Ὀσιρεῖα sunt templa et monumenta, seu tumuli Osiridis. neque in eo vocab. vitium haeret. _Reiske._
+
+*) δόξα. πολλαχοῦ γὰρ κεῖσθαι. _Reiske._
+
+*) Ἄβυδον ὅμως καὶ Μ. sed Memphim πολίχνην appellari, haud aequo animo fero. Mallem quoque ἴσχυσεν pro λέγουσιν. _Reiske._
+
+*) Salmasius φιλοτιμούμενος correxit. _Reiske._
+
+*) Post οἱ δὲ deest aliquid. _Reiske._
+
+*) τὴν δὲ πρὸς πύλαις νησίδα, τὴν] Corrector ita, cum in Aldino sit, τ. δ. π. νιστιτάνην. nescio, an nimis audacter. Certe τὴν illud hac ratione abundaverit. Sed et quid plantae sit μηθίδη, non facile credo invenias. _Xylander._
+
+*) ἐπ' αὐτὴν καταίρειν. de v. καταίρειν, _descendere, appellere_, v. Hemsterhus. ad Lucian. T. 1. p. 83. _Reiske._
 
 ### 21.
 
 Εὔδοξος δὲ, πολλῶν τάφων ἐν Αἰγύπτῳ λεγομένων, ἐν Βουσίριδι τὸ σῶμα κεῖσθαι. καὶ γὰρ πατρίδα ταύτην γεγονέναι τοῦ Ὀσίριδος. οὐκέτι μέντοι λόγου δεῖσθαι τὴν Ταφόσιριν · αὐτὸ γὰρ φράζειν τοὔνομα ταφὴν Ὀσίριδος. αἰνῶν δὲ τομὴν ξύλου καὶ σχίσιν λίνου, καὶ χοὰς χεομένας, διὰ τὸ πολλὰ τῶν μυστικῶν ἀναμεμίχθαι τούτοις. οὐ μόνον δὲ τούτων οἱ ἱερεῖς λέγουσιν, ἀλλὰ καὶ τῶν ἄλλων θεῶν, ὅσοι μὴ ἀγέννητοι, μηδ' ἄφθαρτοι, τὰ μὲν σώματα παρ' αὐτοῖς κεῖσθαι καμόντα καὶ θεραπεύεσθαι, τὰς δὲ ψυχὰς ἐν οὐρανῷ λάμπειν ἄστρα, καὶ καλεῖσθαι κύνα μὲν τὴν Ἴσιδος ὑφ' Ἑλλήνων, ὑπ' Αἰγυπτίων δὲ Σῶθιν, Ὠρίωνα δὲ τὸν Ὦρον, τὴν δὲ Τυφῶνος, ἄρκτον. εἰς δὲ τὰς γραφὰς* τῶν τιμωμένων ζώων, τοὺς μὲν ἄλλους συντεταγμένα τελεῖν, μόνους δὲ μὴ διδόναι τοὺς Θηβαΐδα κατοικοῦντας, ὡς θνητὸν θεὸν οὐδένα νομίζοντας, ἀλλὰ ὃν καλοῦσιν αὐτοὶ κνηφαγένητον ὄντα* καὶ ἀθάνατον.
 
+*) γραφὰς] mallem ταφὰς. quod confirmatur ab iis, quae v. 6. leguntur. Et sic quoque coniecerat Salmasius. _Reiske._
+
+*) Κνὴφ ἀγέννητον ὄντα legendum est, cum confuse legatur κνηφαγέννητον. Κνὴφ vocatum fuisse ab Aegyptiis Deum, quem opificem putarent, exstat locus citatus ex Plutarcho (nisi fallor) apud Eusebium προπαρ. lib. γ. fol. 69. Ante pro γραφὰς legi τροφὰς. _Xylander._
+
 ### 22.
 
 πολλῶν δὲ τοιούτων λεγομένων καὶ δεικνυμένων, οἱ μὲν οἰόμενοι βασιλέων ταῦτα καὶ τυράννων δι' ἀρετὴν ὑπερφέρουσαν ἢ δύναμιν, ἀξίωμα τῇ δόξῃ* θεότητος ἐπιγραψαμένων, εἶτα χρησαμένων τύχαις* ἔργα καὶ πάθη δεινὰ καὶ μεγάλα διαμνημονεύεσθαι, ῥᾴστῃ μὲν ἀποδράσει τοῦ λόγου χρῶνται, καὶ τὸ δύσφημον οὐ φαύλως ἀπὸ τῶν θεῶν ἐπ' ἀνθρώπους μεταφέρουσι, καὶ ταύτας* ἔχουσιν ἀπὸ τῶν ἱστορουμένων βοηθείας. ἱστοροῦσι γὰρ Αἰγύπτιοι τὸν μὲν Ἑρμῆν τῷ σώματι γενέσθαι γαλιάγκωνα,* τὸν δὲ Τυφῶνα τῇ χρόᾳ πυῤῥὸν, λευκὸν δὲ τὸν Ὦρον,* καὶ μελάγχρουν τὸν Ὄσιριν, ὡς τῇ φύσει γεγονότας ἀνθρώπους. ἔτι δὲ καὶ στρατηγὸν ὀνομάζουσιν Ὄσιριν, καὶ κυβερνήτην Κάνωβον, οὗ φασιν ἐπώνυμον γεγονέναι τὸν ἀστέρα · καὶ τὸ πλοῖον, ὃ καλοῦσιν Ἕλληνες Ἀργὼ, τῆς Ὀσίριδος νεὼς εἴδωλον ἐπὶ τιμῇ κατηστερισμένον, οὐ μακρὰν φέρεσθαι τοῦ Ὠρίωνος καὶ τοῦ Κυνὸς, ὧν τὸ μὲν Ὥρου, τὸ δὲ* Ἴσιδος ἱερὸν, Αἰγύπτιοι νομίζουσιν.
+
+*) f. δύναμιν, ἢ ἀξίωμα, δόξαν θεότητος. _Reiske._
+
+*) τύχαις] Hic de sola adversa fortuna debet intelligi et sensu malo accipi. _Reiske._
+
+*) f. καὶ πρὸς ταῦτα ἔχουσιν. _Reiske._
+
+*) γαλιάγκωνα] Apud Eusebium haec verba perstringentem est γαλκάγκωνα. Apud Galenum etiam, qui in Hippocratis glossematis vocem hanc reponit, legitur, ut nos habemus, quanquam παρὰ τὴν γαλῆν deducat. Eadem scriptura est in Hesychii lexico, et Varini. Cogitavi aliquando, βαλιάγκωνα scribendum esse, ut sit _varieg to_, seu _versicolore cubito insignis_: sic enim epitheta omnia haec consimilia videbantur fore. et cum Pythagoras atque Homerus femore, hic piloso, ille aureo, Pelops humero eburno esset notus, videbatur id quoque non absurdum. Sed Lexicis inspectis, acquievi: somnio duntaxat meo indicato. In libello de curiositate γαλεαγκὼν legitur. _Xylander._
+
+*) Ὦρον] In loco Eusebii in not. ad h. l. exhibito pro Ἄρην leg. est Ἆπιν. _Reiske._
+
+*) τὸν μὲν et τὸν δὲ. _Reiske._
 
 ### 23.
 
 ὀκνῶ δὲ, μὴ τοῦτο ᾖ τὰ ἀκίνητα κινεῖν, καὶ πολεμεῖν ἐν* τῷ πολλῷ χρόνῴ, κατὰ Σιμωνίδην, μόνον, πολλοῖς δ' ἀνθρώπων ἔθνεσί καὶ γένεσι κατόχοις ὑπὸ τῆς πρὸς τοὺς θεοὺς τούτους ὁσιότητος οὐδὲν ἀπολιπόντας, ἐξ οὐρανοῦ μεταφέρειν ἐπὶ γῆν ὀνόματα τηλικαῦτα, καὶ τιμὴν καὶ πίστιν ὀλίγου δεῖν ἅπασιν ἐκ πρώτης γενέσεως ἐνδεδυκυῖαν ἐξιστάναι καὶ ἀναλύειν, μεγάλας μὲν τῷ ἀθέῳ λεῷ κλισιάδας ἀνοίγοντας καὶ ἐξανθρωπίζοντι τὰ θεῖα, λαμπραν δὲ τοῖς Εὐημέρου τοῦ Μεσσηνίου φενακισμοῖς παῤῥησίαν διδόντας, ὃς αὐτὸς ἀντίγραφα συνθεὶς ἀπίστου καὶ ἀνυπάρκτου μυθολογίας, πᾶσαν ἀθεότητα κατασκεδάννυσι τῆς οἰκουμένης, τοὺς νομιζομένους θεοὺς πάντας ὁμαλῶς διαγράφων,* εἰς ὄνομα στρατηγῶν καὶ ναυάρχων καὶ βασιλέων, ὡς δὴ πάλαι γεγονότων. ἐν δὲ Πάγχοντι γράμμασι χρυσοῖς ἀναγεγραμμένοις,* εἷς οὔτε βάρβαρος οὐδεὶς, οὔτε Ἕλλην, ἀλλὰ μόνος Εὐήμερος, ὡς ἔοικε, πλεύσας εἰς τοὺς μηδαμόθι γῆς γεγονότας, μηδὲ ὄντας Παγχώους καὶ Τριφύλλους, ἐντετυχήκει.*
 
+*) Ex ἐν efficio μὲν. quo admisso, μόνον erit delend. si οὐ μόνον [quod aliae editt. exhibent] teneas, in sequentibus impedita erit oratio. Salmasius tamen etiam οὐ restituerat. _Reiske._
+
+*) Nihil reperio, quare διαγράφων damnari debeat. _Reiske._
+
+*) Legitur Πάγχοντι et ἀναγεγραμμένοις, et τριφύλλους. emendo Παγχαίᾳ, ἀναγεγραμμένων, Παγχαίων, τριφυλίους. mea emendatio, siquidem nulla vocabula detrita sunt, est legitima. Apud Euseb. προπαρασκ. εὐαγγ. lib. 2. citatur locus e sexto bibliothecae Diodori, qui eam optime confirmet, pag. 38. Idem Diod. lib. 5. qui est de insulis, Panchaeam et Triphylii Iovis fanum copiose describit. Apud Strabonem libro 7. cum Riphaeis montibus et aliis fabulosis locis mentio fit etiam Παγχαίας γῆς (mendose legitur Παγχίαν.) cuius apud Euemerum fiat mentio. Huius Euemeri (si Euhemerus mavis, non repugno) non profani modo scriptores, ut Tullius prope finem Primi de natura Deorum, Macrobius et alii meminerunt, sed et sacri: August. ad Maximum epistola 44. et de civitate Dei lib. 6. cap. 7. Lactantius libro 1. cap. 11. _Antiquus_ (inquit) _auctor Euhemerus, qui fuit ex civitate Messana, res gestas Iovis et caeterorum, historiamque contexuit ex titulis et inscriptionibus sacris, quae in antiquissimis templis habebantur, maximeque Iovis Triphylii_, etc. Idem copiosius apud Euseb. Diodorus, qui eum Cassandri regis familiarem perhibet, itidem ut Lactantius post eum Messanae natum. Meminit et Strabo lib. 1. ac 7. Euemeri Messenii, ut nugacis scriptoris. Clemens Alexandrinus προτρεπτικῷ Euemerum, hunc, ut puto, inter ἀθέους numerans, Agrigentinum facit, noster de placitis Philosophorum l. 7. Tegeatam. et θείου ἀναγραφὴ apud Athenaeum lib. 14. citatur Euhemeri Coi. quod obiter duxi annotandum. Paulo post cum ἐξαιρεθέντες aperto mendo legeretur, ἐξαρθέντες non dubitavi legere. _Xylander._ ἀναγεγραμμένων leg. esse, videram ipse quoque, et ante meque Squiriumque Salmasius et Wesseling ad Diodor. Sicul. T. 1. p. 364. ubi locum hunc emendatius exhibuit et exposuit. Salmasius tamen praeter ἀναγεγραμμένων etiam ἀναγεγραμμένου coniecerat. Pro Πάγχοντι f. leg. Ταγχοῦντι. Wesseling Παγχαίᾳ suadet. _Reiske._
+
+*) ἐντετύχηκε. _Reiske._
+
 ### 24.
 
 καίτοι μεγάλαι μὲν ὑμνοῦνται πράξεις ἐν Ἀσσυρίοις, Σεμιράμιος · μεγάλαι δὲ αἱ Σεσώστριος ἐν Αἰγύπτῳ · Φρύγες δὲ μέχρι νῦν τὰ λαμπρὰ καὶ θαυμαστὰ τῶν ἔργων, Μανικὰ καλοῦσι, διὰ τὸ Μάνιν* τινὰ τῶν πάλαι βασιλέων ἀγαθὸν ἄνδρα καὶ δυνατὸν γενέσθαι παρ' αὐτοῖς, ὃν ἔνιοι Μάσδην καλοῦσι. Κῦρος δὲ Πέρσας, Μακεδόνας δὲ Ἀλέξανδρος, ὀλίγου δεῖν ἐπὶ πέρας τῆς γῆς κρατοῦντας προήγαγον, ἀλλὰ ὄνομα καὶ μνήμην βασιλέων ἀγαθῶν ἔχουσιν. εἰ δέ τινες ἐξαιρεθέντες ὑπὸ μεγαλαυχίας, ὥς φησιν ὁ Πλάτων, ἅμα νεότητι καὶ ἁγνίᾳ φλεγόμενοι τὴν ψυχὴν μεθ' ὕβρεως ἐδέξαντο θεῶν ἐπωνυμίας, καὶ ναῶν ἱδρύσεις, βραχὺν ἤνθησεν ἡ δόξα χρόνον, εἶτα κενότητα καὶ ἀλαζονείαν μετὰ ἀσεβείας καὶ παρανομίας προσόφλοντες, Ὠκύμοροι καπνοῖο δίκην ἀρθέντες ἀπέπταν. καὶ νῦν, ὥσπερ ἀγώγιμοι δραπέται, τῶν ἱερῶν καὶ τῶν βωμῶν ἀποσπασθέντες οὐδὲν ἄλλ' ἢ τὰ μνήματα καὶ τοὺς τάφους ἔχουσιν. ὅθεν Ἀντίγονος ὁ γέρων,* Ἑρμοδότου τινὸς ἐν ποιήμασιν αὐτὸν ἡλίου παῖδα καὶ θεὸν ἀναγορεύοντος · Οὐ τοιαῦτά μοι (εἶπεν) ὁ λασανοφόρος σύνοιδεν. εὖ δὲ καὶ Λύσιππος ὁ πλάστης Ἀπελλῆν ἐμέμψατο τὸν ζωγράφον, ὅτι τὴν Ἀλεξάνδρου γράφων εἰκόνα, κεραυνὸν ἐνεχείρισεν · αὐτὸς δὲ λόγχην, ἧς τὴν δόξαν οὐδὲ εἷς ἀφαιρήσεται χρόνος, ἀληθινὴν καὶ ἰδίαν οὖσαν.
+
+*) Salmasius Μάνην correxit. _Reiske._
 
 ### 25.
 
