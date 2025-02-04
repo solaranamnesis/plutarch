@@ -224,13 +224,39 @@
 
 *) κόλπον suspectum. sententia κόρμον, aut κλάδον, aut λόχμην, aut κόμην, flagitat. forte dedit auctor τοὺς περιέχοντας τ. σ. οὐχ ὁρ. κλάδους. Salmasius quoque κόρμον correxerat. _Reiske._
 
+*) ἰδούσης τῆς βασιλίδος potest defendi, et magna copia similium locum afferri. quod si teneatur, debet deinceps αὐτῇ subaudiri. Mollius tamen flueret oratio, si aut ἰδούσῃ δὲ τῇ βασιλίδι, et caetera, ut iacent, aut ἰδοῦσαν δὲ τὴν βασιλίδα τὰς θεραπαινίδας, εἰς ἵμερον ἐμπεσεῖν.] etiam Salmasius εἰς ἵμερον correxit. _Reiske._
+
+*) Post τριχῶν deest aliquid, e. c. εὖ διακειμένων, aut κεκοσμημένων, aut ἐντέχνως διαπεπλεγμένων, vel simile quid. _Reiske._
+
+*) αὐτῇ. _Reiske._
+
+*) Salmasius etiam Ἀστάρτην correxit. _Reiske._
+
+*) Post Νεμανοῦν punctum collocandum, et, deletis parentheseos signis, leg. προσείποιεν. _Reiske._
+
 ### 16.
 
 τρέφειν δὲ τὴν Ἶσιν, ἀντὶ μαστοῦ τὸν δάκτυλον εἰς τὸ στόμα τοῦ παιδίου διδοῦσαν,* νύκτωρ δὲ περικαίειν τὰ θνητὰ τοῦ σώματος. αὐτὴν δὲ γενομένην χελιδόνα τῇ κίονι περιπέτεσθαι καὶ θρηνεῖν, ἄχρις οὗ τὴν βασίλισσαν παραφυλάξασαν καὶ ἐγκραγοῦσαν ὡς εἶδε περικαιόμενον τὸ βρέφος, ἀφελέσθαι τὴν ἀθανασίαν αὐτοῦ. τὴν δὲ θεὰν φανερὰν γενομένην αἰτήσασθαι τὴν κίονα τῆς στέγης · ὑφελοῦσαν δὲ ῥᾷστα περικόψαι τὴν ἐρίκην, εἶτα ταύτην μὲν ὀθόνῃ περικαλύψασαν, καὶ μύρον καταχεαμένην, ἐγχειρίσαι τοῖς βασιλεῦσι, καὶ νῦν ἔτι σέβεσθαι Βυβλίους τὸ ξύλον ἐν ἱερῷ κείμενον Ἴσιδος. τῇ δὲ σορῷ περιπεσεῖν, καὶ κωκῦσαι τηλικοῦτον, ὥστε τῶν παίδων τοῦ βασιλέως τὸν νεώτερον ἐνθανεῖν,* τὸν δὲ πρεσβύτερον μεθ' ἑαυτῆς ἔχουσαν καὶ τὴν σορὸν εἰς πλοῖον ἐνθεμένην ἀναχθῆναι. τοῦ δὲ Φαίδρου ποταμοῦ πνεῦμα τραχύτερον ἐκτρέψαντος* ὑπὸ τὴν ἕω, θυμωθεῖσαν ἀναξηρᾶναι τὸ ῥεῖθρον.
 
+*) f. ἐνδιδοῦσαν. _Reiske._
+
+*) ἐνθανεῖν si bene habet, significat ἐν τῷ κωκυτῷ θανεῖν, _interea tum ea eiularet, exspirasse_. mallem tamen ἐκθανεῖν. id certe usitatum in ea re. _Reiske._
+
+*) ἐκθρέψαντος. ex Aldo. est enim rectius, quam ἐκτρέψαντος. Item pro Astarta habet Aspartam vitiose, quod ex Eusebio, Suida, et aliis, nostroque Cedreno liquet, ne quis vocem in libris Regum sacris depravatam putet. Est enim Astarta Venus. _Xylander._ Non placet vulgata, neque Stephanina. forte dedit auctor ἐκστρέψαντος, aut ἐκρίψαντος. prius si dedit, possit videri ad ventum ex imo fundo fluvii extus eversum, tanquam si pars vestis interior extra vertitur, respexisse. _Reiske._
+
 ### 17.
 
 ὅπου δὲ πρῶτον ἐρημίας ἔτυχεν, αὐτὴν καθ' ἑαυτὴν γενομένην, ἀνοῖξαι τὴν λάρνακα, καὶ τῷ προσώπῳ τὸ πρόσωπον ἐπιθεῖσαν, ἀσπάσασθαι καὶ δακρύειν. τοῦ δὲ παιδίου σιωπῇ προσελθόντος ἐκ τῶν ὄπισθεν καὶ καταμανθάνοντος, αἰσθομένην μεταστραφῆναι καὶ δεινὸν ὑπὸ ὀργῆς ἐμβλέψαι. τὸ δὲ παιδίον* οὐκ ἀνασχέσθαι τὸ τάρβος, ἀλλὰ ἀποθανεῖν. οἱ δέ φασιν οὐχ οὕτως, ἀλλ' ὡς εἴρηται τρόπον* ἐκπεσεῖν εἰς τὴν θάλασσαν. ἔχει δὲ τιμὰς διὰ τὴν θεόν · ὃν γὰρ ᾄδουσιν Αἰγύπτιοι παρὰ τὰ συμπόσια Μανέρωτα, τοῦτον εἶναι. τινὲς δὲ τὸν μὲν παῖδα καλεῖσθαι Παλαιστινὸν, ἢ Πηλούσιον, καὶ τὴν πόλιν ἐπώνυμον ἀπ'* αὐτοῦ γενέσθαι, κτισθεῖσαν ὑπὸ τῆς θεοῦ · τὸν δ' ᾀδόμενον Μανέρωτα, πρῶτον εὑρεῖν μουσικὴν ἱστοροῦσιν. ἔνιοι δέ φασιν, ὄνομα μὲν οὐδενὸς εἶναι, διάλεκτον* δὲ πίνουσιν ἀνθρώποις καὶ θαλειάζουσι πρέπουσαν, αἴσιμα* τὰ τοιαῦτα παρείη. τούτῳ γὰρ τῷ Μανέρωτι φραζόμενον* ἀναφωνεῖν ἑκάστοτε τοὺς Αἰγυπτίους, ὥσπερ ἀμέλει καὶ τὸ δεικνύμενον αὐτοῖς εἴδωλον ἀνθρώπου τεθνηκότος ἐν κιβωτίῳ περιφερόμενον, οὐκ ἔστιν ὑπόμνημα τοῦ περὶ Ὀσίριδος* πάθους, ᾗ τινες ὑπολαμβάνουσιν, ἀλλ' οἰομένους* παρακαλεῖν αὑτοὺς χρῆσθαι τοῖς παροῦσι καὶ ἀπολαύειν, ὡς πάντας αὐτίκα μάλα τοιούτους ἐσομένους, οὗ χάριν* ἐπὶ κῶμον ἐπεισάγουσι.
+
+*) Posset παιδίον absque damno orationis abesse, et abesset cum elegantia. _Reiske._
+
+*) ὡς εἴρηται τρόπον] Aut ὃν pro ὡς, aut πρότερον pro τρόπον, legendum. Sed quod postea sequitur διάλεκτον, etc. παρείη, ac plura alia, vitio suo nostram coniecturam superant. _Xylander._ Ante, aut post εἴρηται videtur πρότερον, aut ἐν τοῖς ἂνω excidisse. _Reiske._
+
+*) ἀπὸ adesse, abesse pari iure potest. _Reiske._
+
+*) διάλεκτον] _formulam._ significatione rara, ideoque suspecta est ea lectio. sententia flagitat ᾠδὴν. _Reiske._
+
+*) Non puto, ipsa illa verba formulam constituisse, sed ea Plutarchi esse, et legi oportere ὅπως αἴσιμα --- Formula cantici ipsa videtur Μάνερως, Μάνερως fuisse, aut Μανέρωτι. _Reiske._
 
 ### 18.
 
